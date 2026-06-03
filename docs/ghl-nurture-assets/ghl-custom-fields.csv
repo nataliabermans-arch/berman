@@ -1,0 +1,17 @@
+Field Label,Field Key,Recommended Type,Website Source,Workflow Use
+Berman Website Lead Ticket ID,berman_website_lead_ticket_id,Single line,Generated ticketId,Staff task and lead traceability
+Berman Website Lead Source,berman_website_lead_source,Single line,Form source,Enrollment/source filtering
+Berman Website Lead Submitted At,berman_website_lead_submitted_at,Single line,Server timestamp,Staff task and audit trail
+Berman Website Lead Reasons,berman_website_lead_reasons,Multi-line,Selected reason labels,Staff task and internal context
+Berman Website Lead Reason Values,berman_website_lead_reason_values,Multi-line,Selected reason slugs,Conditional branch logic
+Berman Website Lead Issue Summary,berman_website_lead_issue_summary,Multi-line,Message field,Staff task and lead context
+Berman Website Preferred Contact,berman_website_preferred_contact,Single line,Preferred contact method,Staff task
+Berman Website Visit Type,berman_website_visit_type,Single line,In-person / virtual consult / either,Staff task and routing context
+Berman Website Preferred Window,berman_website_preferred_window,Single line,Legacy preferred window plus requested date/time,Backward compatibility
+Berman Website Requested Date,berman_website_requested_date,Single line,Preferred appointment date request,Staff task
+Berman Website Requested Time Window,berman_website_requested_time_window,Single line,Office-hours requested time window,Staff task
+Berman Website Form Acknowledgment,berman_website_form_acknowledgment,Single line,Required acknowledgment status,A2P/form audit
+Berman Website SMS Consent,berman_website_sms_consent,Single line,Optional SMS opt-in status,SMS workflow gate
+Berman Website SMS Consent Text,berman_website_sms_consent_text,Multi-line,Exact checkbox text,A2P audit
+Berman Website Source URL,berman_website_source_url,Single line,Submitting page URL,A2P/source audit
+Berman Website User Agent,berman_website_user_agent,Multi-line,Browser user agent,A2P/source audit

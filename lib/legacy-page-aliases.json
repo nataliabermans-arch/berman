@@ -1,0 +1,479 @@
+[
+  {
+    "path": "/about/wellness-center/",
+    "title": "The Berman Women's Wellness Center",
+    "description": "About Dr. Jennifer Berman and The Berman Women's Wellness Center in Beverly Hills.",
+    "type": "simple"
+  },
+  {
+    "path": "/addyi/",
+    "title": "Addyi for HSDD: FDA-Approved Low Libido Treatment for Women",
+    "description": "Care for low desire, arousal, and sexual wellness concerns with Dr. Jennifer Berman in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "sexual-health"
+  },
+  {
+    "path": "/bio-identical-hormone-expert/",
+    "title": "Bio-Identical Hormone Expert",
+    "description": "Bioidentical hormone therapy and menopause care with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "menopause-hormones"
+  },
+  {
+    "path": "/bio-identical-hormone-therapy/",
+    "title": "Bio-Identical Hormone Therapy",
+    "description": "Bioidentical hormone therapy and menopause care with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "menopause-hormones"
+  },
+  {
+    "path": "/aesthetic-treatments/",
+    "title": "Aesthetic Treatments",
+    "description": "Aesthetic and regenerative treatments at The Berman Women's Wellness Center in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "aesthetic-regenerative"
+  },
+  {
+    "path": "/blog/",
+    "title": "Blog",
+    "description": "Women's health articles from Dr. Jennifer Berman.",
+    "type": "blog"
+  },
+  {
+    "path": "/body-contouring/",
+    "title": "Body Contouring",
+    "description": "Body contouring and aesthetic body treatments in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "body-contouring"
+  },
+  {
+    "path": "/aviva/",
+    "title": "Aviva",
+    "description": "Vaginal rejuvenation and intimate wellness care with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "vaginal-rejuvenation"
+  },
+  {
+    "path": "/cbd-how-it-applies-to-female-sexual-health/",
+    "title": "CBD and Female Sexual Health",
+    "description": "Sexual health and intimate wellness care with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "sexual-health"
+  },
+  {
+    "path": "/cbd-oil/",
+    "title": "CBD Oil",
+    "description": "Sexual health and intimate wellness care with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "sexual-health"
+  },
+  {
+    "path": "/cbd-oil-and-sexual-health-benefits/",
+    "title": "CBD Oil and Sexual Health Benefits",
+    "description": "Sexual health and intimate wellness care with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "sexual-health"
+  },
+  {
+    "path": "/beautifill/",
+    "title": "Beautifill",
+    "description": "Body contouring and aesthetic care at The Berman Women's Wellness Center.",
+    "type": "service",
+    "serviceSlug": "body-contouring"
+  },
+  {
+    "path": "/conan/",
+    "title": "Dr. Berman Visits Conan as Resident Sex Expert",
+    "description": "Press and media coverage featuring Dr. Jennifer Berman.",
+    "type": "media"
+  },
+  {
+    "path": "/bioidentical-hormone-replacement-therapy/",
+    "title": "Bioidentical Hormone Replacement Therapy (BHRT) in Los Angeles & Beverly Hills",
+    "description": "Bioidentical hormone therapy and menopause care with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "menopause-hormones"
+  },
+  {
+    "path": "/low-libido/",
+    "title": "Low Libido",
+    "description": "Care for low desire, arousal, and sexual wellness concerns.",
+    "type": "service",
+    "serviceSlug": "sexual-health"
+  },
+  {
+    "path": "/biote-hormone-therapy/",
+    "title": "Biote Hormone Therapy",
+    "description": "Hormone therapy and menopause care for women in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "menopause-hormones"
+  },
+  {
+    "path": "/menopause-expert/",
+    "title": "Menopause Expert",
+    "description": "Menopause, perimenopause, HRT, and BHRT care in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "menopause-hormones"
+  },
+  {
+    "path": "/body-sculpting-fat-melting-cellulite-treatment/",
+    "title": "Body Sculpting, Fat Melting, Cellulite Treatment",
+    "description": "Body contouring and aesthetic body treatments in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "body-contouring"
+  },
+  {
+    "path": "/natural-alternative-hrt/",
+    "title": "Natural Alternative HRT",
+    "description": "Menopause, perimenopause, HRT, and BHRT care in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "menopause-hormones"
+  },
+  {
+    "path": "/carboxytherapy-vaginal-rejuvenation-treatment/",
+    "title": "Carboxytherapy Vaginal Rejuvenation Treatment",
+    "description": "Vaginal rejuvenation and intimate wellness care with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "vaginal-rejuvenation"
+  },
+  {
+    "path": "/customized-hormone-replacement-pellet-therapy/",
+    "title": "Customized Hormone Replacement Pellet Therapy",
+    "description": "Customized hormone replacement care and monitoring in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "menopause-hormones"
+  },
+  {
+    "path": "/customized-hormone-replacement-pellet-therapy-catered-specifically-for-transgender-individuals/",
+    "title": "Customized Hormone Replacement Pellet Therapy",
+    "description": "Customized hormone replacement care and monitoring in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "menopause-hormones"
+  },
+  {
+    "path": "/dr-jennifer-berman-home-2/",
+    "title": "Dr. Jennifer Berman Womens Wellness Center",
+    "description": "Physician-led women's wellness care in Beverly Hills with Dr. Jennifer Berman.",
+    "type": "simple"
+  },
+  {
+    "path": "/dr-jennifer-berman-womens-wellness/",
+    "title": "Dr. Jennifer Berman",
+    "description": "About Dr. Jennifer Berman and The Berman Women's Wellness Center.",
+    "type": "simple"
+  },
+  {
+    "path": "/elitone/",
+    "title": "Elitone",
+    "description": "Pelvic and urinary wellness care for bladder leakage and pelvic floor concerns.",
+    "type": "service",
+    "serviceSlug": "pelvic-urinary"
+  },
+  {
+    "path": "/emface/",
+    "title": "Emface",
+    "description": "Aesthetic and regenerative treatment options in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "aesthetic-regenerative"
+  },
+  {
+    "path": "/emfemme/",
+    "title": "Emfemme",
+    "description": "Non-surgical vaginal rejuvenation and intimate wellness care.",
+    "type": "service",
+    "serviceSlug": "vaginal-rejuvenation"
+  },
+  {
+    "path": "/emsculpt-neo/",
+    "title": "Emsculpt Neo in Beverly Hills: Build Muscle & Burn Fat",
+    "description": "Body contouring care in Beverly Hills with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "body-contouring"
+  },
+  {
+    "path": "/emsculpt/",
+    "title": "Emsculpt",
+    "description": "Body contouring care in Beverly Hills with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "body-contouring"
+  },
+  {
+    "path": "/emsella-treatment-for-incontinence/",
+    "title": "Emsella Incontinence Treatment: Stop Bladder Leaks Without Surgery",
+    "description": "Pelvic and urinary care for bladder leakage and incontinence concerns.",
+    "type": "service",
+    "serviceSlug": "pelvic-urinary"
+  },
+  {
+    "path": "/emtone/",
+    "title": "Emtone",
+    "description": "Body contouring and aesthetic body treatments in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "body-contouring"
+  },
+  {
+    "path": "/evolve/",
+    "title": "Evolve",
+    "description": "Body contouring care in Beverly Hills with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "body-contouring"
+  },
+  {
+    "path": "/evolve-body-contouring/",
+    "title": "Evolve Body Contouring",
+    "description": "Body contouring care in Beverly Hills with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "body-contouring"
+  },
+  {
+    "path": "/experts-guide-anti-ageing-treatment/",
+    "title": "Expert's Guide to Anti-Ageing Treatment",
+    "description": "Women's health and aesthetic care articles from Dr. Jennifer Berman.",
+    "type": "simple"
+  },
+  {
+    "path": "/facials/",
+    "title": "Facials",
+    "description": "Aesthetic and regenerative treatment options in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "aesthetic-regenerative"
+  },
+  {
+    "path": "/forma-v/",
+    "title": "Forma V: Non-Surgical Vaginal Rejuvenation in Beverly Hills",
+    "description": "Non-surgical vaginal rejuvenation and intimate wellness care.",
+    "type": "service",
+    "serviceSlug": "vaginal-rejuvenation"
+  },
+  {
+    "path": "/g-shot/",
+    "title": "G-Shot in Beverly Hills | Enhance Sensitivity & Sexual Pleasure",
+    "description": "Sexual health and intimate wellness care in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "sexual-health"
+  },
+  {
+    "path": "/hydrafacial-treatment/",
+    "title": "Hydrafacial Treatment",
+    "description": "Aesthetic and regenerative treatment options in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "aesthetic-regenerative"
+  },
+  {
+    "path": "/incontinence/",
+    "title": "Incontinence",
+    "description": "Pelvic and urinary care for bladder leakage and incontinence concerns.",
+    "type": "service",
+    "serviceSlug": "pelvic-urinary"
+  },
+  {
+    "path": "/labiaplasty/",
+    "title": "Labiaplasty",
+    "description": "Sexual health and intimate wellness care in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "sexual-health"
+  },
+  {
+    "path": "/low-libido-and-your-relationships/",
+    "title": "Low Libido",
+    "description": "Care for low desire, arousal, and sexual wellness concerns.",
+    "type": "service",
+    "serviceSlug": "sexual-health"
+  },
+  {
+    "path": "/mbt/",
+    "title": "Menopause Biotype Test Registration",
+    "description": "The Menopause Biotype test and precision menopause care with Dr. Jennifer Berman.",
+    "type": "biotype"
+  },
+  {
+    "path": "/media-update/",
+    "title": "Media Update",
+    "description": "Media, press, and television features from Dr. Jennifer Berman.",
+    "type": "media"
+  },
+  {
+    "path": "/media/",
+    "title": "Dr. Jennifer Berman in the Media",
+    "description": "Media, press, and television features from Dr. Jennifer Berman.",
+    "type": "media"
+  },
+  {
+    "path": "/media/dr-berman-featured-on-buzzfeed/",
+    "title": "Dr. Berman Featured on BuzzFeed",
+    "description": "Press and media coverage featuring Dr. Jennifer Berman.",
+    "type": "media"
+  },
+  {
+    "path": "/media/dr-berman-visits-conan-as-resident-sex-expert/",
+    "title": "Dr. Berman Visits Conan as Resident Sex Expert",
+    "description": "Press and media coverage featuring Dr. Jennifer Berman.",
+    "type": "media"
+  },
+  {
+    "path": "/media/dr-jennifer-berman-on-the-doctors-tv-show/",
+    "title": "Dr. Jennifer Berman On The Doctors TV Show",
+    "description": "Press and media coverage featuring Dr. Jennifer Berman.",
+    "type": "media"
+  },
+  {
+    "path": "/media/tips-of-the-day/",
+    "title": "Dr. Berman talks the tips and tricks every woman needs to know for optimal sexual, physical, and overall health",
+    "description": "Media, press, and educational features from Dr. Jennifer Berman.",
+    "type": "media"
+  },
+  {
+    "path": "/menopause/",
+    "title": "Menopause",
+    "description": "Menopause, perimenopause, HRT, and BHRT care in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "menopause-hormones"
+  },
+  {
+    "path": "/menopause-biotype/",
+    "title": "Menopause Biotype",
+    "description": "The Menopause Biotype test and precision menopause care with Dr. Jennifer Berman.",
+    "type": "biotype"
+  },
+  {
+    "path": "/menopause-perimenopause/",
+    "title": "Menopause & Perimenopause",
+    "description": "Menopause, perimenopause, HRT, and BHRT care in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "menopause-hormones"
+  },
+  {
+    "path": "/menopause-treatment/",
+    "title": "Menopause",
+    "description": "Menopause, perimenopause, HRT, and BHRT care in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "menopause-hormones"
+  },
+  {
+    "path": "/morpheus-8-v/",
+    "title": "Morpheus 8",
+    "description": "Vaginal rejuvenation and aesthetic regenerative care in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "vaginal-rejuvenation"
+  },
+  {
+    "path": "/o-shot-treatment-for-low-libido-in-females/",
+    "title": "O-Shot Treatment for Low Libido in Females",
+    "description": "Sexual health and intimate wellness care in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "sexual-health"
+  },
+  {
+    "path": "/o-shot/",
+    "title": "O-Shot",
+    "description": "Sexual health and intimate wellness care in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "sexual-health"
+  },
+  {
+    "path": "/perimenopause-menopause-solutions/",
+    "title": "Perimenopause Menopause Solutions",
+    "description": "Menopause, perimenopause, HRT, and BHRT care in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "menopause-hormones"
+  },
+  {
+    "path": "/press/",
+    "title": "Press",
+    "description": "Media, press, and television features from Dr. Jennifer Berman.",
+    "type": "media"
+  },
+  {
+    "path": "/privacy-policy/",
+    "title": "Privacy Policy",
+    "description": "How The Berman Women's Wellness Center collects, uses, and protects information.",
+    "type": "privacy"
+  },
+  {
+    "path": "/vaginal-dryness/",
+    "title": "Vaginal Dryness",
+    "description": "Vaginal dryness, sexual health, and intimate wellness care in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "vaginal-rejuvenation"
+  },
+  {
+    "path": "/virtual-consultation/",
+    "title": "Virtual Consultation",
+    "description": "Request a consultation with The Berman Women's Wellness Center.",
+    "type": "simple"
+  },
+  {
+    "path": "/sexual-health/",
+    "title": "Sexual Health",
+    "description": "Sexual health, arousal, desire, pelvic, and urinary care in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "sexual-health"
+  },
+  {
+    "path": "/sexual-urinary-tract-health/",
+    "title": "Sexual & Urinary Tract Health",
+    "description": "Sexual health, arousal, desire, pelvic, and urinary care in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "sexual-health"
+  },
+  {
+    "path": "/sitemap/",
+    "title": "Sitemap",
+    "description": "Sitemap for The Berman Women's Wellness Center.",
+    "type": "sitemap"
+  },
+  {
+    "path": "/terms-of-use/",
+    "title": "Terms of Use",
+    "description": "Terms of use for The Berman Women's Wellness Center website.",
+    "type": "terms"
+  },
+  {
+    "path": "/testosterone-hormone-replacement-therapy/",
+    "title": "Testosterone Hormone Replacement Therapy",
+    "description": "Hormone therapy and menopause care for women in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "menopause-hormones"
+  },
+  {
+    "path": "/thank-you/",
+    "title": "Thank you",
+    "description": "Thank you for contacting The Berman Women's Wellness Center.",
+    "type": "thank-you"
+  },
+  {
+    "path": "/thermiva-by-dr-berman/",
+    "title": "ThermiVa by Dr. Berman",
+    "description": "Vaginal rejuvenation and intimate wellness care with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "vaginal-rejuvenation"
+  },
+  {
+    "path": "/v-tone/",
+    "title": "V Tone",
+    "description": "Pelvic floor, bladder leakage, and urinary wellness care.",
+    "type": "service",
+    "serviceSlug": "pelvic-urinary"
+  },
+  {
+    "path": "/vaginal-rejuvenation/",
+    "title": "Vaginal Rejuvenation",
+    "description": "Vaginal rejuvenation and intimate wellness care with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "vaginal-rejuvenation"
+  },
+  {
+    "path": "/votiva-treatment/",
+    "title": "Votiva Treatment",
+    "description": "Vaginal rejuvenation and intimate wellness care with Dr. Jennifer Berman.",
+    "type": "service",
+    "serviceSlug": "vaginal-rejuvenation"
+  },
+  {
+    "path": "/weight-loss-treatment/",
+    "title": "Weight Loss Treatment",
+    "description": "Body composition and body contouring support in Beverly Hills.",
+    "type": "service",
+    "serviceSlug": "body-contouring"
+  }
+]
