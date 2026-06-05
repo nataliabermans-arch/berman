@@ -2,6 +2,7 @@
   "name": "berman-website",
   "private": true,
   "scripts": {
+    "check:source": "node scripts/check-source-of-truth.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

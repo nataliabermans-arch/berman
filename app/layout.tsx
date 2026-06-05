@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Cormorant_Garamond, DM_Mono, Inter } from "next/font/google";
+import Script from "next/script";
 import type { ReactNode } from "react";
 
 import LeadCaptureProvider from "@/components/lead/LeadCapture";
@@ -7,6 +8,10 @@ import { defaultDescription, siteName, siteUrl } from "@/lib/site";
 
 import "./globals.css";
 import { cn } from "@/lib/utils";
+
+const gaMeasurementId = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID?.trim();
+const googleSiteVerification =
+  process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION?.trim();
 
 const cormorant = Cormorant_Garamond({
   subsets: ["latin"],
@@ -48,6 +53,13 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "/",
   },
+  ...(googleSiteVerification
+    ? {
+        verification: {
+          google: googleSiteVerification,
+        },
+      }
+    : {}),
 };
 
 const jsonLd = {
@@ -164,6 +176,23 @@ const serializedJsonLd = JSON.stringify(jsonLd).replace(/</g, "\\u003c");
 export default function RootLayout({
   children,
 }: Readonly<{ children: ReactNode }>) {
+  const gaInitScript = gaMeasurementId
+    ? `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){window.dataLayer.push(arguments);}
+      gtag("consent", "default", {
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        ad_personalization: "denied"
+      });
+      gtag("js", new Date());
+      gtag("config", ${JSON.stringify(gaMeasurementId)}, {
+        allow_google_signals: false,
+        allow_ad_personalization_signals: false
+      });
+    `
+    : null;
+
   return (
     <html
       lang="en"
@@ -184,6 +213,19 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: serializedJsonLd }}
         />
+        {gaMeasurementId && gaInitScript ? (
+          <>
+            <Script
+              src={`https://www.googletagmanager.com/gtag/js?id=${gaMeasurementId}`}
+              strategy="afterInteractive"
+            />
+            <Script
+              id="ga4-init"
+              strategy="afterInteractive"
+              dangerouslySetInnerHTML={{ __html: gaInitScript }}
+            />
+          </>
+        ) : null}
         <LeadCaptureProvider>{children}</LeadCaptureProvider>
       </body>
     </html>

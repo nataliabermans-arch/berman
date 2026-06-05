@@ -1,5 +1,25 @@
 Berman website. Locked stack: Next.js 14 + TypeScript + Tailwind + Motion + Vercel.
 
+## Source Of Truth
+
+This is the Berman-owned deploy repository:
+
+- GitHub: `nataliabermans-arch/berman`
+- Vercel: `berman-s-projects/berman`
+- Production branch: `main`
+- Production domain: `https://bermansexualhealth.com`
+
+Do not deploy from Bryan's reference repo, `plugandplaypeptides/berman-website`.
+That repo can be used as a reference, but it is not the Berman production source.
+
+Before deploying or making closeout claims, run:
+
+```bash
+npm run check:source
+```
+
+See `docs/SOURCE_OF_TRUTH.md` for the full guardrail.
+
 This repository is already rooted at the deployable Next.js app. When importing
 into Vercel, use the repository root as the project root.
 

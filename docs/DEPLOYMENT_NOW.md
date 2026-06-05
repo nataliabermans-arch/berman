@@ -3,10 +3,20 @@
 This repo is the deployable Berman website app. The immediate goal is to deploy
 the public website through Berman's GitHub and Vercel accounts.
 
+Before deploying, confirm this is the Berman-owned source repo:
+
+```bash
+npm run check:source
+```
+
+Do not deploy from Bryan's reference repo, `plugandplaypeptides/berman-website`.
+The production Vercel project deploys from `nataliabermans-arch/berman`.
+
 ## Import Into Vercel
 
 - Repository: `nataliabermans-arch/berman`
 - Branch: `main`
+- Vercel project: `berman-s-projects/berman`
 - Framework preset: `Next.js`
 - Root directory: repository root
 - Install command: Vercel default
@@ -37,9 +47,11 @@ The site will still build without the optional integrations below. Contact forms
 and advanced server features may fall back, fail closed, or show offline states
 until those integrations are configured.
 
-## Later Developer Work
+## Signed-Scope Integration Work
 
-The following are not blockers for deploying the public website shell:
+The following were not blockers for the initial public website shell, but they
+are signed-scope closeout items and must be proven before final contract
+closeout:
 
 - Supabase persistence for leads and concierge conversations
 - GoHighLevel lead delivery

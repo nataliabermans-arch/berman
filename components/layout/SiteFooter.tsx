@@ -20,6 +20,13 @@ const LEGAL_LINKS = [
   { label: "Accessibility", href: "/accessibility" },
 ];
 
+const LEGITSCRIPT_SEAL = {
+  href: "https://www.legitscript.com/websites/?checker_keywords=bermansexualhealth.com",
+  imageSrc: "https://static.legitscript.com/seals/18241954.png",
+  title: "Verify LegitScript Approval for www.bermansexualhealth.com",
+  alt: "Verify LegitScript Approval for www.bermansexualhealth.com",
+};
+
 export default function SiteFooter() {
   return (
     <footer className="site-footer">
@@ -111,6 +118,23 @@ export default function SiteFooter() {
         <span className="footer-tail__copy">
           © {new Date().getFullYear()} The Berman Women&apos;s Wellness Center
         </span>
+        <a
+          className="legitscript-seal"
+          href={LEGITSCRIPT_SEAL.href}
+          target="_blank"
+          rel="noopener noreferrer"
+          title={LEGITSCRIPT_SEAL.title}
+          aria-label="Verify LegitScript Approval for Berman Sexual Health"
+        >
+          <img
+            src={LEGITSCRIPT_SEAL.imageSrc}
+            alt={LEGITSCRIPT_SEAL.alt}
+            width="73"
+            height="79"
+            loading="lazy"
+            decoding="async"
+          />
+        </a>
         <nav aria-label="Legal" className="footer-tail__links">
           {LEGAL_LINKS.map(({ label, href }) => (
             <Link key={href} href={href}>
@@ -139,6 +163,26 @@ export default function SiteFooter() {
           font-size: 11px;
           letter-spacing: 0.16em;
           text-transform: uppercase;
+        }
+
+        .legitscript-seal {
+          display: inline-flex;
+          flex: 0 0 auto;
+          align-items: center;
+          justify-content: center;
+          opacity: 0.72;
+          transition: opacity 180ms ease;
+        }
+
+        .legitscript-seal:hover,
+        .legitscript-seal:focus-visible {
+          opacity: 1;
+        }
+
+        .legitscript-seal :global(img) {
+          display: block;
+          width: 54px;
+          height: auto;
         }
 
         .footer-tail__links {
