@@ -34,6 +34,13 @@ function legacyAliasMetadata(alias: LegacyPageAlias): Metadata {
   return {
     title: alias.title,
     description: alias.description,
+    robots:
+      alias.type === "thank-you"
+        ? {
+            index: false,
+            follow: false,
+          }
+        : undefined,
     openGraph: {
       title: alias.title,
       description: alias.description,

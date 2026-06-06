@@ -17,11 +17,9 @@ interface JournalSitemapEntry {
 }
 
 const LEGACY_SERVICE_URLS = [
-  "/aesthetic-treatments/",
   "/sexual-urinary-tract-health/",
   "/emsella-treatment-for-incontinence/",
   "/menopause-perimenopause/",
-  "/vaginal-rejuvenation-expert/",
   "/body-contouring/",
 ];
 
