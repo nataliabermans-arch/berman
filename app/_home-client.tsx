@@ -126,7 +126,7 @@ function HeroVideo() {
       loop
       muted
       playsInline
-      preload="auto"
+      preload="metadata"
       poster={HERO_VIDEO_POSTER}
       aria-hidden="true"
     >
