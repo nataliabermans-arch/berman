@@ -378,12 +378,6 @@
     "type": "media"
   },
   {
-    "path": "/privacy-policy/",
-    "title": "Privacy Policy",
-    "description": "How The Berman Women's Wellness Center collects, uses, and protects information.",
-    "type": "privacy"
-  },
-  {
     "path": "/vaginal-dryness/",
     "title": "Vaginal Dryness",
     "description": "Vaginal dryness, sexual health, and intimate wellness care in Beverly Hills.",
@@ -409,18 +403,6 @@
     "description": "Sexual health, arousal, desire, pelvic, and urinary care in Beverly Hills.",
     "type": "service",
     "serviceSlug": "sexual-health"
-  },
-  {
-    "path": "/sitemap/",
-    "title": "Sitemap",
-    "description": "Sitemap for The Berman Women's Wellness Center.",
-    "type": "sitemap"
-  },
-  {
-    "path": "/terms-of-use/",
-    "title": "Terms of Use",
-    "description": "Terms of use for The Berman Women's Wellness Center website.",
-    "type": "terms"
   },
   {
     "path": "/testosterone-hormone-replacement-therapy/",

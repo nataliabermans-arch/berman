@@ -3001,7 +3001,7 @@ body[data-motion="off"] .section-caption {
 }
 .e-hero-nav .center img {
   display: block;
-  height: 64px;
+  height: 48px;
   width: auto;
   filter: brightness(0) invert(1)
     drop-shadow(0 2px 12px rgba(244, 163, 170, 0.4));
@@ -3275,17 +3275,24 @@ body[data-motion="off"] .section-caption {
 .e-hero-body {
   position: absolute !important;
   z-index: 2;
-  top: 54%;
+  top: 0;
+  bottom: 0;
   left: 50%;
-  transform: translate(-50%, -50%) !important;
+  transform: translateX(-50%) !important;
   width: 100%;
-  padding: 0 56px;
+  padding: 118px 56px 40px;
   color: #fff;
   text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
+  gap: 0;
+  overflow: hidden;
+}
+/* Keep the hero brand eyebrow clear of the centered nav signature logo */
+.e-hero-body .eyebrow {
+  flex: 0 0 auto;
 }
 .e-hero-foot {
   display: none !important;

@@ -38,7 +38,7 @@ const SERVICE_CHILDREN: NavChild[] = [
 
 const SUPPLEMENTS_LANDING: NavChild = {
   label: "Berman Supplements",
-  href: "/services/supplements/",
+  href: "https://shop.bermansexualhealth.com/",
 };
 
 export const NAV_ITEMS: NavItem[] = [
