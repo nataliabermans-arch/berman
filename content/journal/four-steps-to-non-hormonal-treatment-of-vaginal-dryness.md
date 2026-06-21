@@ -2,7 +2,7 @@
 slug: four-steps-to-non-hormonal-treatment-of-vaginal-dryness
 title: Four Steps to Non-Hormonal Treatment of Vaginal Dryness
 italicWord: Dryness
-excerpt: "Vaginal dryness is much more than a troublesome nuisance. But […]"
+excerpt: 'Vaginal dryness is much more than a troublesome nuisance. But given the time constraints of office visits, many patients are understandably reluctant to...'
 category: Sexual Health
 publishedAt: "2019-01-26T00:00:00Z"
 updatedAt: "2025-12-10T05:43:17Z"

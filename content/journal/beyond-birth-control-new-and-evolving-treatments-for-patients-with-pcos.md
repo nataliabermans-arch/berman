@@ -2,7 +2,7 @@
 slug: beyond-birth-control-new-and-evolving-treatments-for-patients-with-pcos
 title: "Beyond Birth Control: New and Evolving Treatments for Patients With PCOS"
 italicWord: PCOS
-excerpt: "Beyond Birth Control: New and Evolving Treatments for Patients With […]"
+excerpt: 'by Karis Sarkisian and Jennifer R. Berman, MD'
 category: Pelvic & Urinary
 publishedAt: "2025-07-21T23:01:40Z"
 updatedAt: "2026-01-02T05:35:19Z"

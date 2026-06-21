@@ -2,7 +2,7 @@
 slug: the-use-of-physical-therapy-in-treatment-for-endometriosis
 title: The Use of Physical Therapy in Treatment for Endometriosis
 italicWord: Endometriosis
-excerpt: "“I have had severe endometriosis for many years and have […]"
+excerpt: '“I have had severe endometriosis for many years and have had several surgeries. Also started having another type of pain, which was very severe. It felt...'
 category: Pelvic & Urinary
 publishedAt: "2025-05-21T22:53:56Z"
 updatedAt: "2025-05-21T23:22:59Z"

@@ -2,7 +2,7 @@
 slug: why-i-chose-an-elective-c-section-part-i
 title: Why I Chose an Elective C-Section – Part I
 italicWord: Part
-excerpt: "A growing number of women are requesting delivery by elective […]"
+excerpt: 'A growing number of women are requesting delivery by elective cesarean section without an accepted “medical indication,” and physicians were in the past...'
 category: Pelvic & Urinary
 publishedAt: "2018-08-31T00:00:00Z"
 updatedAt: "2026-01-02T16:46:58Z"

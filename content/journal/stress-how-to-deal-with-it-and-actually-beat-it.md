@@ -2,7 +2,7 @@
 slug: stress-how-to-deal-with-it-and-actually-beat-it
 title: Stress! How to Deal With It and Actually Beat It
 italicWord: Beat
-excerpt: "Stress! How to Deal With It and Actually Beat It […]"
+excerpt: 'Stress! How to Deal With It and Actually Beat It'
 category: Sexual Health
 publishedAt: "2019-11-14T00:00:00Z"
 updatedAt: "2025-02-17T20:01:05Z"

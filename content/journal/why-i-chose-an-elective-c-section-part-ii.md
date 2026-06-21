@@ -2,7 +2,7 @@
 slug: why-i-chose-an-elective-c-section-part-ii
 title: Why I Chose an Elective C-Section – Part II
 italicWord: II
-excerpt: "Dr. Jennifer’s Cesarean Delivery Her OB/GYN describes the procedure – […]"
+excerpt: 'Her OB/GYN describes the procedure – (C-Section)'
 category: Pelvic & Urinary
 publishedAt: "2018-08-31T00:00:00Z"
 updatedAt: "2025-02-17T21:44:18Z"

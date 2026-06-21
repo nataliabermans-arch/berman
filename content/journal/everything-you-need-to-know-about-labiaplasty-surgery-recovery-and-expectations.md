@@ -5,7 +5,7 @@ title: >-
   Everything You Need to Know About Labiaplasty: Surgery, Recovery, and
   Expectations
 italicWord: Expectations
-excerpt: "If you’ve been considering labiaplasty, you’re not alone. This procedure […]"
+excerpt: 'If you’ve been considering labiaplasty, you’re not alone. This procedure has become increasingly popular among women seeking both functional and aesthetic...'
 category: Uncategorized
 publishedAt: "2024-10-15T05:12:26Z"
 updatedAt: "2024-12-17T18:03:32Z"

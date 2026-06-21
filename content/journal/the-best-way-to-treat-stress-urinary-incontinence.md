@@ -2,7 +2,7 @@
 slug: the-best-way-to-treat-stress-urinary-incontinence
 title: The Best Way to Treat Stress Urinary Incontinence
 italicWord: Incontinence
-excerpt: "Stress urinary incontinence is an issue many women struggle with, […]"
+excerpt: 'Stress urinary incontinence is an issue many women struggle with, and women are twice as likely as men to develop this condition. Stress incontinence, in...'
 category: Uncategorized
 publishedAt: "2023-01-30T20:54:56Z"
 updatedAt: "2025-02-13T23:01:09Z"

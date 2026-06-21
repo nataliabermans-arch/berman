@@ -2,7 +2,7 @@
 slug: the-benefits-of-pelvic-floor-physical-therapy-for-women
 title: The Benefits of pelvic floor physical therapy for Women
 italicWord: Women
-excerpt: "Pelvic floor physical therapy is a potential additional treatment for […]"
+excerpt: 'Pelvic floor physical therapy is a potential additional treatment for pelvic pain conditions. it has proven benefits for a wide range of systems including...'
 category: Sexual Health
 publishedAt: "2019-01-18T00:00:00Z"
 updatedAt: "2025-02-17T20:21:30Z"

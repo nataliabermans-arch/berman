@@ -2,7 +2,7 @@
 slug: why-are-testosterone-levels-high-but-libido-and-energy-still-low
 title: Why Are Testosterone Levels High – But Libido and Energy Still Low?
 italicWord: Low
-excerpt: "By Dr. Jennifer Berman Many women are surprised to learn […]"
+excerpt: 'Many women are surprised to learn their testosterone levels are elevated – especially when they feel anything but high-functioning. Low libido, chronic...'
 category: Sexual Health
 publishedAt: "2025-07-16T16:21:28Z"
 updatedAt: "2026-01-02T16:42:22Z"

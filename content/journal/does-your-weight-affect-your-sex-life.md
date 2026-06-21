@@ -2,7 +2,7 @@
 slug: does-your-weight-affect-your-sex-life
 title: Does Your Weight Affect Your Sex Life
 italicWord: Life
-excerpt: "Does Your Weight Affect Your Sex Life? For some women, […]"
+excerpt: 'For some women, excess weight causes their self-esteem to plummet and their sex lives to dry up. Yet, they’re in the majority: 68 percent of American...'
 category: Sexual Health
 publishedAt: "2019-11-14T00:00:00Z"
 updatedAt: "2026-01-29T05:54:01Z"

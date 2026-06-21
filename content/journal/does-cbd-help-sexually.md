@@ -2,7 +2,7 @@
 slug: does-cbd-help-sexually
 title: Does CBD Help Sexually
 italicWord: Sexually
-excerpt: "When it comes to CBD oil, there are many benefits. […]"
+excerpt: 'When it comes to CBD oil, there are many benefits. Recently CBD oil has gained popularity because of its sexual health benefits. Many women feel that CBD...'
 category: Sexual Health
 publishedAt: "2019-03-13T00:00:00Z"
 updatedAt: "2025-02-17T20:14:26Z"

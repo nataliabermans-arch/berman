@@ -2,7 +2,7 @@
 slug: preparing-for-perimenopause-menopause-symptoms
 title: Preparing for Perimenopause & Menopause Symptoms
 italicWord: Symptoms
-excerpt: "Menopause. The word itself can conjure up a whirlwind of […]"
+excerpt: 'Menopause. The word itself can conjure up a whirlwind of emotions – relief, anxiety, confusion. It’s a natural transition every woman goes through...'
 category: Menopause & Hormones
 publishedAt: "2024-03-24T21:09:27Z"
 updatedAt: "2025-04-17T07:40:24Z"

@@ -2,7 +2,7 @@
 slug: what-is-an-orgasmic-disorder
 title: What Is an Orgasmic Disorder?
 italicWord: Disorder
-excerpt: "Orgasmic Disorder is the difficulty or inability to reach orgasm […]"
+excerpt: 'Orgasmic Disorder is the difficulty or inability to reach orgasm after sufficient sexual stimulation and arousal. The condition includes any difficulty or...'
 category: Sexual Health
 publishedAt: "2019-01-26T00:00:00Z"
 updatedAt: "2025-02-17T20:16:24Z"

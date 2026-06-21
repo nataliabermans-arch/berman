@@ -2,7 +2,7 @@
 slug: hormone-weight-loss
 title: Hormone Weight Loss
 italicWord: Loss
-excerpt: "Why Does Menopause Make it so Hard to Lose Weight? […]"
+excerpt: 'Many women in their mid-to-late 40s will start to see the first signs that their body may be changing shape. Maybe you have noticed too. You haven’t made...'
 category: Uncategorized
 publishedAt: "2021-03-26T00:00:00Z"
 updatedAt: "2025-02-17T19:49:56Z"

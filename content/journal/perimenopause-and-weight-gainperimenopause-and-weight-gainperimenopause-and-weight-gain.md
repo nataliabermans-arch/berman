@@ -3,7 +3,7 @@ slug: >-
   perimenopause-and-weight-gainperimenopause-and-weight-gainperimenopause-and-weight-gain
 title: Perimenopause and Weight Gain
 italicWord: Gain
-excerpt: "Perimenopause, the years leading up to menopause, is a time […]"
+excerpt: 'Perimenopause, the years leading up to menopause, is a time of transition for women. It’s a hormonal rollercoaster ride marked by hot flashes, sleep...'
 category: Uncategorized
 publishedAt: "2024-04-25T17:56:55Z"
 updatedAt: "2025-03-23T17:07:31Z"

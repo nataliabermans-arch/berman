@@ -2,7 +2,7 @@
 slug: painful-sex-treatment
 title: "Breaking the Taboo: Open Conversations and Education on Painful Sex"
 italicWord: Sex
-excerpt: "Sexual health and wellness are integral parts of a woman’s […]"
+excerpt: 'Sexual health and wellness are integral parts of a woman’s overall well-being. Yet, one topic that remains under-discussed is painful sex. Often brushed...'
 category: Uncategorized
 publishedAt: "2024-09-26T06:36:18Z"
 updatedAt: "2025-02-13T23:21:11Z"

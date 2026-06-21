@@ -2,7 +2,7 @@
 slug: superfoods-cleanse
 title: Superfoods Cleanse
 italicWord: Cleanse
-excerpt: "Q: I am hearing about superfood cleanses and how they […]"
+excerpt: 'I want to thank you for introducing me to the KROMA superfood cleanse. I am not one to ever stick to a diet, let alone a 5 -day cleanse. However this...'
 category: Uncategorized
 publishedAt: "2020-08-07T00:00:00Z"
 updatedAt: "2025-02-17T19:58:00Z"

@@ -2,7 +2,7 @@
 slug: vaginal-rejuvenation-it-may-not-be-what-you-think
 title: "Vaginal Rejuvenation: It May Not Be What You Think"
 italicWord: Think
-excerpt: "In line with everything in nature, the female body changes […]"
+excerpt: 'In line with everything in nature, the female body changes with aging, menopause and childbirth. Some of the common symptoms women experience include:'
 category: Vaginal Rejuvenation
 publishedAt: "2020-09-16T00:00:00Z"
 updatedAt: "2025-02-17T19:56:17Z"

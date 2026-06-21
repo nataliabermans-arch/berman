@@ -2,7 +2,7 @@
 slug: ob-gyn
 title: OB/GYN
 italicWord: OB/GYN
-excerpt: "What the JAMA Estrogen Only Study Means To You A […]"
+excerpt: 'Millions of Americans suffer from chronic fatigue syndrome, endometriosis, interstitial cystitis, irritable bowel syndrome, temporomandibular joint and...'
 category: Press
 publishedAt: "2019-01-18T00:00:00Z"
 updatedAt: "2025-02-17T20:22:31Z"

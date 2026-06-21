@@ -2,7 +2,7 @@
 slug: poise
 title: Poise Impressa for SUI
 italicWord: SUI
-excerpt: "Waning Hormones? Ways to Keep the Fire Burning. *original article […]"
+excerpt: 'original article generated on Poise.comWomen in their 30s and 40s experience times during the month when they feel a boost in libido and overall...'
 category: Menopause & Hormones
 publishedAt: "2018-10-04T00:00:00Z"
 updatedAt: "2025-02-17T21:38:43Z"

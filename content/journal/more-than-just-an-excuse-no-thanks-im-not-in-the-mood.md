@@ -2,7 +2,7 @@
 slug: more-than-just-an-excuse-no-thanks-im-not-in-the-mood
 title: "More Than Just an Excuse: No Thanks, I’m Not In The Mood"
 italicWord: Mood
-excerpt: "According to a recent study, 53 percent of American women […]"
+excerpt: 'According to a recent study, 53 percent of American women are not in the mood. Hypoactive sexual desire disorder (HSDD) is the most common form of female...'
 category: Sexual Health
 publishedAt: "2025-05-15T00:31:32Z"
 updatedAt: "2026-01-14T05:45:46Z"

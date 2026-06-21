@@ -2,7 +2,7 @@
 slug: the-spark-and-the-flame-maintaining-a-healthy-relationship-and-libido
 title: "The Spark and the Flame: Maintaining a Healthy Relationship and Libido"
 italicWord: Libido
-excerpt: "A fulfilling relationship is a beautiful tapestry woven with love, […]"
+excerpt: 'A fulfilling relationship is a beautiful tapestry woven with love, trust, intimacy, and of course, a healthy sex life. But what happens when the spark...'
 category: Uncategorized
 publishedAt: "2024-04-25T18:02:55Z"
 updatedAt: "2026-01-11T05:33:20Z"

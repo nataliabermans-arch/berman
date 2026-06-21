@@ -2,9 +2,7 @@
 slug: primary-wave-grammy-party
 title: MaximoTV – Primary Wave Grammy Party
 italicWord: Party
-excerpt: >-
-  Description: Exclusive b-roll footage: ‘The Doctors’ co-host Dr. Jennifer
-  Berman […]
+excerpt: 'Exclusive b-roll footage: ‘The Doctors’ co-host Dr. Jennifer Berman and ‘Below Deck’ star Captain Sandy Yawn on the red carpet at the Primary Wave 13th...'
 category: Sexual Health
 publishedAt: "2023-03-24T20:58:11Z"
 updatedAt: "2026-01-19T05:42:07Z"

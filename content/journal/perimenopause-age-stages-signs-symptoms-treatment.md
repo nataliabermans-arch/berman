@@ -2,7 +2,7 @@
 slug: perimenopause-age-stages-signs-symptoms-treatment
 title: "Perimenopause: Age, Stages, Signs, Symptoms & Treatment"
 italicWord: Treatment
-excerpt: "Perimenopause is a phase every woman goes through as she […]"
+excerpt: 'Perimenopause is a phase every woman goes through as she transitions toward menopause. It’s a time when your body starts to experience hormonal changes...'
 category: Uncategorized
 publishedAt: "2024-10-16T04:33:00Z"
 updatedAt: "2025-12-13T05:41:45Z"

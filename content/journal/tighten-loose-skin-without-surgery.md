@@ -2,7 +2,7 @@
 slug: tighten-loose-skin-without-surgery
 title: Best Way to Tighten Loose Skin Without Surgery
 italicWord: Surgery
-excerpt: "Loose skin can be a major frustration for many women, […]"
+excerpt: 'Loose skin can be a major frustration for many women, whether it’s caused by aging, weight loss, or pregnancy. Luckily, there are modern solutions that...'
 category: Uncategorized
 publishedAt: "2024-09-26T06:26:35Z"
 updatedAt: "2026-02-18T09:56:36Z"

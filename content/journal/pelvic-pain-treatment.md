@@ -2,7 +2,7 @@
 slug: pelvic-pain-treatment
 title: Effective Pelvic Pain Treatment
 italicWord: Treatment
-excerpt: "The Dr. Berman Difference Dr. Jennifer Berman When you’re living […]"
+excerpt: 'When you’re living with pelvic pain it can be a debilitating and disruptive situation that can spread into every facet of your life. I’m Dr. Jennifer...'
 category: Pelvic & Urinary
 publishedAt: "2023-03-09T02:26:58Z"
 updatedAt: "2025-12-29T05:37:57Z"

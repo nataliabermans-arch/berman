@@ -2,9 +2,7 @@
 slug: vyleesi-hsdd-treatment
 title: FDA-Approved Vyleesi Brings New Reinforcements to the Fight Against HSDD
 italicWord: HSDD
-excerpt: >-
-  Recently approved by the FDA, Vyleesi™ (bremelanotide) provides another
-  dimension […]
+excerpt: 'Recently approved by the FDA, Vyleesi™ (bremelanotide) provides another dimension in the treatment of hypoactive sexual desire disorder (HSDD), one of the...'
 category: Menopause & Hormones
 publishedAt: "2019-08-06T00:00:00Z"
 updatedAt: "2025-12-30T05:46:05Z"

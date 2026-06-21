@@ -2,7 +2,7 @@
 slug: how-can-i-find-a-doctor-to-prescribe-me-fda-approved-treatments-for-fsd
 title: How Can I Find a Doctor to Prescribe Me FDA-Approved Treatments for FSD?
 italicWord: FSD
-excerpt: "Gyns are no help either!!! I have been married for […]"
+excerpt: '1. Gyns are no help either!!! I have been married for 13 years, LOVE my hubby so very much, and lost my libido after our second daughter. I also have...'
 category: Uncategorized
 publishedAt: "2019-11-12T00:00:00Z"
 updatedAt: "2025-02-17T20:02:55Z"

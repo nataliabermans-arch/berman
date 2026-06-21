@@ -2,9 +2,7 @@
 slug: all-about-breasts
 title: All About Breasts
 italicWord: Breasts
-excerpt: >-
-  Description not available. 01:00:00 GRAPHICS ON SCREEN The following program
-  contains […]
+excerpt: 'All About Breasts — Dr. Jennifer Berman, MD — Berman Women''s Wellness Center, Beverly Hills.'
 category: Press
 publishedAt: "2019-01-16T00:00:00Z"
 updatedAt: "2025-01-14T22:17:36Z"

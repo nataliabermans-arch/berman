@@ -2,7 +2,7 @@
 slug: genital-herpes-and-its-impact-on-partners
 title: Genital Herpes and Its Impact on Partners
 italicWord: Partners
-excerpt: "Half a million people in the U.S. are diagnosed with […]"
+excerpt: 'Half a million people in the U.S. are diagnosed with genital herpes each year, and for some, the diagnosis is fraught with emotional issues and concerns....'
 category: Pelvic & Urinary
 publishedAt: "2025-05-22T01:00:22Z"
 updatedAt: "2025-12-31T05:39:27Z"

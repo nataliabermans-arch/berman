@@ -5,7 +5,7 @@ title: >-
   The Secret All-In-One Aphrodisiac, Sexual Arousal Enhancer, and Intimacy
   Enhancer
 italicWord: Enhancer
-excerpt: "You may think it’s love, lust or even passion. Those […]"
+excerpt: 'You may think it’s love, lust or even passion. Those butterflies you feel in your stomach when you are nervous and that feeling of unquenchable desire...'
 category: Sexual Health
 publishedAt: "2018-09-01T00:00:00Z"
 updatedAt: "2025-02-17T21:41:56Z"

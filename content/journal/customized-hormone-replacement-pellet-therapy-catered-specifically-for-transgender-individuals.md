@@ -5,7 +5,7 @@ title: >-
   Customized Hormone Replacement Pellet Therapy Catered Specifically for
   Transgender Individuals
 italicWord: Individuals
-excerpt: "Whether you’re embarking on the journey of masculinization or feminization […]"
+excerpt: 'Whether you’re embarking on the journey of masculinization or feminization as part of your transition, Dr. Jennifer Berman and her team of experts stand...'
 category: Uncategorized
 publishedAt: "2024-02-25T14:37:04Z"
 updatedAt: "2025-02-14T00:33:47Z"

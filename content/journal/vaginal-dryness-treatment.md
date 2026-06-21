@@ -2,7 +2,7 @@
 slug: vaginal-dryness-treatment
 title: Vaginal Dryness
 italicWord: Dryness
-excerpt: "When Vaginal Dryness Occurs Dr. Jennifer Berman When a woman’s […]"
+excerpt: 'When a woman’s body is functioning normally and healthily (especially when it comes to sexual health) the vaginal walls will stay comfortably lubricated....'
 category: Vaginal Rejuvenation
 publishedAt: "2023-03-11T01:30:36Z"
 updatedAt: "2025-12-19T05:51:39Z"

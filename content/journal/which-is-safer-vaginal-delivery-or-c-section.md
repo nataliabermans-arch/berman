@@ -2,7 +2,7 @@
 slug: which-is-safer-vaginal-delivery-or-c-section
 title: "Which is Safer: Vaginal Delivery or C-Section?"
 italicWord: C-Section
-excerpt: "After two days of expert presentations and panel deliberations, the […]"
+excerpt: 'After two days of expert presentations and panel deliberations, the National Institutes of Health (NIH) released its findings on maternal-request...'
 category: Press
 publishedAt: "2025-05-22T01:45:41Z"
 updatedAt: "2025-05-22T01:45:41Z"

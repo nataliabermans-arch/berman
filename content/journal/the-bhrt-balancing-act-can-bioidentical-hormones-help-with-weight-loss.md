@@ -2,7 +2,7 @@
 slug: the-bhrt-balancing-act-can-bioidentical-hormones-help-with-weight-loss
 title: "BHRT Balancing Act: Can Bioidentical Hormones Help with Weight Loss?"
 italicWord: Loss
-excerpt: "Shedding pounds can feel like an uphill battle, especially as […]"
+excerpt: 'Shedding pounds can feel like an uphill battle, especially as we age. Fluctuating hormones can add another layer of complexity to the weight loss journey....'
 category: Uncategorized
 publishedAt: "2024-04-25T17:59:38Z"
 updatedAt: "2025-02-13T22:34:32Z"

@@ -2,7 +2,7 @@
 slug: post-menopausal-health-concerns
 title: Post-Menopausal Health Concerns
 italicWord: Concerns
-excerpt: "Risks of Osteoporosis After Menopause As women age, especially after […]"
+excerpt: 'As women age, especially after menopause, they face an increased risk of developing osteoporosis. Osteoporosis is a condition that causes bones to become...'
 category: Uncategorized
 publishedAt: "2024-09-25T11:39:28Z"
 updatedAt: "2024-12-16T23:30:30Z"

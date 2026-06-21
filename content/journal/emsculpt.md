@@ -2,7 +2,7 @@
 slug: emsculpt
 title: Emsculpt Los Angeles
 italicWord: Angeles
-excerpt: "Jennifer Berman MD is proud to offer the revolutionary body contouring […]"
+excerpt: 'Jennifer Berman MD is proud to offer the revolutionary body contouring technology EMSculpt. Dr. Berman is the best EmSculpt doctor and expert in Los...'
 category: Body Contouring
 publishedAt: "2023-03-09T02:12:54Z"
 updatedAt: "2025-12-12T05:34:58Z"

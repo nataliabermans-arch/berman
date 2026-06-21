@@ -2,7 +2,7 @@
 slug: enhancing-romance-through-play-dr-jennifer-bermans-tips
 title: "Enhancing Romance Through Play: Dr. Jennifer Berman’s Tips"
 italicWord: Tips
-excerpt: "Dr. Jennifer Berman highlights the critical role of playfulness, humour, […]"
+excerpt: 'Dr. Jennifer Berman highlights the critical role of playfulness, humour, and spontaneity in fostering deep connections in relationships. Engaging in...'
 category: Uncategorized
 publishedAt: "2024-08-29T06:19:52Z"
 updatedAt: "2026-01-06T05:46:45Z"

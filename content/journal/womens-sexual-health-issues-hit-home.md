@@ -2,9 +2,7 @@
 slug: womens-sexual-health-issues-hit-home
 title: Women’s Sexual Health Issues Hit Home
 italicWord: Home
-excerpt: >-
-  U.S. survey finds two-thirds have had sex-related stress, anxiety. THURSDAY,
-  […]
+excerpt: 'THURSDAY, June 25 (HealthDay News) — A new survey finds that 70 percent of American women have experienced a sexual health issue, and 22 percent felt very...'
 category: Sexual Health
 publishedAt: "2025-05-22T01:17:33Z"
 updatedAt: "2026-02-18T09:57:51Z"

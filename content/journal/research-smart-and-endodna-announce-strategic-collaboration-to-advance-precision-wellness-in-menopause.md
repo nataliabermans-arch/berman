@@ -5,7 +5,7 @@ title: >-
   Research Smart and EndoDNA Announce Strategic Collaboration to Advance
   Precision Wellness in Menopause
 italicWord: Menopause
-excerpt: "In an innovative move to transform research into menopause, Research […]"
+excerpt: 'In an innovative move to transform research into menopause, Research Smart, a leader in healthcare research technology, has joined forces with genetic...'
 category: Uncategorized
 publishedAt: "2024-08-02T07:35:52Z"
 updatedAt: "2025-02-13T23:51:04Z"

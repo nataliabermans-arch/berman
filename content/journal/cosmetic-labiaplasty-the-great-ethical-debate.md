@@ -2,7 +2,7 @@
 slug: cosmetic-labiaplasty-the-great-ethical-debate
 title: "Cosmetic Labiaplasty: The Great Ethical Debate"
 italicWord: Debate
-excerpt: "There has been an avalanche of publicity in women’s magazines, […]"
+excerpt: 'There has been an avalanche of publicity in women’s magazines, the popular press, talk shows and amongst doctors themselves about a procedure called...'
 category: Sexual Health
 publishedAt: "2019-01-26T00:00:00Z"
 updatedAt: "2025-12-27T05:36:53Z"

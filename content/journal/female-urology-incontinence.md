@@ -2,7 +2,7 @@
 slug: female-urology-incontinence
 title: "Female Urology, Incontinence"
 italicWord: Incontinence
-excerpt: "Sling Surgery is More Effective than Burch for Bladder Control […]"
+excerpt: 'In the largest and most rigorous U.S. trial comparing two traditional operations for stress urinary incontinence (SUI) in women. A team of urologists and...'
 category: Pelvic & Urinary
 publishedAt: "2019-01-18T00:00:00Z"
 updatedAt: "2025-02-17T20:24:36Z"

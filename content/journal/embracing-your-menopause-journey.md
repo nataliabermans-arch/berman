@@ -2,7 +2,7 @@
 slug: embracing-your-menopause-journey
 title: Embracing Your Menopause Journey
 italicWord: Journey
-excerpt: "Celebrating Your Body and Aging As women, we often struggle […]"
+excerpt: 'As women, we often struggle with accepting the changes that come with aging, especially when it comes to our bodies. However, it’s important to shift our...'
 category: Uncategorized
 publishedAt: "2024-08-16T06:50:10Z"
 updatedAt: "2025-03-23T16:56:46Z"

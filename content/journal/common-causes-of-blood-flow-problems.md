@@ -2,7 +2,7 @@
 slug: common-causes-of-blood-flow-problems
 title: Common Causes of Blood Flow Problems
 italicWord: Problems
-excerpt: "If you are having troubles with sexual arousal, engorgement, and […]"
+excerpt: 'If you are having troubles with sexual arousal, engorgement, and lubrication, the culprit may well be a pelvic blood flow problem. This disorder (called...'
 category: Sexual Health
 publishedAt: "2025-05-15T01:08:35Z"
 updatedAt: "2025-05-15T01:09:25Z"

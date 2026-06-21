@@ -2,7 +2,7 @@
 slug: modern-concepts-in-breast-reconstruction
 title: Modern Concepts in Breast Reconstruction
 italicWord: Reconstruction
-excerpt: "Breast cancer has become one of the most common malignancies […]"
+excerpt: 'Breast cancer has become one of the most common malignancies among women. Every year about 200,000 women are diagnosed with invasive breast cancer. About...'
 category: Sexual Health
 publishedAt: "2019-01-26T00:00:00Z"
 updatedAt: "2025-02-17T20:17:54Z"

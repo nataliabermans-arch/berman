@@ -2,7 +2,7 @@
 slug: study-sheds-new-light-on-intimate-lives-of-older-americans
 title: Study Sheds New Light on Intimate Lives of Older Americans
 italicWord: Americans
-excerpt: "A majority of older Americans are sexually active and view […]"
+excerpt: 'A majority of older Americans are sexually active and view intimacy as an important part of life, despite a high rate of bothersome sexual problems...'
 category: Sexual Health
 publishedAt: "2018-09-25T00:00:00Z"
 updatedAt: "2025-02-17T21:39:07Z"

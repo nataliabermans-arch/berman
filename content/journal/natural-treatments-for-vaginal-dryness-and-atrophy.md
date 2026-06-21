@@ -2,7 +2,7 @@
 slug: natural-treatments-for-vaginal-dryness-and-atrophy
 title: Natural Treatments for Vaginal Dryness and Atrophy
 italicWord: Atrophy
-excerpt: "Vaginal dryness is a problem that can affect women of […]"
+excerpt: 'Vaginal dryness is a problem that can affect women of all ages. Thinning of the lining of the vagina resulting in symptoms of dryness is very common as...'
 category: Pelvic & Urinary
 publishedAt: "2019-01-26T00:00:00Z"
 updatedAt: "2025-02-17T20:15:41Z"

@@ -5,7 +5,7 @@ title: >-
   Who’s a Good Fit for Bioidentical Hormone Replacement Therapy (BHRT)?
   Exploring Your Options
 italicWord: Options
-excerpt: "As we age, our bodies undergo a symphony of hormonal […]"
+excerpt: 'As we age, our bodies undergo a symphony of hormonal shifts. For women, a significant transition occurs during perimenopause and menopause, marked by a...'
 category: Uncategorized
 publishedAt: "2024-04-25T17:52:01Z"
 updatedAt: "2026-02-22T07:48:22Z"

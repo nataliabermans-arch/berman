@@ -2,7 +2,7 @@
 slug: women-testosterone-its-secret-role-in-women
 title: Women & Testosterone – It’s Secret Role in Women
 italicWord: Women
-excerpt: "Testosterone. The word often conjures up images of burly men […]"
+excerpt: 'Testosterone. The word often conjures up images of burly men with booming voices and bulging muscles. But this essential hormone isn’t just for the guys!...'
 category: Menopause & Hormones
 publishedAt: "2024-03-24T21:19:28Z"
 updatedAt: "2025-04-17T07:39:39Z"

@@ -2,7 +2,7 @@
 slug: emsella-for-men
 title: EMSELLA for Men
 italicWord: Men
-excerpt: "The pelvic floor muscles form the lower part of the […]"
+excerpt: 'The pelvic floor muscles form the lower part of the pelvis and support the pelvic organs, including the bladder, rectum and prostate. When pelvic floor...'
 category: Uncategorized
 publishedAt: "2021-03-20T00:00:00Z"
 updatedAt: "2025-12-18T05:42:53Z"

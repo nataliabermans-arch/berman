@@ -2,7 +2,7 @@
 slug: body-image-and-sexual-function-dr-jennifer-bermans-advice
 title: "Body Image and Sexual Function: Dr. Jennifer Berman’s Advice"
 italicWord: Advice
-excerpt: "Dr. Jennifer Berman, a prominent expert in sexual health, underscores […]"
+excerpt: 'Dr. Jennifer Berman, a prominent expert in sexual health, underscores the pivotal role of body image in influencing sexual function and intimacy. She...'
 category: Uncategorized
 publishedAt: "2024-08-27T06:34:42Z"
 updatedAt: "2025-12-28T05:40:11Z"

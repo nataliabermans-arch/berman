@@ -2,7 +2,7 @@
 slug: how-to-beat-cellulite-the-complete-treatment-guide-2
 title: "How to Beat Cellulite: The Complete Treatment Guide"
 italicWord: Guide
-excerpt: "Cellulite — we all know it, and let’s be honest, […]"
+excerpt: 'Cellulite — we all know it, and let’s be honest, most of us have it. Those stubborn dimples can show up on the thighs, hips, and even the arms, no matter...'
 category: Uncategorized
 publishedAt: "2024-10-16T07:00:16Z"
 updatedAt: "2025-12-05T05:42:00Z"

@@ -2,7 +2,7 @@
 slug: sex-dryness-solutions-for-treating-vaginal-dryness
 title: Sex & Dryness – Solutions for Treating Vaginal Dryness
 italicWord: Dryness
-excerpt: "Imagine this: you’re setting the mood for a night of […]"
+excerpt: 'Imagine this: you’re setting the mood for a night of intimacy, everything feels right, but then a nagging dryness disrupts the moment. Vaginal dryness, a...'
 category: Sexual Health
 publishedAt: "2024-03-24T21:18:10Z"
 updatedAt: "2025-04-17T07:28:23Z"

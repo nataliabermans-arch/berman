@@ -5,7 +5,7 @@ title: >-
   Use of Testosterone in Woman to Enhance Sex Drive Is Questioned in JAMA
   Article
 italicWord: Article
-excerpt: "A medical report published recently in the Journal of the American […]"
+excerpt: 'A medical report published recently in the Journal of the American Medical Association states tests of male hormone levels in women’s blood cannot predict...'
 category: Sexual Health
 publishedAt: "2025-05-15T00:34:12Z"
 updatedAt: "2025-05-15T00:40:32Z"

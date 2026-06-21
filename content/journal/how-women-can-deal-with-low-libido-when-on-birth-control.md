@@ -2,7 +2,7 @@
 slug: how-women-can-deal-with-low-libido-when-on-birth-control
 title: How women can deal with low libido when on birth control?
 italicWord: control
-excerpt: "Many women will experience low libido when they are on […]"
+excerpt: 'Many women will experience low libido when they are on birth control which is a difficult issue to deal with. Dr. Jennifer Berman offers helpful tips for...'
 category: Uncategorized
 publishedAt: "2022-01-19T00:00:00Z"
 updatedAt: "2025-02-13T23:01:39Z"

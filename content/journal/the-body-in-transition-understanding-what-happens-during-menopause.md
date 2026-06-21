@@ -2,7 +2,7 @@
 slug: the-body-in-transition-understanding-what-happens-during-menopause
 title: The Body in Transition – Understanding What Happens During Menopause
 italicWord: Menopause
-excerpt: "Menopause. The word itself can conjure up a whirlwind of […]"
+excerpt: 'Menopause. The word itself can conjure up a whirlwind of emotions – confusion, anxiety, maybe even a touch of liberation. It’s a natural stage in a...'
 category: Uncategorized
 publishedAt: "2024-04-25T17:48:10Z"
 updatedAt: "2025-05-16T22:41:23Z"

@@ -5,7 +5,7 @@ title: >-
   Study: Osteoporosis Drug Raloxifene Shown to be as Effective as Tamoxifen in
   Preventing Invasive Breast Cancer
 italicWord: Cancer
-excerpt: "(April 17, 2006)–Initial results of the Study of Tamoxifen and […]"
+excerpt: '(April 17, 2006)–Initial results of the Study of Tamoxifen and Raloxifene, or STAR, show that the drug raloxifene, currently used to prevent and treat...'
 category: Sexual Health
 publishedAt: "2025-05-22T01:42:59Z"
 updatedAt: "2026-01-05T05:32:01Z"

@@ -2,7 +2,7 @@
 slug: talking-sex-heather-dubrow
 title: Talking Sex with Dr. Berman | Featured on Heather Dubrow Panel
 italicWord: Panel
-excerpt: "Dr. Berman joins the panel with Heather Dubrow along with […]"
+excerpt: 'Dr. Berman joins the panel with Heather Dubrow along with several other experts to discuss sex – primarily, “Knowing what you want. Women knowing what...'
 category: Menopause & Hormones
 publishedAt: "2019-09-10T00:00:00Z"
 updatedAt: "2025-02-17T20:08:14Z"

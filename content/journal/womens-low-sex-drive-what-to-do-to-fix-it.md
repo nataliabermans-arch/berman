@@ -2,7 +2,7 @@
 slug: womens-low-sex-drive-what-to-do-to-fix-it
 title: "Women’s Low Sex Drive: What To Do To Fix It"
 italicWord: Fix
-excerpt: "Women’s low sex drive (or loss of libido) is a […]"
+excerpt: 'However, fear not. There are actionable steps you can take to fix women’s low sex drive.'
 category: Sexual Health
 publishedAt: "2020-09-30T00:00:00Z"
 updatedAt: "2025-12-06T05:34:43Z"

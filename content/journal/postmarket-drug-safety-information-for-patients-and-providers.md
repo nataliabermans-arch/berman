@@ -2,7 +2,7 @@
 slug: postmarket-drug-safety-information-for-patients-and-providers
 title: Postmarket Drug Safety Information for Patients and Providers
 italicWord: Providers
-excerpt: "The Food and Drug Administration has created new information sites […]"
+excerpt: 'The Food and Drug Administration has created new information sites about Postmarket Drug Safety Information for Patients and Providers. As a service, we...'
 category: Press
 publishedAt: "2025-05-22T01:36:54Z"
 updatedAt: "2025-05-22T01:36:54Z"

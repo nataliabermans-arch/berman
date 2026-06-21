@@ -2,7 +2,7 @@
 slug: dr-jennifer-bermans-approach-to-menopause
 title: Dr. Jennifer Berman’s Approach to Menopause
 italicWord: Menopause
-excerpt: "Who is Dr. Jennifer Berman? Have you ever wondered who […]"
+excerpt: 'Have you ever wondered who Dr. Jennifer Berman is and why she is such an important figure in the world of menopause and sexual health for women? Well...'
 category: Uncategorized
 publishedAt: "2024-08-16T05:12:13Z"
 updatedAt: "2026-01-01T05:41:36Z"

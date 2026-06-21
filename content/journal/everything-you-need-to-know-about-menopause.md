@@ -2,7 +2,7 @@
 slug: everything-you-need-to-know-about-menopause
 title: Everything you need to know about Menopause
 italicWord: Menopause
-excerpt: "The Stages and Symptoms of Menopause The premenopausal stage occurs […]"
+excerpt: 'The premenopausal stage occurs during the teens and twenties when you have a regular menstrual cycle and are most likely to be fertile. In the mid to late...'
 category: Uncategorized
 publishedAt: "2021-07-01T00:00:00Z"
 updatedAt: "2025-02-17T19:44:23Z"

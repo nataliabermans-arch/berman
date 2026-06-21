@@ -2,7 +2,7 @@
 slug: q-a-breastfeeding-dysfunction
 title: Q & A – Breastfeeding & Dysfunction
 italicWord: Dysfunction
-excerpt: "I haven’t seen/heard any mention of the connection between breastfeeding […]"
+excerpt: '1. I haven’t seen/heard any mention of the connection between breastfeeding and the different types of dysfunction. I have two young children and am...'
 category: Menopause & Hormones
 publishedAt: "2019-11-07T00:00:00Z"
 updatedAt: "2025-02-17T20:07:21Z"

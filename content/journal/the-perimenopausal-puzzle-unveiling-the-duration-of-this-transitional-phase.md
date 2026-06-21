@@ -2,7 +2,7 @@
 slug: the-perimenopausal-puzzle-unveiling-the-duration-of-this-transitional-phase
 title: "The Perimenopausal Puzzle: Unveiling the Duration of This Transitional Phase"
 italicWord: Phase
-excerpt: "Perimenopause, the years leading up to menopause, can feel like […]"
+excerpt: 'Perimenopause, the years leading up to menopause, can feel like a puzzle with missing pieces. Symptoms like hot flashes, irregular periods, and mood...'
 category: Uncategorized
 publishedAt: "2024-04-25T18:01:52Z"
 updatedAt: "2025-04-17T07:15:04Z"
