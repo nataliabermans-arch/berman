@@ -2,7 +2,7 @@
 slug: dr-bermans-sex-talks
 title: Dr. Berman’s Sex Talks
 italicWord: Talks
-excerpt: "Sexual Health Expert, Dr. Jennifer Berman Featured on Conan NY […]"
+excerpt: 'Dr. Berman’s Sex Talks — Dr. Jennifer Berman, MD — Berman Women''s Wellness Center, Beverly Hills.'
 category: Sexual Health
 publishedAt: "2019-12-03T00:00:00Z"
 updatedAt: "2025-02-17T20:00:47Z"

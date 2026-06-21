@@ -2,7 +2,7 @@
 slug: contoura
 title: Contoura
 italicWord: Contoura
-excerpt: "Body and Facial Remodeling Jennifer Berman MD is proud to offer […]"
+excerpt: 'Jennifer Berman MD is proud to offer the revolutionary body and facial remodeling contoura.'
 category: Aesthetic & Regenerative
 publishedAt: "2023-03-09T18:37:32Z"
 updatedAt: "2025-04-17T07:22:04Z"

@@ -3,7 +3,7 @@ slug: >-
   is-it-a-yeast-infection-everything-you-need-to-know-about-yeast-infections-and-vaginitis
 title: Everything You Need to Know About Yeast Infections and Vaginitis
 italicWord: Vaginitis
-excerpt: "Michelle couldn’t believe it. It was 11 pm Thursday night […]"
+excerpt: 'Michelle couldn’t believe it. It was 11 pm Thursday night and she was feeling itching and burning in her vagina. She started feeling symptoms yesterday...'
 category: Sexual Health
 publishedAt: "2023-02-11T00:00:00Z"
 updatedAt: "2025-12-21T05:40:53Z"

@@ -2,7 +2,7 @@
 slug: what-is-bio-identical-hrt-therapy-and-how-can-it-help-you
 title: What is Bio-Identical HRT Therapy and How Can It Help You?
 italicWord: Help
-excerpt: "If you’re a woman navigating the challenges of aging, hormonal […]"
+excerpt: 'If you’re a woman navigating the challenges of aging, hormonal imbalances can be one of the trickiest things to manage. From night sweats and mood swings...'
 category: Uncategorized
 publishedAt: "2024-09-26T06:34:22Z"
 updatedAt: "2024-12-17T18:10:15Z"

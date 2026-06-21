@@ -2,7 +2,7 @@
 slug: hormone-therapy
 title: Bioidentical Hormone Replacement Therapy (BHRT) in Beverly Hills
 italicWord: Hills
-excerpt: "Restore your vitality and balance your body with personalized Bioidentical […]"
+excerpt: 'Dr. Jennifer Berman offers cutting-edge, natural hormone solutions designed to alleviate the symptoms of menopause, perimenopause, and hormonal...'
 category: Menopause & Hormones
 publishedAt: "2019-01-18T00:00:00Z"
 updatedAt: "2025-12-30T14:00:32Z"

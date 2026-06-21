@@ -2,9 +2,7 @@
 slug: hormone-replacement-therapy
 title: Hormone Replacement Therapy
 italicWord: Therapy
-excerpt: >-
-  Benefits and Risks of Hormone Replacement Therapy Hormone Replacement Therapy,
-  […]
+excerpt: 'Hormone Replacement Therapy, or HRT, is a treatment option for menopausal women experiencing symptoms such as hot flashes, night sweats, and mood swings....'
 category: Uncategorized
 publishedAt: "2024-09-25T10:53:04Z"
 updatedAt: "2025-02-13T21:14:24Z"

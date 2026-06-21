@@ -2,7 +2,7 @@
 slug: low-sex-drive-understanding-and-rekindling-your-libido
 title: Low Sex Drive? Understanding and Rekindling Your Libido
 italicWord: Libido
-excerpt: "Have you noticed a dip in your desire for intimacy? […]"
+excerpt: 'Have you noticed a dip in your desire for intimacy? You’re not alone. Low libido, or a decreased interest in sexual activity, is a common experience for...'
 category: Sexual Health
 publishedAt: "2024-03-24T21:14:04Z"
 updatedAt: "2025-12-20T05:47:46Z"

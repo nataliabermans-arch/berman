@@ -5,7 +5,7 @@ title: >-
   Research Provides New Insights Into Decreases in Sexual Activity After
   Menopause
 italicWord: Menopause
-excerpt: "One of the most frequent topics in women’s sexual health […]"
+excerpt: 'One of the most frequent topics in women’s sexual health is the decline of sexual activity after menopause. Many women report that following this period...'
 category: Menopause & Hormones
 publishedAt: "2019-08-02T00:00:00Z"
 updatedAt: "2026-02-19T07:54:06Z"

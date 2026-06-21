@@ -2,7 +2,7 @@
 slug: menopause-and-your-sex-life
 title: Menopause and Your Sex Life
 italicWord: Life
-excerpt: "Original article generated on Poise.com As women reach their 40s […]"
+excerpt: 'As women reach their 40s and 50s, they enter a time in their lives referred to as “perimenopause.” During this period, before the menopause, hormone...'
 category: Sexual Health
 publishedAt: "2019-01-18T00:00:00Z"
 updatedAt: "2025-02-17T20:22:59Z"

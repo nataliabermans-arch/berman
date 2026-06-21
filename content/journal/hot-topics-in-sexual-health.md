@@ -2,7 +2,7 @@
 slug: hot-topics-in-sexual-health
 title: Hot Topics in Sexual Health
 italicWord: Health
-excerpt: "With more than 50 million (some say a conservative number) […]"
+excerpt: 'With more than 50 million (some say a conservative number) women suffering from what is termed Female Sexual dysfunction, this list will lead to articles...'
 category: Sexual Health
 publishedAt: "2019-01-26T00:00:00Z"
 updatedAt: "2025-02-17T20:15:15Z"

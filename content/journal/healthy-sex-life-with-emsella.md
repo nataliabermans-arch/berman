@@ -2,7 +2,7 @@
 slug: healthy-sex-life-with-emsella
 title: Healthy Sex Life with Emsella
 italicWord: Emsella
-excerpt: "Have a Healthy Sex Life with Emsella! Nearly a quarter […]"
+excerpt: 'Nearly a quarter of menopausal and post-menopausal women said they did not find sex pleasant, and more than half of these women said they were worried...'
 category: Uncategorized
 publishedAt: "2021-03-20T00:00:00Z"
 updatedAt: "2025-02-17T19:50:40Z"

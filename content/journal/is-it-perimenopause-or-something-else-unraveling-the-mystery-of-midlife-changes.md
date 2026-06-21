@@ -5,7 +5,7 @@ title: >-
   Is It Perimenopause or Something Else? Unraveling the Mystery of Midlife
   Changes
 italicWord: Changes
-excerpt: "The 40s and 50s can be a whirlwind for women. […]"
+excerpt: 'The 40s and 50s can be a whirlwind for women. You’re juggling career demands, family dynamics, and maybe even a touch of existential dread. On top of it...'
 category: Uncategorized
 publishedAt: "2024-04-25T17:49:58Z"
 updatedAt: "2025-12-08T05:46:59Z"

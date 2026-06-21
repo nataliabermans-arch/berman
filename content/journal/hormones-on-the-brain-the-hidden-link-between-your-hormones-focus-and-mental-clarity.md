@@ -5,7 +5,7 @@ title: >-
   Hormones on the Brain: The Hidden Link Between Your Hormones, Focus, and
   Mental Clarity
 italicWord: Clarity
-excerpt: "By Dr. Jennifer Berman Have you ever walked into a […]"
+excerpt: 'Have you ever walked into a room and forgotten why you were there? Or reread the same sentence three times because your brain just… wont lock in?'
 category: Aesthetic & Regenerative
 publishedAt: "2025-07-16T16:14:24Z"
 updatedAt: "2026-01-30T05:32:54Z"

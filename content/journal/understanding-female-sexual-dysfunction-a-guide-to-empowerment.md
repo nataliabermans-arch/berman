@@ -2,7 +2,7 @@
 slug: understanding-female-sexual-dysfunction-a-guide-to-empowerment
 title: "Understanding Female Sexual Dysfunction: A Guide to Empowerment"
 italicWord: Empowerment
-excerpt: "Female sexual dysfunction (FSD) is a topic many women hesitate […]"
+excerpt: 'Female sexual dysfunction (FSD) is a topic many women hesitate to discuss, yet it affects a large number of people worldwide. At Berman Women’s Wellness...'
 category: Uncategorized
 publishedAt: "2024-09-26T06:05:35Z"
 updatedAt: "2025-02-13T23:26:50Z"

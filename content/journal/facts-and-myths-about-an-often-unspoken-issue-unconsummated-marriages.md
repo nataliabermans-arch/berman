@@ -2,7 +2,7 @@
 slug: facts-and-myths-about-an-often-unspoken-issue-unconsummated-marriages
 title: "Facts and Myths about An Often Unspoken issue, Unconsummated Marriages"
 italicWord: Marriages
-excerpt: "The 1999 article in the Journal of the American Medical […]"
+excerpt: 'The 1999 article in the Journal of the American Medical Association by Dr. Edward Laumann indicating that 31% of men and 43% of women suffer from sexual...'
 category: Sexual Health
 publishedAt: "2025-05-22T00:56:08Z"
 updatedAt: "2025-12-22T05:34:50Z"

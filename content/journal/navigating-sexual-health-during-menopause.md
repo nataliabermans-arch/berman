@@ -2,7 +2,7 @@
 slug: navigating-sexual-health-during-menopause
 title: Navigating Sexual Health During Menopause
 italicWord: Menopause
-excerpt: "Addressing Changes in Libido As women go through menopause, it […]"
+excerpt: 'As women go through menopause, it is common to experience changes in libido. This can be a challenging and confusing time, but it is important to remember...'
 category: Uncategorized
 publishedAt: "2024-08-16T05:51:27Z"
 updatedAt: "2025-03-23T16:59:57Z"

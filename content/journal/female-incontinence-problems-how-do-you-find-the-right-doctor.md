@@ -2,7 +2,7 @@
 slug: female-incontinence-problems-how-do-you-find-the-right-doctor
 title: "Female Incontinence Problems: How do you find the right doctor?"
 italicWord: doctor
-excerpt: "Incontinence, simply defined, is the involuntary loss of urine. That […]"
+excerpt: 'Incontinence, simply defined, is the involuntary loss of urine. That means that a woman leaks urine into pads or underwear. It might just dampen the...'
 category: Pelvic & Urinary
 publishedAt: "2025-05-22T00:52:42Z"
 updatedAt: "2026-01-26T05:55:45Z"

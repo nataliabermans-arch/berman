@@ -2,7 +2,7 @@
 slug: biote-bhrt-restored-hormones-restored-vitality
 title: "BioTE BHRT: Restored Hormones, Restored Vitality"
 italicWord: Vitality
-excerpt: "As we age, there is a decline in the functions […]"
+excerpt: 'As we age, there is a decline in the functions of our body systems. Skin sags, memory span shortens, and the list goes on. But thanks to innovative...'
 category: Uncategorized
 publishedAt: "2021-11-11T00:00:00Z"
 updatedAt: "2026-02-23T08:15:51Z"

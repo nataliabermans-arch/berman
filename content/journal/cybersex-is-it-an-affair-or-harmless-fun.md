@@ -2,7 +2,7 @@
 slug: cybersex-is-it-an-affair-or-harmless-fun
 title: "Cybersex: Is It an Affair or Harmless Fun?"
 italicWord: Fun
-excerpt: "Cybersex: Is It an Affair or Harmless Fun? Here is […]"
+excerpt: 'Cybersex: Is It an Affair or Harmless Fun? Here is What It Depends On'
 category: Sexual Health
 publishedAt: "2019-11-14T00:00:00Z"
 updatedAt: "2025-04-17T07:37:06Z"

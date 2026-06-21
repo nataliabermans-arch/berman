@@ -2,7 +2,7 @@
 slug: what-happened-to-my-body-the-symptoms-of-menopause
 title: “What Happened to My Body??” The Symptoms of Menopause
 italicWord: Menopause
-excerpt: "Facing urinary incontinence is not only uncomfortable, but it can […]"
+excerpt: 'Facing urinary incontinence is not only uncomfortable, but it can also feel embarrassing. Loss of bladder control, whether in the form of leakage with...'
 category: Uncategorized
 publishedAt: "2021-04-17T00:00:00Z"
 updatedAt: "2025-02-17T19:48:46Z"

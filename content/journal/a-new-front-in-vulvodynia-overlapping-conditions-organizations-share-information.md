@@ -5,9 +5,7 @@ title: >-
   A New Front in Vulvodynia: Overlapping Conditions Organizations Share
   Information
 italicWord: Information
-excerpt: >-
-  Millions of Americans suffer from chronic fatigue syndrome, endometriosis,
-  interstitial […]
+excerpt: 'Millions of Americans suffer from chronic fatigue syndrome, endometriosis, interstitial cystitis, irritable bowel syndrome, temporomandibular joint and...'
 category: Press
 publishedAt: "2025-05-15T01:13:21Z"
 updatedAt: "2025-05-15T01:13:21Z"

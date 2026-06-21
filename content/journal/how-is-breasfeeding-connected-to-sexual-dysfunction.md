@@ -2,7 +2,7 @@
 slug: how-is-breasfeeding-connected-to-sexual-dysfunction
 title: How is Breastfeeding Connected to Sexual Dysfunction?
 italicWord: Dysfunction
-excerpt: "I haven’t seen/heard any mention of the connection between breastfeeding […]"
+excerpt: '1. I haven’t seen/heard any mention of the connection between breastfeeding and the different types of dysfunction. I have two young children and am...'
 category: Uncategorized
 publishedAt: "2019-11-12T00:00:00Z"
 updatedAt: "2026-02-08T07:54:38Z"

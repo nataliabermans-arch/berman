@@ -2,7 +2,7 @@
 slug: effect-of-hysterectomy-on-female-sexual-function
 title: Effect of Hysterectomy on Female Sexual Function
 italicWord: Function
-excerpt: "By Jacqueline N. Murrell, MD, Jennifer R. Berman, MD Robert […]"
+excerpt: 'By Jacqueline N. Murrell, MD, Jennifer R. Berman, MD Robert Weiss, MD, Laura Berman, PhD, Sheila R. Keane, MA, Mary Christina Zierack MA, Trudy Van...'
 category: Sexual Health
 publishedAt: "2025-05-16T23:25:48Z"
 updatedAt: "2025-05-16T23:25:48Z"

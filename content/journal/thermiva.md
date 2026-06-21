@@ -2,7 +2,7 @@
 slug: thermiva
 title: ThermiVa
 italicWord: ThermiVa
-excerpt: "Dr. Berman offers ThermiVa to her patients as an in-office, […]"
+excerpt: 'ThermiVa — gentle, non-surgical vaginal and intimate wellness treatment at the Berman Women''s Wellness Center, Beverly Hills.'
 category: Vaginal Rejuvenation
 publishedAt: "2018-10-04T00:00:00Z"
 updatedAt: "2026-02-17T09:24:13Z"

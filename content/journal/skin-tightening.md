@@ -2,7 +2,7 @@
 slug: skin-tightening
 title: Skin Tightening
 italicWord: Tightening
-excerpt: "Why does the skin lose tone? Dr. Jennifer Berman Physiological […]"
+excerpt: 'Physiological aging of the skin begins relatively early – already around the age of 30 – and leads to an increasingly smaller production of collagen...'
 category: Aesthetic & Regenerative
 publishedAt: "2023-03-09T23:05:35Z"
 updatedAt: "2025-12-15T05:49:13Z"

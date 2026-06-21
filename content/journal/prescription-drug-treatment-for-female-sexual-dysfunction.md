@@ -2,9 +2,7 @@
 slug: prescription-drug-treatment-for-female-sexual-dysfunction
 title: Prescription Drug Treatment for Female Sexual Dysfunction (FSD)
 italicWord: FSD
-excerpt: >-
-  Professional interest in female sexual dysfunction (FSD) has evolved rapidly
-  […]
+excerpt: 'Professional interest in female sexual dysfunction (FSD) has evolved rapidly with the FDA approval of several landmark treatments. Studies indicate that...'
 category: Sexual Health
 publishedAt: "2019-01-26T00:00:00Z"
 updatedAt: "2025-12-30T13:49:06Z"

@@ -2,7 +2,7 @@
 slug: menopause-relief-hormone-replacement-therapy-pros-cons
 title: Menopause Relief – Hormone Replacement Therapy Pros & Cons
 italicWord: Cons
-excerpt: "Menopause. The word itself can conjure up a whirlwind of […]"
+excerpt: 'Menopause. The word itself can conjure up a whirlwind of emotions – relief, anxiety, and maybe even a tinge of fear. It’s a natural transition every woman...'
 category: Menopause & Hormones
 publishedAt: "2024-03-24T21:21:20Z"
 updatedAt: "2026-01-08T05:34:39Z"

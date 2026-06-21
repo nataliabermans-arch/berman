@@ -2,7 +2,7 @@
 slug: thriving-in-menopause-and-beyond
 title: Thriving in Menopause and Beyond
 italicWord: Beyond
-excerpt: "Embracing Your Body and Mind During Menopause Menopause is a […]"
+excerpt: 'Menopause is a natural phase in a woman’s life that can bring about changes in both the body and mind. It is important for women over the age of 45 to...'
 category: Uncategorized
 publishedAt: "2024-09-25T11:42:38Z"
 updatedAt: "2026-01-18T05:54:13Z"

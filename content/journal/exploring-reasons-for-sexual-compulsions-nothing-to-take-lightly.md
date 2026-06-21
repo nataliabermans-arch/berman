@@ -2,7 +2,7 @@
 slug: exploring-reasons-for-sexual-compulsions-nothing-to-take-lightly
 title: "Exploring Reasons for Sexual Compulsions: Nothing to Take Lightly"
 italicWord: Lightly
-excerpt: "There has been a lot in the media these days […]"
+excerpt: 'There has been a lot in the media these days about “sexual addiction,? but I think what we’re reading and hearing is more about generating heat than...'
 category: Press
 publishedAt: "2025-05-22T01:39:03Z"
 updatedAt: "2025-05-22T01:39:19Z"

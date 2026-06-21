@@ -2,7 +2,7 @@
 slug: 5-tips-for-achieving-orgasm-through-intercourse
 title: 5 Tips for Achieving Orgasm Through Intercourse
 italicWord: Intercourse
-excerpt: "For women who want to have an orgasm during intercourse, […]"
+excerpt: 'For women who want to have an orgasm during intercourse, but have either been unable to or have had difficulties, here are some positions and techniques...'
 category: Sexual Health
 publishedAt: "2025-05-15T01:02:42Z"
 updatedAt: "2026-01-02T16:32:56Z"

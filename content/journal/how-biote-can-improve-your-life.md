@@ -2,7 +2,7 @@
 slug: how-biote-can-improve-your-life
 title: How BioTe can improve your life
 italicWord: life
-excerpt: "Women are not afraid to age, but fear develops from […]"
+excerpt: 'Women are not afraid to age, but fear develops from our body’s changes due to aging and how these changes affect our social and sex lives. Mood swings...'
 category: Uncategorized
 publishedAt: "2021-11-10T00:00:00Z"
 updatedAt: "2025-02-13T23:17:16Z"

@@ -2,7 +2,7 @@
 slug: emsculpt-could-be-the-magic-in-your-fitness-routine
 title: EMSCULPT Could be the Magic in Your Fitness Routine
 italicWord: Routine
-excerpt: "We’re all about keeping it real with our patients. That […]"
+excerpt: 'We’re all about keeping it real with our patients. That ideal body that so many people want? It’s nearly impossible to achieve while still living a normal...'
 category: Body Contouring
 publishedAt: "2020-09-29T00:00:00Z"
 updatedAt: "2025-02-17T19:56:21Z"

@@ -2,7 +2,7 @@
 slug: media-tip-of-the-day
 title: Media – Tip of the Day
 italicWord: Day
-excerpt: "Fiera, arouser for her! Your attitude about aging may impact […]"
+excerpt: 'Media – Tip of the Day — Dr. Jennifer Berman, MD — Berman Women''s Wellness Center, Beverly Hills.'
 category: Press
 publishedAt: "2019-01-26T00:00:00Z"
 updatedAt: "2025-02-17T20:18:41Z"

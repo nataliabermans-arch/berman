@@ -2,9 +2,7 @@
 slug: how-do-i-take-care-of-me-in-the-new-economy-a-healthier-you
 title: How Do I Take Care of Me in the New Economy? A Healthier You
 italicWord: Healthier
-excerpt: >-
-  President-elect Barack Obama is inheriting the greatest confluence of
-  intricately […]
+excerpt: 'And if that wasn’t enough, a large white elephant looming in every living room: a broken healthcare system that is absolutely contributing to the malaise...'
 category: Sexual Health
 publishedAt: "2025-05-22T01:21:57Z"
 updatedAt: "2025-05-22T01:21:57Z"

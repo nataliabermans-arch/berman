@@ -2,7 +2,7 @@
 slug: becoming-an-influencer-work-panel-featuring-heather-dubrow-dr-berman
 title: “Becoming an Influencer” | WORK Panel Featuring Heather Dubrow & Dr. Berman
 italicWord: Berman
-excerpt: "This week’s “WORK” panel featuring Dr. Berman covers social media […]"
+excerpt: 'This week’s “WORK” panel featuring Dr. Berman covers social media topics, including becoming an influencer. Dr. Berman joins the panel with Heather Dubrow...'
 category: Menopause & Hormones
 publishedAt: "2019-09-27T00:00:00Z"
 updatedAt: "2025-02-17T20:07:58Z"

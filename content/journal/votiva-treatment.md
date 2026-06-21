@@ -2,7 +2,7 @@
 slug: votiva-treatment
 title: VOTIVA TREATMENT
 italicWord: TREATMENT
-excerpt: "What Is Votiva? InMode’s Votiva system is a safe, effective […]"
+excerpt: 'InMode’s Votiva system is a safe, effective treatment for feminine health that offers immediate results with continued improvements over time.'
 category: Vaginal Rejuvenation
 publishedAt: "2023-03-11T01:51:35Z"
 updatedAt: "2025-12-14T05:35:57Z"

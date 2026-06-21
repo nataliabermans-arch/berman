@@ -2,7 +2,7 @@
 slug: dr-bermans-tips-for-adding-pleasure-to-your-sex-life
 title: Dr. Berman’s Tips for Adding Pleasure to Your Sex Life
 italicWord: Life
-excerpt: "It’s Saturday and on your way home from grocery shopping […]"
+excerpt: 'It’s Saturday and on your way home from grocery shopping you decide to stop in at your local sex shop and pick up a sex toy to spice up your Saturday...'
 category: Menopause & Hormones
 publishedAt: "2019-11-08T00:00:00Z"
 updatedAt: "2025-02-17T20:06:09Z"

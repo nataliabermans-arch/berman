@@ -2,7 +2,7 @@
 slug: fda-clears-breast-genetic-activity-cancer-recurrence-test
 title: FDA Clears Breast Genetic Activity Cancer Recurrence Test
 italicWord: Test
-excerpt: "February 6, 2007–The U.S. Food and Drug Administration (FDA) today […]"
+excerpt: 'February 6, 2007–The U.S. Food and Drug Administration (FDA) today cleared for marketing a test that determines the likelihood of breast cancer returning...'
 category: Sexual Health
 publishedAt: "2025-05-15T00:21:41Z"
 updatedAt: "2025-05-15T00:21:41Z"

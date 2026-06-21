@@ -2,7 +2,7 @@
 slug: pause-tm-for-a-change-acog-issues-newly-revised-menopause-magazine
 title: "PAUSE(TM) for a Change: ACOG Issues Newly Revised Menopause Magazine"
 italicWord: Magazine
-excerpt: "Washington, DC — The American College of Obstetricians and Gynecologists […]"
+excerpt: 'Washington, DC — The American College of Obstetricians and Gynecologists (ACOG) has updated, redesigned, and renamed its popular free magazine on...'
 category: Press
 publishedAt: "2025-05-15T00:47:56Z"
 updatedAt: "2025-05-15T00:48:37Z"

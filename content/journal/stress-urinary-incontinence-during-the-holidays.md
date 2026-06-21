@@ -2,7 +2,7 @@
 slug: stress-urinary-incontinence-during-the-holidays
 title: Stress Urinary Incontinence During the Holidays
 italicWord: Holidays
-excerpt: "During Christmas parties and New Year’s Eve celebrations, drinking and […]"
+excerpt: 'During Christmas parties and New Year’s Eve celebrations, drinking and dancing is in full flow, while the celebrations bring fun to all those around, it...'
 category: Sexual Health
 publishedAt: "2019-12-20T00:00:00Z"
 updatedAt: "2025-02-17T20:00:13Z"

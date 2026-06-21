@@ -2,7 +2,7 @@
 slug: cbd-how-cbd-applies-to-female-sexual-health
 title: CBD & How CBD Applies to Female Sexual Health
 italicWord: Health
-excerpt: "CBD has been making a lot of headlines as of […]"
+excerpt: 'CBD has been making a lot of headlines as of late, and for good reason. Having become one of the most beneficial substances you can put in and on your...'
 category: Sexual Health
 publishedAt: "2020-02-05T00:00:00Z"
 updatedAt: "2025-12-04T05:44:39Z"

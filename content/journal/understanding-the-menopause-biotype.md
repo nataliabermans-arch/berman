@@ -2,7 +2,7 @@
 slug: understanding-the-menopause-biotype
 title: Understanding the Menopause Biotype
 italicWord: Biotype
-excerpt: "What is the Menopause Biotype? Are you experiencing symptoms like […]"
+excerpt: 'Are you experiencing symptoms like hot flashes, mood swings, and low libido as you navigate through menopause? If so, you may have what is known as the...'
 category: Uncategorized
 publishedAt: "2024-08-13T12:53:30Z"
 updatedAt: "2026-01-29T05:35:12Z"

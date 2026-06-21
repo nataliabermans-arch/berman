@@ -2,7 +2,7 @@
 slug: how-to-talk-to-your-doctor-if-you-are-experiencing-chronic-pelvic-pain
 title: How to talk to your doctor if you are experiencing chronic pelvic pain
 italicWord: pain
-excerpt: "Chances are, if you are a woman, you may be […]"
+excerpt: 'Chances are, if you are a woman, you may be suffering from pelvic pain. According to the National Institute of Health, up to 32% of women worldwide report...'
 category: Sexual Health
 publishedAt: "2021-06-15T00:00:00Z"
 updatedAt: "2025-02-17T19:47:54Z"

@@ -2,9 +2,7 @@
 slug: effect-of-sacral-nerve-electrical-stimulation-on-female-sexual-function
 title: Effect of Sacral Nerve Electrical Stimulation on Female Sexual Function
 italicWord: Function
-excerpt: >-
-  Introduction and Objective: Sacral nerve stimulation (SNS) has been shown to
-  […]
+excerpt: 'Effect of Sacral Nerve Electrical Stimulation on Female Sexual Function — Dr. Jennifer Berman, MD — Berman Women''s Wellness Center, Beverly Hills.'
 category: Sexual Health
 publishedAt: "2018-09-22T00:00:00Z"
 updatedAt: "2026-01-20T05:58:18Z"

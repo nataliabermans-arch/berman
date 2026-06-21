@@ -2,7 +2,7 @@
 slug: painful-sex-causes-solutions-and-reclaiming-pleasure
 title: "Painful Sex – Causes, Solutions, and Reclaiming Pleasure"
 italicWord: Pleasure
-excerpt: "Painful sex, also known as dyspareunia, is a surprisingly common […]"
+excerpt: 'Painful sex, also known as dyspareunia, is a surprisingly common issue affecting women of all ages. It can be a frustrating and isolating experience, but...'
 category: Sexual Health
 publishedAt: "2024-03-24T21:20:25Z"
 updatedAt: "2025-12-20T05:33:40Z"

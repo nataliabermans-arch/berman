@@ -2,7 +2,7 @@
 slug: empowerrf
 title: EmpowerRF
 italicWord: EmpowerRF
-excerpt: "Jennifer Berman MD is excited to offer the multi-functional platform […]"
+excerpt: 'Jennifer Berman MD is excited to offer the multi-functional platform delivering the most advanced solutions leveraging multiple technologies, including...'
 category: Aesthetic & Regenerative
 publishedAt: "2023-03-09T19:12:46Z"
 updatedAt: "2026-03-02T16:54:14Z"

@@ -2,7 +2,7 @@
 slug: what-impact-does-stress-and-depression-have-on-sexual-functions
 title: What Impact does Stress and Depression Have on Sexual Functions?
 italicWord: Functions
-excerpt: "Impact of Stress, Relationship Health and Depression on Overall Sexual […]"
+excerpt: 'How stress, relationship health and depression interact to shape women''s overall sexual function — and what the research reveals.'
 category: Uncategorized
 publishedAt: "2019-11-12T00:00:00Z"
 updatedAt: "2026-01-13T05:43:09Z"

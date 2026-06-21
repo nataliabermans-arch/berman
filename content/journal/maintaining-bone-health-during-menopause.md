@@ -2,7 +2,7 @@
 slug: maintaining-bone-health-during-menopause
 title: Maintaining Bone Health During Menopause
 italicWord: Menopause
-excerpt: "Importance of Bone Health in Menopausal Women As women age, […]"
+excerpt: 'As women age, the risk of developing osteoporosis increases, especially during the menopausal transition. Bone health is of utmost importance during this...'
 category: Uncategorized
 publishedAt: "2024-09-25T10:57:27Z"
 updatedAt: "2025-03-23T16:54:46Z"

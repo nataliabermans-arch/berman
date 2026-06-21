@@ -2,7 +2,7 @@
 slug: menopausal-weight-gain-doesnt-have-to-be-your-reality
 title: Menopausal Weight Gain Doesn’t Have to be Your Reality
 italicWord: Reality
-excerpt: "If you’re near or within your menopausal years, you may […]"
+excerpt: 'If you’re near or within your menopausal years, you may be well aware that weight gain is one of the most common effects of changing hormones. Weight may...'
 category: Menopause & Hormones
 publishedAt: "2020-07-16T00:00:00Z"
 updatedAt: "2025-02-17T19:57:57Z"

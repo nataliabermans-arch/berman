@@ -2,7 +2,7 @@
 slug: berman-tv-show-guests
 title: Berman TV Show Guests
 italicWord: Guests
-excerpt: "Noted Fitness/Nutrition Expert JJ Virgin Will Write Articles, Blog for […]"
+excerpt: 'Vibrance Associates Welcomes JJ Virgin, View video here.'
 category: Press
 publishedAt: "2019-01-22T00:00:00Z"
 updatedAt: "2025-12-29T18:36:21Z"

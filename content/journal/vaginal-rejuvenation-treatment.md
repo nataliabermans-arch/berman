@@ -2,7 +2,7 @@
 slug: vaginal-rejuvenation-treatment
 title: 5 Things About the Votiva Vaginal Rejuvenation Treatment
 italicWord: Treatment
-excerpt: "With age, menopause, and childbirth, the vagina undergoes a lot […]"
+excerpt: 'With age, menopause, and childbirth, the vagina undergoes a lot of changes. These changes include laxity or “stretched out” tissues, decreased...'
 category: Vaginal Rejuvenation
 publishedAt: "2022-04-19T00:00:00Z"
 updatedAt: "2025-02-13T23:14:14Z"

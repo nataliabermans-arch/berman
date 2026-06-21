@@ -2,7 +2,7 @@
 slug: managing-menopause-symptoms
 title: Managing Menopause Symptoms
 italicWord: Symptoms
-excerpt: "Lifestyle Changes for Menopausal Women Menopause is a natural phase […]"
+excerpt: 'Menopause is a natural phase in a woman’s life that marks the end of her reproductive years. As women age, their bodies undergo hormonal changes that can...'
 category: Uncategorized
 publishedAt: "2024-09-25T10:49:20Z"
 updatedAt: "2025-03-23T16:55:15Z"

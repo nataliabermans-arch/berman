@@ -2,7 +2,7 @@
 slug: drugs-that-can-affect-sexual-response
 title: Drugs That Can Affect Sexual Response
 italicWord: Response
-excerpt: "Drugs That Can Affect Sexual Response As two of the […]"
+excerpt: 'As two of the leading experts in sexual health, Dr. Jennifer Berman identifies the following drugs that can have a large effect on your sexual response....'
 category: Sexual Health
 publishedAt: "2019-11-08T00:00:00Z"
 updatedAt: "2025-02-17T20:06:37Z"

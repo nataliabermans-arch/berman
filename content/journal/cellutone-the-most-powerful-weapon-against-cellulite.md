@@ -2,7 +2,7 @@
 slug: cellutone-the-most-powerful-weapon-against-cellulite
 title: "Cellutone: The Most Powerful Weapon Against Cellulite"
 italicWord: Cellulite
-excerpt: "Did you know that cellulite is completely normal?An estimated 80%-98% […]"
+excerpt: 'Did you know that cellulite is completely normal?An estimated 80%-98% of the US population have some appearance of cellulite. It is characterized as a...'
 category: Uncategorized
 publishedAt: "2021-01-21T00:00:00Z"
 updatedAt: "2025-02-17T19:51:40Z"

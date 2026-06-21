@@ -2,9 +2,7 @@
 slug: female-sexual-dysfunction-definitions-causes-a-potential-treatments
 title: "Female Sexual Dysfunction: Definitions, Causes & Potential Treatments"
 italicWord: Treatments
-excerpt: >-
-  Female Sexual dysfunction is age-related, progressive and highly prevalent,
-  affecting […]
+excerpt: 'Female Sexual dysfunction is age-related, progressive and highly prevalent, affecting 30-50 percent of women 1,2,3. Based on the National Health and...'
 category: Sexual Health
 publishedAt: "2025-05-07T23:10:48Z"
 updatedAt: "2025-05-15T00:08:19Z"

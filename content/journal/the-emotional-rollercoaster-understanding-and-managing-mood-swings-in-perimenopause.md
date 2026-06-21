@@ -5,7 +5,7 @@ title: >-
   The Emotional Rollercoaster – Understanding and Managing Mood Swings in
   Perimenopause
 italicWord: Perimenopause
-excerpt: "Perimenopause, the years leading up to menopause, is a time […]"
+excerpt: 'Perimenopause, the years leading up to menopause, is a time of significant change for women. This transition is often associated with physical symptoms...'
 category: Uncategorized
 publishedAt: "2024-04-25T18:00:38Z"
 updatedAt: "2025-12-03T05:44:05Z"

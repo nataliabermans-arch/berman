@@ -2,7 +2,7 @@
 slug: beyond-the-g-spot-where-do-we-go-from-here
 title: "Beyond the G spot: Where do we go from here?"
 italicWord: here
-excerpt: "I am honored to have the opportunity to discuss some […]"
+excerpt: 'I am honored to have the opportunity to discuss some of our interdisciplinary research concerning female sexual response and to talk about where do we go...'
 category: Sexual Health
 publishedAt: "2025-05-15T00:13:01Z"
 updatedAt: "2026-02-21T06:50:20Z"

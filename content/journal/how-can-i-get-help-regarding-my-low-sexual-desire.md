@@ -2,7 +2,7 @@
 slug: how-can-i-get-help-regarding-my-low-sexual-desire
 title: How Can I Get Help Regarding My Low Sexual Desire?
 italicWord: Desire
-excerpt: "Help. I am a 51-year-old female. I want to get […]"
+excerpt: '1. Help. I am a 51-year-old female. I want to get married again; I’m dating a great guy. There’s nothing he won’t do for me. I have been having a problem...'
 category: Uncategorized
 publishedAt: "2019-11-12T00:00:00Z"
 updatedAt: "2025-01-14T21:57:56Z"

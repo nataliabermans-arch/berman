@@ -2,7 +2,7 @@
 slug: sleepless-in-perimenopause-understanding-and-overcoming-nighttime-struggles
 title: "Sleepless in Perimenopause: Understanding and Overcoming Nighttime Struggles"
 italicWord: Struggles
-excerpt: "Perimenopause, the years leading up to menopause, is a time […]"
+excerpt: 'Perimenopause, the years leading up to menopause, is a time of significant change for women. Hot flashes, mood swings, and irregular periods are just a...'
 category: Uncategorized
 publishedAt: "2024-04-25T17:58:17Z"
 updatedAt: "2025-04-17T08:00:07Z"

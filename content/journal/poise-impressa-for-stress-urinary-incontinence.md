@@ -2,7 +2,7 @@
 slug: poise-impressa-for-stress-urinary-incontinence
 title: Poise Impressa for Stress Urinary Incontinence
 italicWord: Incontinence
-excerpt: "Berman Sexual Health Poise Impressa for Stress Urinary Incontinence Poise […]"
+excerpt: 'Poise Impressa® bladder supports are an over-the-counter solution to stopping urinary leaks before they happen. Watch the clip below that features Dr....'
 category: Pelvic & Urinary
 publishedAt: "2019-01-18T00:00:00Z"
 updatedAt: "2025-02-17T20:21:03Z"

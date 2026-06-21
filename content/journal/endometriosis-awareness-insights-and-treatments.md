@@ -2,9 +2,7 @@
 slug: endometriosis-awareness-insights-and-treatments
 title: "Endometriosis Awareness: Insights and Treatments by Dr. Jennifer Berman"
 italicWord: Berman
-excerpt: >-
-  Dr. Jennifer Berman highlights the significance of endometriosis awareness,
-  stressing […]
+excerpt: 'Dr. Jennifer Berman highlights the significance of endometriosis awareness, stressing the need for early diagnosis to reduce its debilitating effects....'
 category: Uncategorized
 publishedAt: "2024-08-29T06:47:25Z"
 updatedAt: "2026-02-07T08:31:32Z"

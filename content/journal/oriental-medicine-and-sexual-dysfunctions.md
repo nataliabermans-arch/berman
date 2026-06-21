@@ -2,7 +2,7 @@
 slug: oriental-medicine-and-sexual-dysfunctions
 title: Oriental Medicine and Sexual Dysfunctions
 italicWord: Dysfunctions
-excerpt: "Western medical science focuses on human sexuality in terms of […]"
+excerpt: 'Western medical science focuses on human sexuality in terms of anatomy, physiology and psychology. In Eastern cultures, sex is regarded as an art...'
 category: Sexual Health
 publishedAt: "2019-01-26T00:00:00Z"
 updatedAt: "2025-02-17T20:16:02Z"

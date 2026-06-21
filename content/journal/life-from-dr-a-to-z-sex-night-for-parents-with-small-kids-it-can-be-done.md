@@ -2,7 +2,7 @@
 slug: life-from-dr-a-to-z-sex-night-for-parents-with-small-kids-it-can-be-done
 title: Life From Dr. A to Z Sex Night for Parents with Small Kids it Can Be Done
 italicWord: Done
-excerpt: "OK, folks; it’s winter, cold and dark. No one has […]"
+excerpt: 'OK, folks; it’s winter, cold and dark. No one has any money, and none of us knows for sure when things will get better. We need a picker-upper that will...'
 category: Press
 publishedAt: "2025-05-22T01:34:04Z"
 updatedAt: "2025-05-22T01:34:04Z"

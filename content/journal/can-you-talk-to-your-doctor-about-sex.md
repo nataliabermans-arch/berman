@@ -2,7 +2,7 @@
 slug: can-you-talk-to-your-doctor-about-sex
 title: Can You Talk To Your Doctor About Sex?
 italicWord: Sex
-excerpt: "“Woman survives earthquakes, epidemics, the horrors of disease, and all […]"
+excerpt: 'Thanks to a host of new medications and the increased number of patients seeking professional help for their problems, Sexual Dysfunction has become again...'
 category: Sexual Health
 publishedAt: "2018-09-01T00:00:00Z"
 updatedAt: "2025-02-17T21:42:14Z"

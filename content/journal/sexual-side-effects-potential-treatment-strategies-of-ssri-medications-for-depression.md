@@ -5,9 +5,7 @@ title: >-
   Sexual Side Effects, Potential Treatment Strategies of SSRI Medications for
   Depression
 italicWord: Depression
-excerpt: >-
-  Depression often co-exists with sexual dysfunction, and the medical treatment
-  […]
+excerpt: 'Depression often co-exists with sexual dysfunction, and the medical treatment of depression can further worsen sexual symptoms or cause de-novo sexual...'
 category: Uncategorized
 publishedAt: "2025-05-15T00:53:34Z"
 updatedAt: "2026-01-21T05:33:19Z"

@@ -5,7 +5,7 @@ title: >-
   Dr. Berman’s newest service, Emfemme 360, is bringing Vaginal Rejuvenation to
   a new level.
 italicWord: level
-excerpt: "Dr. Jennifer Berman, owner and director of Berman’s Women’s Wellness […]"
+excerpt: 'Dr. Jennifer Berman, owner and director of Berman’s Women’s Wellness Clinic in Beverly Hills, has worked with BTL Aesthetics to bring new and effective...'
 category: Vaginal Rejuvenation
 publishedAt: "2022-08-11T00:00:00Z"
 updatedAt: "2025-12-22T05:47:03Z"

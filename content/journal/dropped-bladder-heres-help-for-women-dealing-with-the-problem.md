@@ -2,7 +2,7 @@
 slug: dropped-bladder-heres-help-for-women-dealing-with-the-problem
 title: "Dropped Bladder: Here’s Help for Women Dealing with the Problem"
 italicWord: Problem
-excerpt: "Dropped bladder is a general term used by doctors and […]"
+excerpt: 'Dropped bladder is a general term used by doctors and patients to describe a condition known as Pelvic Organ Prolapse. Pelvic Organ Prolapse means that...'
 category: Pelvic & Urinary
 publishedAt: "2025-05-15T00:18:23Z"
 updatedAt: "2025-05-15T00:19:58Z"

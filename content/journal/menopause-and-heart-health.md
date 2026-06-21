@@ -2,7 +2,7 @@
 slug: menopause-and-heart-health
 title: Menopause and Heart Health
 italicWord: Health
-excerpt: "The Connection Between Menopause and Heart Disease Menopause is a […]"
+excerpt: 'Menopause is a natural biological process that every woman goes through as she reaches a certain age, typically around 45 to 55 years old. During this...'
 category: Uncategorized
 publishedAt: "2024-09-25T11:25:19Z"
 updatedAt: "2025-03-23T16:52:45Z"

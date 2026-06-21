@@ -5,7 +5,7 @@ title: >-
   Study Finds Womanizer, First Sex Toy to Effectively Treat Women with Orgasmic
   Difficulty
 italicWord: Difficulty
-excerpt: "Clinical Results Reveal the Womanizer is an Effective Treatment Option […]"
+excerpt: 'SAN FRANCISCO, Dec. 12, 2016 /PRNewswire – Today, the pilot study, Treatment of Orgasmic Difficulty in Perimenopausal, Menopausal and Post-Menopausal...'
 category: Uncategorized
 publishedAt: "2024-08-02T07:14:48Z"
 updatedAt: "2026-01-02T16:38:22Z"

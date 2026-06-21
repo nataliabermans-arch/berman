@@ -2,7 +2,7 @@
 slug: i-experienced-a-rapid-decrease-in-my-sex-drive-any-advice
 title: "I Experienced a Rapid Decrease in my Sex Drive, Any Advice?"
 italicWord: Advice
-excerpt: "Married, young, without child – still no libido My sex […]"
+excerpt: '1. Married, young, without child – still no libido My sex drive used to be just fine, although I have never been one to have overwhelming interest or...'
 category: Uncategorized
 publishedAt: "2019-11-12T00:00:00Z"
 updatedAt: "2025-01-14T21:58:59Z"

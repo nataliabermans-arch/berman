@@ -2,7 +2,7 @@
 slug: im-just-a-girl-who-cant-say-no-women-consent-and-sex-research
 title: "“I’m Just a Girl Who Can’t Say No” – Women, Consent, and Sex Research"
 italicWord: Research
-excerpt: "Female sexual functioning is an area that has long been […]"
+excerpt: 'Female sexual functioning is an area that has long been under researched, with many activists arguing greater efforts need to be made to find out more...'
 category: Sexual Health
 publishedAt: "2025-05-15T00:27:37Z"
 updatedAt: "2025-05-15T00:27:37Z"

@@ -2,7 +2,7 @@
 slug: sexual-health-exam
 title: Sexual Health Exam
 italicWord: Exam
-excerpt: "A Comprehensive Evaluation Dr. Jennifer Berman Your sexual health is […]"
+excerpt: 'Your sexual health is nothing to take for granted. And when you go in for a sexual health exam you should be seeing someone who knows female urology and...'
 category: Sexual Health
 publishedAt: "2023-03-09T22:16:02Z"
 updatedAt: "2025-02-14T00:39:26Z"

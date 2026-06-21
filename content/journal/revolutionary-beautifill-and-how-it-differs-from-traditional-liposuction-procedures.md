@@ -5,7 +5,7 @@ title: >-
   Revolutionary Beautifill and how it differs from traditional liposuction
   procedures.
 italicWord: procedures
-excerpt: "Dr. Jennifer Berman is now offering Beautifill, by Alma, a […]"
+excerpt: 'Dr. Jennifer Berman is now offering Beautifill, by Alma, a revolutionary liposuction and fat transfer treatment. Dr. Jennifer Berman is a world-renowned...'
 category: Aesthetic & Regenerative
 publishedAt: "2022-08-11T00:00:00Z"
 updatedAt: "2025-12-28T05:41:14Z"

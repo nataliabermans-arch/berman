@@ -2,7 +2,7 @@
 slug: understanding-menopause
 title: Understanding Menopause
 italicWord: Menopause
-excerpt: "The Definition of Menopause Menopause is a natural biological process […]"
+excerpt: 'Menopause is a natural biological process that marks the end of a woman’s reproductive years. It typically occurs in'
 category: Uncategorized
 publishedAt: "2024-09-25T10:35:11Z"
 updatedAt: "2025-03-23T16:56:08Z"

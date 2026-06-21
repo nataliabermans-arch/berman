@@ -2,7 +2,7 @@
 slug: medical-non-medical-therapies-for-female-sexual-dysfunction-treatment
 title: Medical/Non Medical Therapies for Female Sexual Dysfunction Treatment
 italicWord: Treatment
-excerpt: "Aside from relieving hot flashes and preventing osteoporosis, estrogen can […]"
+excerpt: 'Aside from relieving hot flashes and preventing osteoporosis, estrogen can improve genital Sensation and decrease pain and burning during intercourse. It...'
 category: Sexual Health
 publishedAt: "2018-09-22T00:00:00Z"
 updatedAt: "2025-12-24T05:41:39Z"

@@ -5,7 +5,7 @@ title: >-
   The Menopause Biotype Test – What It Is, How It Works, and Why Every Woman
   Needs to Know
 italicWord: Know
-excerpt: "As women navigate the transition into menopause, each journey […]"
+excerpt: 'As women navigate the transition into menopause, each journey is profoundly unique, shaped by individual factors such as the severity of symptoms, hormone...'
 category: Menopause & Hormones
 publishedAt: "2024-03-09T21:39:30Z"
 updatedAt: "2026-02-19T08:01:46Z"

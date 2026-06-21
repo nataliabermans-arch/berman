@@ -2,7 +2,7 @@
 slug: experiencing-frequent-pain-after-orgasm-what-remedies-can-i-consider
 title: "Experiencing Frequent Pain after Orgasm, What Remedies can I Consider?"
 italicWord: Consider
-excerpt: "Q: I am a 25-year-old female and I hope you […]"
+excerpt: 'Q: I am a 25-year-old female and I hope you can enlighten me. I often experience pain after orgasm. It feels as though my uterus and anus tighten (I’ve...'
 category: Sexual Health
 publishedAt: "2019-11-12T00:00:00Z"
 updatedAt: "2025-12-04T05:34:07Z"

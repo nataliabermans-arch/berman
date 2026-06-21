@@ -2,7 +2,7 @@
 slug: the-second-sexual-revolution-ny-times-feature
 title: The Second Sexual Revolution – NY Times Feature
 italicWord: Feature
-excerpt: "This New York Times article from Jack Hitt, 2000, highlights […]"
+excerpt: 'This New York Times article from Jack Hitt, 2000, highlights Viagra and the growth of sexual enhancement drugs as a whole. The objective of the article...'
 category: Sexual Health
 publishedAt: "2020-01-24T00:00:00Z"
 updatedAt: "2025-02-17T19:58:42Z"

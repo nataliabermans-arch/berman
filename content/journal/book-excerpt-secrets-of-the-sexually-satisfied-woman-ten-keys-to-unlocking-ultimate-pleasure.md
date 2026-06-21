@@ -5,7 +5,7 @@ title: >-
   Book Excerpt: Secrets of the Sexually Satisfied Woman: Ten Keys to Unlocking
   Ultimate Pleasure
 italicWord: Pleasure
-excerpt: "One of the greatest mysteries of life is what constitutes […]"
+excerpt: 'One of the greatest mysteries of life is what constitutes a woman’s sexual satisfaction. This book is about solving that mystery. It’s about making sexual...'
 category: Sexual Health
 publishedAt: "2025-05-15T00:45:12Z"
 updatedAt: "2025-05-15T00:45:12Z"

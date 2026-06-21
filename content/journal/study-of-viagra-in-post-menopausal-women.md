@@ -2,7 +2,7 @@
 slug: study-of-viagra-in-post-menopausal-women
 title: Study of Viagra in Post-Menopausal Women
 italicWord: Women
-excerpt: "Study of Viagra in Post-Menopausal Women Shows Promising Results By […]"
+excerpt: 'Doctor Jennifer Berman, as part of a Sildenafil Study Group in conjunction with the Department of Urology at UCLA Medical Center, have conducted the first...'
 category: Menopause & Hormones
 publishedAt: "2019-11-06T00:00:00Z"
 updatedAt: "2025-12-09T05:35:30Z"

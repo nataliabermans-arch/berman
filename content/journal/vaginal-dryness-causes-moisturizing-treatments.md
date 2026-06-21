@@ -2,7 +2,7 @@
 slug: vaginal-dryness-causes-moisturizing-treatments
 title: Vaginal Dryness Causes and Moisturizing Treatments
 italicWord: Treatments
-excerpt: "Vaginal dryness is a common issue that many women face, […]"
+excerpt: 'Vaginal dryness is a common issue that many women face, but it’s rarely talked about openly. It can lead to discomfort during everyday activities...'
 category: Uncategorized
 publishedAt: "2024-09-26T06:13:58Z"
 updatedAt: "2025-02-13T23:22:46Z"

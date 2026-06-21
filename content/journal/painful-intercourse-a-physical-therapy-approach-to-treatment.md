@@ -2,7 +2,7 @@
 slug: painful-intercourse-a-physical-therapy-approach-to-treatment
 title: "Painful Intercourse: A Physical Therapy Approach to Treatment"
 italicWord: Treatment
-excerpt: "Painful Intercourse is known by the term” dyspareunia” (pronounced dis […]"
+excerpt: 'Painful Intercourse is known by the term” dyspareunia” (pronounced dis pa roo ne a). Every woman has probably experienced it once or twice in her life...'
 category: Sexual Health
 publishedAt: "2025-05-15T00:51:01Z"
 updatedAt: "2025-05-15T00:51:01Z"

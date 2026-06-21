@@ -2,7 +2,7 @@
 slug: emotional-well-being-during-menopause
 title: Emotional Well-being During Menopause
 italicWord: Menopause
-excerpt: "Coping with Mood Swings and Emotional Changes Menopause is a […]"
+excerpt: 'Menopause is a natural phase in a woman’s life that brings about many changes, both physical and emotional. One of the most common symptoms experienced...'
 category: Uncategorized
 publishedAt: "2024-09-25T11:03:54Z"
 updatedAt: "2026-01-06T05:47:55Z"
