@@ -2,7 +2,7 @@
 slug: poise
 title: Poise Impressa for SUI
 italicWord: SUI
-excerpt: 'original article generated on Poise.comWomen in their 30s and 40s experience times during the month when they feel a boost in libido and overall...'
+excerpt: 'Women in their 30s and 40s feel a monthly boost in libido and confidence — the hormonal reason why, and how to anticipate and plan around it.'
 category: Menopause & Hormones
 publishedAt: "2018-10-04T00:00:00Z"
 updatedAt: "2025-02-17T21:38:43Z"
