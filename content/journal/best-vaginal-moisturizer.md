@@ -143,10 +143,6 @@ Finding the right vaginal moisturizer can feel a bit like a guessing game, but i
 
 Remember, while over-the-counter moisturizers are fantastic for managing day-to-day symptoms, they are just one piece of the puzzle. If dryness is persistent or significantly impacting your quality of life, it’s always a good idea to explore more comprehensive solutions. Professional [vaginal rejuvenation treatments](/vaginal-rejuvenation-expert/) can offer deeper, more lasting results by addressing the underlying causes of dryness and tissue changes. Think of these top picks as your first step toward feeling comfortable and confident again, and a conversation with a specialist as the next step if your symptoms don’t resolve.
 
-### Best Overall Vaginal Moisturizer
-
-When it comes to a reliable, effective, and easy-to-use option, Replens Long-Lasting Vaginal Moisturizer is a standout choice. It’s designed to provide continuous moisture for up to three days with a single application, which means you don’t have to think about it every day. The pre-filled, single-use applicators make it hygienic and simple to use correctly. Unlike lubricants that only provide temporary slickness, Replens works by adhering to the vaginal lining and delivering moisture over time, helping to replenish dry cells and restore a more natural feeling. It’s a fantastic starting point for anyone new to vaginal moisturizers.
-
 ### Best Vaginal Moisturizer for Sensitive Skin
 
 If you have sensitive skin, you know how important it is to be mindful of ingredients. Luvena is an excellent choice because it’s free from common irritants like glycerin and parabens. Instead, it uses a gentle, pre-biotic enzyme formula that helps maintain a healthy vaginal pH balance while providing moisture. This focus on supporting your body’s natural ecosystem makes it a particularly gentle yet effective option. For those who find other products cause itching or discomfort, Luvena’s thoughtful formulation can offer relief without the unwanted side effects, making it a safe bet for daily comfort.
@@ -162,6 +158,10 @@ For those who prefer products with clean, plant-derived ingredients, The Honey P
 ### Best Budget-Friendly Vaginal Moisturizer
 
 You don’t need to spend a lot of money to find an effective vaginal moisturizer. What matters most is the formula, not the price tag or the brand name. When you’re comparing budget-friendly options, read the ingredient list carefully: look for a water-based product with a proven hydrator like hyaluronic acid, and confirm it’s free of glycerin, fragrances, and parabens. Plenty of affordable drugstore and online moisturizers meet these criteria—the key is matching the ingredients to your needs and checking the label for glycerin before you buy.
+
+### Also Worth Knowing: Replens
+
+Replens Long-Lasting Vaginal Moisturizer is designed to provide continuous moisture for up to three days with a single application, which means you don’t have to think about it every day. The pre-filled, single-use applicators make it hygienic and simple to use correctly. Unlike lubricants that only provide temporary slickness, Replens works by adhering to the vaginal lining and delivering moisture over time, helping to replenish dry cells and restore a more natural feeling. It is worth noting that Replens does contain glycerin, which is why it isn’t included in our main picks above. If glycerin sensitivity isn’t a concern for you personally, it’s a well-established option worth discussing with your provider.
 
 ## How to Choose the Best Vaginal Moisturizer for You
 
