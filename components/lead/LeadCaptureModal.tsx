@@ -277,11 +277,27 @@ export default function LeadCaptureModal({
           </div>
         ) : (
               <form onSubmit={submit} className="lead-modal-form" noValidate>
-                <p className="lead-kicker">Ready to be heard?</p>
                 <h2 id="lead-modal-title">
-                  {step === 0
-                    ? "Tell us what kind of support would feel useful right now."
-                    : "How should our team reach you?"}
+                  {step === 0 ? (
+                    <>
+                      Book your appointment via{" "}
+                      <a
+                        href="https://calendly.com/nataliabermans/30-min-session"
+                        target="_blank"
+                        rel="noreferrer"
+                        style={{
+                          color: "#f4a3aa",
+                          textDecoration: "underline",
+                          textUnderlineOffset: "3px",
+                        }}
+                      >
+                        Calendly
+                      </a>{" "}
+                      here or fill out the form below and we&apos;ll be in touch.
+                    </>
+                  ) : (
+                    "How should our team reach you?"
+                  )}
                 </h2>
                 <div className="lead-progress" aria-hidden="true">
                   <span className={step === 0 ? "active" : ""} />
