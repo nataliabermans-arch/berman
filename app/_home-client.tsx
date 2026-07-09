@@ -818,7 +818,7 @@ function HomeClient() {
               data-lead-open
               data-cta="open-form"
             >
-              Ready to be heard? <span className="arr">→</span>
+              Book Your Appointment <span className="arr">→</span>
               <BorderBeam
                 size={80}
                 duration={8}
