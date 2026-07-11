@@ -113,9 +113,9 @@ export default function LeadCaptureProvider({
     <>
       {children}
       {shouldShowMobileBanner ? (
-        <div className="lead-mobile-banner" aria-label="Ready to be heard">
+        <div className="lead-mobile-banner" aria-label="Book your appointment">
           <button type="button" data-lead-open>
-            <span>Ready to be heard?</span>
+            <span>Book Your Appointment</span>
           </button>
           <a href={`tel:${PHONE_NUMBER}`} aria-label={`Call ${DISPLAY_PHONE}`}>
             <span className="lead-phone-icon" aria-hidden="true" />
