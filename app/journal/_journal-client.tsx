@@ -30,6 +30,16 @@ function imageFor(article: { featuredImage?: string }) {
   return article.featuredImage || FALLBACK_IMAGE;
 }
 
+// Legacy blog posts reference images on the old WordPress host that no longer
+// resolve. Until the media library is migrated, swap any broken image for the
+// branded fallback instead of showing a broken-image box.
+function handleImageError(e: React.SyntheticEvent<HTMLImageElement>) {
+  const img = e.currentTarget;
+  if (img.dataset.fallbackApplied) return;
+  img.dataset.fallbackApplied = "1";
+  img.src = FALLBACK_IMAGE;
+}
+
 function ItalicHeadline({
   text,
   italicWord,
@@ -120,6 +130,7 @@ function ArticleCard({
       >
         <img
           src={imageFor(article)}
+          onError={handleImageError}
           alt=""
           style={{
             width: "100%",
@@ -244,6 +255,7 @@ function FeatureCard({ article }: { article: CardArticle }) {
       >
         <img
           src={imageFor(article)}
+          onError={handleImageError}
           alt=""
           style={{
             width: "100%",
@@ -369,6 +381,7 @@ function MiniFeatureCard({
       >
         <img
           src={imageFor(article)}
+          onError={handleImageError}
           alt=""
           style={{
             width: "100%",
