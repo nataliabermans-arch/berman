@@ -103,7 +103,7 @@ export default function ReadyToBeHeardSection() {
           transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
           viewport={{ once: true, margin: "-100px" }}
         >
-          Ready to be <em>heard?</em>
+          Book Your <em>Appointment</em>
         </motion.h3>
         <div className="choices">
           <motion.div

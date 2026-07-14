@@ -53,7 +53,7 @@ export default function PageTail() {
             viewport={VIEWPORT}
             transition={{ duration: 0.65, ease: EASE }}
           >
-            Ready to be <em>heard?</em>
+            Book Your <em>Appointment</em>
           </motion.h3>
           <div className="choices">
             <motion.div
@@ -102,7 +102,7 @@ export default function PageTail() {
                   colorTo="#d97580"
                   borderWidth={1.5}
                 />
-                <span className="relative z-10">Ready to be heard? →</span>
+                <span className="relative z-10">Book Your Appointment →</span>
               </button>
             </motion.div>
             <motion.div
@@ -147,7 +147,7 @@ export default function PageTail() {
                   colorTo="#d97580"
                   borderWidth={1.5}
                 />
-                <span className="relative z-10">Ready to be heard? →</span>
+                <span className="relative z-10">Book Your Appointment →</span>
               </button>
             </motion.div>
           </div>

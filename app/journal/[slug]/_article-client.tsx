@@ -27,14 +27,20 @@ function imageFor(article: { featuredImage?: string }) {
   return article.featuredImage || FALLBACK_IMAGE;
 }
 
-// Legacy blog posts reference images on the old WordPress host that no longer
-// resolve. Until the media library is migrated, swap any broken image for the
-// branded fallback instead of showing a broken-image box.
+// Legacy blog posts referenced images on the old WordPress host that no longer
+// resolve (the originals could not be recovered). Instead of a broken-image
+// box, fall back to a clean, consistent soft-cream panel.
+const BLOG_FALLBACK_BG = "#F6F0E3";
 function handleImageError(e: React.SyntheticEvent<HTMLImageElement>) {
   const img = e.currentTarget;
   if (img.dataset.fallbackApplied) return;
   img.dataset.fallbackApplied = "1";
-  img.src = FALLBACK_IMAGE;
+  img.style.display = "none";
+  const box = img.parentElement;
+  if (box) {
+    box.style.background = BLOG_FALLBACK_BG;
+    box.style.backgroundImage = "none";
+  }
 }
 
 const EASE = [0.2, 0.7, 0.2, 1] as [number, number, number, number];
@@ -1073,7 +1079,7 @@ function WhatToDoNext({ target }: { target: ConversionTarget }) {
                 style={primaryBtn}
               >
                 <span style={{ position: "relative", zIndex: 2 }}>
-                  Ready to be heard? →
+                  Book Your Appointment →
                 </span>
                 <BorderBeam
                   size={80}

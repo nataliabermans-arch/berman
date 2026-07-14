@@ -202,7 +202,7 @@ export default function SiteNav({ showCart = false }: SiteNavProps = {}) {
         <div className="feature">
           <div className="eyebrow">New patient</div>
           <h4>
-            Ready to be <em>heard?</em>
+            Book Your <em>Appointment</em>
           </h4>
           <p>
             A 60–90 minute new-patient consult with Dr. Berman. We listen, we

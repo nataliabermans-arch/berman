@@ -27,7 +27,7 @@ const secondaryClasses =
 export default function ReadyButton({
   className,
   variant = "primary",
-  label = "Ready to be heard?",
+  label = "Book Your Appointment",
   size = "md",
 }: ReadyButtonProps) {
   const prefersReducedMotion = useReducedMotion();

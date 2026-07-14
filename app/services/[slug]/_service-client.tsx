@@ -198,7 +198,7 @@ function ServiceDetailClient({ slug }: { slug: ServiceSlug }) {
                     colorTo="#d97580"
                     borderWidth={1.5}
                   />
-                  <span className="relative z-10">Ready to be heard?</span>
+                  <span className="relative z-10">Book Your Appointment</span>
                   <span className="relative z-10">→</span>
                 </a>
                 <a

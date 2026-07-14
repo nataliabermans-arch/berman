@@ -203,7 +203,7 @@ function ServicesOverviewClient() {
                 borderWidth={1.5}
               />
               <span style={{ position: "relative", zIndex: 2 }}>
-                Ready to be heard?
+                Book Your Appointment
               </span>
               <span
                 aria-hidden="true"

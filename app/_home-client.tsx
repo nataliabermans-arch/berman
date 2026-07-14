@@ -321,7 +321,7 @@ function PressSection() {
               colorTo="#d97580"
               borderWidth={1.5}
             />
-            <span className="play">→</span> Ready to be heard?
+            <span className="play">→</span> Book Your Appointment
           </button>
         </div>
       </div>
@@ -864,7 +864,7 @@ function HomeClient() {
           <div className="feature">
             <div className="eyebrow">New patient</div>
             <h4>
-              Ready to be <em>heard?</em>
+              Book Your <em>Appointment</em>
             </h4>
             <p>
               A 60–90 minute new-patient consult with Dr. Berman. We listen, we
@@ -1179,7 +1179,7 @@ function HomeClient() {
                   borderWidth={1.5}
                 />
                 <span className="relative z-10">
-                  Ready to be heard? <span className="arr">→</span>
+                  Book Your Appointment <span className="arr">→</span>
                 </span>
               </button>
             </div>
@@ -1393,7 +1393,7 @@ function HomeClient() {
 
           <div className="ctas">
             <GlowCtaButton href="/contact/" lead variant="primary" size="lg">
-              Ready to be heard
+              Book Your Appointment
             </GlowCtaButton>
             <GlowCtaButton href="/about/" variant="secondary" size="lg">
               Read full bio
@@ -1997,7 +1997,7 @@ function HomeClient() {
             viewport={{ once: true, margin: "-80px" }}
             transition={{ duration: 0.65, ease: [0.2, 0.7, 0.2, 1] }}
           >
-            Ready to be <em>heard?</em>
+            Book Your <em>Appointment</em>
           </motion.h3>
           <div className="choices">
             <motion.div
