@@ -2237,6 +2237,49 @@ function HomeClient() {
           </button>
         </div>
       </div>
+      <div
+        style={{
+          display: "flex",
+          flexWrap: "wrap",
+          alignItems: "center",
+          justifyContent: "space-between",
+          gap: 12,
+          borderTop: "1px solid rgba(26, 10, 16, 0.18)",
+          padding: "18px clamp(20px, 5vw, 56px) 26px",
+          fontFamily: 'var(--font-dm-mono), "DM Mono", monospace',
+          fontSize: 11,
+          letterSpacing: "0.16em",
+          textTransform: "uppercase",
+          color: "var(--ink)",
+        }}
+      >
+        <span>
+          © {new Date().getFullYear()} The Berman Women&apos;s Wellness Center
+        </span>
+        <nav
+          aria-label="Legal"
+          style={{ display: "flex", flexWrap: "wrap", gap: 20 }}
+        >
+          <a
+            href="/privacy-policy/"
+            style={{ color: "inherit", textDecoration: "none" }}
+          >
+            Privacy
+          </a>
+          <a
+            href="/terms-of-use/"
+            style={{ color: "inherit", textDecoration: "none" }}
+          >
+            Terms
+          </a>
+          <a
+            href="/accessibility"
+            style={{ color: "inherit", textDecoration: "none" }}
+          >
+            Accessibility
+          </a>
+        </nav>
+      </div>
     </section>
   );
 }
