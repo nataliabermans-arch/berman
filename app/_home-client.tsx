@@ -2261,13 +2261,13 @@ function HomeClient() {
           style={{ display: "flex", flexWrap: "wrap", gap: 20 }}
         >
           <a
-            href="/privacy-policy/"
+            href="/privacy/"
             style={{ color: "inherit", textDecoration: "none" }}
           >
             Privacy
           </a>
           <a
-            href="/terms-of-use/"
+            href="/terms/"
             style={{ color: "inherit", textDecoration: "none" }}
           >
             Terms

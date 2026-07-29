@@ -15,8 +15,8 @@ const footerLinkStyle: CSSProperties = {
 };
 
 const LEGAL_LINKS = [
-  { label: "Privacy", href: "/privacy-policy/" },
-  { label: "Terms", href: "/terms-of-use/" },
+  { label: "Privacy", href: "/privacy/" },
+  { label: "Terms", href: "/terms/" },
   { label: "Accessibility", href: "/accessibility" },
 ];
 
