@@ -1,6 +1,7 @@
 "use client";
 
 import { usePathname } from "next/navigation";
+import { Phone } from "lucide-react";
 import {
   type ComponentType,
   type ReactNode,
@@ -118,7 +119,7 @@ export default function LeadCaptureProvider({
             <span>Book Your Appointment</span>
           </button>
           <a href={`tel:${PHONE_NUMBER}`} aria-label={`Call ${DISPLAY_PHONE}`}>
-            <span className="lead-phone-icon" aria-hidden="true" />
+            <Phone aria-hidden="true" size={14} strokeWidth={2} />
             <span>Call</span>
           </a>
         </div>
