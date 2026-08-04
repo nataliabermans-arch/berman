@@ -3,7 +3,7 @@
 import { useRef } from "react";
 import { motion } from "motion/react";
 import { BorderBeam } from "@/components/ui/border-beam";
-import { GrainGradient } from "@paper-design/shaders-react";
+import { GrainGradient } from "@/components/ambient/shaders";
 
 export default function BermanBriefSection() {
   const newsRef = useRef<HTMLDivElement | null>(null);

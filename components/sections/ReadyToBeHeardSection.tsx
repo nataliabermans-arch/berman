@@ -3,7 +3,7 @@
 import type { CSSProperties } from "react";
 import { useCallback, useEffect, useRef } from "react";
 import { motion } from "motion/react";
-import { Warp } from "@paper-design/shaders-react";
+import { Warp } from "@/components/ambient/shaders";
 import { BorderBeam } from "@/components/ui/border-beam";
 import { openLeadCapture } from "@/components/lead/LeadCapture";
 

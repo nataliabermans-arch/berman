@@ -6,7 +6,7 @@ import {
   GrainGradient,
   NeuroNoise,
   Warp,
-} from "@paper-design/shaders-react";
+} from "@/components/ambient/shaders";
 import SiteNav from "@/components/layout/SiteNav";
 import SiteFooter from "@/components/layout/SiteFooter";
 import { BorderBeam } from "@/components/ui/border-beam";

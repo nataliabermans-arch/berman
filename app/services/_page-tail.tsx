@@ -2,7 +2,7 @@
 
 import type { CSSProperties } from "react";
 import { motion } from "motion/react";
-import { GrainGradient, Warp } from "@paper-design/shaders-react";
+import { GrainGradient, Warp } from "@/components/ambient/shaders";
 import { BorderBeam } from "@/components/ui/border-beam";
 
 const EASE = [0.2, 0.7, 0.2, 1] as [number, number, number, number];

@@ -3,7 +3,7 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { motion, useScroll, useSpring } from "motion/react";
-import { GrainGradient, MeshGradient } from "@paper-design/shaders-react";
+import { GrainGradient, MeshGradient } from "@/components/ambient/shaders";
 import ReactMarkdown, { type Components } from "react-markdown";
 import remarkGfm from "remark-gfm";
 

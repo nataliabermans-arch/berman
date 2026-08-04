@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "motion/react";
-import { MeshGradient } from "@paper-design/shaders-react";
+import { MeshGradient } from "@/components/ambient/shaders";
 
 import SiteNav from "@/components/layout/SiteNav";
 import SiteFooter from "@/components/layout/SiteFooter";

@@ -3,7 +3,7 @@
 import { Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import { motion } from "motion/react";
-import { GrainGradient, MeshGradient } from "@paper-design/shaders-react";
+import { GrainGradient, MeshGradient } from "@/components/ambient/shaders";
 
 import SiteNav from "@/components/layout/SiteNav";
 import SiteFooter from "@/components/layout/SiteFooter";

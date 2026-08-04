@@ -6,7 +6,7 @@ import {
   GrainGradient,
   MeshGradient,
   NeuroNoise,
-} from "@paper-design/shaders-react";
+} from "@/components/ambient/shaders";
 
 import AddToCartButton from "@/components/commerce/AddToCartButton";
 import {

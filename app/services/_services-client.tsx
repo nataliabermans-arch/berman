@@ -6,7 +6,7 @@ import {
   MeshGradient,
   GrainGradient,
   NeuroNoise,
-} from "@paper-design/shaders-react";
+} from "@/components/ambient/shaders";
 import { BorderBeam } from "@/components/ui/border-beam";
 import {
   SERVICES,

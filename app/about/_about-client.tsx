@@ -5,7 +5,7 @@ import {
   MeshGradient,
   GrainGradient,
   SmokeRing,
-} from "@paper-design/shaders-react";
+} from "@/components/ambient/shaders";
 import SiteNav from "@/components/layout/SiteNav";
 import SiteFooter from "@/components/layout/SiteFooter";
 import PageTail from "../services/_page-tail";

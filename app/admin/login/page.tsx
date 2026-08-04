@@ -2,7 +2,7 @@
 
 import { useState, type FormEvent } from "react";
 import { useRouter } from "next/navigation";
-import { GrainGradient } from "@paper-design/shaders-react";
+import { GrainGradient } from "@/components/ambient/shaders";
 import { Eye, EyeOff } from "lucide-react";
 
 export default function AdminLoginPage() {

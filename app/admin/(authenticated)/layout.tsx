@@ -3,7 +3,7 @@
 import type { ReactNode } from "react";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
-import { GrainGradient } from "@paper-design/shaders-react";
+import { GrainGradient } from "@/components/ambient/shaders";
 
 const NAV = [
   { href: "/admin", label: "Dashboard" },

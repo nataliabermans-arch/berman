@@ -20,12 +20,11 @@ import {
   MeshGradient,
   NeuroNoise,
   Warp,
-} from "@paper-design/shaders-react";
+} from "@/components/ambient/shaders";
 import { CardContainer, CardBody, CardItem } from "@/components/ui/3d-card";
 // CursorLight import removed — manifesto was the only consumer; other dark sections use the cursor-light injection effect (see useEffect below)
 
 const HERO_VIDEO_POSTER = "/video/sizzle-poster-v1.jpg";
-const HERO_MOBILE_VIDEO = "/video/sizzle-mobile-v1.mp4";
 const HERO_DESKTOP_VIDEO = "/video/sizzle-desktop-v1.mp4";
 const WELCOME_VIDEO = "/video/welcome-v1.mp4";
 const FULLSCREEN_SHADER_PROPS = {
@@ -89,8 +88,20 @@ function isFinePointerDevice() {
 
 function HeroVideo() {
   const videoRef = useRef<HTMLVideoElement | null>(null);
+  // Phones show the poster image only — no video download or continuous decode
+  // loop (a major mobile main-thread cost). Desktop keeps the full autoplay video.
+  const [desktop, setDesktop] = useState(false);
 
   useEffect(() => {
+    const mq = window.matchMedia("(min-width: 768px)");
+    const update = () => setDesktop(mq.matches);
+    update();
+    mq.addEventListener?.("change", update);
+    return () => mq.removeEventListener?.("change", update);
+  }, []);
+
+  useEffect(() => {
+    if (!desktop) return;
     const video = videoRef.current;
     if (!video) return;
 
@@ -116,7 +127,19 @@ function HeroVideo() {
       window.removeEventListener("touchstart", play);
       window.removeEventListener("pointerdown", play);
     };
-  }, []);
+  }, [desktop]);
+
+  if (!desktop) {
+    return (
+      // eslint-disable-next-line @next/next/no-img-element
+      <img
+        className="e-hero-video"
+        src={HERO_VIDEO_POSTER}
+        alt=""
+        aria-hidden="true"
+      />
+    );
+  }
 
   return (
     <video
@@ -130,11 +153,6 @@ function HeroVideo() {
       poster={HERO_VIDEO_POSTER}
       aria-hidden="true"
     >
-      <source
-        src={HERO_MOBILE_VIDEO}
-        type="video/mp4"
-        media="(max-width: 767px)"
-      />
       <source
         src={HERO_DESKTOP_VIDEO}
         type="video/mp4"

@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { AnimatePresence, motion } from "motion/react";
-import { GrainGradient } from "@paper-design/shaders-react";
+import { GrainGradient } from "@/components/ambient/shaders";
 import { BorderBeam } from "@/components/ui/border-beam";
 import { useCartStore, subtotal, totalItems } from "@/lib/commerce/cart-store";
 import type { CartLine } from "@/lib/commerce/types";

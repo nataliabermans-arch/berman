@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "motion/react";
-import { MeshGradient, GrainGradient } from "@paper-design/shaders-react";
+import { MeshGradient, GrainGradient } from "@/components/ambient/shaders";
 import SiteNav from "@/components/layout/SiteNav";
 import SiteFooter from "@/components/layout/SiteFooter";
 import PageTail from "../services/_page-tail";

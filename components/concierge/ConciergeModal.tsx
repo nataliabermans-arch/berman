@@ -11,7 +11,7 @@ import {
   type MutableRefObject,
 } from "react";
 import { AnimatePresence, motion, useReducedMotion } from "motion/react";
-import { GrainGradient } from "@paper-design/shaders-react";
+import { GrainGradient } from "@/components/ambient/shaders";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { BorderBeam } from "@/components/ui/border-beam";
