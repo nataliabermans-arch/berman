@@ -324,7 +324,7 @@ function ServicesOverviewClient() {
               textAlign: "center",
             }}
           >
-            The Index · Six Specialties
+            The Index · Seven Specialties
           </motion.div>
           <motion.h3
             {...fadeUp(0.13, 22)}
@@ -460,14 +460,14 @@ function ServicesOverviewClient() {
                 </a>
               </motion.li>
             ))}
-            {/* 7th row — Berman Supplements (product line, different CTA) */}
+            {/* 8th row — Berman Supplements (product line, different CTA) */}
             <motion.li
               initial={{ opacity: 0, y: 24 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={viewportOnce}
               transition={{
                 duration: 0.55,
-                delay: 0.06 + 6 * 0.08,
+                delay: 0.06 + 7 * 0.08,
                 ease,
               }}
               style={{
@@ -489,7 +489,7 @@ function ServicesOverviewClient() {
                   letterSpacing: "0.02em",
                 }}
               >
-                N° 07
+                N° 08
               </span>
               <a
                 href="/services/supplements/"

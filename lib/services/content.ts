@@ -1,5 +1,5 @@
 /**
- * Service catalog — six clinical specialties + the overview spreads.
+ * Service catalog — seven clinical specialties + the overview spreads.
  * Source of truth for /services and /services/[slug].
  *
  * Italic-emphasis convention: the `italicWord` of each headline is the noun/verb
@@ -12,7 +12,8 @@ export type ServiceSlug =
   | "pelvic-urinary"
   | "vaginal-rejuvenation"
   | "aesthetic-regenerative"
-  | "body-contouring";
+  | "body-contouring"
+  | "peptide-therapy";
 
 export interface AtAGlance {
   consultation: string;
@@ -109,7 +110,7 @@ export const SERVICES: SpecialtyContent[] = [
     slug: "menopause-hormones",
     name: "Menopause & Hormone Therapy",
     num: "01",
-    eyebrowTag: "Menopause & Hormones · 01 of 06",
+    eyebrowTag: "Menopause & Hormones · 01 of 07",
     hero: {
       headline: "Menopause &\nhormone therapy.",
       italicWord: "hormone therapy",
@@ -284,7 +285,7 @@ export const SERVICES: SpecialtyContent[] = [
     slug: "sexual-health",
     name: "Sexual Health & Intimacy",
     num: "02",
-    eyebrowTag: "Sexual Health · 02 of 06",
+    eyebrowTag: "Sexual Health · 02 of 07",
     hero: {
       headline: "Female sexual\ndysfunction.",
       italicWord: "dysfunction.",
@@ -460,7 +461,7 @@ export const SERVICES: SpecialtyContent[] = [
     slug: "pelvic-urinary",
     name: "Pelvic Floor & Urinary Health",
     num: "03",
-    eyebrowTag: "Pelvic & Urinary · 03 of 06",
+    eyebrowTag: "Pelvic & Urinary · 03 of 07",
     hero: {
       headline: "Pelvic floor &\nurinary health.",
       italicWord: "urinary health.",
@@ -635,7 +636,7 @@ export const SERVICES: SpecialtyContent[] = [
     slug: "vaginal-rejuvenation",
     name: "Vaginal Rejuvenation",
     num: "04",
-    eyebrowTag: "Vaginal Rejuvenation · 04 of 06",
+    eyebrowTag: "Vaginal Rejuvenation · 04 of 07",
     hero: {
       headline: "Vaginal\nrejuvenation.",
       italicWord: "rejuvenation.",
@@ -810,11 +811,11 @@ export const SERVICES: SpecialtyContent[] = [
     slug: "aesthetic-regenerative",
     name: "Aesthetic & Regenerative Medicine",
     num: "05",
-    eyebrowTag: "Aesthetic & Regenerative · 05 of 06",
+    eyebrowTag: "Aesthetic & Regenerative · 05 of 07",
     hero: {
       headline: "Aesthetic &\nregenerative medicine.",
       italicWord: "regenerative medicine.",
-      sub: "Botox. Filler. PRP and PRF. Skin tightening. Regenerative protocols. Practiced as medicine — restrained, indication-led, and tuned to look like you on a better day, not someone else.",
+      sub: "Dermal filler. PRP and PRF. Peptides. Skin tightening. Regenerative protocols. Practiced as medicine — restrained, indication-led, and tuned to look like you on a better day, not someone else.",
     },
     atAGlance: {
       consultation: "45–60 min",
@@ -827,21 +828,21 @@ export const SERVICES: SpecialtyContent[] = [
       italicWord: "measured intervention.",
     },
     spreadLede:
-      "Botox and dermal filler done with restraint. PRP/PRF, exosomes, and skin tightening for genuinely regenerative results. The plan is what most patients want — to look like themselves, rested.",
+      "Dermal filler done with restraint. PRP/PRF, peptides, exosomes, and skin tightening for genuinely regenerative results. The plan is what most patients want — to look like themselves, rested.",
     treatmentChips: [
-      "Botox",
+      "Peptide therapy",
       "Dermal filler",
       "PRP / PRF",
+      "Morpheus 8",
       "Skin tightening",
-      "Microneedling",
       "Regenerative protocols",
     ],
     symptoms: [
       {
         ix: "01",
-        title: "Forehead & glabella lines",
-        italicWord: "lines",
-        body: "Dynamic wrinkles from facial expression. Botox or Dysport, conservatively dosed to preserve natural movement.",
+        title: "Fine lines & skin quality",
+        italicWord: "skin quality",
+        body: "Early lines, dullness, and lax texture from age and sun. Morpheus 8 resurfacing, microneedling with PRP, and regenerative peptide protocols — restoring skin quality gradually and naturally.",
       },
       {
         ix: "02",
@@ -922,7 +923,7 @@ export const SERVICES: SpecialtyContent[] = [
       {
         when: "Week 2–3",
         title: "First treatment",
-        body: "Initial Botox / filler / PRP performed. Aftercare instructions, photo documentation, recovery expectations.",
+        body: "Initial filler / Morpheus 8 / PRP performed. Aftercare instructions, photo documentation, recovery expectations.",
       },
       {
         when: "Week 4",
@@ -942,7 +943,7 @@ export const SERVICES: SpecialtyContent[] = [
     faqs: [
       {
         q: "Will I look “done”?",
-        a: "Not in this practice. The aesthetic philosophy is restraint — we dose Botox below maximum so expression is preserved, place filler structurally rather than in the lips, and refuse to overfill. The goal is that nobody can tell, but they notice you look rested.",
+        a: "Not in this practice. The aesthetic philosophy is restraint — we place filler structurally rather than in the lips, keep regenerative and resurfacing protocols conservative, and refuse to overfill. The goal is that nobody can tell, but they notice you look rested.",
       },
       {
         q: "How is the regenerative side different from a med spa?",
@@ -952,7 +953,7 @@ export const SERVICES: SpecialtyContent[] = [
       sharedFaqs.whoYouSee,
       {
         q: "How long do results last?",
-        a: "Botox: 3–4 months. Filler: 9–18 months depending on type and area. PRP: 9–12 months. Forma RF: typically 12–18 months with maintenance. We build a maintenance schedule into your plan.",
+        a: "Filler: 9–18 months depending on type and area. PRP: 9–12 months. Morpheus 8 and Forma RF: typically 12–18 months with maintenance. Peptide protocols are ongoing and reviewed at each visit. We build a maintenance schedule into your plan.",
       },
     ],
     finalCta: {
@@ -965,7 +966,7 @@ export const SERVICES: SpecialtyContent[] = [
     seo: {
       title: "Aesthetic & Regenerative Medicine — Dr. Jennifer Berman",
       description:
-        "Botox, dermal filler, PRP/PRF, microneedling, skin tightening, and regenerative protocols — practiced with restraint and tuned to look like you on a better day.",
+        "Dermal filler, PRP/PRF, peptides, Morpheus 8, microneedling, and skin tightening — regenerative aesthetic medicine practiced with restraint and tuned to look like you on a better day.",
     },
     procedureType: "MedicalProcedure",
   },
@@ -973,11 +974,11 @@ export const SERVICES: SpecialtyContent[] = [
     slug: "body-contouring",
     name: "Body Contouring & Weight Loss",
     num: "06",
-    eyebrowTag: "Body Contouring · 06 of 06",
+    eyebrowTag: "Body Contouring · 06 of 07",
     hero: {
       headline: "Body contouring &\nweight loss.",
       italicWord: "weight loss.",
-      sub: "Emsculpt NEO, Forma, BeautiFill, Evolve, Cellutone, Contoura, and a medically supervised weight-loss program — used together, the way they were meant to be.",
+      sub: "Emsculpt NEO, Forma, Cellutone, Contoura, and a medically supervised weight-loss program — used together, the way they were meant to be.",
     },
     seoSupport: {
       text: "Body contouring Beverly Hills patients can pair Emsculpt NEO, body sculpting, cellulite treatment, and physician-led medical weight loss.",
@@ -994,12 +995,10 @@ export const SERVICES: SpecialtyContent[] = [
       italicWord: "combined protocols.",
     },
     spreadLede:
-      "Non-invasive contouring devices, BeautiFill laser-assisted lipo, and a physician-led weight-loss program — combined into a plan, not sold a la carte.",
+      "Non-invasive contouring devices — Emsculpt NEO, Forma, Cellutone — and a physician-led weight-loss program, combined into a plan, not sold a la carte.",
     treatmentChips: [
       "Emsculpt NEO",
       "Forma",
-      "BeautiFill",
-      "Evolve",
       "Cellutone",
       "Contoura",
       "Medical weight loss",
@@ -1009,7 +1008,7 @@ export const SERVICES: SpecialtyContent[] = [
         ix: "01",
         title: "Stubborn fat",
         italicWord: "Stubborn fat",
-        body: "Diet- and exercise-resistant pockets. Abdomen, flanks, thighs, arms. Emsculpt NEO + targeted device protocols, BeautiFill where indicated.",
+        body: "Diet- and exercise-resistant pockets. Abdomen, flanks, thighs, arms. Emsculpt NEO plus targeted non-invasive device protocols, with surgical referral where indicated.",
       },
       {
         ix: "02",
@@ -1021,7 +1020,7 @@ export const SERVICES: SpecialtyContent[] = [
         ix: "03",
         title: "Skin laxity",
         italicWord: "Skin laxity",
-        body: "Body skin laxity post-weight-loss or post-pregnancy. Forma and Evolve for non-invasive tightening; surgical referral when indicated.",
+        body: "Body skin laxity post-weight-loss or post-pregnancy. Forma for non-invasive tightening; surgical referral when indicated.",
       },
       {
         ix: "04",
@@ -1039,7 +1038,7 @@ export const SERVICES: SpecialtyContent[] = [
         ix: "06",
         title: "Post-procedure recovery",
         italicWord: "Recovery",
-        body: "Recovery support after BeautiFill, surgical procedures, or body contouring. Lymphatic, regenerative, and tissue-support protocols.",
+        body: "Recovery support after surgical procedures or body contouring. Lymphatic, regenerative, and tissue-support protocols.",
       },
     ],
     processHeading: {
@@ -1063,7 +1062,7 @@ export const SERVICES: SpecialtyContent[] = [
         num: "03",
         title: "Treatment course",
         italicWord: "Treatment course",
-        body: "Combined device protocol (Emsculpt NEO is typically 4 sessions, twice weekly). BeautiFill performed in one session. Weight-loss program ongoing.",
+        body: "Combined device protocol (Emsculpt NEO is typically 4 sessions, twice weekly). Weight-loss program ongoing.",
       },
       {
         num: "04",
@@ -1120,10 +1119,6 @@ export const SERVICES: SpecialtyContent[] = [
         q: "Does Emsculpt NEO actually build muscle?",
         a: "Yes — published trials show measurable muscle gain (about 25%) and fat reduction (about 30%) over a 4-session course. It’s the only device cleared for both fat and muscle. The patient stays clothed and seated; the session is 30 minutes.",
       },
-      {
-        q: "Is BeautiFill the same as liposuction?",
-        a: "BeautiFill is a laser-assisted lipo technique. It uses laser energy to liquefy fat before extraction, which often means smoother contour and faster recovery than traditional lipo. It is a surgical procedure, performed in-office under local anesthesia, with a 1–2 week recovery.",
-      },
       sharedFaqs.insurance,
       sharedFaqs.whoYouSee,
       {
@@ -1145,6 +1140,177 @@ export const SERVICES: SpecialtyContent[] = [
     },
     procedureType: "MedicalProcedure",
   },
+  {
+    slug: "peptide-therapy",
+    name: "Peptide Therapy",
+    num: "07",
+    eyebrowTag: "Peptide Therapy · 07 of 07",
+    hero: {
+      headline: "Peptide\ntherapy.",
+      italicWord: "therapy.",
+      sub: "Targeted signaling molecules for libido, skin, hair, recovery, and metabolic health — prescribed as medicine, dosed to your labs, and supervised by a physician. Not a wellness trend, a protocol.",
+    },
+    seoSupport: {
+      text: "Physician-supervised peptide therapy in Beverly Hills — PT-141, GHK-Cu, and regenerative protocols for greater Los Angeles patients.",
+      italicWord: "peptide therapy",
+    },
+    atAGlance: {
+      consultation: "45–60 min",
+      followUp: "4–6 wks",
+      setting: "In-person + telehealth",
+      insurance: "Out-of-network",
+    },
+    treatsHeading: {
+      text: "Six ways targeted peptides do what a generic supplement can’t.",
+      italicWord: "targeted peptides",
+    },
+    spreadLede:
+      "PT-141 for desire, GHK-Cu for skin and hair, GLP-based support for metabolic health, and regenerative peptide protocols for recovery — matched to your labs and goals, not sold off a shelf.",
+    treatmentChips: [
+      "PT-141",
+      "GHK-Cu",
+      "Libido & arousal",
+      "Skin & hair",
+      "Recovery",
+      "Metabolic support",
+    ],
+    symptoms: [
+      {
+        ix: "01",
+        title: "Low libido & arousal",
+        italicWord: "libido",
+        body: "PT-141 (bremelanotide) works on the central desire pathway rather than blood flow alone — an option for women whose low desire hasn’t fully responded to hormones.",
+      },
+      {
+        ix: "02",
+        title: "Skin quality & aging",
+        italicWord: "Skin quality",
+        body: "GHK-Cu copper peptides support collagen, tone, and repair — used in-protocol alongside Morpheus 8 and microneedling for skin that looks rested, not reworked.",
+      },
+      {
+        ix: "03",
+        title: "Hair thinning",
+        italicWord: "Hair thinning",
+        body: "Female-pattern thinning and diffuse shedding. Regenerative peptide and PRP scalp protocols, paired with a hormonal workup to treat the cause, not just the symptom.",
+      },
+      {
+        ix: "04",
+        title: "Recovery & repair",
+        italicWord: "Recovery",
+        body: "Support for tissue recovery after procedures, injury, or training. Regenerative peptide protocols selected and monitored by a physician — not ordered off the internet.",
+      },
+      {
+        ix: "05",
+        title: "Energy, sleep & vitality",
+        italicWord: "vitality",
+        body: "Fatigue, poor sleep, and low drive that persist after hormones are optimized. Peptides are layered onto — never instead of — a real hormonal and metabolic workup.",
+      },
+      {
+        ix: "06",
+        title: "Metabolic & weight support",
+        italicWord: "Metabolic",
+        body: "GLP-based peptides for appetite and metabolic health, prescribed inside a medically supervised program with labs, follow-up, and a plan for holding results.",
+      },
+    ],
+    processHeading: {
+      text: "A real workup, then a protocol — not a peptide off a shelf.",
+      italicWord: "a protocol",
+    },
+    process: [
+      {
+        num: "01",
+        title: "Intake & history",
+        italicWord: "Intake",
+        body: "A 45–60 minute consultation. Symptoms, goals, medications, and a review of what you’ve already tried and how it went.",
+      },
+      {
+        num: "02",
+        title: "Diagnostics",
+        italicWord: "Diagnostics",
+        body: "Hormone panel and relevant metabolic labs where indicated, so peptides are prescribed to a picture — not a guess.",
+      },
+      {
+        num: "03",
+        title: "Protocol",
+        italicWord: "Protocol",
+        body: "A written peptide protocol — molecule, dose, route, and duration — with the rationale for each and how it fits your hormonal and aesthetic plan.",
+      },
+      {
+        num: "04",
+        title: "Follow-up",
+        italicWord: "Follow-up",
+        body: "Re-evaluation at 4–6 weeks. Response reviewed, dosing tuned, protocols added or stopped based on how you actually respond.",
+      },
+    ],
+    expectHeading: {
+      text: "The first ninety days, in honest detail.",
+      italicWord: "first ninety days,",
+    },
+    expect: [
+      {
+        when: "Week 0",
+        title: "Booking & intake",
+        body: "Health intake and goals submitted online before the first appointment, so the visit is spent on you and not paperwork.",
+      },
+      {
+        when: "Week 1",
+        title: "Consultation",
+        body: "45–60 min in-person or telehealth. History, labs ordered where indicated, first protocol outlined.",
+      },
+      {
+        when: "Week 2–3",
+        title: "Protocol start",
+        body: "Once labs are reviewed, your protocol begins. Dosing, administration, and what to expect are walked through in full.",
+      },
+      {
+        when: "Week 6",
+        title: "First follow-up",
+        body: "Response review. Dosing adjustments. Additional support added only where it earns its place.",
+      },
+      {
+        when: "Week 12",
+        title: "Plan optimization",
+        body: "By now most patients know what’s working. Focus shifts to a sustainable maintenance protocol.",
+      },
+    ],
+    faqHeading: {
+      text: "Questions most patients ask.",
+      italicWord: "most patients ask.",
+    },
+    faqs: [
+      {
+        q: "What is peptide therapy?",
+        a: "Peptides are short chains of amino acids that act as signaling molecules in the body. Peptide therapy uses specific, targeted peptides — like PT-141 for desire or GHK-Cu for skin — prescribed and monitored by a physician toward a defined goal, rather than a generic over-the-counter supplement.",
+      },
+      {
+        q: "Is peptide therapy safe?",
+        a: "Prescribed and monitored by a physician, with the right labs and follow-up, peptide protocols have a strong safety profile for appropriate candidates. Most of the risk comes from unregulated, self-sourced products — which is exactly why this is done as medicine, in-clinic, with oversight.",
+      },
+      {
+        q: "Can peptides help with low libido?",
+        a: "For some women, yes. PT-141 (bremelanotide) acts on the central nervous system pathways involved in desire and can be an option when low libido hasn’t fully responded to hormonal treatment. Whether it’s appropriate depends on your history and workup.",
+      },
+      sharedFaqs.insurance,
+      sharedFaqs.whoYouSee,
+      {
+        q: "Do peptides replace hormone therapy?",
+        a: "No. Peptides are layered onto a proper hormonal and metabolic plan, not used instead of one. The workup comes first; peptides are added where they do something the rest of the plan can’t.",
+      },
+    ],
+    finalCta: {
+      headline: "The right peptide, for the right reason, with a doctor watching the labs.",
+      italicWord: "the right reason,",
+      sub: "The first appointment is the diagnostic conversation. No commitment to a protocol, no pressure on the day.",
+    },
+    heroImage: "/images/services/anti-aging-regenerative.jpg",
+    spreadImage: "/images/services/anti-aging-regenerative.jpg",
+    seo: {
+      title: "Peptide Therapy Beverly Hills | PT-141, GHK-Cu & Regenerative",
+      description:
+        "Physician-supervised peptide therapy with Dr. Jennifer Berman in Beverly Hills — PT-141 for libido, GHK-Cu for skin and hair, and regenerative and metabolic peptide protocols for greater Los Angeles patients.",
+    },
+    procedureType: "MedicalTherapy",
+  },
 ];
 
 export const SERVICE_BY_SLUG: Record<ServiceSlug, SpecialtyContent> =
@@ -1163,14 +1329,14 @@ export const OVERVIEW_HERO = {
   eyebrow: "Beverly Hills women's wellness treatments",
   headline: "Care designed for the way women’s bodies actually work.",
   italicWord: "women’s bodies",
-  sub: "Menopause and hormone therapy, female sexual medicine, pelvic and urinary health, vaginal rejuvenation, aesthetic regenerative care, and body contouring — one physician-led plan for Beverly Hills and greater Los Angeles patients.",
+  sub: "Menopause and hormone therapy, female sexual medicine, pelvic and urinary health, vaginal rejuvenation, aesthetic regenerative care, body contouring, and peptide therapy — one physician-led plan for Beverly Hills and greater Los Angeles patients.",
 };
 
 export const OVERVIEW_INTRO = {
   eyebrow: "One practice",
   headline: "Women's wellness treatments in Beverly Hills, built around one physician-led plan.",
   italicWord: "physician-led plan.",
-  sub: "The clinical surface area most clinics split into half a dozen referrals — menopause, hormones, sexual health, pelvic medicine, regenerative care, and body composition — done in one practice, by one physician, with one plan that crosses specialties.",
+  sub: "The clinical surface area most clinics split into a stack of referrals — menopause, hormones, sexual health, pelvic medicine, regenerative care, body composition, and peptide therapy — done in one practice, by one physician, with one plan that crosses specialties.",
 };
 
 export const OVERVIEW_APPROACH = {

@@ -1058,7 +1058,7 @@ function HomeClient() {
                     </>
                   ),
                   photoSrc: "/images/practice/senior-glow.webp",
-                  desc: "Botox · filler · PRP/PRF · skin tightening",
+                  desc: "Filler · PRP/PRF · peptides · skin tightening",
                   arrow: "Open →",
                   href: "/aesthetic-treatments/",
                 },
@@ -1123,7 +1123,7 @@ function HomeClient() {
                     </>
                   ),
                   photoSrc: "/images/practice/blonde-laughing.webp",
-                  desc: "Emsculpt NEO · Forma · BeautiFill · weight loss",
+                  desc: "Emsculpt NEO · Forma · Cellutone · weight loss",
                   arrow: "Open →",
                   href: "/body-contouring/",
                 },

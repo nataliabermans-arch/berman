@@ -28,7 +28,7 @@ export const TOOLS: Tool[] = [
         recommended_specialty: {
           type: "string",
           description:
-            "Slug of the recommended specialty (one of: menopause-hormones, sexual-health, pelvic-urinary, vaginal-rejuvenation, aesthetic-regenerative, body-contouring) — or empty if unclear",
+            "Slug of the recommended specialty (one of: menopause-hormones, sexual-health, pelvic-urinary, vaginal-rejuvenation, aesthetic-regenerative, body-contouring, peptide-therapy) — or empty if unclear",
         },
         visit_type_preference: {
           type: "string",
@@ -135,19 +135,32 @@ const SPECIALTY_KEYWORDS: Array<[string, string[]]> = [
   ],
   [
     "aesthetic-regenerative",
-    ["botox", "filler", "skin", "wrinkle", "hair", "aesthetic", "cosmetic"],
+    [
+      "filler",
+      "skin",
+      "wrinkle",
+      "hair",
+      "aesthetic",
+      "cosmetic",
+      "morpheus",
+      "microneedling",
+    ],
   ],
   [
     "body-contouring",
+    ["weight", "fat", "body", "emsculpt", "forma", "contour", "cellulite"],
+  ],
+  [
+    "peptide-therapy",
     [
-      "weight",
-      "fat",
-      "body",
-      "emsculpt",
-      "forma",
-      "beautifill",
-      "contour",
-      "cellulite",
+      "peptide",
+      "pt-141",
+      "pt 141",
+      "bremelanotide",
+      "ghk",
+      "ghk-cu",
+      "regenerative",
+      "recovery",
     ],
   ],
 ];
