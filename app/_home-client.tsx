@@ -2274,6 +2274,25 @@ function HomeClient() {
         <span>
           © {new Date().getFullYear()} The Berman Women&apos;s Wellness Center
         </span>
+        <a
+          href="https://www.legitscript.com/websites/?checker_keywords=bermansexualhealth.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Verify LegitScript Approval for www.bermansexualhealth.com"
+          aria-label="Verify LegitScript Approval for Berman Sexual Health"
+          style={{ display: "inline-flex", flex: "0 0 auto", alignItems: "center" }}
+        >
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src="https://static.legitscript.com/seals/18241954.png"
+            alt="Verify LegitScript Approval for www.bermansexualhealth.com"
+            width={110}
+            height={119}
+            loading="lazy"
+            decoding="async"
+            style={{ display: "block", width: 110, height: "auto" }}
+          />
+        </a>
         <nav
           aria-label="Legal"
           style={{ display: "flex", flexWrap: "wrap", gap: 20 }}
