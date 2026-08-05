@@ -116,7 +116,7 @@ On average, a single Morpheus 8 session can range anywhere from $600 to $4,000. 
 
 ### Factors That Affect Your Total Price
 
-Several key factors influence the total price of your Morpheus 8 treatment. The size of the area you want to treat is a major one; a smaller area will naturally cost less than a larger one like the full face and neck. Most people also need a series of sessions to achieve their desired outcome, and clinics often offer package pricing that can lower the cost per treatment. Finally, the provider’s expertise and geographic location play a role. A board-certified expert like [Dr. Berman](/about/) brings a level of skill and safety that is reflected in the quality of your results.
+Several key factors influence the total price of your Morpheus 8 treatment. The size of the area you want to treat is a major one; a smaller area will naturally cost less than a larger one like the full face and neck. Most people also need a series of sessions to achieve their desired outcome, and clinics often offer package pricing that can lower the cost per treatment. Finally, the provider’s expertise and geographic location play a role. An expert like [Dr. Berman](/about/) brings a level of skill and safety that is reflected in the quality of your results.
 
 ## Are There Any Risks or Side Effects?
 

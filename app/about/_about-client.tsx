@@ -247,7 +247,10 @@ const GLANCE: { dt: string; dd: React.ReactNode }[] = [
     dt: "Specialty",
     dd: (
       <>
-        Board-certified <em style={{ color: "#8a3a44" }}>urologist</em>
+        Female <em style={{ color: "#8a3a44" }}>urologist</em> and pelvic floor
+        reconstructive surgeon
+        <br />
+        Menopause and sexual health <em style={{ color: "#8a3a44" }}>expert</em>
       </>
     ),
   },
@@ -528,8 +531,9 @@ export default function AboutClient() {
           }}
         >
           <span>
-            Board-certified ·{" "}
-            <b style={{ color: "#ffeae0", fontWeight: 600 }}>Urology</b>
+            Female{" "}
+            <b style={{ color: "#ffeae0", fontWeight: 600 }}>Urology</b> &amp;
+            Pelvic Floor
           </span>
           <span style={{ color: "#d99ba1" }}>·</span>
           <span>

@@ -40,7 +40,7 @@ The growth factors in the PRP get to work rejuvenating vaginal and clitoral tiss
 
 ### Why an expert provider makes all the difference
 
-The O-Shot is a precise medical procedure, not a simple cosmetic treatment. The person administering the shot needs a deep understanding of female anatomy and the specific techniques required to deliver the PRP to the right places for optimal results. An [expert provider](/about/) like a board-certified gynecologist or urologist has the specialized training to perform the procedure safely and effectively. They know how to minimize risks and tailor the treatment to your unique body and goals. Choosing a qualified doctor ensures you’re in capable hands, giving you peace of mind and the best possible chance of achieving the outcome you desire.
+The O-Shot is a precise medical procedure, not a simple cosmetic treatment. The person administering the shot needs a deep understanding of female anatomy and the specific techniques required to deliver the PRP to the right places for optimal results. An [expert provider](/about/) like an experienced gynecologist or urologist has the specialized training to perform the procedure safely and effectively. They know how to minimize risks and tailor the treatment to your unique body and goals. Choosing a qualified doctor ensures you’re in capable hands, giving you peace of mind and the best possible chance of achieving the outcome you desire.
 
 ## Key Qualifications for Your O-Shot Doctor
 

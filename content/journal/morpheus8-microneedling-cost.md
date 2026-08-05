@@ -135,7 +135,7 @@ Finding a provider you trust is the key to a positive experience. You want someo
 
 ### Checking Qualifications and Clinic Standards
 
-First things first, do your homework on potential providers. It’s essential to choose an experienced and qualified professional who can tailor the treatment to your specific skin type and concerns. Look for a board-certified doctor, like [Dr. Jennifer Berman](/about/), or a licensed practitioner working under medical supervision. Don’t be shy about asking how many Morpheus8 procedures they’ve performed and requesting to see before-and-after photos of their actual patients. More experienced providers may have a higher price point, but that often reflects a deeper level of training and skill, which is a crucial factor for achieving the best and safest results.
+First things first, do your homework on potential providers. It’s essential to choose an experienced and qualified professional who can tailor the treatment to your specific skin type and concerns. Look for an experienced, specialized doctor, like [Dr. Jennifer Berman](/about/), or a licensed practitioner working under medical supervision. Don’t be shy about asking how many Morpheus8 procedures they’ve performed and requesting to see before-and-after photos of their actual patients. More experienced providers may have a higher price point, but that often reflects a deeper level of training and skill, which is a crucial factor for achieving the best and safest results.
 
 ### What to Expect During Your Consultation
 

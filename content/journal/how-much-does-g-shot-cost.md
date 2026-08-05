@@ -65,7 +65,7 @@ The total price depends on the provider you choose, the specific materials they 
 
 ### Your Provider’s Expertise and Location
 
-The single most significant factor in the cost of a G-Shot is the person performing it. The price often reflects the provider’s level of training, years of experience, and reputation in the field of sexual wellness. A board-certified [women’s health specialist](/about/) in a major metropolitan area like Beverly Hills will have a different price point than a general practitioner in a smaller town. This difference accounts for higher operational costs and, more importantly, a deeper level of expertise that ensures your safety and delivers better results. Choosing a highly qualified provider is an investment in your health and peace of mind.
+The single most significant factor in the cost of a G-Shot is the person performing it. The price often reflects the provider’s level of training, years of experience, and reputation in the field of sexual wellness. An experienced [women’s health specialist](/about/) in a major metropolitan area like Beverly Hills will have a different price point than a general practitioner in a smaller town. This difference accounts for higher operational costs and, more importantly, a deeper level of expertise that ensures your safety and delivers better results. Choosing a highly qualified provider is an investment in your health and peace of mind.
 
 ### The Type and Amount of Filler
 
