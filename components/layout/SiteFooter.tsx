@@ -170,18 +170,18 @@ export default function SiteFooter() {
           flex: 0 0 auto;
           align-items: center;
           justify-content: center;
-          opacity: 0.72;
+          opacity: 1;
           transition: opacity 180ms ease;
         }
 
         .legitscript-seal:hover,
         .legitscript-seal:focus-visible {
-          opacity: 1;
+          opacity: 0.85;
         }
 
         .legitscript-seal :global(img) {
           display: block;
-          width: 54px;
+          width: 104px;
           height: auto;
         }
 
