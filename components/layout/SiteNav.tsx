@@ -144,7 +144,9 @@ export default function SiteNav({ showCart = false }: SiteNavProps = {}) {
           </button>
         </div>
         <div className="center">
-          <img src="/images/jb-logo.png" alt="Jennifer Berman MD" />
+          <a href="/" aria-label="Berman Sexual Health — go to homepage">
+            <img src="/images/jb-logo.png" alt="Jennifer Berman MD" />
+          </a>
         </div>
         <div className="right">
           {showCart ? <CartIcon /> : null}

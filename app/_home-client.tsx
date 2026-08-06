@@ -826,7 +826,9 @@ function HomeClient() {
             </button>
           </div>
           <div className="center">
-            <img src="/images/jb-logo.png" alt="Jennifer Berman MD" />
+            <a href="/" aria-label="Berman Sexual Health — go to homepage">
+              <img src="/images/jb-logo.png" alt="Jennifer Berman MD" />
+            </a>
           </div>
           <div className="right">
             <a

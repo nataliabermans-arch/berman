@@ -2999,13 +2999,21 @@ body[data-motion="off"] .section-caption {
   align-items: center;
   padding: 0 12px;
 }
+.e-hero-nav .center a {
+  display: inline-flex;
+  align-items: center;
+}
 .e-hero-nav .center img {
   display: block;
   height: 48px;
   width: auto;
+  /* White wordmark with a dark outline so it stays legible on light hero
+     backgrounds (service/about/etc.) as well as the dark home hero. */
   filter: brightness(0) invert(1)
-    drop-shadow(0 2px 12px rgba(244, 163, 170, 0.4));
-  opacity: 0.98;
+    drop-shadow(0 0 2px rgba(26, 10, 16, 0.95))
+    drop-shadow(0 0 1px rgba(26, 10, 16, 0.95))
+    drop-shadow(0 1px 3px rgba(26, 10, 16, 0.55));
+  opacity: 1;
 }
 
 /* CTA pill — reuses cta-3d glow + shine recipe */
