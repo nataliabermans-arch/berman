@@ -15,6 +15,8 @@ const CartDrawer = dynamic(() => import("@/components/commerce/CartDrawer"), {
 
 type SiteNavProps = {
   showCart?: boolean;
+  /** Set on pages whose hero background is dark, so the wordmark stays white. */
+  onDark?: boolean;
 };
 
 const ABOUT_ORDER = ["About", "Books", "Biotype"] as const;
@@ -40,7 +42,10 @@ const pickLinks = (order: readonly string[]) =>
     .filter((item): item is NavItem => Boolean(item))
     .map(toChild);
 
-export default function SiteNav({ showCart = false }: SiteNavProps = {}) {
+export default function SiteNav({
+  showCart = false,
+  onDark = false,
+}: SiteNavProps = {}) {
   const [menuOpen, setMenuOpen] = useState(false);
   const pillRef = useRef<HTMLAnchorElement | null>(null);
   const megaRef = useRef<HTMLDivElement | null>(null);
@@ -125,7 +130,10 @@ export default function SiteNav({ showCart = false }: SiteNavProps = {}) {
 
   return (
     <>
-      <div className="e-hero-nav" style={{ zIndex: 60 }}>
+      <div
+        className={`e-hero-nav${onDark ? " e-nav-on-dark" : ""}`}
+        style={{ zIndex: 60 }}
+      >
         <div className="left">
           <button
             ref={menuBtnRef}

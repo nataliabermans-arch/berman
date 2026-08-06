@@ -96,7 +96,7 @@ export default function PrivacyClient() {
           overflow: "hidden",
         }}
       >
-        <SiteNav />
+        <SiteNav onDark />
         <GrainGradient
           aria-hidden="true"
           colors={["#a13a48", "#6a2230", "#1a0a10"]}

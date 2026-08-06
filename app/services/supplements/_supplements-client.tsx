@@ -166,7 +166,7 @@ export default function SupplementsClient() {
           color: "#fff5f1",
         }}
       >
-        <SiteNav />
+        <SiteNav onDark />
         <GrainGradient
           colors={["#a13a48", "#6a2230", "#1a0a10"]}
           colorBack="#1a0a10"
