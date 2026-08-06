@@ -807,7 +807,7 @@ function HomeClient() {
           <b></b>
         </div>
         <div className="e-grain"></div>
-        <div className="e-hero-nav">
+        <div className="e-hero-nav e-nav-on-dark">
           <div className="left">
             <button
               ref={menuBtnRef}

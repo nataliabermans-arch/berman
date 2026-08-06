@@ -3003,17 +3003,22 @@ body[data-motion="off"] .section-caption {
   display: inline-flex;
   align-items: center;
 }
+/* Default: inner pages sit on light hero backgrounds, so render the wordmark
+   dark (with a soft light halo) to keep it legible. */
 .e-hero-nav .center img {
   display: block;
   height: 48px;
   width: auto;
-  /* White wordmark with a dark outline so it stays legible on light hero
-     backgrounds (service/about/etc.) as well as the dark home hero. */
+  filter: brightness(0)
+    drop-shadow(0 0 2px rgba(255, 245, 241, 0.7))
+    drop-shadow(0 1px 3px rgba(74, 28, 38, 0.3));
+  opacity: 0.92;
+}
+/* The home hero is dark — keep the wordmark white there. */
+.e-hero-nav.e-nav-on-dark .center img {
   filter: brightness(0) invert(1)
-    drop-shadow(0 0 2px rgba(26, 10, 16, 0.95))
-    drop-shadow(0 0 1px rgba(26, 10, 16, 0.95))
-    drop-shadow(0 1px 3px rgba(26, 10, 16, 0.55));
-  opacity: 1;
+    drop-shadow(0 2px 12px rgba(244, 163, 170, 0.4));
+  opacity: 0.98;
 }
 
 /* CTA pill — reuses cta-3d glow + shine recipe */
