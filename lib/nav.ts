@@ -12,7 +12,7 @@ export interface NavItem {
 const SERVICE_CHILDREN: NavChild[] = [
   {
     label: "Aesthetic & Regenerative Medicine",
-    href: "/aesthetic-treatments/",
+    href: "/services/aesthetic-regenerative/",
   },
   {
     label: "Sexual Health & Intimacy",
@@ -28,7 +28,7 @@ const SERVICE_CHILDREN: NavChild[] = [
   },
   {
     label: "Vaginal Rejuvenation",
-    href: "/vaginal-rejuvenation-expert/",
+    href: "/services/vaginal-rejuvenation/",
   },
   {
     label: "Body Contouring & Weight Loss",

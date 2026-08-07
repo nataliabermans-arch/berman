@@ -10430,7 +10430,11 @@ main[data-active="E"] .e-hero,
     overscroll-behavior-x: contain;
     perspective: none !important;
     scroll-padding-inline: 18px;
-    scroll-snap-type: x mandatory;
+    /* proximity (not mandatory) so a swipe isn't yanked back to the first card;
+       touch-action pan-x keeps a horizontal swipe from being hijacked by the
+       page's vertical scroll. */
+    scroll-snap-type: x proximity;
+    touch-action: pan-x;
     -webkit-overflow-scrolling: touch;
   }
 

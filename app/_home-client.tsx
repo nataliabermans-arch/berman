@@ -38,11 +38,11 @@ const SECTION_SHADER_PROPS = {
 const HOME_ABOUT_ORDER = ["About", "Books", "Biotype"] as const;
 const HOME_PATIENT_ORDER = ["Stories", "Blog", "Contact"] as const;
 const HOME_SERVICE_LINK_ORDER = [
-  "/aesthetic-treatments/",
+  "/services/aesthetic-regenerative/",
   "/sexual-urinary-tract-health/",
   "/emsella-treatment-for-incontinence/",
   "/menopause-perimenopause/",
-  "/vaginal-rejuvenation-expert/",
+  "/services/vaginal-rejuvenation/",
   "/body-contouring/",
   "/services/supplements/",
 ] as const;
@@ -1080,7 +1080,7 @@ function HomeClient() {
                   photoSrc: "/images/practice/senior-glow.webp",
                   desc: "Filler · PRP/PRF · peptides · skin tightening",
                   arrow: "Open →",
-                  href: "/aesthetic-treatments/",
+                  href: "/services/aesthetic-regenerative/",
                 },
                 {
                   className: "c2",
@@ -1132,7 +1132,7 @@ function HomeClient() {
                   photoSrc: "/images/practice/laughing-table.webp",
                   desc: "MonaLisa Touch · PRP/PRF · exosomes · peptides",
                   arrow: "Open →",
-                  href: "/vaginal-rejuvenation-expert/",
+                  href: "/services/vaginal-rejuvenation/",
                 },
                 {
                   className: "c6",

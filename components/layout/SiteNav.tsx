@@ -22,11 +22,11 @@ type SiteNavProps = {
 const ABOUT_ORDER = ["About", "Books", "Biotype"] as const;
 const PATIENT_ORDER = ["Stories", "Blog", "Contact"] as const;
 const SERVICE_LINK_ORDER: string[] = [
-  "/aesthetic-treatments/",
+  "/services/aesthetic-regenerative/",
   "/sexual-urinary-tract-health/",
   "/emsella-treatment-for-incontinence/",
   "/menopause-perimenopause/",
-  "/vaginal-rejuvenation-expert/",
+  "/services/vaginal-rejuvenation/",
   "/body-contouring/",
   "/services/supplements/",
 ];
