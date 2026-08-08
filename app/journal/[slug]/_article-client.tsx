@@ -539,6 +539,9 @@ interface TocItem {
 
 function TocDrawer({ items }: { items: TocItem[] }) {
   const [activeId, setActiveId] = useState<string>(items[0]?.id ?? "");
+  // Hide the fixed TOC once the reader scrolls past the article body, so it
+  // never overlaps the appointment CTA or footer below.
+  const [hidden, setHidden] = useState(false);
 
   useEffect(() => {
     if (items.length === 0) return;
@@ -565,6 +568,17 @@ function TocDrawer({ items }: { items: TocItem[] }) {
     return () => observer.disconnect();
   }, [items]);
 
+  useEffect(() => {
+    const prose = document.querySelector(".article-prose");
+    if (!prose) return;
+    const obs = new IntersectionObserver(
+      ([entry]) => setHidden(!entry.isIntersecting),
+      { rootMargin: "0px 0px -30% 0px" },
+    );
+    obs.observe(prose);
+    return () => obs.disconnect();
+  }, []);
+
   return (
     <aside
       className="article-toc"
@@ -575,6 +589,9 @@ function TocDrawer({ items }: { items: TocItem[] }) {
         top: "26vh",
         width: 220,
         zIndex: 30,
+        opacity: hidden ? 0 : 1,
+        pointerEvents: hidden ? "none" : "auto",
+        transition: "opacity 0.3s ease",
       }}
     >
       <div
