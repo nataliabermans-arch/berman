@@ -131,7 +131,7 @@ export default function SiteFooter() {
             alt={LEGITSCRIPT_SEAL.alt}
             width="73"
             height="79"
-            loading="lazy"
+            loading="eager"
             decoding="async"
           />
         </a>

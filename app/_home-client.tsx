@@ -2290,7 +2290,7 @@ function HomeClient() {
             alt="Verify LegitScript Approval for www.bermansexualhealth.com"
             width={110}
             height={119}
-            loading="lazy"
+            loading="eager"
             decoding="async"
             style={{ display: "block", width: 110, height: "auto" }}
           />
