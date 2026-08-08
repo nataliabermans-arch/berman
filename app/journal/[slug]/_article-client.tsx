@@ -1496,6 +1496,9 @@ export default function ArticleClient({
                     width: "100%",
                     height: "100%",
                     objectFit: "cover",
+                    // Bias the crop toward the top so portrait photos keep the
+                    // subject's head/face instead of cropping to the chest.
+                    objectPosition: "center top",
                     display: "block",
                     opacity: 0.95,
                   }}
