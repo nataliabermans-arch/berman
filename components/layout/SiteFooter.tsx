@@ -171,12 +171,6 @@ export default function SiteFooter() {
           align-items: center;
           justify-content: center;
           opacity: 1;
-          transition: opacity 180ms ease;
-        }
-
-        .legitscript-seal:hover,
-        .legitscript-seal:focus-visible {
-          opacity: 0.85;
         }
 
         .legitscript-seal :global(img) {
