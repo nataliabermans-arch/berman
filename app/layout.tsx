@@ -129,7 +129,14 @@ const jsonLd = {
           name: "UCLA",
         },
       ],
-      sameAs: ["https://twitter.com/jenbermanmd"],
+      hasCredential: {
+        "@type": "EducationalOccupationalCredential",
+        credentialCategory: "Doctor of Medicine (MD)",
+      },
+      sameAs: [
+        "https://en.wikipedia.org/wiki/Jennifer_Berman",
+        "https://twitter.com/jenbermanmd",
+      ],
     },
     {
       "@type": "MedicalBusiness",
