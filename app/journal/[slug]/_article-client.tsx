@@ -1332,9 +1332,60 @@ export default function ArticleClient({
 
   const segments = useMemo(() => splitOnH2(article.body), [article.body]);
 
+  // E-E-A-T structured data: attributes each article to Dr. Berman as author AND
+  // medical reviewer (a credentialed Person), so Google can verify the expertise.
+  const articleSchema = useMemo(() => {
+    const articleUrl = article.originalUrl || `${siteUrl}/${article.slug}/`;
+    const img = article.featuredImage
+      ? article.featuredImage.startsWith("http")
+        ? article.featuredImage
+        : `${siteUrl}${article.featuredImage.startsWith("/") ? "" : "/"}${article.featuredImage}`
+      : undefined;
+    const drBerman = {
+      "@type": "Person",
+      name: "Dr. Jennifer Berman",
+      honorificPrefix: "Dr.",
+      honorificSuffix: "MD",
+      jobTitle: "Urologist & Female Sexual Medicine Specialist",
+      url: `${siteUrl}/about/`,
+      sameAs: [
+        "https://en.wikipedia.org/wiki/Jennifer_Berman",
+        "https://twitter.com/jenbermanmd",
+      ],
+    };
+    return {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      headline: article.title,
+      description: article.excerpt,
+      url: articleUrl,
+      mainEntityOfPage: articleUrl,
+      datePublished: article.publishedAt,
+      dateModified: article.updatedAt || article.publishedAt,
+      lastReviewed: article.updatedAt || article.publishedAt,
+      ...(img ? { image: img } : {}),
+      author: drBerman,
+      reviewedBy: drBerman,
+      publisher: {
+        "@type": "Organization",
+        name: "The Berman Women's Wellness Center",
+        logo: {
+          "@type": "ImageObject",
+          url: `${siteUrl}/images/jb-logo.png`,
+        },
+      },
+    };
+  }, [article]);
+
   return (
     <>
       <section className="wf" data-id="E">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(articleSchema).replace(/</g, "\\u003c"),
+          }}
+        />
         {/* Reading progress bar — fixed top, scroll-driven */}
         <ReadingProgressBar targetRef={articleRef} />
 
@@ -1463,6 +1514,13 @@ export default function ArticleClient({
               <span>{article.readTime} min read</span>
               <span style={{ opacity: 0.5 }}>·</span>
               <span>{article.category}</span>
+              <span style={{ opacity: 0.5 }}>·</span>
+              <span>
+                Medically reviewed by{" "}
+                <strong style={{ fontWeight: 600, color: "#4a1c26" }}>
+                  Dr. Jennifer Berman, MD
+                </strong>
+              </span>
             </motion.div>
 
             <motion.p
@@ -1811,7 +1869,9 @@ export default function ArticleClient({
               <em style={{ color: "#8a3a44", fontStyle: "italic" }}>
                 Dr. Jennifer Berman, MD
               </em>{" "}
-              · Founder, The Berman Women&apos;s Wellness Center ·{" "}
+              · Urologist &amp; female sexual medicine specialist · Founder of
+              The Berman Women&apos;s Wellness Center, Beverly Hills, and two-time
+              New York Times best-selling author ·{" "}
               <Link
                 href="/about/"
                 style={{
