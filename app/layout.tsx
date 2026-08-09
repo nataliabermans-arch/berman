@@ -110,6 +110,17 @@ const jsonLd = {
       jobTitle: "Urologist",
       description:
         "Internationally recognized urologist, pioneer of female sexual medicine, and founder and director of The Berman Women's Wellness Center in Beverly Hills.",
+      knowsAbout: [
+        "Menopause",
+        "Perimenopause",
+        "Hormone therapy",
+        "Bioidentical hormone replacement therapy (BHRT)",
+        "Female sexual dysfunction",
+        "Female urology",
+        "Pelvic floor and urinary health",
+        "Vaginal rejuvenation",
+      ],
+      award: "Two-time New York Times best-selling author",
       image: `${siteUrl}/images/dr-berman/headshot-portrait.jpg`,
       url: siteUrl,
       worksFor: {
