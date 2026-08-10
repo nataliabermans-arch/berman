@@ -110,18 +110,6 @@ export default function LeadCaptureProvider({
     return () => document.removeEventListener("click", handleClick, true);
   }, [open]);
 
-  // Sticky header: collapse the floating hero nav into a frosted top bar once
-  // the reader scrolls, so Menu + logo + Book stay visible on every page.
-  useEffect(() => {
-    const onScroll = () => {
-      const nav = document.querySelector(".e-hero-nav");
-      if (nav) nav.classList.toggle("scrolled", window.scrollY > 30);
-    };
-    onScroll();
-    window.addEventListener("scroll", onScroll, { passive: true });
-    return () => window.removeEventListener("scroll", onScroll);
-  }, [pathname]);
-
   return (
     <>
       {children}
