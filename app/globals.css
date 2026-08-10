@@ -5716,7 +5716,9 @@ main[data-active="E"] {
      Use a wrapper class so we don't fight existing section CSS for transform. */
 .wf[data-id="E"] > div {
   transform-origin: 50% 100%;
-  will-change: transform, opacity;
+  /* will-change removed: the scroll entrance it optimized is disabled (see
+     .e-reveal below), and it was creating a containing block that trapped the
+     fixed sticky header inside the hero. */
 }
 /* Entrance reveal disabled — IntersectionObserver was leaving sections at opacity:0 */
 .e-reveal {
