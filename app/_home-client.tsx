@@ -24,6 +24,11 @@ import {
 import { CardContainer, CardBody, CardItem } from "@/components/ui/3d-card";
 // CursorLight import removed — manifesto was the only consumer; other dark sections use the cursor-light injection effect (see useEffect below)
 
+// Hero headline font, set inline so the CSS optimizer can't strip it: the
+// preloaded display:optional instance paints the LCP headline immediately.
+const HERO_FONT =
+  "var(--font-cormorant-hero), var(--font-cormorant), 'Cormorant Garamond', serif";
+
 const HERO_VIDEO_POSTER = "/video/sizzle-poster-v1.jpg";
 const HERO_DESKTOP_VIDEO = "/video/sizzle-desktop-v1.mp4";
 const WELCOME_VIDEO = "/video/welcome-v1.mp4";
@@ -914,6 +919,8 @@ function HomeClient() {
                   display: "inline-block",
                   marginRight: "0.22em",
                   animationDelay: `${i * 0.09}s`,
+                  fontFamily: HERO_FONT,
+                  fontWeight: 300,
                 }}
               >
                 {word}
@@ -922,7 +929,12 @@ function HomeClient() {
             <em>
               <span
                 className="e-hero-rise e-hero-em"
-                style={{ display: "inline-block", animationDelay: "0.18s" }}
+                style={{
+                  display: "inline-block",
+                  animationDelay: "0.18s",
+                  fontFamily: HERO_FONT,
+                  fontWeight: 300,
+                }}
               >
                 better.
               </span>
