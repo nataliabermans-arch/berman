@@ -3361,11 +3361,17 @@ body[data-motion="off"] .section-caption {
   font-weight: 300;
   font-family: var(--font-cormorant-hero), var(--font-cormorant),
     "Cormorant Garamond", serif;
+  display: block;
+}
+/* The gradient must live on the same element as the text (the inline-block
+   span). The span carries an animation transform, which creates a separate
+   paint layer that breaks the parent em's background-clip: text and renders
+   the word invisible. Keeping clip + text on one element fixes that. */
+.e-hero-body h1 em .e-hero-em {
   background: linear-gradient(180deg, #ffeae0 0%, #d99ba1 60%, #b06370 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-  display: block;
 }
 
 /* Hero entrance — CSS-driven so the LCP headline paints on first render

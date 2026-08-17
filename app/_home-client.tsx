@@ -921,7 +921,7 @@ function HomeClient() {
             ))}
             <em>
               <span
-                className="e-hero-rise"
+                className="e-hero-rise e-hero-em"
                 style={{ display: "inline-block", animationDelay: "0.18s" }}
               >
                 better.
