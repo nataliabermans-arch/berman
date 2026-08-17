@@ -3345,7 +3345,8 @@ body[data-motion="off"] .section-caption {
   }
 }
 .e-hero-body h1 {
-  font-family: var(--font-cormorant), "Cormorant Garamond", serif;
+  font-family: var(--font-cormorant-hero), var(--font-cormorant),
+    "Cormorant Garamond", serif;
   font-weight: 300;
 
   font-size: 260px;
@@ -3358,6 +3359,8 @@ body[data-motion="off"] .section-caption {
 .e-hero-body h1 em {
   font-style: italic;
   font-weight: 300;
+  font-family: var(--font-cormorant-hero), var(--font-cormorant),
+    "Cormorant Garamond", serif;
   background: linear-gradient(180deg, #ffeae0 0%, #d99ba1 60%, #b06370 100%);
   -webkit-background-clip: text;
   background-clip: text;

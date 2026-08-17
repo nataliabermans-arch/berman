@@ -22,6 +22,18 @@ const cormorant = Cormorant_Garamond({
   style: ["normal", "italic"],
 });
 
+// Hero headline only: single weight, preloaded, display:optional so the giant
+// LCP headline paints immediately (matched fallback on slow connections) and
+// never repaints late when the web font arrives. Keeps LCP fast.
+const cormorantHero = Cormorant_Garamond({
+  subsets: ["latin"],
+  display: "optional",
+  variable: "--font-cormorant-hero",
+  weight: ["300"],
+  style: ["normal", "italic"],
+  preload: true,
+});
+
 const inter = Inter({
   subsets: ["latin"],
   display: "swap",
@@ -218,6 +230,7 @@ export default function RootLayout({
       className={cn(
         "text-text-primary",
         cormorant.variable,
+        cormorantHero.variable,
         inter.variable,
         dmMono.variable,
         "font-sans",
