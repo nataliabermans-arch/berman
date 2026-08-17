@@ -901,52 +901,41 @@ function HomeClient() {
           </div>
         </div>
         <div className="e-hero-body">
-          <motion.div
-            className="eyebrow"
-            initial={{ opacity: 0, y: 16 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, ease: "easeOut", delay: 0 }}
-          >
+          <div className="eyebrow e-hero-rise">
             <span className="dot" />
             Beverly Hills · Women&apos;s Wellness
-          </motion.div>
+          </div>
           <h1>
             {["Women", "deserve"].map((word, i) => (
-              <motion.span
+              <span
                 key={word}
-                initial={{ opacity: 0, y: 24, rotateX: -10 }}
-                animate={{ opacity: 1, y: 0, rotateX: 0 }}
-                transition={{
-                  duration: 0.6,
-                  ease: "easeOut",
-                  delay: 0.2 + i * 0.12,
+                className="e-hero-rise"
+                style={{
+                  display: "inline-block",
+                  marginRight: "0.22em",
+                  animationDelay: `${i * 0.09}s`,
                 }}
-                style={{ display: "inline-block", marginRight: "0.22em" }}
               >
                 {word}
-              </motion.span>
+              </span>
             ))}
             <em>
-              <motion.span
-                initial={{ opacity: 0, y: 24, rotateX: -10 }}
-                animate={{ opacity: 1, y: 0, rotateX: 0 }}
-                transition={{ duration: 0.6, ease: "easeOut", delay: 0.44 }}
-                style={{ display: "inline-block" }}
+              <span
+                className="e-hero-rise"
+                style={{ display: "inline-block", animationDelay: "0.18s" }}
               >
                 better.
-              </motion.span>
+              </span>
             </em>
           </h1>
-          <motion.p
-            className="e-hero-seo"
-            initial={{ opacity: 0, y: 16 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.55, ease: "easeOut", delay: 0.54 }}
+          <p
+            className="e-hero-seo e-hero-rise"
+            style={{ animationDelay: "0.26s" }}
           >
             Beverly Hills women&apos;s wellness care for menopause, hormone
             therapy, sexual health, pelvic health, vaginal rejuvenation, and
             body contouring across greater Los Angeles.
-          </motion.p>
+          </p>
           <div className="e-hero-foot">
             <span className="left">since 2007 · 1M+ women cared for</span>
             <span className="scroll">Scroll ↓</span>

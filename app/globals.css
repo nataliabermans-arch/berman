@@ -3364,6 +3364,32 @@ body[data-motion="off"] .section-caption {
   -webkit-text-fill-color: transparent;
   display: block;
 }
+
+/* Hero entrance — CSS-driven so the LCP headline paints on first render
+   instead of waiting for JS/Framer hydration (fixes slow-4G LCP). */
+@keyframes eHeroRise {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  32% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.e-hero-rise {
+  animation: eHeroRise 0.55s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+@media (prefers-reduced-motion: reduce) {
+  .e-hero-rise {
+    animation: none;
+    opacity: 1;
+    transform: none;
+  }
+}
 .e-hero-seo {
   max-width: 780px;
   margin: 28px auto 0;
