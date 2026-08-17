@@ -22,17 +22,10 @@ const cormorant = Cormorant_Garamond({
   style: ["normal", "italic"],
 });
 
-// Hero headline only: single weight, preloaded, display:optional so the giant
-// LCP headline paints immediately (matched fallback on slow connections) and
-// never repaints late when the web font arrives. Keeps LCP fast.
-const cormorantHero = Cormorant_Garamond({
-  subsets: ["latin"],
-  display: "optional",
-  variable: "--font-cormorant-hero",
-  weight: ["300"],
-  style: ["normal", "italic"],
-  preload: true,
-});
+// Hero headline uses a hand-subset Cormorant (only the headline's glyphs,
+// ~1.9KB) served from /public/fonts and preloaded in <head>. It loads before
+// first paint even on slow connections, so the giant LCP headline shows the
+// real brand font immediately with no late font-swap. See public/fonts.
 
 const inter = Inter({
   subsets: ["latin"],
@@ -230,12 +223,27 @@ export default function RootLayout({
       className={cn(
         "text-text-primary",
         cormorant.variable,
-        cormorantHero.variable,
         inter.variable,
         dmMono.variable,
         "font-sans",
       )}
     >
+      <head>
+        <link
+          rel="preload"
+          href="/fonts/cormorant-hero-300.woff2"
+          as="font"
+          type="font/woff2"
+          crossOrigin="anonymous"
+        />
+        <link
+          rel="preload"
+          href="/fonts/cormorant-hero-300-italic.woff2"
+          as="font"
+          type="font/woff2"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body
         className="min-h-screen font-inter antialiased"
         data-motion="on"
