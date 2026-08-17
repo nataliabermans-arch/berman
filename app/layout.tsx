@@ -231,6 +231,13 @@ export default function RootLayout({
       <head>
         <link
           rel="preload"
+          href="/images/jb-logo.webp"
+          as="image"
+          type="image/webp"
+          fetchPriority="high"
+        />
+        <link
+          rel="preload"
           href="/fonts/cormorant-hero-300.woff2"
           as="font"
           type="font/woff2"

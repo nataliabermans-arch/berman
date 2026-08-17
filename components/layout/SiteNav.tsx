@@ -153,7 +153,13 @@ export default function SiteNav({
         </div>
         <div className="center">
           <a href="/" aria-label="Berman Sexual Health — go to homepage">
-            <img src="/images/jb-logo.png" alt="Jennifer Berman MD" />
+            <img
+              src="/images/jb-logo.webp"
+              alt="Jennifer Berman MD"
+              width={213}
+              height={96}
+              fetchPriority="high"
+            />
           </a>
         </div>
         <div className="right">
