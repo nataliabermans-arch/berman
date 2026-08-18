@@ -103,7 +103,7 @@ Custom-compounded hormones are prepared by a pharmacist based on a specific pres
 
 ### Key Safety and Regulation Differences
 
-The biggest distinction between these two options comes down to safety and oversight. The FDA does not check compounded hormone products for safety, quality, or effectiveness. This lack of regulation means there can be significant variations in strength and purity from one batch to the next, even from the same pharmacy. In contrast, FDA-approved products are manufactured under strict guidelines and are continuously monitored for safety. This ensures you receive a consistent and reliable product every time. While some marketing may present compounded hormones as a more “natural” or safer alternative, [major medical organizations](https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2023/11/compounded-bioidentical-menopausal-hormone-therapy) have noted there is no scientific evidence to support these claims.
+The biggest distinction between these two options comes down to safety and oversight. The FDA does not check compounded hormone products for safety, quality, or effectiveness. This lack of regulation means there can be significant variations in strength and purity from one batch to the next, even from the same pharmacy. In contrast, FDA-approved products are manufactured under strict guidelines and are continuously monitored for safety. This ensures you receive a consistent and reliable product every time. While some marketing may present compounded hormones as a more “natural” or safer alternative, major medical organizations have noted there is no scientific evidence to support these claims.
 
 ## Common Myths About Bioidentical Hormones
 
@@ -137,7 +137,7 @@ When you hear “bioidentical,” it simply means a hormone is chemically identi
 
 ### Potential Side Effects and Risks
 
-Like any medical treatment, bioidentical hormone therapy can have side effects as your body adjusts. Some women might experience bloating, acne, fatigue, or mood swings. These effects are often temporary and can be managed by adjusting your dosage with your doctor. The risks become more pronounced with compounded hormones. Because they aren’t regulated, there’s no guarantee that each dose is consistent or free of impurities. According to the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/menopause/expert-answers/bioidentical-hormones/faq-20058460), these inconsistencies can present real health risks. A carefully monitored treatment plan helps minimize these issues and ensures you get the benefits without unnecessary complications.
+Like any medical treatment, bioidentical hormone therapy can have side effects as your body adjusts. Some women might experience bloating, acne, fatigue, or mood swings. These effects are often temporary and can be managed by adjusting your dosage with your doctor. The risks become more pronounced with compounded hormones. Because they aren’t regulated, there’s no guarantee that each dose is consistent or free of impurities. According to the Mayo Clinic, these inconsistencies can present real health risks. A carefully monitored treatment plan helps minimize these issues and ensures you get the benefits without unnecessary complications.
 
 ### Making an Informed Decision With Your Doctor
 

@@ -217,7 +217,7 @@ Similarly, alcohol moderation is important; excessive alcohol intake can impair 
 
 Techniques such as mindfulness meditation, yoga, and deep-breathing exercises can help reduce stress levels, improve mental health, and enhance sexual performance.
 
-Additionally, adequate sleep and maintaining a healthy weight are crucial for overall **[sexual health](https://maps.app.goo.gl/qusEQo8ZWb1TBnfN9)**. Poor sleep and obesity can lead to hormonal imbalances and reduced libido. Consulting with a healthcare provider for personalized recommendations on lifestyle modifications can provide tailored strategies to address individual needs effectively.
+Additionally, adequate sleep and maintaining a healthy weight are crucial for overall **sexual health**. Poor sleep and obesity can lead to hormonal imbalances and reduced libido. Consulting with a healthcare provider for personalized recommendations on lifestyle modifications can provide tailored strategies to address individual needs effectively.
 
 ## How to Be a Supportive Partner Through Treatment
 

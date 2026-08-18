@@ -64,7 +64,7 @@ Taking the first step to address sexual health concerns can feel daunting, but g
 
 ### How Doctors Diagnose FSD
 
-Diagnosing FSD is a collaborative process between you and your doctor. It’s a comprehensive evaluation, not a single test. According to the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/female-sexual-dysfunction/diagnosis-treatment/drc-20372556), a doctor will typically start by asking detailed questions about your health and sexual history to understand your specific symptoms and concerns. This is usually followed by a physical exam, including a pelvic exam, to rule out any physical causes. You and your partner might also be asked to fill out questionnaires to provide a fuller picture of the situation. This thorough approach ensures that all contributing factors are considered.
+Diagnosing FSD is a collaborative process between you and your doctor. It’s a comprehensive evaluation, not a single test. According to the Mayo Clinic, a doctor will typically start by asking detailed questions about your health and sexual history to understand your specific symptoms and concerns. This is usually followed by a physical exam, including a pelvic exam, to rule out any physical causes. You and your partner might also be asked to fill out questionnaires to provide a fuller picture of the situation. This thorough approach ensures that all contributing factors are considered.
 
 ### Preparing for Your Appointment
 
@@ -76,7 +76,7 @@ Once you have a diagnosis, the next step is developing a treatment plan that is 
 
 ### Why a Comprehensive Approach Matters
 
-Female sexual dysfunction is often complex, with physical, emotional, and relational factors all playing a role. Because of this, the most successful treatment plans are typically comprehensive. A strategy that only addresses one aspect—for example, a physical symptom—may not be enough if underlying emotional or relationship issues are also contributing. The [best treatment often involves a mix](https://www.mayoclinic.org/diseases-conditions/female-sexual-dysfunction/diagnosis-treatment/drc-20372556) of medical therapies, lifestyle adjustments, and emotional support. This holistic approach ensures all facets of the problem are addressed, leading to more lasting and meaningful results.
+Female sexual dysfunction is often complex, with physical, emotional, and relational factors all playing a role. Because of this, the most successful treatment plans are typically comprehensive. A strategy that only addresses one aspect—for example, a physical symptom—may not be enough if underlying emotional or relationship issues are also contributing. The best treatment often involves a mix of medical therapies, lifestyle adjustments, and emotional support. This holistic approach ensures all facets of the problem are addressed, leading to more lasting and meaningful results.
 
 ### Treatment Is Always Your Choice
 
@@ -156,7 +156,7 @@ For women experiencing vaginal dryness, laxity, or discomfort, advanced treatmen
 
 ## When Is Surgery an Option?
 
-While there are many non-invasive and minimally invasive treatments for FSD, surgery is rarely the first line of defense. According to experts at [Baylor Medicine](https://www.bcm.edu/healthcare/specialties/urology/sexual-wellness-program/female-sexual-dysfunction), surgical intervention is typically reserved for a small number of women, primarily those whose sexual dysfunction is caused by a specific anatomical issue. For example, surgery might be considered for certain pain disorders resulting from conditions like severe pelvic organ prolapse or scar tissue from a previous surgery or injury. In these specific cases, a surgical procedure may be necessary to correct the underlying structural problem and alleviate the associated pain or dysfunction.
+While there are many non-invasive and minimally invasive treatments for FSD, surgery is rarely the first line of defense. According to experts at Baylor Medicine, surgical intervention is typically reserved for a small number of women, primarily those whose sexual dysfunction is caused by a specific anatomical issue. For example, surgery might be considered for certain pain disorders resulting from conditions like severe pelvic organ prolapse or scar tissue from a previous surgery or injury. In these specific cases, a surgical procedure may be necessary to correct the underlying structural problem and alleviate the associated pain or dysfunction.
 
 ## Ready to Discuss Your FSD Treatment Options?
 

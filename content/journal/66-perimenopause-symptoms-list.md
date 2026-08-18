@@ -182,11 +182,11 @@ Let’s start with the headliners. Hot flashes, night sweats, and irregular peri
 
 #### Fatigue and Sleep Problems
 
-This isn’t just feeling tired; it’s a bone-deep exhaustion that coffee can’t fix. Fatigue is a constant companion for many women in perimenopause, largely because hormonal changes disrupt your natural sleep patterns. Progesterone, our calming hormone, starts to decline, while fluctuating estrogen can lead to night sweats that jolt you awake. This combination often leads to insomnia, making it hard to fall asleep or causing you to wake up multiple times during the night. The result is a cycle of poor sleep and daytime exhaustion that can make it difficult to function. It’s a real, physical symptom, and recognizing the [hormonal connection](https://www.sleepfoundation.org/women-sleep/menopause-and-sleep) is the first step toward finding ways to get the rest you need.
+This isn’t just feeling tired; it’s a bone-deep exhaustion that coffee can’t fix. Fatigue is a constant companion for many women in perimenopause, largely because hormonal changes disrupt your natural sleep patterns. Progesterone, our calming hormone, starts to decline, while fluctuating estrogen can lead to night sweats that jolt you awake. This combination often leads to insomnia, making it hard to fall asleep or causing you to wake up multiple times during the night. The result is a cycle of poor sleep and daytime exhaustion that can make it difficult to function. It’s a real, physical symptom, and recognizing the hormonal connection is the first step toward finding ways to get the rest you need.
 
 #### Heart Palpitations
 
-Suddenly feeling your heart race, flutter, or skip a beat can be incredibly unsettling, but it’s a surprisingly common experience during perimenopause. These sensations, known as heart palpitations, are often a direct result of hormonal fluctuations. Estrogen plays a role in regulating your cardiovascular system, so when its levels are erratic, it can sometimes send mixed signals to your heart. While these episodes can be alarming, they are frequently a benign symptom of this transition. However, because heart health is so important, it’s always wise to [mention any new palpitations](https://www.heart.org/en/health-topics/atrial-fibrillation/what-are-the-symptoms-of-atrial-fibrillation-afib) to your doctor to rule out any other underlying causes and give you peace of mind.
+Suddenly feeling your heart race, flutter, or skip a beat can be incredibly unsettling, but it’s a surprisingly common experience during perimenopause. These sensations, known as heart palpitations, are often a direct result of hormonal fluctuations. Estrogen plays a role in regulating your cardiovascular system, so when its levels are erratic, it can sometimes send mixed signals to your heart. While these episodes can be alarming, they are frequently a benign symptom of this transition. However, because heart health is so important, it’s always wise to mention any new palpitations to your doctor to rule out any other underlying causes and give you peace of mind.
 
 ### The Surprise Guests: Lesser-Known Symptoms
 
@@ -246,7 +246,7 @@ Estrogen plays a key role in keeping your blood vessels flexible and managing ch
 
 #### Oral Health Concerns
 
-You might be surprised to learn that your oral health can also be affected by perimenopause. Hormonal fluctuations can lead to a dry mouth, which increases the risk of cavities and gum disease. Some women also experience burning mouth syndrome or changes in their sense of taste. In fact, [more than half of women](https://www.joinmidi.com/post/menopause-symptoms) over 40 report noticing changes in their teeth and gums. Maintaining excellent oral hygiene, staying hydrated, and having regular dental check-ups are especially important during this time to keep your smile healthy and prevent long-term problems.
+You might be surprised to learn that your oral health can also be affected by perimenopause. Hormonal fluctuations can lead to a dry mouth, which increases the risk of cavities and gum disease. Some women also experience burning mouth syndrome or changes in their sense of taste. In fact, more than half of women over 40 report noticing changes in their teeth and gums. Maintaining excellent oral hygiene, staying hydrated, and having regular dental check-ups are especially important during this time to keep your smile healthy and prevent long-term problems.
 
 ## When Is It Time to See a Doctor About Your Symptoms?
 
@@ -297,7 +297,7 @@ If hormone therapy isn’t the right fit for you, there are still many effective
 
 ### Alternative and Complementary Therapies
 
-Alongside medical treatments, many women find relief by incorporating complementary practices into their routine. These therapies often focus on the mind-body connection and can be powerful tools for managing stress and reducing symptom severity. For example, practices like acupuncture have been studied for their ability to [reduce the frequency of hot flashes](https://www.nccih.nih.gov/health/menopause). Cognitive behavioral therapy (CBT) can also help you develop coping strategies for symptoms like insomnia and anxiety. Herbal supplements such as black cohosh are also popular, but it’s essential to speak with your doctor before adding any new supplement to your regimen to ensure it’s safe and appropriate for you.
+Alongside medical treatments, many women find relief by incorporating complementary practices into their routine. These therapies often focus on the mind-body connection and can be powerful tools for managing stress and reducing symptom severity. For example, practices like acupuncture have been studied for their ability to reduce the frequency of hot flashes. Cognitive behavioral therapy (CBT) can also help you develop coping strategies for symptoms like insomnia and anxiety. Herbal supplements such as black cohosh are also popular, but it’s essential to speak with your doctor before adding any new supplement to your regimen to ensure it’s safe and appropriate for you.
 
 ## Your Daily Toolkit for Managing Symptoms
 

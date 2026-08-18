@@ -49,7 +49,7 @@ Bioidentical hormones, on the other hand, are designed to be an exact replica of
 
 The word “natural” often makes us feel something is inherently safer, but it’s a bit more complicated with hormone therapy. There are two main types of bioidentical hormones: those prepared by a drug company and approved by the FDA, and those custom-mixed by a compounding pharmacy for an individual patient.
 
-While custom compounding sounds appealingly personal, these specific formulas are not FDA-approved. This means they don’t undergo the same rigorous testing for safety, purity, and dosage consistency. Research from sources like the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/menopause/expert-answers/bioidentical-hormones/faq-20058460) points out that there isn’t enough strong scientific evidence to prove that compounded bioidentical hormones are safer or more effective than conventional, FDA-approved hormone therapies. It’s a critical point to consider when weighing your options.
+While custom compounding sounds appealingly personal, these specific formulas are not FDA-approved. This means they don’t undergo the same rigorous testing for safety, purity, and dosage consistency. Research from sources like the Mayo Clinic points out that there isn’t enough strong scientific evidence to prove that compounded bioidentical hormones are safer or more effective than conventional, FDA-approved hormone therapies. It’s a critical point to consider when weighing your options.
 
 ## What Are the Reported Benefits of BHRT?
 
@@ -83,7 +83,7 @@ Like any effective medical treatment, BHRT can have side effects, though they ar
 
 ### Why FDA Oversight on Compounded Hormones Matters
 
-It’s helpful to know that bioidentical hormones come in two forms: FDA-approved preparations made by drug companies and custom-mixed formulas created by a compounding pharmacy. While compounded hormones allow for personalized dosing, they are not subject to the same rigorous FDA testing for safety and consistency. According to the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/menopause/expert-answers/bioidentical-hormones/faq-20058460), this means the dose and purity can vary between batches. This is why choosing a highly reputable doctor and pharmacy is so important. Working with an expert who partners with trusted compounding pharmacies ensures you receive a high-quality, consistent product tailored specifically for you.
+It’s helpful to know that bioidentical hormones come in two forms: FDA-approved preparations made by drug companies and custom-mixed formulas created by a compounding pharmacy. While compounded hormones allow for personalized dosing, they are not subject to the same rigorous FDA testing for safety and consistency. According to the Mayo Clinic, this means the dose and purity can vary between batches. This is why choosing a highly reputable doctor and pharmacy is so important. Working with an expert who partners with trusted compounding pharmacies ensures you receive a high-quality, consistent product tailored specifically for you.
 
 ### What Research Says About Long-Term Safety
 

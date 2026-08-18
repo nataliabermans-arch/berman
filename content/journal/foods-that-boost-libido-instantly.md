@@ -38,7 +38,7 @@ There’s a reason chocolate and romance go hand in hand. Dark chocolate (the ki
 
 ### Watermelon to Improve Blood Flow
 
-This refreshing summer fruit does more than just hydrate you. Watermelon is one of the best natural sources of an amino acid called citrulline. Your body converts citrulline into arginine, another amino acid that helps produce nitric oxide. Nitric oxide is essential for relaxing blood vessels, which in turn [improves blood flow](https://www.webmd.com/sex-relationships/ss/slideshow-best-foods-before-sex) throughout your body, including to your sexual organs. Enhanced blood flow is critical for arousal and sensitivity, making watermelon a sweet and effective way to support your body’s natural response to sexual stimulation. Think of it as a juicy addition for your circulation.
+This refreshing summer fruit does more than just hydrate you. Watermelon is one of the best natural sources of an amino acid called citrulline. Your body converts citrulline into arginine, another amino acid that helps produce nitric oxide. Nitric oxide is essential for relaxing blood vessels, which in turn improves blood flow throughout your body, including to your sexual organs. Enhanced blood flow is critical for arousal and sensitivity, making watermelon a sweet and effective way to support your body’s natural response to sexual stimulation. Think of it as a juicy addition for your circulation.
 
 ### Oysters for Their Zinc Content
 
@@ -100,15 +100,15 @@ When we think about fueling our bodies, we often focus on energy for work or the
 
 ### Pomegranate for Testosterone
 
-Pomegranates have long been seen as a symbol of fertility, and modern science suggests there’s some truth to the legend. This vibrant fruit is packed with antioxidants that support overall health and blood flow. More specifically, some studies show that pomegranate juice can help lower cortisol, a stress hormone. When stress levels go down, your sex hormones, including testosterone, have a better chance to shine. Research suggests that this effect may help [increase testosterone](https://www.aarp.org/family-relationships/aphrodisiac-foods/) in both women and men, which is a key component of a healthy sex drive.
+Pomegranates have long been seen as a symbol of fertility, and modern science suggests there’s some truth to the legend. This vibrant fruit is packed with antioxidants that support overall health and blood flow. More specifically, some studies show that pomegranate juice can help lower cortisol, a stress hormone. When stress levels go down, your sex hormones, including testosterone, have a better chance to shine. Research suggests that this effect may help increase testosterone in both women and men, which is a key component of a healthy sex drive.
 
 ### Avocados for Vitamin E
 
-Avocados are a fantastic source of healthy fats, fiber, and vitamin E, giving you the kind of lasting energy that can certainly come in handy. They are also rich in vitamin B6, which plays a role in producing serotonin, the “feel-good” neurotransmitter. For women, vitamin B6 can be particularly helpful in easing premenstrual syndrome (PMS) symptoms like fatigue and irritability. By helping to balance your mood and energy levels, avocados can make it easier to [feel romantic](https://www.webmd.com/sex-relationships/ss/slideshow-best-foods-before-sex) and connect with your partner, no matter the time of month.
+Avocados are a fantastic source of healthy fats, fiber, and vitamin E, giving you the kind of lasting energy that can certainly come in handy. They are also rich in vitamin B6, which plays a role in producing serotonin, the “feel-good” neurotransmitter. For women, vitamin B6 can be particularly helpful in easing premenstrual syndrome (PMS) symptoms like fatigue and irritability. By helping to balance your mood and energy levels, avocados can make it easier to feel romantic and connect with your partner, no matter the time of month.
 
 ### Figs for Amino Acids
 
-Figs are a naturally sweet and sensual fruit that also happens to be full of nutrients that support sexual health. They are an excellent source of amino acids, which are the building blocks for nitric oxide in the body. Nitric oxide is essential for healthy blood flow, as it helps relax and widen blood vessels, a process crucial for arousal. Because of their role in circulation and hormone production, the amino acids in figs are believed to help [increase libido](https://www.healthline.com/health/boost-your-libido-10-natural-tips) and stamina.
+Figs are a naturally sweet and sensual fruit that also happens to be full of nutrients that support sexual health. They are an excellent source of amino acids, which are the building blocks for nitric oxide in the body. Nitric oxide is essential for healthy blood flow, as it helps relax and widen blood vessels, a process crucial for arousal. Because of their role in circulation and hormone production, the amino acids in figs are believed to help increase libido and stamina.
 
 ### Beets for Nitrates
 
@@ -162,7 +162,7 @@ It’s the big question, right? You’ve added oysters and dark chocolate to you
 
 ### Immediate vs. Long-Term Effects
 
-Some foods can create a noticeable effect within a few hours. Take watermelon, for example. It’s rich in an amino acid called citrulline, which your body converts to arginine. This compound helps [relax blood vessels](https://www.webmd.com/sex-relationships/ss/slideshow-best-foods-before-sex) and improve circulation, including to your sexual organs. This is a short-term effect you might feel relatively quickly.
+Some foods can create a noticeable effect within a few hours. Take watermelon, for example. It’s rich in an amino acid called citrulline, which your body converts to arginine. This compound helps relax blood vessels and improve circulation, including to your sexual organs. This is a short-term effect you might feel relatively quickly.
 
 On the other hand, many foods support your libido through long-term nutritional benefits. Foods high in zinc, like oysters, contribute to healthy hormone production over weeks and months. Consistently eating a diet rich in antioxidants and healthy fats builds a resilient foundation for your overall wellness, which is directly tied to your sexual health.
 
@@ -172,7 +172,7 @@ If you’re looking for a little spark for a specific evening, timing can be eve
 
 ### Setting Realistic Expectations
 
-While adding these foods to your diet is a fun and delicious way to support your libido, it’s important to see them as one piece of a larger puzzle. A handful of almonds won’t undo the effects of chronic stress or poor sleep. True, lasting vitality comes from a holistic approach. The most significant and sustainable improvements to your sexual well-being are rooted in a [healthy lifestyle](https://www.allinahealth.org/healthysetgo/nourish/foods-that-put-you-in-the-mood-fact-or-fiction). This means prioritizing balanced nutrition, regular movement, and stress management. If a low libido is a persistent concern, it’s always a good idea to [seek professional guidance](/low-libido-and-your-relationships/) to explore all the factors at play.
+While adding these foods to your diet is a fun and delicious way to support your libido, it’s important to see them as one piece of a larger puzzle. A handful of almonds won’t undo the effects of chronic stress or poor sleep. True, lasting vitality comes from a holistic approach. The most significant and sustainable improvements to your sexual well-being are rooted in a healthy lifestyle. This means prioritizing balanced nutrition, regular movement, and stress management. If a low libido is a persistent concern, it’s always a good idea to [seek professional guidance](/low-libido-and-your-relationships/) to explore all the factors at play.
 
 ## Common Aphrodisiac Myths, Busted
 
@@ -222,7 +222,7 @@ Making small, consistent changes in your routine can have a powerful impact. It�
 
 Regular physical activity is one of the most effective ways to support a healthy libido. When you exercise, you improve blood flow throughout your body, including to the pelvic region, which is essential for arousal and sexual response. It’s not just about the physical mechanics, either. Exercise releases endorphins, those feel-good chemicals that can reduce stress and improve your mood.
 
-Plus, feeling strong and comfortable in your body is a natural confidence builder. You don’t need to run a marathon to see the benefits. Activities like brisk walking, yoga, dancing, or strength training a few times a week can make a real difference. The key is finding a form of [movement](https://thocc.org/about/news-press/news-detail?articleId=68313&publicid=461) you genuinely enjoy so it feels less like a chore and more like a part of your self-care routine.
+Plus, feeling strong and comfortable in your body is a natural confidence builder. You don’t need to run a marathon to see the benefits. Activities like brisk walking, yoga, dancing, or strength training a few times a week can make a real difference. The key is finding a form of movement you genuinely enjoy so it feels less like a chore and more like a part of your self-care routine.
 
 ### How Sleep Affects Your Hormones
 

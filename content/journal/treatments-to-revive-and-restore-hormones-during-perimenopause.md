@@ -19,7 +19,7 @@ Most, if not all, women are at least somewhat familiar with the changes that occ
 
 ## What is the average age of Perimenopause?
 
-[Perimenopause](https://www.healthline.com/health/menopause/difference-perimenopause#when-to-call-a-doctor) can happen as early as the mid-thirties or as late as the early fifties, but the average age for perimenopause to begin is early to mid-forties. Menopause begins when there has been an absence of periods for at least 12 months.
+Perimenopause can happen as early as the mid-thirties or as late as the early fifties, but the average age for perimenopause to begin is early to mid-forties. Menopause begins when there has been an absence of periods for at least 12 months.
 
 ## What are the Signs of Perimenopause?
 

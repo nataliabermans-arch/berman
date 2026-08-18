@@ -34,7 +34,7 @@ You can find these helpful compounds in a variety of everyday foods. Soy product
 
 ### How Phytoestrogens Work in Your Body
 
-So, how exactly do these plant compounds work? Phytoestrogens, like the isoflavones in soy or the lignans in flaxseed oil, are able to bind to the estrogen receptors throughout your body. Because they are much weaker than the estrogen your body makes, their effect is subtle. Research suggests they can offer mild relief from menopause symptoms, particularly hot flashes and night sweats, while also potentially supporting your bone density and heart health. This gentle action is why many women turn to [phytoestrogen-rich foods](https://www.uclahealth.org/news/article/how-increase-estrogen-naturally) as a natural starting point for managing their symptoms and supporting their overall wellness.
+So, how exactly do these plant compounds work? Phytoestrogens, like the isoflavones in soy or the lignans in flaxseed oil, are able to bind to the estrogen receptors throughout your body. Because they are much weaker than the estrogen your body makes, their effect is subtle. Research suggests they can offer mild relief from menopause symptoms, particularly hot flashes and night sweats, while also potentially supporting your bone density and heart health. This gentle action is why many women turn to phytoestrogen-rich foods as a natural starting point for managing their symptoms and supporting their overall wellness.
 
 ### The Two Main Types: Isoflavones and Lignans
 
@@ -56,7 +56,7 @@ Ready to stock your kitchen? Adding hormone-supportive foods to your diet is eas
 
 Here’s a simple list to get you started:
 
-- **Soy Products:** Tofu, edamame, and soy milk are packed with isoflavones. Research from [UCLA Health](https://www.uclahealth.org/news/article/how-increase-estrogen-naturally) suggests these can be particularly helpful for managing menopause symptoms like hot flashes.
+- **Soy Products:** Tofu, edamame, and soy milk are packed with isoflavones. Research from UCLA Health suggests these can be particularly helpful for managing menopause symptoms like hot flashes.
 - **Flaxseeds:** These tiny seeds are a powerhouse of lignans. They are one of the richest dietary sources you can find.
 - **Legumes:** Lentils and chickpeas are another great source of plant-based estrogens and are incredibly versatile in the kitchen.
 
@@ -138,7 +138,7 @@ The truth is, some supplements can have powerful effects on your body. They can 
 
 ### Understanding Potential Risks and Interactions
 
-Before you add any new supplement to your routine, it’s essential to have a clear picture of the potential risks. Many herbal remedies are marketed with impressive claims, but the scientific evidence to back them up is often weak or nonexistent. According to the [Mayo Clinic](https://www.mayoclinic.org/alternative-medicine/scc-20342448), most alternative medicines for menopause haven’t been proven to be effective.
+Before you add any new supplement to your routine, it’s essential to have a clear picture of the potential risks. Many herbal remedies are marketed with impressive claims, but the scientific evidence to back them up is often weak or nonexistent. According to the Mayo Clinic, most alternative medicines for menopause haven’t been proven to be effective.
 
 The most important step you can take is to talk with your doctor. A supplement that works well for a friend might not be right for you. It could interact with medications you’re already taking or cause unexpected side effects. A healthcare provider who understands your full medical history can offer guidance on what is truly safe and help you create a [personalized wellness plan](/hormone-therapy/).
 
@@ -150,7 +150,7 @@ Black Cohosh is another popular supplement for menopause symptoms, but research 
 
 ### Why FDA Regulation Matters for Supplements
 
-It’s important to know that the supplement industry operates differently than the pharmaceutical industry. The U.S. Food and Drug Administration (FDA) does not test or approve herbal products for safety or effectiveness before they hit the shelves. As [UCLA Health](https://www.uclahealth.org/news/article/how-increase-estrogen-naturally) points out, this lack of oversight means you can’t always be sure that a product is pure, potent, or even contains the ingredients listed on the label.
+It’s important to know that the supplement industry operates differently than the pharmaceutical industry. The U.S. Food and Drug Administration (FDA) does not test or approve herbal products for safety or effectiveness before they hit the shelves. As UCLA Health points out, this lack of oversight means you can’t always be sure that a product is pure, potent, or even contains the ingredients listed on the label.
 
 This regulatory gap puts the responsibility on you, the consumer, to be discerning. Without the FDA’s stamp of approval, you’re relying on the manufacturer’s word. Some supplements can be harmful on their own or cause dangerous interactions with other medications you take. Consulting with a medical expert who can recommend trusted, effective, and medically supervised [treatments for hormonal health](/sexual-urinary-tract-health/) is the safest way to address your symptoms.
 
@@ -183,14 +183,14 @@ To make the most of your doctor’s visit, it helps to come prepared. Before you
 Here are a few key topics to bring up:
 
 - **Potential Interactions:** Ask if any of the supplements you’re considering could interfere with your current medications or health conditions.
-- **Personal Health History:** If you have a history of hormone-sensitive cancers, like breast cancer, it’s especially important to [discuss the safety](https://www.mayoclinic.org/alternative-medicine/scc-20342448) of phytoestrogen supplements like isoflavones.
+- **Personal Health History:** If you have a history of hormone-sensitive cancers, like breast cancer, it’s especially important to discuss the safety of phytoestrogen supplements like isoflavones.
 - **Product Specifics:** Whether it’s an over-the-counter supplement or a prescription, always review it with your specialist before you begin.
 
 ### Creating Your Personalized Hormone Health Plan
 
 Your hormone health plan should be as unique as you are. There is no single “best” or “safest” form of estrogen replacement; the right one is the option you and your doctor choose based on your specific needs and medical background. This personalized strategy is the foundation of effective hormone management.
 
-Your plan should go beyond just supplements. Discuss how [nutrition can support](https://www.uclahealth.org/news/article/how-increase-estrogen-naturally) your body’s natural hormone production. For example, you can ask about incorporating key vitamins and minerals, like B vitamins that help produce estrogen or Vitamin D which acts like a hormone in the body. For some women, a natural approach is enough, while others may find that a treatment like [Bioidentical Hormone Replacement Therapy](/biote-hormone-therapy/) is a better fit. A comprehensive plan considers all these elements to help you feel your best.
+Your plan should go beyond just supplements. Discuss how nutrition can support your body’s natural hormone production. For example, you can ask about incorporating key vitamins and minerals, like B vitamins that help produce estrogen or Vitamin D which acts like a hormone in the body. For some women, a natural approach is enough, while others may find that a treatment like [Bioidentical Hormone Replacement Therapy](/biote-hormone-therapy/) is a better fit. A comprehensive plan considers all these elements to help you feel your best.
 
 ## Related Articles
 

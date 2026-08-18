@@ -30,7 +30,7 @@ Let’s start by clearing up the terms “perimenopause” and “menopause.” 
 
 ### Perimenopause: The Transition Phase
 
-Perimenopause is essentially the transition period leading up to menopause. According to [Everyday Health](https://www.everydayhealth.com/services/online-menopause-treatment/), this phase typically begins when a woman is between 40 and 50 years old and can last anywhere from five to ten years. The most common sign that you’ve entered perimenopause is a change in your menstrual cycle; your periods might become irregular, heavier, or lighter. This happens as your hormone levels, particularly estrogen, begin to fluctuate and decline. It’s a gradual process, and while it’s a completely natural part of aging, the unpredictability can be frustrating. Recognizing these early signs is key to starting a conversation with a healthcare provider about managing your symptoms.
+Perimenopause is essentially the transition period leading up to menopause. According to Everyday Health, this phase typically begins when a woman is between 40 and 50 years old and can last anywhere from five to ten years. The most common sign that you’ve entered perimenopause is a change in your menstrual cycle; your periods might become irregular, heavier, or lighter. This happens as your hormone levels, particularly estrogen, begin to fluctuate and decline. It’s a gradual process, and while it’s a completely natural part of aging, the unpredictability can be frustrating. Recognizing these early signs is key to starting a conversation with a healthcare provider about managing your symptoms.
 
 ### Menopause: The Official Milestone
 
@@ -42,7 +42,7 @@ Once you understand the changes your body is going through, the next step is fin
 
 ### The Convenience of Telehealth
 
-Let’s be honest, life is busy. Finding time for a doctor’s appointment can be a challenge, especially when you’re already dealing with fatigue or other menopause symptoms. As noted by [The Flow Space](https://www.theflowspace.com/reproductive-health/menopause/online-menopause-treatment-2941951/), online companies are making menopause treatment much more accessible, regardless of where you live. Telehealth appointments eliminate travel time, waiting rooms, and the stress of fitting another errand into your day. You can speak with a specialist from your home or office, making it simpler to prioritize your health. This convenience allows for more consistent follow-up and care, which is crucial for effectively managing symptoms over time.
+Let’s be honest, life is busy. Finding time for a doctor’s appointment can be a challenge, especially when you’re already dealing with fatigue or other menopause symptoms. As noted by The Flow Space, online companies are making menopause treatment much more accessible, regardless of where you live. Telehealth appointments eliminate travel time, waiting rooms, and the stress of fitting another errand into your day. You can speak with a specialist from your home or office, making it simpler to prioritize your health. This convenience allows for more consistent follow-up and care, which is crucial for effectively managing symptoms over time.
 
 ### Access to Specialized Care
 

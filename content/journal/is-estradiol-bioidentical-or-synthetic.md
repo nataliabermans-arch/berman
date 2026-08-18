@@ -46,9 +46,9 @@ This molecular match is why many women seek out [Bioidentical Hormone Replacemen
 
 ### The Science Behind the “Bioidentical” Label
 
-When we get down to the science, “bioidentical” is a straightforward chemical definition. It means the hormones in a product, like estradiol or progesterone, have the exact same molecular structure as the hormones produced by your ovaries. According to the Mayo Clinic, many [FDA-approved hormone medicines](https://www.mayoclinic.org/diseases-conditions/menopause/expert-answers/bioidentical-hormones/faq-20058460) already contain bioidentical hormones. So, you might be surprised to learn that you don’t have to go to a special pharmacy to get them.
+When we get down to the science, “bioidentical” is a straightforward chemical definition. It means the hormones in a product, like estradiol or progesterone, have the exact same molecular structure as the hormones produced by your ovaries. According to the Mayo Clinic, many FDA-approved hormone medicines already contain bioidentical hormones. So, you might be surprised to learn that you don’t have to go to a special pharmacy to get them.
 
-The important thing to remember is that the “bioidentical” label itself is not a promise of superior safety or results. The effectiveness and safety of any hormone therapy depend on the correct dosage, the delivery method, and whether it has been rigorously tested. Some compounded bioidentical hormones, for example, contain [mixes and doses](https://womensmentalhealth.org/posts/essential-reads-bioidentical-hormone-therapy-for-menopausal-symptoms/) that haven’t been scientifically studied, which is why the source of your hormones matters so much.
+The important thing to remember is that the “bioidentical” label itself is not a promise of superior safety or results. The effectiveness and safety of any hormone therapy depend on the correct dosage, the delivery method, and whether it has been rigorously tested. Some compounded bioidentical hormones, for example, contain mixes and doses that haven’t been scientifically studied, which is why the source of your hormones matters so much.
 
 ### Common Myths About “Natural” Hormones
 
@@ -76,7 +76,7 @@ This distinction is crucial because it affects the safety, consistency, and effe
 
 FDA-approved bioidentical hormones, including many estradiol products (like patches, gels, and pills), have gone through extensive testing to prove they are safe and effective. They are manufactured under strict guidelines, ensuring every dose is consistent. This means you know exactly what you’re getting each time.
 
-On the other hand, compounded bioidentical hormones are custom-mixed by a compounding pharmacy, often based on a doctor’s prescription. While this sounds personalized, these custom formulas are not regulated or tested by the FDA. According to the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/menopause/expert-answers/bioidentical-hormones/faq-20058460), this lack of oversight can lead to inconsistencies in hormone levels and purity, which may carry potential health risks. Without FDA review, there’s no guarantee of the product’s safety or that it will work as intended.
+On the other hand, compounded bioidentical hormones are custom-mixed by a compounding pharmacy, often based on a doctor’s prescription. While this sounds personalized, these custom formulas are not regulated or tested by the FDA. According to the Mayo Clinic, this lack of oversight can lead to inconsistencies in hormone levels and purity, which may carry potential health risks. Without FDA review, there’s no guarantee of the product’s safety or that it will work as intended.
 
 ## Comparing Your Estradiol Options
 
@@ -94,7 +94,7 @@ When it comes to your health, consistency is key. With FDA-approved estradiol, y
 
 ### What the Research Says
 
-You might hear claims that compounded hormones are a more “natural” or personalized solution, but it’s important to look at the science. Major medical institutions have reviewed the evidence, and the consensus is clear: there is [no scientific proof](https://www.mayoclinic.org/diseases-conditions/menopause/expert-answers/bioidentical-hormones/faq-20058460) that compounded bioidentical hormones are safer or more effective than standard, FDA-approved hormone therapies. The appeal of a “custom” formula is understandable, but without rigorous testing, those claims aren’t supported by research. The priority should always be a treatment that is proven to work safely and consistently, which is why experts recommend FDA-approved options.
+You might hear claims that compounded hormones are a more “natural” or personalized solution, but it’s important to look at the science. Major medical institutions have reviewed the evidence, and the consensus is clear: there is no scientific proof that compounded bioidentical hormones are safer or more effective than standard, FDA-approved hormone therapies. The appeal of a “custom” formula is understandable, but without rigorous testing, those claims aren’t supported by research. The priority should always be a treatment that is proven to work safely and consistently, which is why experts recommend FDA-approved options.
 
 ## What Are the Benefits and Risks of Each?
 

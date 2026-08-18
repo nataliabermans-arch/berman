@@ -29,7 +29,7 @@ Let’s be honest: vaginal dryness is more than just a momentary inconvenience d
 
 ## What Causes Vaginal Dryness (and When to Get Help)
 
-If you’re dealing with vaginal dryness, please know you’re not alone. It’s an incredibly common experience for women, and it’s not something you just have to live with. The most frequent cause is a drop in estrogen levels. This happens most often during perimenopause and menopause, leading to a condition called [genitourinary syndrome of menopause](https://www.mayoclinic.org/diseases-conditions/menopause/expert-answers/vaginal-dryness/faq-20115086). Essentially, when estrogen decreases, the vaginal tissues can become thinner, less elastic, and drier. This can cause discomfort, itching, and irritation that affects your daily life and intimacy.
+If you’re dealing with vaginal dryness, please know you’re not alone. It’s an incredibly common experience for women, and it’s not something you just have to live with. The most frequent cause is a drop in estrogen levels. This happens most often during perimenopause and menopause, leading to a condition called genitourinary syndrome of menopause. Essentially, when estrogen decreases, the vaginal tissues can become thinner, less elastic, and drier. This can cause discomfort, itching, and irritation that affects your daily life and intimacy.
 
 But menopause isn’t the only reason you might experience dryness. It can also happen after childbirth, while breastfeeding, or as a side effect of certain medications, including some allergy medicines and antidepressants. Even stress can play a role. Because there are so many potential causes, it’s important to pay attention to your body and understand that this can affect women at any stage of life. Finding the right [vaginal dryness treatment](/vaginal-dryness-treatment/) starts with understanding the root of the issue.
 
@@ -47,7 +47,7 @@ First, let’s talk about what makes a vaginal moisturizer effective. A true moi
 
 ### Steer Clear of These Ingredients
 
-What’s left out of a product is just as important as what’s in it. Many additives can disrupt your delicate vaginal environment and make dryness or irritation worse. Be sure to avoid products that contain fragrances, perfumes, or parabens, as these are common culprits for irritation. Most importantly, never use petroleum jelly (like Vaseline) as a vaginal moisturizer. While it might seem like a simple solution, it can trap bacteria, leading to inflammation and even [cause infections](https://www.mskcc.org/cancer-care/patient-education/vaginal-health). Always opt for products specifically formulated for internal vaginal use.
+What’s left out of a product is just as important as what’s in it. Many additives can disrupt your delicate vaginal environment and make dryness or irritation worse. Be sure to avoid products that contain fragrances, perfumes, or parabens, as these are common culprits for irritation. Most importantly, never use petroleum jelly (like Vaseline) as a vaginal moisturizer. While it might seem like a simple solution, it can trap bacteria, leading to inflammation and even cause infections. Always opt for products specifically formulated for internal vaginal use.
 
 ### Why pH Balance and Osmolality Matter
 
@@ -89,11 +89,11 @@ Personal lubricants, on the other hand, are for in-the-moment situations. They d
 
 Knowing when to reach for each product is key to getting the best results. You should use a vaginal moisturizer as part of your regular routine, typically two or three times a week, to keep your vaginal tissues consistently hydrated. Think of this as your foundational care for managing ongoing dryness.
 
-Lubricants are for situational use. You can [use them as often as you need](https://www.health.com/editor-s-picks-vaginal-moisturizers-and-lubricants-that-ease-vaginal-dryness-7496627) for extra moisture, especially to make sex more comfortable. If you only notice dryness during intimacy, a good lubricant might be all you need. However, if you feel discomfort throughout the day, a moisturizer is the better choice for consistent, long-term relief.
+Lubricants are for situational use. You can use them as often as you need for extra moisture, especially to make sex more comfortable. If you only notice dryness during intimacy, a good lubricant might be all you need. However, if you feel discomfort throughout the day, a moisturizer is the better choice for consistent, long-term relief.
 
 ### How and How Often to Apply Them
 
-For a vaginal moisturizer to be effective, consistency is important. The goal is to maintain a healthy level of moisture in the vaginal tissues. A good rule of thumb is to [apply the moisturizer](https://www.mskcc.org/cancer-care/patient-education/vaginal-health) about three to five times a week. Many women find it easiest to apply it before bed, which gives the product time to absorb fully without being affected by daily movement. Most moisturizers come with a reusable applicator, but you can also use your clean fingers.
+For a vaginal moisturizer to be effective, consistency is important. The goal is to maintain a healthy level of moisture in the vaginal tissues. A good rule of thumb is to apply the moisturizer about three to five times a week. Many women find it easiest to apply it before bed, which gives the product time to absorb fully without being affected by daily movement. Most moisturizers come with a reusable applicator, but you can also use your clean fingers.
 
 Lubricants are much more straightforward. You simply apply them right before or during sexual activity. There’s no set schedule; just use an amount that feels comfortable for you and your partner.
 
@@ -125,7 +125,7 @@ True vaginal moisturizers work differently. They are absorbed by the vaginal tis
 
 Most women use vaginal dryness creams without any issues, but it’s always smart to know what to look out for. The most common side effects are mild irritation, itching, or a burning sensation, which usually means you’re sensitive to a particular ingredient. To avoid this, always check the ingredient list for potential irritants and do a patch test on a small area of skin before your first full application.
 
-There are also many [misconceptions](https://www.smsna.org/patients/blog/6-vaginal-dryness-misconceptions-debunked) about these products. A common worry is that your body will become dependent on them, but this isn’t true. Using a moisturizer or lubricant won’t stop your body from producing its own natural moisture. These products simply supplement what your body is already doing.
+There are also many misconceptions about these products. A common worry is that your body will become dependent on them, but this isn’t true. Using a moisturizer or lubricant won’t stop your body from producing its own natural moisture. These products simply supplement what your body is already doing.
 
 ## How to Apply Vaginal Dryness Creams for the Best Results
 
@@ -181,9 +181,9 @@ You don’t have to spend a fortune to find relief. Many stores offer generic or
 
 Walking down the pharmacy aisle can feel overwhelming when you’re looking for relief from vaginal dryness. With so many creams, gels, and moisturizers to choose from, how do you know which one is right for you? The key is understanding what different products do and what your body needs.
 
-For daily comfort, [long-acting moisturizers](https://www.prevention.com/health/a36384977/what-is-vaginal-moisturizer/) are often the best place to start. Vaginal dryness is a completely natural part of aging and hormonal changes, and for many women, a dedicated moisturizer is all it takes to feel comfortable again. These products are specifically formulated to be used inside the vagina to restore moisture to the tissues, providing lasting relief that goes beyond temporary lubrication.
+For daily comfort, long-acting moisturizers are often the best place to start. Vaginal dryness is a completely natural part of aging and hormonal changes, and for many women, a dedicated moisturizer is all it takes to feel comfortable again. These products are specifically formulated to be used inside the vagina to restore moisture to the tissues, providing lasting relief that goes beyond temporary lubrication.
 
-If you prefer to avoid hormones, you’re in luck. There are excellent hormone-free options that can work just as well as some prescription estrogen creams. Research shows that a hormone-free vaginal moisturizing cream can significantly improve dryness, offering a safe and effective alternative for those who can’t or prefer not to use hormonal treatments. And don’t worry about your body becoming reliant on these products. It’s a common misconception that using a moisturizer or lubricant will [make you dependent on it](https://momotaroapotheca.com/en-ca/blogs/vaginal-wellness/vaginal-dryness-myths-debunked?srsltid=AfmBOophHCk8wuXIUs518PHjwX84yG-zX0ZFhg6LS0yOIcHzzqEVE9rw); think of it as you would a facial moisturizer, simply giving your skin the hydration it needs to feel its best.
+If you prefer to avoid hormones, you’re in luck. There are excellent hormone-free options that can work just as well as some prescription estrogen creams. Research shows that a hormone-free vaginal moisturizing cream can significantly improve dryness, offering a safe and effective alternative for those who can’t or prefer not to use hormonal treatments. And don’t worry about your body becoming reliant on these products. It’s a common misconception that using a moisturizer or lubricant will make you dependent on it; think of it as you would a facial moisturizer, simply giving your skin the hydration it needs to feel its best.
 
 ## Related Articles
 

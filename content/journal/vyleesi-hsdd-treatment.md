@@ -28,6 +28,6 @@ During the first phase, tested women were involved a 24-week placebo-controlled 
 
 The co-primary conclusions of the studies were an improvement in sexual desire and reduction in distress related to sexual dysfunction as defined by standard indexes.
 
-More information about Vyleesi’s recent approval can be found at [https://www.drugdevelopment-technology.com/projects/vyleesi-bremelanotide/](https://www.drugdevelopment-technology.com/projects/vyleesi-bremelanotide/)
+More information about Vyleesi’s recent approval can be found at https://www.drugdevelopment-technology.com/projects/vyleesi-bremelanotide/
 
 ## Want More Information?

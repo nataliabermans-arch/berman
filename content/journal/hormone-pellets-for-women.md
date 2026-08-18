@@ -106,7 +106,7 @@ One of the most critical aspects of hormone pellet therapy is getting the dosage
 
 ### FDA Status and Considerations
 
-It’s also helpful to understand where the FDA stands on hormone pellets. Currently, there are no FDA-approved, mass-produced estradiol pellets available in the United States. The pellets used in therapy are typically custom-compounded in special pharmacies to fit your specific needs. Because of this, the FDA considers many of these [implantable hormone pellets](https://www.southcarolinablues.com/web/public/brands/medicalpolicy/external-policies/implantable-hormone-pellets-for-females/) “investigational.” This doesn’t mean they are unsafe, but it does highlight the importance of choosing a highly qualified medical professional who sources from reputable compounding pharmacies and follows strict safety protocols for your care.
+It’s also helpful to understand where the FDA stands on hormone pellets. Currently, there are no FDA-approved, mass-produced estradiol pellets available in the United States. The pellets used in therapy are typically custom-compounded in special pharmacies to fit your specific needs. Because of this, the FDA considers many of these implantable hormone pellets “investigational.” This doesn’t mean they are unsafe, but it does highlight the importance of choosing a highly qualified medical professional who sources from reputable compounding pharmacies and follows strict safety protocols for your care.
 
 ## Hormone Pellets vs. Other HRT Options
 

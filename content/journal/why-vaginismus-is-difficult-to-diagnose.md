@@ -87,7 +87,7 @@ One of the most important things to understand is that vaginismus is fundamental
 
 #### **Vaginismus and Sexual Arousal**
 
-A common myth is that vaginismus is linked to a lack of sexual desire or arousal. This simply isn’t true. According to the [NHS](https://www.nhs.uk/conditions/vaginismus/), individuals with vaginismus can and do experience sexual arousal, desire, and even orgasms from external stimulation. The condition does not diminish a person’s libido; it’s a physical reflex that prevents penetration. This is an important distinction from conditions like [low libido](/low-libido-and-your-relationships/), where the primary issue is a lack of sexual desire. For those with vaginismus, the desire is often there, but the body’s involuntary response creates a physical obstacle to a specific type of sexual activity.
+A common myth is that vaginismus is linked to a lack of sexual desire or arousal. This simply isn’t true. According to the NHS, individuals with vaginismus can and do experience sexual arousal, desire, and even orgasms from external stimulation. The condition does not diminish a person’s libido; it’s a physical reflex that prevents penetration. This is an important distinction from conditions like [low libido](/low-libido-and-your-relationships/), where the primary issue is a lack of sexual desire. For those with vaginismus, the desire is often there, but the body’s involuntary response creates a physical obstacle to a specific type of sexual activity.
 
 ### **How Common Is Vaginismus?**
 

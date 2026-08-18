@@ -110,7 +110,7 @@ REFERENCES Beurdeley M et al., Chinese Erotic Art. VT: Charles E. Tuttle Company
 
 Additional resources on female sexuality are available from MayoClinic.com:
 
-[http://www.mayoclinic.com/health/kegel-exercises/WO00119](http://www.mayoclinic.com/health/kegel-exercises/WO00119)  
-[http://www.mayoclinic.com/health/sexual-health/HA00035](http://www.mayoclinic.com/health/sexual-health/HA00035)  
-[http://www.mayoclinic.com/health/womens-health/WO00110](http://www.mayoclinic.com/health/womens-health/WO00110)  
-[http://www.mayoclinic.com/health/sexual-health/HQ01363](http://www.mayoclinic.com/health/sexual-health/HQ01363)
+http://www.mayoclinic.com/health/kegel-exercises/WO00119  
+http://www.mayoclinic.com/health/sexual-health/HA00035  
+http://www.mayoclinic.com/health/womens-health/WO00110  
+http://www.mayoclinic.com/health/sexual-health/HQ01363

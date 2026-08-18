@@ -128,7 +128,7 @@ Most of us want to know how soon we can expect to see changes. While every woman
 
 ### Maintaining Your Results for the Long Term
 
-Emsella provides incredible results, but it’s important to think of it like a fitness routine for your pelvic floor. The muscle strength you build can diminish over time without continued stimulation. To maintain your progress, you may need a follow-up session every 6 to 12 months. Think of it as a simple tune-up to keep your pelvic floor strong and responsive. For the best long-term success, it’s also a great idea to partner with a quality provider who can offer a holistic approach. Combining Emsella with guidance from a [pelvic health specialist](https://www.vividwomenshealth.com/blog/the-pelvic-floor-chair) ensures you have a comprehensive plan for lasting pelvic wellness.
+Emsella provides incredible results, but it’s important to think of it like a fitness routine for your pelvic floor. The muscle strength you build can diminish over time without continued stimulation. To maintain your progress, you may need a follow-up session every 6 to 12 months. Think of it as a simple tune-up to keep your pelvic floor strong and responsive. For the best long-term success, it’s also a great idea to partner with a quality provider who can offer a holistic approach. Combining Emsella with guidance from a pelvic health specialist ensures you have a comprehensive plan for lasting pelvic wellness.
 
 ## Common Emsella Myths, Debunked
 

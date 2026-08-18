@@ -142,7 +142,7 @@ Figuring out the cost of hormone replacement therapy can feel like one more thin
 
 ### [Ask About Generic Options](/average-monthly-cost-bioidentical-hormones/)
 
-One of the simplest ways to lower your HRT costs is to ask your doctor about generic medications. Generic drugs are required by the [Food and Drug Administration (FDA)](https://www.fda.gov/drugs/questions-answers/generic-drugs-questions-answers) to have the same active ingredients, strength, and dosage form as their brand-name counterparts. They work in the exact same way but are often available at a fraction of the price. This is because generic manufacturers don’t have to repeat the expensive clinical trials the brand-name company already conducted. Don’t hesitate to bring this up during your appointment; it’s a standard and smart question that can lead to immediate savings on your prescriptions.
+One of the simplest ways to lower your HRT costs is to ask your doctor about generic medications. Generic drugs are required by the Food and Drug Administration (FDA) to have the same active ingredients, strength, and dosage form as their brand-name counterparts. They work in the exact same way but are often available at a fraction of the price. This is because generic manufacturers don’t have to repeat the expensive clinical trials the brand-name company already conducted. Don’t hesitate to bring this up during your appointment; it’s a standard and smart question that can lead to immediate savings on your prescriptions.
 
 ### Find Discount Programs and Coupons
 
@@ -162,15 +162,15 @@ Thinking about the financial side of Hormone Replacement Therapy is a smart and 
 
 ### Create a Simple Monthly Budget
 
-The first step is to get a clear picture of where HRT fits into your monthly spending. The [monthly cost of HRT](https://www.joinmidi.com/post/hrt-cost) can vary quite a bit, from as low as $10 for generic estrogen pills with insurance to over $500 for more specialized treatments. To start, sit down and map out your current income and expenses. Once you see what you’re working with, you can determine a realistic amount to set aside for your therapy. This simple exercise removes the guesswork and helps you see exactly how your treatment plan can fit into your life without causing financial stress.
+The first step is to get a clear picture of where HRT fits into your monthly spending. The monthly cost of HRT can vary quite a bit, from as low as $10 for generic estrogen pills with insurance to over $500 for more specialized treatments. To start, sit down and map out your current income and expenses. Once you see what you’re working with, you can determine a realistic amount to set aside for your therapy. This simple exercise removes the guesswork and helps you see exactly how your treatment plan can fit into your life without causing financial stress.
 
 ### Plan for Long-Term Treatment Costs
 
-Hormone Replacement Therapy is often an ongoing commitment, so it’s wise to think about the costs over time. While some monthly expenses are very manageable, certain treatments, like injections without insurance coverage, can be more significant. Planning for these [ongoing treatment expenses](https://trocarsupplies.com/blogs/news/how-much-does-hormone-replacement-therapy-cost-in-2024) helps you prepare for the future. During your consultation, we can discuss the expected duration of your therapy, which will give you a clearer timeline for your financial planning. Thinking ahead ensures you can comfortably continue your treatment for as long as you need to feel your best.
+Hormone Replacement Therapy is often an ongoing commitment, so it’s wise to think about the costs over time. While some monthly expenses are very manageable, certain treatments, like injections without insurance coverage, can be more significant. Planning for these ongoing treatment expenses helps you prepare for the future. During your consultation, we can discuss the expected duration of your therapy, which will give you a clearer timeline for your financial planning. Thinking ahead ensures you can comfortably continue your treatment for as long as you need to feel your best.
 
 ### Explore Your Financial Assistance Options
 
-If the cost of HRT feels like a stretch, please know that you have options. There are several ways to make your treatment more affordable. A great first step is to ask your pharmacy for the “cash price” of your medication, as it can sometimes be lower than the co-pay. Many pharmaceutical companies also offer savings cards directly on their websites. Additionally, there are many [financial assistance options](https://www.joinmidi.com/post/hrt-cost) and services like GoodRx that provide coupons to help lower your out-of-pocket costs. A little research can go a long way in making your HRT budget-friendly.
+If the cost of HRT feels like a stretch, please know that you have options. There are several ways to make your treatment more affordable. A great first step is to ask your pharmacy for the “cash price” of your medication, as it can sometimes be lower than the co-pay. Many pharmaceutical companies also offer savings cards directly on their websites. Additionally, there are many financial assistance options and services like GoodRx that provide coupons to help lower your out-of-pocket costs. A little research can go a long way in making your HRT budget-friendly.
 
 ## Getting Started with Dr. Jennifer Berman
 
@@ -182,7 +182,7 @@ Our approach is built around you. We begin by listening to your story and unders
 
 Let’s talk about cost. The price of hormone replacement therapy can vary quite a bit, depending on the type of medication, your specific dosage, and your insurance plan. We know that figuring out these details can be confusing, which is why our team is here to help you make sense of it all. We’ll sit down with you to review the potential expenses associated with your recommended treatment plan.
 
-Our goal is to provide complete transparency so you can [plan your budget](https://www.nerdwallet.com/article/finance/how-to-budget) effectively without any surprises. We’ll help you understand what your insurance may cover and what to expect for any out-of-pocket costs, ensuring you have a clear financial picture before you commit to a treatment path.
+Our goal is to provide complete transparency so you can plan your budget effectively without any surprises. We’ll help you understand what your insurance may cover and what to expect for any out-of-pocket costs, ensuring you have a clear financial picture before you commit to a treatment path.
 
 ### Your Personalized Treatment Approach
 

@@ -36,11 +36,11 @@ But as with most things in science and health, the full story is more nuanced th
 
 ### What the Study Aimed to Discover
 
-The Women’s Health Initiative was a landmark study sponsored by the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/science/womens-health-initiative-whi) with a clear mission: to tackle the biggest health concerns facing postmenopausal women. Researchers wanted to find effective ways to prevent chronic diseases like heart disease, breast and colorectal cancer, and osteoporosis. A huge piece of this puzzle was figuring out the long-term effects of hormone replacement therapy. At the time, many women were using HRT to manage menopausal symptoms, and doctors believed it might also protect against these other conditions. The WHI was designed to provide definitive answers on the risks and benefits of using HRT long-term.
+The Women’s Health Initiative was a landmark study sponsored by the National Heart, Lung, and Blood Institute with a clear mission: to tackle the biggest health concerns facing postmenopausal women. Researchers wanted to find effective ways to prevent chronic diseases like heart disease, breast and colorectal cancer, and osteoporosis. A huge piece of this puzzle was figuring out the long-term effects of hormone replacement therapy. At the time, many women were using HRT to manage menopausal symptoms, and doctors believed it might also protect against these other conditions. The WHI was designed to provide definitive answers on the risks and benefits of using HRT long-term.
 
 ### Who Participated and How It Worked
 
-This wasn’t a small-scale project. The WHI was one of the largest women’s health prevention studies ever conducted, enrolling about 161,000 women between the ages of 50 and 79. The study had a few different parts, but the most talked-about was the [clinical trial](https://clinicaltrials.gov/study/NCT00000611), where thousands of women were given either hormone therapy (estrogen plus progestin or estrogen alone) or a placebo. Alongside this, an observational study tracked the health habits and medical histories of over 93,000 women. This comprehensive design allowed researchers to collect an incredible amount of data, creating a rich resource for understanding women’s health for years to come.
+This wasn’t a small-scale project. The WHI was one of the largest women’s health prevention studies ever conducted, enrolling about 161,000 women between the ages of 50 and 79. The study had a few different parts, but the most talked-about was the clinical trial, where thousands of women were given either hormone therapy (estrogen plus progestin or estrogen alone) or a placebo. Alongside this, an observational study tracked the health habits and medical histories of over 93,000 women. This comprehensive design allowed researchers to collect an incredible amount of data, creating a rich resource for understanding women’s health for years to come.
 
 ## What Did the WHI Study on HRT Originally Find?
 
@@ -48,7 +48,7 @@ When the initial findings of the Women’s Health Initiative (WHI) were released
 
 ### The Results for Estrogen + Progestin
 
-This part of the study looked at women who still had a uterus and were taking a combination of estrogen and progestin. The results from this group were the primary source of concern. Researchers found that this combined therapy was associated with an [increased risk of breast cancer](https://pubmed.ncbi.nlm.nih.gov/12117397/), heart disease, stroke, and blood clots. The data suggested the risk for heart issues and stroke appeared within the first couple of years, while the breast cancer risk became more apparent after about four years of use. For the healthy postmenopausal women in the study, the researchers concluded that these health risks were greater than the benefits.
+This part of the study looked at women who still had a uterus and were taking a combination of estrogen and progestin. The results from this group were the primary source of concern. Researchers found that this combined therapy was associated with an increased risk of breast cancer, heart disease, stroke, and blood clots. The data suggested the risk for heart issues and stroke appeared within the first couple of years, while the breast cancer risk became more apparent after about four years of use. For the healthy postmenopausal women in the study, the researchers concluded that these health risks were greater than the benefits.
 
 ### The Findings for Estrogen-Only Therapy
 
@@ -56,7 +56,7 @@ The second arm of the study focused on women who had previously had a hysterecto
 
 ### The Initial Risk vs. Benefit Conclusion
 
-Because of the concerning findings in the estrogen-plus-progestin group, the data and safety monitoring board for the WHI made a major call: they recommended stopping that part of the trial early. After an average of just over five years, they determined that the [adverse effects](https://www.govinfo.gov/content/pkg/GOVPUB-HE20_3850-PURL-LPS63070/pdf/GOVPUB-HE20_3850-PURL-LPS63070.pdf), especially the increased chance of developing invasive breast cancer, were too significant. The conclusion was that the risks simply outweighed the benefits for the women being studied. This single decision reshaped medical guidelines and created a lasting sense of fear around hormone therapy for an entire generation of women.
+Because of the concerning findings in the estrogen-plus-progestin group, the data and safety monitoring board for the WHI made a major call: they recommended stopping that part of the trial early. After an average of just over five years, they determined that the adverse effects, especially the increased chance of developing invasive breast cancer, were too significant. The conclusion was that the risks simply outweighed the benefits for the women being studied. This single decision reshaped medical guidelines and created a lasting sense of fear around hormone therapy for an entire generation of women.
 
 ## How the WHI Changed Hormone Therapy
 
@@ -84,7 +84,7 @@ One of the most important developments in HRT is the “timing hypothesis.” Re
 
 ### Why the FDA Updated Its Warnings
 
-If you remember the panic after the WHI study, you likely remember the scary “black box” warning that was placed on HRT medications. This warning contributed to a massive drop in HRT use and left many women to suffer through severe menopause symptoms without support. Thankfully, the U.S. Department of Health and Human Services (HHS) and the FDA are [removing misleading ‘black box’ warnings](https://www.fda.gov/news-events/press-announcements/hhs-advances-womens-health-removes-misleading-fda-warnings-hormone-replacement-therapy) from many HRT products. They acknowledged that the original warnings were based on a misunderstanding of the data, which showed only a very small, not statistically significant, increase in breast cancer risk. This official update is a huge step in correcting the record and reassuring women about the safety of modern hormone therapy when prescribed appropriately.
+If you remember the panic after the WHI study, you likely remember the scary “black box” warning that was placed on HRT medications. This warning contributed to a massive drop in HRT use and left many women to suffer through severe menopause symptoms without support. Thankfully, the U.S. Department of Health and Human Services (HHS) and the FDA are removing misleading ‘black box’ warnings from many HRT products. They acknowledged that the original warnings were based on a misunderstanding of the data, which showed only a very small, not statistically significant, increase in breast cancer risk. This official update is a huge step in correcting the record and reassuring women about the safety of modern hormone therapy when prescribed appropriately.
 
 ### A Modern Look at the WHI Data
 
@@ -96,11 +96,11 @@ After years of confusion following the WHI study, we finally have a much clearer
 
 ### Heart Health: Why Timing Matters
 
-One of the most significant updates in our understanding of HRT involves heart health, and the key takeaway is that timing is everything. When started within 10 years of menopause or before age 60, HRT can be incredibly protective for your heart. In fact, studies show that women who begin therapy during this critical window can [reduce their risk of heart disease](https://www.fda.gov/news-events/press-announcements/hhs-advances-womens-health-removes-misleading-fda-warnings-hormone-replacement-therapy) by as much as 50%. This is a huge shift from the original WHI findings, which looked at women who were, on average, much older and further from their last period. For women navigating perimenopause and early menopause, this benefit is a major reason to consider HRT as part of a proactive wellness plan.
+One of the most significant updates in our understanding of HRT involves heart health, and the key takeaway is that timing is everything. When started within 10 years of menopause or before age 60, HRT can be incredibly protective for your heart. In fact, studies show that women who begin therapy during this critical window can reduce their risk of heart disease by as much as 50%. This is a huge shift from the original WHI findings, which looked at women who were, on average, much older and further from their last period. For women navigating perimenopause and early menopause, this benefit is a major reason to consider HRT as part of a proactive wellness plan.
 
 ### [A Clearer View on Breast Cancer Risk](/hormone-replacement-therapy-cancer/)
 
-Let’s talk about the biggest concern for most women: breast cancer. The initial WHI report created a lot of anxiety, but a closer look at the data tells a different story. More recent [analyses have shown](https://www.fda.gov/news-events/press-announcements/hhs-advances-womens-health-removes-misleading-fda-warnings-hormone-replacement-therapy) that the increased risk of breast cancer associated with HRT is very small, and for many, not statistically significant. The level of risk often depends on the type of hormones used and whether you start therapy early in menopause. It’s important to put this risk into perspective with other lifestyle factors. For many women, the relief from debilitating symptoms and the other health benefits make this minimal risk a worthwhile consideration.
+Let’s talk about the biggest concern for most women: breast cancer. The initial WHI report created a lot of anxiety, but a closer look at the data tells a different story. More recent analyses have shown that the increased risk of breast cancer associated with HRT is very small, and for many, not statistically significant. The level of risk often depends on the type of hormones used and whether you start therapy early in menopause. It’s important to put this risk into perspective with other lifestyle factors. For many women, the relief from debilitating symptoms and the other health benefits make this minimal risk a worthwhile consideration.
 
 ### Improving Bone Health and Quality of Life
 
@@ -140,7 +140,7 @@ You may have heard the term “bioidentical” and wondered what it means. Simpl
 
 ### Traditional Hormone Therapy
 
-Traditional hormone therapy has also seen major updates. For years, many women were hesitant due to the “black box” warnings on HRT products that came out after the WHI study. However, our understanding has evolved. The U.S. Department of Health and Human Services and the FDA are now [removing misleading FDA warnings](https://www.fda.gov/news-events/press-announcements/hhs-advances-womens-health-removes-misleading-fda-warnings-hormone-replacement-therapy) from many HRT products. This change reflects a modern, more nuanced understanding of the data, acknowledging that for many women, the benefits of treatment far outweigh the risks, especially when started at the right time. This is a huge step forward in clearing up old misconceptions and empowering women to make confident health choices.
+Traditional hormone therapy has also seen major updates. For years, many women were hesitant due to the “black box” warnings on HRT products that came out after the WHI study. However, our understanding has evolved. The U.S. Department of Health and Human Services and the FDA are now removing misleading FDA warnings from many HRT products. This change reflects a modern, more nuanced understanding of the data, acknowledging that for many women, the benefits of treatment far outweigh the risks, especially when started at the right time. This is a huge step forward in clearing up old misconceptions and empowering women to make confident health choices.
 
 ### Personalized Plans and Delivery Methods
 

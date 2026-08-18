@@ -28,7 +28,7 @@ Stress incontinence occurs as urine leaks when pressure is exerted on the bladde
 
 When women need comprehensive, compassionate low libido therapy from an experienced urologist, they come to me. I’m world-renowned as a leading authority in the field of women’s sexual health.
 
-According to the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/urinary-incontinence/symptoms-causes/syc-20352808), urinary incontinence is the loss of bladder control, resulting in the accidental loss of urine.
+According to the Mayo Clinic, urinary incontinence is the loss of bladder control, resulting in the accidental loss of urine.
 
 ## Urge Incontinence
 

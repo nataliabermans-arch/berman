@@ -160,7 +160,7 @@ Once you have your results, your doctor can design a personalized treatment plan
 
 A lab report full of numbers can be overwhelming, but you don’t have to interpret it alone. Understanding your results is a conversation you’ll have with your healthcare provider. They will explain what the levels mean in the context of your overall health, symptoms, and personal goals. It’s about connecting the data on the page to how you feel every day.
 
-This expert guidance is crucial because not all hormones are created equal. Clinical outcomes show that [bioidentical hormones](https://www.fwendo.com/contents/therapies/hrt-myths-and-facts) are often more effective and associated with lower risks than their synthetic counterparts. Your doctor can use your test results to recommend the safest and most beneficial options for you, helping you make informed decisions about your treatment.
+This expert guidance is crucial because not all hormones are created equal. Clinical outcomes show that bioidentical hormones are often more effective and associated with lower risks than their synthetic counterparts. Your doctor can use your test results to recommend the safest and most beneficial options for you, helping you make informed decisions about your treatment.
 
 ### How Often to Monitor Your Levels
 

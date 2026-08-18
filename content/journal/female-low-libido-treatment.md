@@ -59,7 +59,7 @@ You may have heard of [Addyi](/addyi/), the first FDA-approved medication for HS
 
 ### Vyleesi (Bremelanotide)
 
-Vyleesi is another option, but it works quite differently from Addyi. Instead of a daily pill, Vyleesi is an on-demand injection you administer yourself about 45 minutes before you plan to be sexually active. It’s also approved for premenopausal women with HSDD. Vyleesi works by activating specific pathways in the brain known as melanocortin receptors, which play a role in sexual arousal. This makes it a good choice for women who prefer a use-as-needed treatment rather than a daily medication. It offers a more spontaneous approach to managing [low sexual desire](https://www.uchicagomedicine.org/forefront/womens-health-articles/vyleesi-addyi-how-women-can-get-help-for-low-sexual-desire).
+Vyleesi is another option, but it works quite differently from Addyi. Instead of a daily pill, Vyleesi is an on-demand injection you administer yourself about 45 minutes before you plan to be sexually active. It’s also approved for premenopausal women with HSDD. Vyleesi works by activating specific pathways in the brain known as melanocortin receptors, which play a role in sexual arousal. This makes it a good choice for women who prefer a use-as-needed treatment rather than a daily medication. It offers a more spontaneous approach to managing low sexual desire.
 
 ### Addyi vs. Vyleesi: What’s the Difference?
 
@@ -103,7 +103,7 @@ Your sex drive isn’t just a physical switch that flips on and off. It’s deep
 
 ### The Impact of Stress and Mental Health
 
-When you’re juggling work deadlines, family responsibilities, and a never-ending to-do list, sex can easily fall to the bottom of your priorities. Chronic stress floods your body with cortisol, a hormone that can suppress your sex drive. Research shows that women often report [physical symptoms of stress](https://utswmed.org/medblog/libido-testosterone-women/), like headaches or an upset stomach, that directly interfere with desire. Furthermore, conditions like anxiety and depression can dampen libido, and unfortunately, some medications used to treat them can have the same effect. It’s a frustrating cycle, but recognizing the connection between your mental health and your sex drive is the first step toward addressing it.
+When you’re juggling work deadlines, family responsibilities, and a never-ending to-do list, sex can easily fall to the bottom of your priorities. Chronic stress floods your body with cortisol, a hormone that can suppress your sex drive. Research shows that women often report physical symptoms of stress, like headaches or an upset stomach, that directly interfere with desire. Furthermore, conditions like anxiety and depression can dampen libido, and unfortunately, some medications used to treat them can have the same effect. It’s a frustrating cycle, but recognizing the connection between your mental health and your sex drive is the first step toward addressing it.
 
 ### Relationship Dynamics
 
@@ -111,7 +111,7 @@ The quality of your connection with your partner plays a huge role in your desir
 
 ### How Counseling Can Help
 
-If psychological or relationship issues are affecting your libido, you don’t have to sort through them alone. [Talking with a sex therapist](https://www.mayoclinic.org/diseases-conditions/low-sex-drive-in-women/diagnosis-treatment/drc-20374561) or a counselor who specializes in sexual concerns can be incredibly helpful. A therapist can provide a safe space to explore the root causes of your low desire, whether it’s stress, past trauma, or relationship challenges. They can also teach you and your partner practical techniques to rebuild intimacy, such as exercises in sensual touch or mirroring. This kind of professional guidance can equip you with the tools to reconnect with your own sensuality and with your partner.
+If psychological or relationship issues are affecting your libido, you don’t have to sort through them alone. Talking with a sex therapist or a counselor who specializes in sexual concerns can be incredibly helpful. A therapist can provide a safe space to explore the root causes of your low desire, whether it’s stress, past trauma, or relationship challenges. They can also teach you and your partner practical techniques to rebuild intimacy, such as exercises in sensual touch or mirroring. This kind of professional guidance can equip you with the tools to reconnect with your own sensuality and with your partner.
 
 ## Natural Ways to Increase Your Libido
 

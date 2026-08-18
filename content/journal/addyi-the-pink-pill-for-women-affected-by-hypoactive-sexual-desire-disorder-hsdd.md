@@ -40,7 +40,7 @@ You’ve probably heard Addyi called the “female Viagra,” but that compariso
 
 ### The FDA Approval Process
 
-Addyi’s path to approval wasn’t straightforward, which is part of why you might have heard some debate about it. The drug was initially rejected by the US Food and Drug Administration (FDA) in 2010. The agency had concerns that its benefits didn’t outweigh its side effects, which can include dizziness and fatigue. However, after more studies were conducted and advocacy groups highlighted the need for female sexual health treatments, the conversation shifted. An FDA advisory panel eventually recommended its approval, and in August 2015, [flibanserin was officially approved](https://en.wikipedia.org/wiki/Flibanserin), making it the first medication available to treat low sexual desire in women.
+Addyi’s path to approval wasn’t straightforward, which is part of why you might have heard some debate about it. The drug was initially rejected by the US Food and Drug Administration (FDA) in 2010. The agency had concerns that its benefits didn’t outweigh its side effects, which can include dizziness and fatigue. However, after more studies were conducted and advocacy groups highlighted the need for female sexual health treatments, the conversation shifted. An FDA advisory panel eventually recommended its approval, and in August 2015, flibanserin was officially approved, making it the first medication available to treat low sexual desire in women.
 
 ## What Are the Side Effects of Addyi?
 
@@ -102,7 +102,7 @@ When you’re considering a new medication, you want to know if it actually work
 
 ### Setting Realistic Expectations
 
-It’s important to understand what Addyi is—and what it isn’t. You might hear it called the “female Viagra,” but that comparison is a bit off. As [Scientific American points out](https://www.scientificamerican.com/article/another-controversy-for-the-female-viagra/), Viagra works by addressing the physical mechanics of arousal, while Addyi targets the brain chemistry behind sexual desire. It’s designed to help rebalance the neurotransmitters that influence your interest in sex. It’s also not a magic pill; the same source notes that the improvements in sexual desire can be modest. The goal isn’t a dramatic overnight transformation but a gradual return to a level of desire that feels right for you, which is a conversation best had with a specialist who understands the nuances of female sexual health.
+It’s important to understand what Addyi is—and what it isn’t. You might hear it called the “female Viagra,” but that comparison is a bit off. As Scientific American points out, Viagra works by addressing the physical mechanics of arousal, while Addyi targets the brain chemistry behind sexual desire. It’s designed to help rebalance the neurotransmitters that influence your interest in sex. It’s also not a magic pill; the same source notes that the improvements in sexual desire can be modest. The goal isn’t a dramatic overnight transformation but a gradual return to a level of desire that feels right for you, which is a conversation best had with a specialist who understands the nuances of female sexual health.
 
 ## How to Use Addyi Correctly
 
@@ -110,7 +110,7 @@ To get the best results from any medication, you have to use it as directed. Add
 
 ### Dosage and Administration
 
-The standard approach for taking Addyi is simple: one 100 mg tablet, once a day, at bedtime. The timing here is critical. According to the [Mayo Clinic](https://www.mayoclinic.org/drugs-supplements/flibanserin-oral-route/description/drg-20152672), taking it at bedtime is recommended because it can make you feel sleepy or dizzy. Taking it during the day could increase your risk of low blood pressure or fainting, which can be dangerous, especially if you need to drive or operate machinery. Making it the very last thing you do before you turn out the lights is the safest and most effective way to incorporate it into your routine.
+The standard approach for taking Addyi is simple: one 100 mg tablet, once a day, at bedtime. The timing here is critical. According to the Mayo Clinic, taking it at bedtime is recommended because it can make you feel sleepy or dizzy. Taking it during the day could increase your risk of low blood pressure or fainting, which can be dangerous, especially if you need to drive or operate machinery. Making it the very last thing you do before you turn out the lights is the safest and most effective way to incorporate it into your routine.
 
 ### What to Do If You Miss a Dose
 

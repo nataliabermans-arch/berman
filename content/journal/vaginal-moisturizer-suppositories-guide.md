@@ -58,7 +58,7 @@ When used in a suppository, it provides deep, long-lasting hydration directly to
 
 Beyond a primary hydrator like hyaluronic acid, look for ingredients that soothe and protect. Vitamin E is a fantastic antioxidant that helps heal and condition delicate skin. When included in a vaginal suppository, it can calm irritation and support the overall health of your vaginal tissues.
 
-You might also find beneficial botanical oils in the mix. Ingredients like coconut oil, sea buckthorn oil, or jojoba oil provide an extra layer of moisture and create a protective barrier to prevent further water loss. These [natural moisturizers and lubricants](https://www.breastcancer.org/treatment-side-effects/vaginal-dryness/moisturizers-lubricants) work in harmony with your body to soothe dryness and promote comfortable intimacy. They offer a gentle, nourishing touch that helps your body feel its best.
+You might also find beneficial botanical oils in the mix. Ingredients like coconut oil, sea buckthorn oil, or jojoba oil provide an extra layer of moisture and create a protective barrier to prevent further water loss. These natural moisturizers and lubricants work in harmony with your body to soothe dryness and promote comfortable intimacy. They offer a gentle, nourishing touch that helps your body feel its best.
 
 ### Ingredients to Avoid
 
@@ -76,11 +76,11 @@ When I recommend over-the-counter products, I focus on three key factors: high-q
 
 ### Revaree
 
-If you’re looking for a hormone-free option that delivers powerful hydration, Revaree is a fantastic choice. It’s a small vaginal insert that uses hyaluronic acid, a substance your body naturally produces, to attract and retain moisture. This helps restore your body’s natural lubrication, making intimacy more comfortable and relieving daily dryness. Many women report feeling a difference in just over a week. According to the company, [Revaree](https://hellobonafide.com/products/revaree) helps 91% of women feel better by day 30, making it a reliable and fast-acting solution.
+If you’re looking for a hormone-free option that delivers powerful hydration, Revaree is a fantastic choice. It’s a small vaginal insert that uses hyaluronic acid, a substance your body naturally produces, to attract and retain moisture. This helps restore your body’s natural lubrication, making intimacy more comfortable and relieving daily dryness. Many women report feeling a difference in just over a week. According to the company, Revaree helps 91% of women feel better by day 30, making it a reliable and fast-acting solution.
 
 ### Good Clean Love
 
-For those who prioritize natural and organic ingredients, Good Clean Love is a go-to brand. Their products are scientifically formulated to be “bio-matched,” meaning they mimic your body’s natural chemistry and help maintain a healthy vaginal pH. Their moisturizers provide long-lasting hydration without relying on hormones, parabens, or artificial fragrances. As one of the top [editor’s picks for vaginal moisturizers](https://www.health.com/editor-s-picks-vaginal-moisturizers-and-lubricants-that-ease-vaginal-dryness-7496627), Good Clean Love offers a safe and gentle way to support your vaginal health and find relief from dryness and discomfort.
+For those who prioritize natural and organic ingredients, Good Clean Love is a go-to brand. Their products are scientifically formulated to be “bio-matched,” meaning they mimic your body’s natural chemistry and help maintain a healthy vaginal pH. Their moisturizers provide long-lasting hydration without relying on hormones, parabens, or artificial fragrances. As one of the top editor’s picks for vaginal moisturizers, Good Clean Love offers a safe and gentle way to support your vaginal health and find relief from dryness and discomfort.
 
 ### RepaGyn and Other Formulations
 
@@ -152,7 +152,7 @@ You can find vaginal moisturizer suppositories and gels at most major drugstores
 
 ### Cost and Insurance Coverage
 
-Most over-the-counter vaginal moisturizers are not covered by insurance, but they are generally affordable. Prices can range from around $15 to $30 per package, depending on the brand and ingredients. Some Flexible Spending Accounts (FSA) or Health Savings Accounts (HSA) may cover these products, so it’s worth checking your plan’s details. While these products won’t address a [low libido](/low-libido-and-your-relationships/), they can make intimacy more comfortable and pleasurable. Be cautious of products that make grand claims or contain irritating additives. For example, it’s wise to [avoid lubricants](https://www.breastcancer.org/treatment-side-effects/vaginal-dryness/moisturizers-lubricants) advertised as ‘warming,’ as they can contain ingredients that worsen dryness and irritation.
+Most over-the-counter vaginal moisturizers are not covered by insurance, but they are generally affordable. Prices can range from around $15 to $30 per package, depending on the brand and ingredients. Some Flexible Spending Accounts (FSA) or Health Savings Accounts (HSA) may cover these products, so it’s worth checking your plan’s details. While these products won’t address a [low libido](/low-libido-and-your-relationships/), they can make intimacy more comfortable and pleasurable. Be cautious of products that make grand claims or contain irritating additives. For example, it’s wise to avoid lubricants advertised as ‘warming,’ as they can contain ingredients that worsen dryness and irritation.
 
 ## Related Articles
 

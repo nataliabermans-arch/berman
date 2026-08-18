@@ -38,7 +38,7 @@ If you’re waking up drenched in sweat or suddenly feel a wave of intense heat 
 
 ### Mood Changes and Sleep Issues
 
-Feeling irritable, anxious, or just not like yourself? These mood shifts, along with trouble sleeping, are often tied to the hormonal changes of menopause. It can be a frustrating cycle where poor sleep affects your mood, and anxiety makes it harder to sleep. Hormone therapy can often help stabilize your mood by addressing the underlying hormonal imbalance. For women who can’t take estrogen or who also need support for their mood, some [low-dose antidepressants](https://www.mayoclinic.org/diseases-conditions/menopause/diagnosis-treatment/drc-20353401) have been shown to be effective at managing these symptoms. Finding the right approach is key to restoring your emotional well-being and getting a restful night’s sleep.
+Feeling irritable, anxious, or just not like yourself? These mood shifts, along with trouble sleeping, are often tied to the hormonal changes of menopause. It can be a frustrating cycle where poor sleep affects your mood, and anxiety makes it harder to sleep. Hormone therapy can often help stabilize your mood by addressing the underlying hormonal imbalance. For women who can’t take estrogen or who also need support for their mood, some low-dose antidepressants have been shown to be effective at managing these symptoms. Finding the right approach is key to restoring your emotional well-being and getting a restful night’s sleep.
 
 ### Vaginal Dryness and Sexual Health Concerns
 
@@ -98,7 +98,7 @@ Think of these as specialized tools in our toolkit. Instead of a broad approach,
 
 ### Antidepressants for Hot Flashes and Mood
 
-You might be surprised to learn that certain antidepressants, in low doses, are a go-to treatment for managing hot flashes. They can be an excellent choice if you’re unable to take hormones or if you’re also dealing with mood swings, anxiety, or depression alongside your physical symptoms. Medications like venlafaxine and fluoxetine work on brain chemicals that influence your body’s internal thermostat. While they may not be quite as powerful as estrogen for severe hot flashes, many women find they provide just the right amount of [relief from vasomotor symptoms](https://www.mayoclinic.org/diseases-conditions/hot-flashes/diagnosis-treatment/drc-20352795) to feel comfortable and in control again.
+You might be surprised to learn that certain antidepressants, in low doses, are a go-to treatment for managing hot flashes. They can be an excellent choice if you’re unable to take hormones or if you’re also dealing with mood swings, anxiety, or depression alongside your physical symptoms. Medications like venlafaxine and fluoxetine work on brain chemicals that influence your body’s internal thermostat. While they may not be quite as powerful as estrogen for severe hot flashes, many women find they provide just the right amount of relief from vasomotor symptoms to feel comfortable and in control again.
 
 ### Gabapentin and Clonidine for Symptom Relief
 
@@ -144,7 +144,7 @@ It’s easy for your thoughts to get jumbled during an appointment, so arriving 
 
 ### How to Prepare for Your Consultation
 
-A little prep work can make a huge difference. Before your visit, spend a few days tracking your symptoms. Note how frequent and intense your hot flashes are, any changes in your mood or sleep patterns, and other concerns. It’s also helpful to make a complete list of every medication, vitamin, and herbal supplement you take. According to the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/menopause/diagnosis-treatment/drc-20353401), this information gives your doctor a full picture of your health. If you feel nervous, consider bringing a trusted friend or family member with you. They can offer support and help you remember the details of your conversation.
+A little prep work can make a huge difference. Before your visit, spend a few days tracking your symptoms. Note how frequent and intense your hot flashes are, any changes in your mood or sleep patterns, and other concerns. It’s also helpful to make a complete list of every medication, vitamin, and herbal supplement you take. According to the Mayo Clinic, this information gives your doctor a full picture of your health. If you feel nervous, consider bringing a trusted friend or family member with you. They can offer support and help you remember the details of your conversation.
 
 ### Collaborating on Your Treatment Plan
 

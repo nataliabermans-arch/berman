@@ -25,7 +25,7 @@ For a _Primary Orgasmic Disorder_, potential causes can include unresolved histo
 
 *Secondary Orgasmic Disorder*can be caused by:
 
-To discuss this topic or related topic with others, checkour Bulletin Board forums. [Click here](https://www.hisandherhealth.com/)
+To discuss this topic or related topic with others, checkour Bulletin Board forums. Click here
 
 - Compromised blood flow
 - Nerve damage (due to pelvic surgery or pelvic injury)
@@ -41,7 +41,7 @@ From the medical standpoint, it is crucial to be evaluated because you may be a 
 
 Additional resources on female sexuality are available from MayoClinic.com:
 
-[http://www.mayoclinic.com/health/kegel-exercises/WO00119](http://www.mayoclinic.com/health/kegel-exercises/WO00119)  
-[http://www.mayoclinic.com/health/sexual-health/HA00035](http://www.mayoclinic.com/health/sexual-health/HA00035)  
-[http://www.mayoclinic.com/health/womens-health/WO00110](http://www.mayoclinic.com/health/womens-health/WO00110)  
-[http://www.mayoclinic.com/health/sexual-health/HQ01363](http://www.mayoclinic.com/health/sexual-health/HQ01363)
+http://www.mayoclinic.com/health/kegel-exercises/WO00119  
+http://www.mayoclinic.com/health/sexual-health/HA00035  
+http://www.mayoclinic.com/health/womens-health/WO00110  
+http://www.mayoclinic.com/health/sexual-health/HQ01363

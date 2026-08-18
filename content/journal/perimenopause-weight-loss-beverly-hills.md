@@ -74,7 +74,7 @@ During perimenopause, declining estrogen and progesterone levels can change how 
 
 ### Build Muscle to Support Your Metabolism
 
-As we age, we naturally lose muscle mass, which slows down our metabolism since muscle burns more calories than fat. This is why strength training becomes so important during perimenopause. You don’t have to become a bodybuilder; simply incorporating resistance training two to three times a week helps build and maintain lean muscle. This supports a healthier metabolism and helps your body burn calories more efficiently. A well-rounded routine combines aerobic activities like brisk walking with [resistance training](https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/menopause-weight-gain/art-20046058) and balance exercises. This approach not only helps with weight management but also strengthens your bones.
+As we age, we naturally lose muscle mass, which slows down our metabolism since muscle burns more calories than fat. This is why strength training becomes so important during perimenopause. You don’t have to become a bodybuilder; simply incorporating resistance training two to three times a week helps build and maintain lean muscle. This supports a healthier metabolism and helps your body burn calories more efficiently. A well-rounded routine combines aerobic activities like brisk walking with resistance training and balance exercises. This approach not only helps with weight management but also strengthens your bones.
 
 ### Manage Stress and Prioritize Sleep
 
@@ -102,7 +102,7 @@ This data-driven approach removes the guesswork from your treatment. Based on yo
 
 A successful weight management plan addresses more than just hormones. It looks at your overall health, from your metabolic function to your eating habits. In some cases, your doctor may recommend advanced treatments to give you the support you need. This could include specific medications or supplements that help regulate appetite by influencing brain chemistry, making it easier to modify eating patterns that no longer serve you.
 
-The goal is to provide you with a complete set of tools for achieving and maintaining a healthy weight. Comprehensive [weight management programs](https://www.drgolshani.com/med-spa/anti-aging-weight-loss/) are designed to support you for the long haul, not just a few months. By combining medical interventions with lifestyle guidance, you can build sustainable habits that support your overall well-being through perimenopause and beyond.
+The goal is to provide you with a complete set of tools for achieving and maintaining a healthy weight. Comprehensive weight management programs are designed to support you for the long haul, not just a few months. By combining medical interventions with lifestyle guidance, you can build sustainable habits that support your overall well-being through perimenopause and beyond.
 
 ## Which Supplements Can Help with Perimenopause Weight Loss?
 
@@ -114,13 +114,13 @@ The key is to be strategic. Instead of grabbing every bottle that promises resul
 
 When it comes to perimenopause, certain nutrients become even more crucial. Research points to a few key players that can help manage weight and overall well-being. Vitamin D and calcium are essential for bone health, which is a concern as estrogen declines. Omega-3 fatty acids can help reduce inflammation, a common contributor to weight gain. Probiotics support a healthy gut, which is directly linked to your metabolism. B-complex vitamins are also fantastic for maintaining energy levels.
 
-Some women also find relief with herbal supplements or targeted formulas designed to address hormonal shifts. The goal is to find a combination that addresses your specific needs, whether that’s curbing cravings or supporting your metabolic health. A comprehensive list of the [best supplements for perimenopause](https://www.rupahealth.com/post/10-best-supplements-for-perimenopause-weight-management) can give you a great starting point for a conversation with your doctor.
+Some women also find relief with herbal supplements or targeted formulas designed to address hormonal shifts. The goal is to find a combination that addresses your specific needs, whether that’s curbing cravings or supporting your metabolic health. A comprehensive list of the best supplements for perimenopause can give you a great starting point for a conversation with your doctor.
 
 ### Where to Find Quality Supplements Locally
 
 Living in Beverly Hills gives you access to some of the best wellness resources available. You can find high-quality supplements at dedicated health food stores, boutique pharmacies, and specialized wellness clinics. Many local practitioners offer curated selections of professional-grade supplements that you can’t find on typical store shelves. These products are often more potent and free from unnecessary fillers.
 
-Some local clinics even offer [weight loss supplementary products](https://www.physique26.com/medical-weight-loss/weight-loss-products/) designed to complement a broader health plan. The advantage of sourcing supplements locally through a trusted provider is the guidance that comes with them. Instead of guessing what you need, you can get a professional recommendation based on your health goals and any symptoms you’re experiencing.
+Some local clinics even offer weight loss supplementary products designed to complement a broader health plan. The advantage of sourcing supplements locally through a trusted provider is the guidance that comes with them. Instead of guessing what you need, you can get a professional recommendation based on your health goals and any symptoms you’re experiencing.
 
 ### Supplement Safety and Expert Advice
 
@@ -134,11 +134,11 @@ Finding a fitness routine that feels good can be a game-changer during perimenop
 
 ### Fitness Programs Designed for Women
 
-There’s something powerful about working out in a space created just for women. It removes the intimidation factor and builds a unique sense of community. When you’re surrounded by peers who understand what you’re going through, it’s easier to stay motivated. These programs often focus on exercises that are particularly beneficial for the female body, especially during hormonal shifts. Studios like [KC Fitness Beverly Hills](https://www.mindbodyonline.com/explore/locations/kc-fitness-beverly-hills) offer small group classes specifically for women, creating a supportive and empowering environment where you can focus on your health without any distractions. It’s a great way to find both fitness and friendship.
+There’s something powerful about working out in a space created just for women. It removes the intimidation factor and builds a unique sense of community. When you’re surrounded by peers who understand what you’re going through, it’s easier to stay motivated. These programs often focus on exercises that are particularly beneficial for the female body, especially during hormonal shifts. Studios like KC Fitness Beverly Hills offer small group classes specifically for women, creating a supportive and empowering environment where you can focus on your health without any distractions. It’s a great way to find both fitness and friendship.
 
 ### The Importance of Strength Training
 
-If there’s one type of exercise to prioritize during perimenopause, it’s strength training. As estrogen levels decline, we tend to lose muscle mass and bone density, which can slow down our metabolism. Lifting weights helps counteract this process directly. Building and maintaining lean muscle is one of the most effective ways to support your metabolic health and keep your body strong. You don’t have to become a bodybuilder; consistency is what matters. Private facilities like [Ultimate Performance Beverly Hills](https://ultimateperformance.com/us/personal-trainer/los-angeles/beverly-hills) offer fully managed personal training services that focus on building strength, giving you the guidance you need to lift safely and effectively.
+If there’s one type of exercise to prioritize during perimenopause, it’s strength training. As estrogen levels decline, we tend to lose muscle mass and bone density, which can slow down our metabolism. Lifting weights helps counteract this process directly. Building and maintaining lean muscle is one of the most effective ways to support your metabolic health and keep your body strong. You don’t have to become a bodybuilder; consistency is what matters. Private facilities like Ultimate Performance Beverly Hills offer fully managed personal training services that focus on building strength, giving you the guidance you need to lift safely and effectively.
 
 ### Group Classes vs. Personal Training
 
@@ -182,11 +182,11 @@ Creating a plan that works for you is about more than just diet and exercise; it
 
 ### Set Realistic Goals for This New Phase
 
-The first step is to reframe what success looks like. During perimenopause, hormonal shifts can cause fat to accumulate around your midsection, a change that can feel frustrating if you’re only focused on the scale. Understanding the reality of [menopause weight gain](https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/menopause-weight-gain/art-20046058) is key to setting goals that are both kind and effective. Instead of aiming for a specific number, focus on achievable milestones that contribute to your overall well-being. This could mean committing to strength training twice a week, adding more protein to your meals, or simply taking a daily walk to clear your head. These small, consistent actions build momentum and help you feel strong and in control of your health.
+The first step is to reframe what success looks like. During perimenopause, hormonal shifts can cause fat to accumulate around your midsection, a change that can feel frustrating if you’re only focused on the scale. Understanding the reality of menopause weight gain is key to setting goals that are both kind and effective. Instead of aiming for a specific number, focus on achievable milestones that contribute to your overall well-being. This could mean committing to strength training twice a week, adding more protein to your meals, or simply taking a daily walk to clear your head. These small, consistent actions build momentum and help you feel strong and in control of your health.
 
 ### Build Your Local Support System
 
-You don’t have to go through this transition alone. Beverly Hills offers a wealth of resources designed to support women’s health and fitness. Finding a community can make all the difference, providing motivation and a sense of shared experience. Consider joining a women-focused studio like [KC Fitness Beverly Hills](https://www.mindbodyonline.com/explore/locations/kc-fitness-beverly-hills), which offers small group classes in a supportive environment. For more specialized support, local physical therapy clinics can help you address any aches or pains and build a solid fitness foundation. Surrounding yourself with the right people, from workout partners to health professionals, creates a powerful network to lean on.
+You don’t have to go through this transition alone. Beverly Hills offers a wealth of resources designed to support women’s health and fitness. Finding a community can make all the difference, providing motivation and a sense of shared experience. Consider joining a women-focused studio like KC Fitness Beverly Hills, which offers small group classes in a supportive environment. For more specialized support, local physical therapy clinics can help you address any aches or pains and build a solid fitness foundation. Surrounding yourself with the right people, from workout partners to health professionals, creates a powerful network to lean on.
 
 ### Track Your Progress and Adjust as Needed
 

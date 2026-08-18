@@ -120,7 +120,7 @@ Going into a doctor’s appointment with a list of questions is one of the most 
 
 ### Getting Clear on the Benefits and Risks
 
-It’s a common misconception that testosterone is only for men; women actually need it for their [overall health](https://health.clevelandclinic.org/testosterone-in-women), too. While it’s often discussed for its ability to help with low sex drive, especially around menopause, it’s important to have a full picture of what to expect. Don’t hesitate to ask about potential side effects, like acne or changes in hair growth, and how they are managed. It’s also a great time to discuss safety. For instance, low-dose testosterone applied to the skin is generally considered safe, and reassuringly, studies show that it does not increase [breast cancer risk](https://esmed.org/testosterone-therapy-in-women-breaking-myths-and-gaps/). Understanding both the potential upsides and the risks helps you make an informed decision that feels right for you.
+It’s a common misconception that testosterone is only for men; women actually need it for their overall health, too. While it’s often discussed for its ability to help with low sex drive, especially around menopause, it’s important to have a full picture of what to expect. Don’t hesitate to ask about potential side effects, like acne or changes in hair growth, and how they are managed. It’s also a great time to discuss safety. For instance, low-dose testosterone applied to the skin is generally considered safe, and reassuringly, studies show that it does not increase breast cancer risk. Understanding both the potential upsides and the risks helps you make an informed decision that feels right for you.
 
 ### Discussing Your Treatment Plan and Timeline
 

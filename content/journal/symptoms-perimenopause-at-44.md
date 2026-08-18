@@ -50,7 +50,7 @@ The word “perimenopause” literally means “around menopause,” and it’s 
 
 ### The Typical Timeline for This Transition
 
-So, how long does this last? Perimenopause isn’t a brief phase; it’s a gradual transition that can last anywhere from two to fourteen years. During this time, your fertility decreases, but it’s important to know that you can still get pregnant. The transition officially ends, and menopause begins, only after you’ve gone a full [12 consecutive months](https://www.mayoclinic.org/diseases-conditions/perimenopause/symptoms-causes/syc-20354666) without a menstrual period. Think of it as a long runway leading to a new destination—it’s the journey, not an overnight flight. This timeline is unique to you, which is why tracking your symptoms can be so helpful in understanding where you are in the process.
+So, how long does this last? Perimenopause isn’t a brief phase; it’s a gradual transition that can last anywhere from two to fourteen years. During this time, your fertility decreases, but it’s important to know that you can still get pregnant. The transition officially ends, and menopause begins, only after you’ve gone a full 12 consecutive months without a menstrual period. Think of it as a long runway leading to a new destination—it’s the journey, not an overnight flight. This timeline is unique to you, which is why tracking your symptoms can be so helpful in understanding where you are in the process.
 
 ### What Can Affect When It Starts?
 
@@ -70,11 +70,11 @@ Ah, the infamous hot flash. This sudden, intense feeling of heat spreading throu
 
 ### Why You Might Feel So Tired
 
-If you feel like you’re constantly running on empty, you’re not alone. Fatigue is a major complaint during perimenopause, and it’s often linked to poor sleep. Night sweats can repeatedly disrupt your sleep, but other [sleep issues](https://www.everydayhealth.com/womens-health/how-your-body-changes-in-your-40s/) can also arise, such as insomnia or restless legs. Even if you think you’re getting enough hours in bed, the quality of your sleep might be suffering. This isn’t just everyday tiredness; it’s a deep-seated exhaustion that can make it hard to get through your day. Prioritizing rest and addressing the root cause of your sleep disturbances is a key step in feeling more like yourself again.
+If you feel like you’re constantly running on empty, you’re not alone. Fatigue is a major complaint during perimenopause, and it’s often linked to poor sleep. Night sweats can repeatedly disrupt your sleep, but other sleep issues can also arise, such as insomnia or restless legs. Even if you think you’re getting enough hours in bed, the quality of your sleep might be suffering. This isn’t just everyday tiredness; it’s a deep-seated exhaustion that can make it hard to get through your day. Prioritizing rest and addressing the root cause of your sleep disturbances is a key step in feeling more like yourself again.
 
 ### Handling Mood Swings and Emotional Shifts
 
-Feeling more irritable, anxious, or just emotionally up-and-down lately? You can thank your hormones for that, too. The same hormonal fluctuations that affect your period and body temperature can also impact your brain chemistry, leading to noticeable [mood swings](https://www.mayoclinic.org/diseases-conditions/perimenopause/symptoms-causes/syc-20354666). You might find yourself feeling weepy for no apparent reason or snapping more easily than you used to. For some women, these changes can also increase the risk of feeling down or depressed. It’s important to be gentle with yourself during this time and recognize that these emotional shifts are a physical symptom. Exploring your options with a trusted provider who offers comprehensive [women’s wellness services](/hormone-therapy/) can help you manage these feelings and find balance.
+Feeling more irritable, anxious, or just emotionally up-and-down lately? You can thank your hormones for that, too. The same hormonal fluctuations that affect your period and body temperature can also impact your brain chemistry, leading to noticeable mood swings. You might find yourself feeling weepy for no apparent reason or snapping more easily than you used to. For some women, these changes can also increase the risk of feeling down or depressed. It’s important to be gentle with yourself during this time and recognize that these emotional shifts are a physical symptom. Exploring your options with a trusted provider who offers comprehensive [women’s wellness services](/hormone-therapy/) can help you manage these feelings and find balance.
 
 ## Lesser-Known Symptoms to Look Out For
 
@@ -140,7 +140,7 @@ Regular movement is one of the most effective tools for managing both the physic
 
 ### Simple Steps for Better Sleep
 
-If perimenopause has disrupted your sleep, you are not alone. Night sweats and anxiety can make getting a full night’s rest feel impossible. The good news is that small changes to your routine can lead to better sleep. Try to stick to a consistent sleep schedule, even on weekends, to regulate your body’s internal clock. Creating a relaxing bedtime ritual can also signal to your brain that it’s time to wind down. This might include turning off screens an hour before bed, taking a warm bath, or reading a book. Keeping your bedroom cool, dark, and quiet will also help minimize disruptions. These simple [sleep hygiene practices](https://www.everydayhealth.com/womens-health/how-your-body-changes-in-your-40s/) can make a world of difference in your energy levels.
+If perimenopause has disrupted your sleep, you are not alone. Night sweats and anxiety can make getting a full night’s rest feel impossible. The good news is that small changes to your routine can lead to better sleep. Try to stick to a consistent sleep schedule, even on weekends, to regulate your body’s internal clock. Creating a relaxing bedtime ritual can also signal to your brain that it’s time to wind down. This might include turning off screens an hour before bed, taking a warm bath, or reading a book. Keeping your bedroom cool, dark, and quiet will also help minimize disruptions. These simple sleep hygiene practices can make a world of difference in your energy levels.
 
 ## Finding Relief: Medical Treatment Options
 

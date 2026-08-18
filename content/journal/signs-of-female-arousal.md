@@ -111,7 +111,7 @@ It’s easy to use the words “arousal” and “desire” interchangeably, but
 
 Sexual desire is the emotional and mental interest in being sexual. It’s the _wanting_—the craving for sexual connection or activity. This feeling can be spontaneous, popping up on its own, or it can be responsive, sparked by a specific trigger like a romantic movie or a touch from your partner. Many factors can influence desire, from your hormone levels to your emotional state. If you’ve noticed a dip in that “wanting” feeling, it could be related to low libido.
 
-Sexual arousal, on the other hand, is your body’s physical reaction to sexual stimulation. It’s what happens when your heart rate increases, you feel flushed, and your body starts producing natural lubrication. As [Healthline explains](https://www.healthline.com/health/healthy-sex/female-arousal), you can feel physically aroused without actually wanting to have sex. The two are connected, but they don’t always sync up perfectly, and that’s completely normal.
+Sexual arousal, on the other hand, is your body’s physical reaction to sexual stimulation. It’s what happens when your heart rate increases, you feel flushed, and your body starts producing natural lubrication. As Healthline explains, you can feel physically aroused without actually wanting to have sex. The two are connected, but they don’t always sync up perfectly, and that’s completely normal.
 
 ### What is Arousal Non-Concordance?
 

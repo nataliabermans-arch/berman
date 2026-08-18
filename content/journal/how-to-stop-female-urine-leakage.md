@@ -156,7 +156,7 @@ Surgery is usually considered only after other treatments, like pelvic floor exe
 
 ### An Overview of Surgical Procedures
 
-The main goal of surgery for stress incontinence is to support the urethra and the bladder neck, which is where the bladder and urethra connect. This added support helps keep the urethra closed when you cough, sneeze, or exercise, preventing urine from leaking out. The most common types of surgery involve placing a “sling” made of synthetic mesh or your own body tissue. This sling acts like a small hammock, cradling the urethra or bladder neck to provide support. Other [surgical procedures](https://www.mayoclinic.org/diseases-conditions/urinary-incontinence/in-depth/urinary-incontinence-surgery/art-20046858) involve suspending the bladder neck with stitches to keep it in its proper position.
+The main goal of surgery for stress incontinence is to support the urethra and the bladder neck, which is where the bladder and urethra connect. This added support helps keep the urethra closed when you cough, sneeze, or exercise, preventing urine from leaking out. The most common types of surgery involve placing a “sling” made of synthetic mesh or your own body tissue. This sling acts like a small hammock, cradling the urethra or bladder neck to provide support. Other surgical procedures involve suspending the bladder neck with stitches to keep it in its proper position.
 
 ### Surgery and Recovery: What to Expect
 

@@ -70,7 +70,7 @@ When you hear about surgical vaginal rejuvenation, it typically refers to a set 
 
 #### Comparing Recovery and Downtime
 
-This is where the difference between surgical and non-surgical options becomes crystal clear. After a surgical procedure like labiaplasty, you can expect a notable recovery period. Most people need to take several days off work and must wait two to three weeks before resuming exercise. Perhaps most importantly, you’ll need to wait about a month before engaging in sexual activity. In stark contrast, non-surgical treatments are designed for convenience. These quick, in-office procedures often take less than 30 minutes and require no downtime. You can typically [resume all normal activities](https://www.americanboardcosmeticsurgery.org/procedure-learning-center/body-procedures/feminine-rejuvenation/), including sex, the very same day, making it a practical choice for anyone who can’t press pause on their life.
+This is where the difference between surgical and non-surgical options becomes crystal clear. After a surgical procedure like labiaplasty, you can expect a notable recovery period. Most people need to take several days off work and must wait two to three weeks before resuming exercise. Perhaps most importantly, you’ll need to wait about a month before engaging in sexual activity. In stark contrast, non-surgical treatments are designed for convenience. These quick, in-office procedures often take less than 30 minutes and require no downtime. You can typically resume all normal activities, including sex, the very same day, making it a practical choice for anyone who can’t press pause on their life.
 
 ## How Do These Procedures Actually Work?
 

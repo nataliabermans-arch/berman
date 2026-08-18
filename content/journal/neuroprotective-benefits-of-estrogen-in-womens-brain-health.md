@@ -127,7 +127,7 @@ The connection between estrogen and brain health becomes particularly clear when
 
 #### Why Nearly Two-Thirds of Patients are Women
 
-The dramatic drop in estrogen during menopause is a key suspect behind women’s higher risk for Alzheimer’s. Estrogen isn’t just a reproductive hormone; it’s a multitasking chemical messenger that supports brain energy, protects neurons, and helps maintain cognitive function. When these levels plummet, the brain becomes more vulnerable to the changes that can lead to neurodegenerative diseases. According to [research from Weill Cornell Medicine](https://news.weill.cornell.edu/news/2021/11/for-women-greater-exposure-to-estrogen-in-life-may-protect-brain-regions-that-are), this hormonal shift may be a primary reason why women are disproportionately affected, making the menopausal transition a critical period for brain health.
+The dramatic drop in estrogen during menopause is a key suspect behind women’s higher risk for Alzheimer’s. Estrogen isn’t just a reproductive hormone; it’s a multitasking chemical messenger that supports brain energy, protects neurons, and helps maintain cognitive function. When these levels plummet, the brain becomes more vulnerable to the changes that can lead to neurodegenerative diseases. According to research from Weill Cornell Medicine, this hormonal shift may be a primary reason why women are disproportionately affected, making the menopausal transition a critical period for brain health.
 
 #### Reducing the Buildup of Amyloid Plaques and Tau Tangles
 

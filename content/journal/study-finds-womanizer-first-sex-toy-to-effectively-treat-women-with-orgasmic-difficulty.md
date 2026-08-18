@@ -60,4 +60,4 @@ The Womanizer by epi24 is the first clitoral stimulator designed to help women a
 
 \*Based on a sampling size of 100 women, 50% orgasm in 60 seconds or less, 80% orgasm between 2-3 minutes, and three-fourths experienced multiple orgasms.
 
-**Source URL :** [https://www.prnewswire.com/news-releases/study-finds-womanizer-first-sex-toy-to-effectively-treat-women-with-orgasmic-difficulty-300376126.html](https://www.prnewswire.com/news-releases/study-finds-womanizer-first-sex-toy-to-effectively-treat-women-with-orgasmic-difficulty-300376126.html)
+**Source URL :** https://www.prnewswire.com/news-releases/study-finds-womanizer-first-sex-toy-to-effectively-treat-women-with-orgasmic-difficulty-300376126.html

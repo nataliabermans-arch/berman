@@ -172,7 +172,7 @@ Several key elements can shape the final cost of your Aviva procedure. The compl
 
 ### Does Insurance Cover Aviva?
 
-This is a question we get a lot, and it’s important to be upfront about it. Because Aviva is typically classified as a cosmetic procedure, most insurance plans do not cover the cost. It’s best to plan for this as an out-of-pocket expense. While it’s not usually deemed medically necessary by insurers, many women find the improvements in comfort and confidence to be invaluable. We can discuss flexible payment options during your visit to help make the procedure more accessible. This is a common approach for many [cosmetic treatments](https://spa26.com/devices/aviva/) that focus on enhancing personal well-being.
+This is a question we get a lot, and it’s important to be upfront about it. Because Aviva is typically classified as a cosmetic procedure, most insurance plans do not cover the cost. It’s best to plan for this as an out-of-pocket expense. While it’s not usually deemed medically necessary by insurers, many women find the improvements in comfort and confidence to be invaluable. We can discuss flexible payment options during your visit to help make the procedure more accessible. This is a common approach for many cosmetic treatments that focus on enhancing personal well-being.
 
 #### Exceptions for Medically Necessary Cases
 

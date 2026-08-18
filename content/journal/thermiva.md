@@ -22,4 +22,4 @@ author: "Dr. Jennifer Berman, MD"
 
 [CLICK HERE](/contact/) to schedule your very own ThermiVa treatment with Dr. Berman today.
 
-ThermiVa Animation from [Joanna Boyer](https://vimeo.com/user40195254) on Vimeo.
+ThermiVa Animation from Joanna Boyer on Vimeo.

@@ -43,4 +43,4 @@ Len May, CEO of EndoDNA, commented on the partnership, stating, “We are thrill
 
 Gavin Sathianathan, CEO of Research Smart, added, “Our collaboration with EndoDNA and Dr Jen Berman represents a step forwards in empowering women in the menopause. I believe that this approach to precision wellness will become a feature of many other areas of women’s health in the near future, representing a paradigm shift in the quality of life of women around the world.”
 
-**Source URL :** [https://www.openpr.com/news/3593507/research-smart-and-endodna-announce-strategic-collaboration](https://www.openpr.com/news/3593507/research-smart-and-endodna-announce-strategic-collaboration)
+**Source URL :** https://www.openpr.com/news/3593507/research-smart-and-endodna-announce-strategic-collaboration

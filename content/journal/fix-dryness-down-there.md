@@ -106,7 +106,7 @@ Beyond moisturizers and lubricants, there are proactive tools and exercises that
 
 #### Pelvic Floor Exercises
 
-You’ve probably heard of Kegels, but they’re more than just a buzzword. Pelvic floor exercises are a powerful way to [strengthen weak vaginal muscles](https://www.webmd.com/women/vaginal-dryness-causes-moisturizing-treatments), which can lose tone due to hormonal shifts like menopause. When estrogen levels drop, these supportive muscles can weaken, contributing to issues beyond just dryness. Consistently practicing these exercises increases blood flow to the pelvic region, which can improve natural lubrication and tissue health. Research has shown that a regular routine can lead to a noticeable reduction in vaginal dryness and pain during intercourse, making it a simple yet effective way to support your body’s function and improve your overall quality of life.
+You’ve probably heard of Kegels, but they’re more than just a buzzword. Pelvic floor exercises are a powerful way to strengthen weak vaginal muscles, which can lose tone due to hormonal shifts like menopause. When estrogen levels drop, these supportive muscles can weaken, contributing to issues beyond just dryness. Consistently practicing these exercises increases blood flow to the pelvic region, which can improve natural lubrication and tissue health. Research has shown that a regular routine can lead to a noticeable reduction in vaginal dryness and pain during intercourse, making it a simple yet effective way to support your body’s function and improve your overall quality of life.
 
 #### Vaginal Dilators
 

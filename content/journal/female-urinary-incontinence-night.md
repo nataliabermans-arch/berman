@@ -138,7 +138,7 @@ Deciding to talk to a doctor about bladder leaks can feel like a big step, but y
 
 ### Signs You Shouldn’t Ignore
 
-It’s easy to dismiss occasional leaks, but certain signs suggest it’s time to check in with a professional. If urinary incontinence starts to [limit your daily activities](https://www.mayoclinic.org/diseases-conditions/urinary-incontinence/symptoms-causes/syc-20352808) or social life, that’s a clear signal to seek support. Waking up more than twice a night to urinate, a condition known as nocturia, is another key indicator. This pattern can seriously [disrupt your sleep](https://www.normanurology.com/blog/how-to-deal-with-urinary-incontinence-at-bedtime) and overall quality of life. If you find yourself planning your evenings around bathroom access or feeling constantly tired from broken sleep, a medical consultation can help you understand the cause and find a path forward.
+It’s easy to dismiss occasional leaks, but certain signs suggest it’s time to check in with a professional. If urinary incontinence starts to limit your daily activities or social life, that’s a clear signal to seek support. Waking up more than twice a night to urinate, a condition known as nocturia, is another key indicator. This pattern can seriously disrupt your sleep and overall quality of life. If you find yourself planning your evenings around bathroom access or feeling constantly tired from broken sleep, a medical consultation can help you understand the cause and find a path forward.
 
 ### What to Expect at Your Consultation
 

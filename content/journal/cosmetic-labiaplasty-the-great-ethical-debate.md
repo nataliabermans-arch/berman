@@ -26,11 +26,11 @@ Here are some comments gleaned from doctors and health care providers. We are no
 
 - _Of course women should have a choice as to what they do or don’t do with their bodies, but I do think there is an irony._
 
-In this article by Dr. Andrew T. Goldstein, a gynecologist, author and lecturer and the medical director of our [www.ourgyn.com](http://www.ourgyn.com/) site and Dr. Gail Goldstein, a dermatologist, look at the ethical issues involved.
+In this article by Dr. Andrew T. Goldstein, a gynecologist, author and lecturer and the medical director of our www.ourgyn.com site and Dr. Gail Goldstein, a dermatologist, look at the ethical issues involved.
 
 By Andrew T. Goldstein, MD,
 
-Director, [www.ourgyn.com](http://www.ourgyn.com/)
+Director, www.ourgyn.com
 
 And Gail R. Goldstein, MD, MA
 
@@ -60,7 +60,7 @@ In conclusion, we have attempted to examine the labiaplasty within the construct
 
 2.Hodgkinson DJ, Hait G. Aesthetic vaginal labiaplasty. Plast Reconstr Surg 1984;74(3):414-6.
 
-3.Kobrin S. More Women seek Vaginal Plastic Surgery. Women’s Enews 2004:[http://www.womensenews.org/article.cfm/dyn/aid/2067/context/archive](http://www.womensenews.org/article.cfm/dyn/aid/2067/context/archive).
+3.Kobrin S. More Women seek Vaginal Plastic Surgery. Women’s Enews 2004:http://www.womensenews.org/article.cfm/dyn/aid/2067/context/archive.
 
 4.Beauchamp T, Childress, JF. Principles of Biomedical Ethics. 3rd ed. New York: Oxford University Press; 1989.
 
@@ -72,4 +72,4 @@ In conclusion, we have attempted to examine the labiaplasty within the construct
 
 8.Maas SM, Hage JJ. Functional and aesthetic labia minora reduction. Plast Reconstr Surg 2000;105(4):1453-6.
 
-Additional resources on female sexuality are available at [MayoClinic.com](https://www.mayoclinic.org/healthy-lifestyle/sexual-health/basics/womens-sexual-health/hlv-20049432)
+Additional resources on female sexuality are available at MayoClinic.com

@@ -87,19 +87,19 @@ Understanding how Emsella stacks up against other treatments can help you see wh
 
 If you’ve ever looked into strengthening your pelvic floor, you’ve definitely heard of Kegels. They are the go-to exercise, but getting them right—and doing enough of them—is a real challenge. It takes consistency and perfect form to see results, and it’s easy to feel like you’re not making progress.
 
-This is where Emsella truly shines. The technology does the work for you, and it does it with an intensity you could never achieve on your own. A single 28-minute session on the [Emsella chair](https://theurologypartnership.co.uk/treatments/emsella-chair/) is equivalent to performing 11,000 Kegel exercises. It creates powerful, deep muscle contractions that strengthen your entire pelvic floor far more effectively and efficiently than manual exercises ever could.
+This is where Emsella truly shines. The technology does the work for you, and it does it with an intensity you could never achieve on your own. A single 28-minute session on the Emsella chair is equivalent to performing 11,000 Kegel exercises. It creates powerful, deep muscle contractions that strengthen your entire pelvic floor far more effectively and efficiently than manual exercises ever could.
 
 ### Emsella vs. Physical Therapy
 
 Pelvic floor physical therapy can be incredibly effective, offering a personalized, hands-on approach. However, it often requires internal exams and exercises, which can be uncomfortable for many women. It also demands a significant time commitment for appointments and at-home exercises.
 
-Emsella provides a comfortable and quick way to [strengthen pelvic floor muscles](https://cosmeticinjectables.com/procedures/health-and-wellness/emsella/) without the hands-on approach or downtime. You sit on the chair fully clothed and let the technology work. There’s no internal component and no recovery needed, making it a discreet and convenient alternative. It’s an effective, non-invasive way to treat common problems that stem from a weak pelvic floor, fitting easily into your schedule without any discomfort.
+Emsella provides a comfortable and quick way to strengthen pelvic floor muscles without the hands-on approach or downtime. You sit on the chair fully clothed and let the technology work. There’s no internal component and no recovery needed, making it a discreet and convenient alternative. It’s an effective, non-invasive way to treat common problems that stem from a weak pelvic floor, fitting easily into your schedule without any discomfort.
 
 ### Emsella vs. Surgical Options
 
 For severe cases of incontinence or pelvic organ prolapse, surgery is often presented as a primary solution. While it can be effective, it also comes with significant risks, anesthesia, a painful recovery period, and potential complications. Many women are understandably hesitant to undergo an invasive procedure.
 
-Emsella is a fantastic [non-surgical option](https://theurologypartnership.co.uk/treatments/emsella-chair/) that lets you avoid the operating room entirely. Unlike treatments that involve operations and long recovery times, Emsella sessions are quick, painless, and require no downtime. You can walk out of your appointment and get right back to your day. It’s a powerful treatment that delivers results without the risks and recovery associated with surgery, offering peace of mind and physical relief.
+Emsella is a fantastic non-surgical option that lets you avoid the operating room entirely. Unlike treatments that involve operations and long recovery times, Emsella sessions are quick, painless, and require no downtime. You can walk out of your appointment and get right back to your day. It’s a powerful treatment that delivers results without the risks and recovery associated with surgery, offering peace of mind and physical relief.
 
 ## What Can I Expect During My Emsella Treatment?
 
@@ -111,7 +111,7 @@ One of the best parts about Emsella is how little you need to do to get ready. U
 
 #### What to Wear for Optimal Comfort and Results
 
-Choosing the right outfit for your Emsella session is all about comfort and effectiveness. Since you remain fully clothed during the entire treatment, we recommend wearing loose, comfortable clothing like yoga pants, leggings, or joggers. The key is to avoid any clothing with metal components near your pelvic area—so think no zippers, metal buttons, or belts. Metal can interfere with the HIFEM technology, and we want to make sure you get the best possible results from your session. Dressing comfortably not only helps you relax but also [ensures the chair can deliver the electromagnetic energy](https://afinelineaesthetics.com/prepping-for-emsella-dos-and-donts-to-ensure-success/) effectively to your pelvic floor muscles.
+Choosing the right outfit for your Emsella session is all about comfort and effectiveness. Since you remain fully clothed during the entire treatment, we recommend wearing loose, comfortable clothing like yoga pants, leggings, or joggers. The key is to avoid any clothing with metal components near your pelvic area—so think no zippers, metal buttons, or belts. Metal can interfere with the HIFEM technology, and we want to make sure you get the best possible results from your session. Dressing comfortably not only helps you relax but also ensures the chair can deliver the electromagnetic energy effectively to your pelvic floor muscles.
 
 ### What a Session Feels Like
 

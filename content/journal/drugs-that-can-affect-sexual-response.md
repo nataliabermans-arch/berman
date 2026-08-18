@@ -145,6 +145,6 @@ Nolvadex
 
 Breast cancer
 
-**_Source:_** [_For Women Only: A Revolutionary Guide to Overcoming Sexual Dysfunction and Reclaiming Your Sex Life_](http://www.newshe.com/) 
+**_Source:_** _For Women Only: A Revolutionary Guide to Overcoming Sexual Dysfunction and Reclaiming Your Sex Life_ 
 
 ## Want More Information?

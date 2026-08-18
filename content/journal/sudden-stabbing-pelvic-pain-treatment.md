@@ -46,7 +46,7 @@ Sometimes, that sharp pain is your body’s alarm system signaling an infection.
 
 ### Urgent Issues: Ectopic Pregnancy and Ovarian Torsion
 
-While most pelvic pain isn’t an emergency, some causes require immediate medical attention. An ectopic pregnancy, where a fertilized egg implants outside the uterus (usually in a fallopian tube), can cause sharp, one-sided pain and is life-threatening if not treated. Another emergency is ovarian torsion, which occurs when an ovary twists around its supporting ligaments, cutting off its blood supply. This causes sudden, severe pain, often with nausea and vomiting. If you experience excruciating pain, especially with dizziness or fever, head to the nearest emergency room right away. These are [serious medical conditions](https://www.nhs.uk/symptoms/pelvic-pain/) that need immediate intervention.
+While most pelvic pain isn’t an emergency, some causes require immediate medical attention. An ectopic pregnancy, where a fertilized egg implants outside the uterus (usually in a fallopian tube), can cause sharp, one-sided pain and is life-threatening if not treated. Another emergency is ovarian torsion, which occurs when an ovary twists around its supporting ligaments, cutting off its blood supply. This causes sudden, severe pain, often with nausea and vomiting. If you experience excruciating pain, especially with dizziness or fever, head to the nearest emergency room right away. These are serious medical conditions that need immediate intervention.
 
 ### Bladder and Urinary Tract Problems
 
@@ -58,7 +58,7 @@ It can be tough to know when pelvic pain is just a nuisance and when it’s a si
 
 ### Warning Signs That Require Immediate Attention
 
-Think of sudden, sharp, and severe pelvic pain as your body’s emergency alert system. This isn’t the kind of pain you should try to wait out. If you experience a stabbing pain that comes on abruptly and is so intense it makes you double over, it’s time to [get medical help right away](https://www.mayoclinic.org/symptoms/pelvic-pain/basics/when-to-see-doctor/sym-20050898). This is especially true if the pain doesn’t improve with rest or over-the-counter pain medication. Severe pain could signal a serious issue like an ectopic pregnancy or ovarian torsion, where timely treatment is critical. Don’t hesitate to go to an urgent care center or the emergency room.
+Think of sudden, sharp, and severe pelvic pain as your body’s emergency alert system. This isn’t the kind of pain you should try to wait out. If you experience a stabbing pain that comes on abruptly and is so intense it makes you double over, it’s time to get medical help right away. This is especially true if the pain doesn’t improve with rest or over-the-counter pain medication. Severe pain could signal a serious issue like an ectopic pregnancy or ovarian torsion, where timely treatment is critical. Don’t hesitate to go to an urgent care center or the emergency room.
 
 ### Red Flag Symptoms You Shouldn’t Ignore
 
@@ -150,7 +150,7 @@ The decision to have surgery is always a conversation between you and your docto
 
 ### Exploring Surgical Treatments
 
-Surgery is typically recommended when your pelvic pain is caused by a specific, identifiable condition. Doctors may suggest [surgery for pelvic pain](https://nyulangone.org/conditions/pelvic-pain/treatments/surgery-for-pelvic-pain) to address issues like endometriosis, uterine fibroids, or ovarian cysts that are causing significant problems. The goal is to remove the problematic tissue or cysts that are triggering the pain signals.
+Surgery is typically recommended when your pelvic pain is caused by a specific, identifiable condition. Doctors may suggest surgery for pelvic pain to address issues like endometriosis, uterine fibroids, or ovarian cysts that are causing significant problems. The goal is to remove the problematic tissue or cysts that are triggering the pain signals.
 
 Many of these procedures are performed using minimally invasive techniques, such as laparoscopy. This involves making a few small incisions and using a tiny camera to see inside the pelvic area, allowing for precise treatment without a large opening. This approach is gentler on the body, leading to less post-operative pain and a faster recovery.
 
@@ -170,7 +170,7 @@ It’s amazing how much our daily habits influence our pelvic health. Simple, co
 
 ### The Importance of Regular Health Check-ups
 
-Staying on top of your health is one of the most powerful things you can do. Regular check-ups with your healthcare provider are essential for early detection and management of potential issues that could lead to pelvic pain. It’s so important to listen to your body. If you experience new pelvic pain that interferes with daily activities or worsens over time, it is important to [consult a healthcare professional](/hormone-therapy/). You should always [seek medical advice](https://www.mayoclinic.org/symptoms/pelvic-pain/basics/when-to-see-doctor/sym-20050898) if your pain is persistent or severe, as timely intervention can prevent complications. Your health is a priority, and you should never hesitate to reach out for support.
+Staying on top of your health is one of the most powerful things you can do. Regular check-ups with your healthcare provider are essential for early detection and management of potential issues that could lead to pelvic pain. It’s so important to listen to your body. If you experience new pelvic pain that interferes with daily activities or worsens over time, it is important to [consult a healthcare professional](/hormone-therapy/). You should always seek medical advice if your pain is persistent or severe, as timely intervention can prevent complications. Your health is a priority, and you should never hesitate to reach out for support.
 
 ## Questions to Ask Your Doctor About Pelvic Pain
 

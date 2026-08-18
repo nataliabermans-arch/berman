@@ -28,19 +28,19 @@ Let’s be honest: the information surrounding hormone replacement therapy can f
 
 ## What Is Hormone Replacement Therapy (HRT)?
 
-If you’re approaching or in the middle of menopause, you’ve likely heard about Hormone Replacement Therapy, or HRT. So, what is it, really? Think of it as a way to supplement the hormones your body naturally produces less of as you get older. Specifically, [Hormone Replacement Therapy](https://www.floridamedicalclinic.com/blog/hormone-replacement-therapy/) is a medical treatment designed to replenish the estrogen and progesterone that your ovaries slow down on making during perimenopause and menopause.
+If you’re approaching or in the middle of menopause, you’ve likely heard about Hormone Replacement Therapy, or HRT. So, what is it, really? Think of it as a way to supplement the hormones your body naturally produces less of as you get older. Specifically, Hormone Replacement Therapy is a medical treatment designed to replenish the estrogen and progesterone that your ovaries slow down on making during perimenopause and menopause.
 
 This isn’t a new or experimental concept; it’s a well-established, FDA-approved approach that has helped millions of women manage the transition through menopause more comfortably. By reintroducing these key hormones, HRT aims to restore balance and alleviate the often disruptive symptoms that come with this life stage. The goal is to help you feel more like yourself again, so you can continue to live your life with energy and confidence. At our clinic, we offer several types of hormone therapy, including [Biote Hormone Therapy](/hormone-therapy/), to create a plan that fits your unique needs.
 
 ### How HRT helps your body
 
-The primary reason many women turn to HRT is for relief from the challenging symptoms of menopause. By restoring hormonal balance, HRT can significantly reduce issues like hot flashes, night sweats, and mood swings. But the benefits go deeper than just symptom management. According to the NHS, HRT can also help [prevent osteoporosis](https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/) (or weak bones), a common concern for postmenopausal women due to lower estrogen levels.
+The primary reason many women turn to HRT is for relief from the challenging symptoms of menopause. By restoring hormonal balance, HRT can significantly reduce issues like hot flashes, night sweats, and mood swings. But the benefits go deeper than just symptom management. According to the NHS, HRT can also help prevent osteoporosis (or weak bones), a common concern for postmenopausal women due to lower estrogen levels.
 
 Beyond physical symptoms, maintaining hormonal balance can also support your mental well-being. Some studies suggest that HRT may have neuroprotective effects that contribute to better cognitive health. By effectively addressing the disruptive symptoms of menopause, the therapy can help clear the brain fog and support overall mental clarity. It’s about treating the whole system, not just isolated symptoms, to improve your quality of life.
 
 ### Why menopause symptoms happen
 
-Ever wonder why menopause brings on such a wide range of symptoms? It all comes down to hormones. During the transition to menopause, your body’s production of estrogen and progesterone begins to decline. As the FDA explains, these [lower hormone levels](https://www.fda.gov/consumers/free-publications-women/menopause-medicines-help-you) are the direct cause of common symptoms like hot flashes, night sweats, and changes in vaginal health. Your body is simply reacting to having less of the hormones it has relied on for decades.
+Ever wonder why menopause brings on such a wide range of symptoms? It all comes down to hormones. During the transition to menopause, your body’s production of estrogen and progesterone begins to decline. As the FDA explains, these lower hormone levels are the direct cause of common symptoms like hot flashes, night sweats, and changes in vaginal health. Your body is simply reacting to having less of the hormones it has relied on for decades.
 
 This is where hormone therapy comes in. It works by reintroducing the very hormones your body is missing, directly addressing the root cause of your symptoms. By supplementing your body’s natural supply, HRT helps smooth out the hormonal fluctuations that can make daily life feel like a rollercoaster. Whether it’s easing hot flashes or providing a [vaginal dryness treatment](/vaginal-dryness-treatment/), the therapy is designed to restore balance and bring you relief.
 
@@ -148,7 +148,7 @@ During these appointments, you can discuss how you’re feeling, report any side
 
 ### Deciding on the duration of your treatment
 
-A common question is, “How long will I need to be on HRT?” The answer is different for everyone. The general guideline is to use the [lowest effective dose](https://www.fda.gov/consumers/free-publications-women/menopause-medicines-help-you) for the shortest amount of time necessary to manage your symptoms. However, “shortest amount of time” is a personal decision made between you and your doctor.
+A common question is, “How long will I need to be on HRT?” The answer is different for everyone. The general guideline is to use the lowest effective dose for the shortest amount of time necessary to manage your symptoms. However, “shortest amount of time” is a personal decision made between you and your doctor.
 
 For some women, a few years of therapy is enough to get through the most intense menopause symptoms. For others, the long-term benefits, such as protecting bone health, may be a reason to continue treatment longer. The right duration depends entirely on your health goals and how your body responds to the therapy.
 

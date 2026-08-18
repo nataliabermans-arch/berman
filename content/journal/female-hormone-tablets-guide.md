@@ -82,7 +82,7 @@ This comprehensive approach helps you move through this transition with confiden
 
 ### Protect Against Osteoporosis and Bone Loss
 
-As estrogen levels decline during menopause, so does your bone density. Estrogen plays a crucial role in helping your bones absorb calcium and stay strong. Without it, bone loss can accelerate, increasing your risk for osteoporosis, a condition that makes bones brittle and more likely to fracture. Hormone therapy helps by replenishing estrogen, which is why the FDA has approved it as a treatment to [prevent bone thinning](https://www.ncbi.nlm.nih.gov/books/NBK493191/). By maintaining your estrogen levels, you’re giving your bones the support they need to stay healthy and resilient, protecting you from serious fractures down the road. It’s one of the most effective ways to safeguard your skeletal health during and after menopause.
+As estrogen levels decline during menopause, so does your bone density. Estrogen plays a crucial role in helping your bones absorb calcium and stay strong. Without it, bone loss can accelerate, increasing your risk for osteoporosis, a condition that makes bones brittle and more likely to fracture. Hormone therapy helps by replenishing estrogen, which is why the FDA has approved it as a treatment to prevent bone thinning. By maintaining your estrogen levels, you’re giving your bones the support they need to stay healthy and resilient, protecting you from serious fractures down the road. It’s one of the most effective ways to safeguard your skeletal health during and after menopause.
 
 ### Support Your Heart and Brain Health
 
@@ -90,7 +90,7 @@ You may have heard conflicting information about hormone therapy and heart healt
 
 ### Improve Your Quality of Life During Menopause
 
-Beyond the long-term physical benefits, hormone therapy can dramatically [improve your quality of life](https://mymenoplan.org/hormone-therapy/). When you’re not constantly battling hot flashes, waking up from night sweats, or dealing with mood swings, you have more energy for the things you love. Resolving issues like vaginal dryness can restore intimacy and comfort, while better sleep can leave you feeling rested and ready to take on the day. Ultimately, hormone therapy helps you feel more like yourself again. This renewed sense of well-being is often the most immediate and meaningful benefit, allowing you to live more fully and joyfully through menopause and beyond.
+Beyond the long-term physical benefits, hormone therapy can dramatically improve your quality of life. When you’re not constantly battling hot flashes, waking up from night sweats, or dealing with mood swings, you have more energy for the things you love. Resolving issues like vaginal dryness can restore intimacy and comfort, while better sleep can leave you feeling rested and ready to take on the day. Ultimately, hormone therapy helps you feel more like yourself again. This renewed sense of well-being is often the most immediate and meaningful benefit, allowing you to live more fully and joyfully through menopause and beyond.
 
 ## Understanding the Risks of Hormone Therapy
 
@@ -145,7 +145,7 @@ Hormone therapy is never a one-size-fits-all solution. Your body, your symptoms,
 
 ### Why Regular Monitoring and Adjustments Are Key
 
-Once you begin hormone therapy, the journey doesn’t end there. Your body and its needs can change over time, so ongoing communication with your doctor is essential. Regular check-ups allow your doctor to monitor how you’re responding to the treatment. According to medical guidelines, the main way to [monitor HRT](https://www.ncbi.nlm.nih.gov/books/NBK493191/) is by checking if your symptoms are getting better and if you’re experiencing any side effects. These follow-up appointments, often recommended after the first three months and then yearly, are the perfect time to discuss how you’re feeling. This ensures your treatment plan remains effective and continues to support your health in the best way possible.
+Once you begin hormone therapy, the journey doesn’t end there. Your body and its needs can change over time, so ongoing communication with your doctor is essential. Regular check-ups allow your doctor to monitor how you’re responding to the treatment. According to medical guidelines, the main way to monitor HRT is by checking if your symptoms are getting better and if you’re experiencing any side effects. These follow-up appointments, often recommended after the first three months and then yearly, are the perfect time to discuss how you’re feeling. This ensures your treatment plan remains effective and continues to support your health in the best way possible.
 
 ## Related Articles
 

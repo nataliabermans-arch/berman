@@ -32,7 +32,7 @@ _Dr. Jennifer Berman_
 
 Vaginal rejuvenation is a trendy buzzword amongst Hollywood’s celebrities and LA’s cosmetic surgeons. It is becoming a mainstream household term that women of all ages are familiar with, especially those looking to reverse the effects of aging on their skin. Science and medicine have both come a long way, and the physical changes that used to be unavoidable are now highly treatable and correctible.
 
-Sexual health is an important aspect of general health and wellness, no matter if you’re in your 20s, 30s, 40s, 50s, 60s or beyond. A growing number of treatments and procedures are available to women who wish to improve the look, feel and function of their feminine organs. According to the American Society of Plastic Surgeons, feminine rejuvenation is one of the most rapidly developing trends in [plastic surgery](https://en.wikipedia.org/wiki/Plastic_surgery).
+Sexual health is an important aspect of general health and wellness, no matter if you’re in your 20s, 30s, 40s, 50s, 60s or beyond. A growing number of treatments and procedures are available to women who wish to improve the look, feel and function of their feminine organs. According to the American Society of Plastic Surgeons, feminine rejuvenation is one of the most rapidly developing trends in plastic surgery.
 
 Vaginal rejuvenation is a broad term for the treatments directed for improving the appearance of the vulva and labia as well as the function and sensation of the vagina, labia, and clitoris. These procedures can be done for cosmetic reasons as well as to improve urinary symptoms of frequency, urgency, and leakage as well as vaginal dryness and urinary incontinence.
 

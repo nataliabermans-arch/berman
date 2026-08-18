@@ -26,6 +26,6 @@ Based on conclusions from the new study, there are a variety of complex reasons 
 
 The latest study was published in the Menopause journal, and is based on the responses of over 24,00 women as part of an ovarian cancer screening study in Britain. The survey reported that 78 percent of women who responded reported that they had an intimate partner, but less than half reported having active sex lives. A primary reason cited was the loss of a partner to death or divorce, which accounted for 37 percent of the responses. An additional percentage of women reported that other responsibilities and situations in life made it difficult to make time for sex. Eight to nine percent reported that their partner or they themselves were too tired for sex. Partners with health issues were cited as an additional reason. About 23 percent of women reported that their partner’s physical problems accounted for a decline in sex.
 
-Additional notes about the study can be featured in this New York Times news article: [https://www.nytimes.com/2019/07/30/well/live/menopause-sex-decline-partner-husband-wife.html](https://www.nytimes.com/2019/07/30/well/live/menopause-sex-decline-partner-husband-wife.html)
+Additional notes about the study can be featured in this New York Times news article: https://www.nytimes.com/2019/07/30/well/live/menopause-sex-decline-partner-husband-wife.html
 
 ## Want More Information?

@@ -58,11 +58,11 @@ A urologist is a physician who specializes in the health of the urinary tract fo
 
 ### Pelvic Floor Physical Therapists
 
-Pelvic floor physical therapists are highly trained clinicians who focus on the muscles that support your bladder, uterus, and bowels. These therapists are true experts in pelvic health, holding advanced knowledge as a [women’s health clinical specialist](https://www.vivian.com/certifications/wcs-abpts/). Instead of medication or surgery, they use targeted exercises (like Kegels, but so much more), biofeedback, and manual therapy to help you strengthen your pelvic floor, improve muscle coordination, and reduce leakage. For many women, especially those with stress or urge incontinence, pelvic floor PT is a game-changing, non-invasive treatment that addresses the root cause of the problem.
+Pelvic floor physical therapists are highly trained clinicians who focus on the muscles that support your bladder, uterus, and bowels. These therapists are true experts in pelvic health, holding advanced knowledge as a women’s health clinical specialist. Instead of medication or surgery, they use targeted exercises (like Kegels, but so much more), biofeedback, and manual therapy to help you strengthen your pelvic floor, improve muscle coordination, and reduce leakage. For many women, especially those with stress or urge incontinence, pelvic floor PT is a game-changing, non-invasive treatment that addresses the root cause of the problem.
 
 ### Your Primary Care Doctor or Gynecologist
 
-For many women, the best place to start is with a familiar face: your primary care doctor or gynecologist. These doctors are your first line of defense and can perform an initial evaluation to understand your symptoms. They can rule out underlying causes like a urinary tract infection, discuss lifestyle changes, and provide initial treatment options. If your situation requires more specialized care, they can provide a trusted referral. Don’t hesitate to [discuss your concerns](https://www.aawob-gyn.com/services/incontinence) at your next appointment; it’s a conversation they have often and the first step toward finding a solution.
+For many women, the best place to start is with a familiar face: your primary care doctor or gynecologist. These doctors are your first line of defense and can perform an initial evaluation to understand your symptoms. They can rule out underlying causes like a urinary tract infection, discuss lifestyle changes, and provide initial treatment options. If your situation requires more specialized care, they can provide a trusted referral. Don’t hesitate to discuss your concerns at your next appointment; it’s a conversation they have often and the first step toward finding a solution.
 
 ## How to Find the Right Incontinence Specialist
 
@@ -82,7 +82,7 @@ Before you book an appointment, it’s always a good idea to handle the practica
 
 ### Research Their Credentials and Experience
 
-When you’ve narrowed down your options, take a final look at each specialist’s credentials and experience. You can usually find this information on their clinic’s website. Look for details like where they went to medical school, where they completed their residency, and if they have any special certifications. [Board certification](https://www.abms.org/board-certification/) is a key indicator that a doctor has met high standards of knowledge and skill in their specialty. Pay attention to whether they have a specific focus on women’s pelvic health, as this indicates a deeper level of expertise in treating conditions like incontinence.
+When you’ve narrowed down your options, take a final look at each specialist’s credentials and experience. You can usually find this information on their clinic’s website. Look for details like where they went to medical school, where they completed their residency, and if they have any special certifications. Board certification is a key indicator that a doctor has met high standards of knowledge and skill in their specialty. Pay attention to whether they have a specific focus on women’s pelvic health, as this indicates a deeper level of expertise in treating conditions like incontinence.
 
 ## What to Look For in an Incontinence Specialist
 
@@ -90,11 +90,11 @@ Once you have a few potential names, it’s time to look a little closer at thei
 
 ### Specialized Training and Board Certification
 
-First things first, check for credentials. When you’re dealing with a sensitive health issue like incontinence, you want to be sure you’re in expert hands. Look for a provider who is board certified in a relevant field like Obstetrics and Gynecology. This certification isn’t just a piece of paper; it signifies a recognized level of expertise and a deep commitment to maintaining the highest standards in women’s health. It means your doctor has gone through rigorous training and testing to prove their knowledge. Think of it as a seal of approval that confirms they are a [continence and pelvic health specialist](https://www.umms.org/ummc/health-services/womens-health/continence-pelvic-health/specialists) you can trust.
+First things first, check for credentials. When you’re dealing with a sensitive health issue like incontinence, you want to be sure you’re in expert hands. Look for a provider who is board certified in a relevant field like Obstetrics and Gynecology. This certification isn’t just a piece of paper; it signifies a recognized level of expertise and a deep commitment to maintaining the highest standards in women’s health. It means your doctor has gone through rigorous training and testing to prove their knowledge. Think of it as a seal of approval that confirms they are a continence and pelvic health specialist you can trust.
 
 ### A Focus on Pelvic Floor Health
 
-Incontinence is often tied to the health of your pelvic floor muscles. That’s why it’s so important to find a specialist who truly focuses on this area. A provider with a dedicated interest in pelvic floor disorders will be up-to-date on the latest, most effective treatments for issues like urinary incontinence and pelvic organ prolapse. They understand the complex network of muscles, ligaments, and nerves that affect bladder control and can offer more than just a surface-level solution. This specialized focus ensures you have access to a [team of highly skilled physicians](https://www.umms.org/ummc/health-services/womens-health/continence-pelvic-health/specialists) who can create a targeted and effective treatment plan for you.
+Incontinence is often tied to the health of your pelvic floor muscles. That’s why it’s so important to find a specialist who truly focuses on this area. A provider with a dedicated interest in pelvic floor disorders will be up-to-date on the latest, most effective treatments for issues like urinary incontinence and pelvic organ prolapse. They understand the complex network of muscles, ligaments, and nerves that affect bladder control and can offer more than just a surface-level solution. This specialized focus ensures you have access to a team of highly skilled physicians who can create a targeted and effective treatment plan for you.
 
 ### Expertise in Minimally Invasive Treatments
 
@@ -102,7 +102,7 @@ Medical technology has come a long way, and many effective incontinence treatmen
 
 ### Commitment to Ongoing Education
 
-The field of women’s health is constantly evolving, with new research and treatments emerging all the time. The best specialists are lifelong learners who are committed to staying on top of these advancements. A [Certified Women’s Health Specialist](https://www.evergreencertifications.com/certification/certified-womens-health-specialist/) demonstrates a dedication to ongoing education and an understanding of the most current, effective, and safe best practices. This commitment ensures that the care you receive is based on the latest medical science. It’s a clear sign that your doctor is invested in providing you with the highest quality care available.
+The field of women’s health is constantly evolving, with new research and treatments emerging all the time. The best specialists are lifelong learners who are committed to staying on top of these advancements. A Certified Women’s Health Specialist demonstrates a dedication to ongoing education and an understanding of the most current, effective, and safe best practices. This commitment ensures that the care you receive is based on the latest medical science. It’s a clear sign that your doctor is invested in providing you with the highest quality care available.
 
 ## Your First Visit: What to Expect
 

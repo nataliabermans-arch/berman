@@ -71,7 +71,7 @@ For many women, the first step in managing vaginal dryness is a trip to the loca
 
 #### Vaginal Moisturizers
 
-Vaginal moisturizers are designed for regular use to hydrate vaginal tissues and maintain moisture over time. Unlike lubricants, their effects are not immediate but are meant to provide lasting comfort. According to the [American College of Obstetricians and Gynecologists](https://www.acog.org/womens-health/experts-and-stories/the-latest/experiencing-vaginal-dryness-heres-what-you-need-to-know), you can find both internal moisturizers that you apply inside the vagina and external ones for the vulva. Using them a few times a week can help soothe dryness, reduce irritation, and restore the natural pH balance, making you feel more comfortable day-to-day.
+Vaginal moisturizers are designed for regular use to hydrate vaginal tissues and maintain moisture over time. Unlike lubricants, their effects are not immediate but are meant to provide lasting comfort. According to the American College of Obstetricians and Gynecologists, you can find both internal moisturizers that you apply inside the vagina and external ones for the vulva. Using them a few times a week can help soothe dryness, reduce irritation, and restore the natural pH balance, making you feel more comfortable day-to-day.
 
 #### Vaginal Lubricants
 

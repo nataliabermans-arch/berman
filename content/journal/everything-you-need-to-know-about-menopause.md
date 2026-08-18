@@ -28,7 +28,7 @@ One of the most significant complaints in menopausal women are the mood changes 
 
 ## \***\*Loss of libido and low sex drive\*\***
 
-Declining estrogen and testosterone levels lead to loss of libido. Loss of libido and low libido are one of the most common symptoms that women experience during menopause. Both estrogen and testosterone need to be replete in order for libido to be restored. It is very common for low sex drive or lack of [sexual desire](https://en.wikipedia.org/wiki/Sexual_desire) to begin in the perimenopausal stage and remain into menopause.
+Declining estrogen and testosterone levels lead to loss of libido. Loss of libido and low libido are one of the most common symptoms that women experience during menopause. Both estrogen and testosterone need to be replete in order for libido to be restored. It is very common for low sex drive or lack of sexual desire to begin in the perimenopausal stage and remain into menopause.
 
 ## \***\*Urinary Symptoms\*\***
 

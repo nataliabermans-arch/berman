@@ -114,7 +114,7 @@ When your estrogen levels are off, your body has a way of letting you know. If y
 
 ### Spotting the Emotional and Mental Differences
 
-Hormone fluctuations don’t just affect your body; they can have a huge impact on your mind, too. Both high and low estrogen can lead to mood swings, irritability, and anxiety. If you have high estrogen, you might find your premenstrual syndrome (PMS) symptoms feel much more intense. When estrogen is low, especially during perimenopause and menopause, it can contribute to feelings of depression and brain fog, making it hard to focus. It’s a key reason why so many women experience significant [emotional shifts](https://www.webmd.com/women/estrogen-and-womens-emotions) during this life stage. These changes can also affect your desire, which is why it’s important to address any concerns about [low libido](/low-libido-and-your-relationships/) with a professional.
+Hormone fluctuations don’t just affect your body; they can have a huge impact on your mind, too. Both high and low estrogen can lead to mood swings, irritability, and anxiety. If you have high estrogen, you might find your premenstrual syndrome (PMS) symptoms feel much more intense. When estrogen is low, especially during perimenopause and menopause, it can contribute to feelings of depression and brain fog, making it hard to focus. It’s a key reason why so many women experience significant emotional shifts during this life stage. These changes can also affect your desire, which is why it’s important to address any concerns about [low libido](/low-libido-and-your-relationships/) with a professional.
 
 ## What Causes Estrogen Levels to Fluctuate?
 
@@ -178,7 +178,7 @@ If hormone therapy isn’t the right fit for you, don’t worry. There are plent
 
 ### Adjusting Your Treatment Plan
 
-Finding your ideal treatment is often a process, not a one-time decision. It’s completely normal for your plan to need a few tweaks along the way. If you start a hormone therapy, for instance, your doctor may need to adjust your dose or change the way you take it (like switching from a pill to a patch) to find what works best with your body and minimizes any [side effects](https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/side-effects-of-hormone-replacement-therapy-hrt/). The key is open communication. Being honest about how you’re feeling allows your doctor to fine-tune your treatment, ensuring it remains effective and comfortable for you over the long term.
+Finding your ideal treatment is often a process, not a one-time decision. It’s completely normal for your plan to need a few tweaks along the way. If you start a hormone therapy, for instance, your doctor may need to adjust your dose or change the way you take it (like switching from a pill to a patch) to find what works best with your body and minimizes any side effects. The key is open communication. Being honest about how you’re feeling allows your doctor to fine-tune your treatment, ensuring it remains effective and comfortable for you over the long term.
 
 ## When to Talk to a Doctor About Your Hormones
 

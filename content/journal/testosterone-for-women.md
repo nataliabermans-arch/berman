@@ -107,7 +107,7 @@ There are various types of testosterone therapy available for women, but it is e
 
 ### Who is Eligible for Testosterone Therapy?
 
-The only way to find out whether you are eligible for testosterone therapy is to consult with your provider. Our proper [diagnosis](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/diagnosis), based on your age, labs, risk factors, and lab results is required to correctly diagnose and treat.
+The only way to find out whether you are eligible for testosterone therapy is to consult with your provider. Our proper diagnosis, based on your age, labs, risk factors, and lab results is required to correctly diagnose and treat.
 
 ### Is Testosterone Therapy Approved by the FDA for Women?
 

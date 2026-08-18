@@ -50,7 +50,7 @@ Let’s talk about one of the most practical questions on your mind: the cost. D
 
 ### What You Can Expect to Pay on Average
 
-When you look at prices across the country, you’ll see a bit of a range. The average cost for Aviva Scarless Labiaplasty is around $2,950. More broadly, the price for a [single treatment](https://spa26.com/devices/aviva/) typically falls somewhere between $2,000 and $5,000. This variation depends on factors like your geographic location, the experience of your provider, and the specific details of your treatment plan. Think of this range as a general guideline to help you budget as you begin your research and schedule consultations.
+When you look at prices across the country, you’ll see a bit of a range. The average cost for Aviva Scarless Labiaplasty is around $2,950. More broadly, the price for a single treatment typically falls somewhere between $2,000 and $5,000. This variation depends on factors like your geographic location, the experience of your provider, and the specific details of your treatment plan. Think of this range as a general guideline to help you budget as you begin your research and schedule consultations.
 
 ### How We Determine Your Final Cost
 

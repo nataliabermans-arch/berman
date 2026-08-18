@@ -87,7 +87,7 @@ A painless non-invasive treatment, Votiva uses radiofrequency energy waves to he
 
 > “The labia may become less plump as estrogen levels wane, fatty pads in the labia shrink, and less collagen can lead to more sagging,” Dr. Rankin says. “The skin of the vulva may darken or lighten and the clitoris may shrink. It’s normal either way.” Scary? Nah. “These changes, which are often related to decreasing levels of estrogen…”
 
-Expert of article by Sarah Jio for Woma’s Day: [Read Article](https://www.womansday.com/health-fitness/womens-health/a5466/8-things-you-didnt-know-about-your-vagina-113565/)
+Expert of article by Sarah Jio for Woma’s Day: Read Article
 
 ## Restore Confidence and Address External Changes
 

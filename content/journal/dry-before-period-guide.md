@@ -82,7 +82,7 @@ Dealing with vaginal dryness can be frustrating, but the good news is you have o
 
 ### Try Lubricants and Moisturizers
 
-Think of lubricants and moisturizers as two different tools for your comfort. Vaginal moisturizers are designed for regular use to help tissues retain moisture, providing lasting relief from general dryness and irritation. You can apply them every few days. Lubricants, on the other hand, are used right before or during sex to reduce friction and make intimacy more comfortable and pleasurable. When shopping, look for water-based, pH-balanced formulas without glycerin, parabens, or fragrances, as these ingredients can sometimes cause irritation. Using these products can be a simple first step to [reduce discomfort during sex](https://www.acog.org/womens-health/experts-and-stories/the-latest/experiencing-vaginal-dryness-heres-what-you-need-to-know) and improve day-to-day comfort.
+Think of lubricants and moisturizers as two different tools for your comfort. Vaginal moisturizers are designed for regular use to help tissues retain moisture, providing lasting relief from general dryness and irritation. You can apply them every few days. Lubricants, on the other hand, are used right before or during sex to reduce friction and make intimacy more comfortable and pleasurable. When shopping, look for water-based, pH-balanced formulas without glycerin, parabens, or fragrances, as these ingredients can sometimes cause irritation. Using these products can be a simple first step to reduce discomfort during sex and improve day-to-day comfort.
 
 ### Focus on Hydration and Nutrition
 
@@ -90,7 +90,7 @@ What’s good for your overall health is often great for your vaginal health, to
 
 ### Manage Your Stress Levels
 
-Your mental and emotional state has a powerful effect on your physical body. High levels of stress or anxiety can disrupt your hormone levels and directly [impact lubrication](https://www.healthline.com/health/why-am-i-dry-down-there-all-of-a-sudden) by triggering your body’s “fight or flight” response, which diverts blood flow away from non-essential functions like sexual arousal. Incorporating stress-management techniques into your routine can make a real difference. Try practicing mindfulness, going for a daily walk, doing gentle yoga, or setting aside a few minutes for deep breathing exercises. Finding what helps you relax is a key part of caring for your sexual health.
+Your mental and emotional state has a powerful effect on your physical body. High levels of stress or anxiety can disrupt your hormone levels and directly impact lubrication by triggering your body’s “fight or flight” response, which diverts blood flow away from non-essential functions like sexual arousal. Incorporating stress-management techniques into your routine can make a real difference. Try practicing mindfulness, going for a daily walk, doing gentle yoga, or setting aside a few minutes for deep breathing exercises. Finding what helps you relax is a key part of caring for your sexual health.
 
 ### Rethink Your Personal Care Products
 

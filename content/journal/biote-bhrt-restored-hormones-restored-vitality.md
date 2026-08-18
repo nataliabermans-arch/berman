@@ -34,7 +34,7 @@ The BHRT pellet insertion process is straightforward, fast, and simple. It takes
 
 ## **Why Implants?**
 
-Using pills and creams may be as effective but not as efficient. Unlike pills and creams, these pellets are delivered right to your [bloodstream](https://dictionary.cambridge.org/us/dictionary/english/bloodstream).
+Using pills and creams may be as effective but not as efficient. Unlike pills and creams, these pellets are delivered right to your bloodstream.
 
 ### **_No daily maintenance:_**
 

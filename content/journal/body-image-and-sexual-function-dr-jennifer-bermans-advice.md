@@ -39,7 +39,7 @@ Building on the importance of body image, confidence emerges as a pivotal factor
 
 Addressing body image concerns is essential to fostering this confidence. Engaging in self-care practices and cultivating self-acceptance can improve one’s outlook on their physical appearance. This positive shift can lead to a more satisfying sexual experience as self-assured individuals are more open to exploring their desires and expressing themselves intimately.
 
-[**Dr. Jennifer Berman**](https://maps.app.goo.gl/VELJpqwBwrZznjXx9) emphasizes that building self-confidence is not just about external appearance but also about internal affirmation. By adopting a holistic approach to self-care, individuals can enhance their self-image and, consequently, their sexual satisfaction. Practicing self-acceptance and prioritizing mental and emotional health are vital steps toward achieving a fulfilling intimate life.
+**Dr. Jennifer Berman** emphasizes that building self-confidence is not just about external appearance but also about internal affirmation. By adopting a holistic approach to self-care, individuals can enhance their self-image and, consequently, their sexual satisfaction. Practicing self-acceptance and prioritizing mental and emotional health are vital steps toward achieving a fulfilling intimate life.
 
 ## Open Communication
 

@@ -20,7 +20,7 @@ With age, menopause, and childbirth, the vagina undergoes a lot of changes. Thes
 
 ## **It can restore and Rejuvenate both your Vagina and Vulva**
 
-Votiva treats your vagina and your [vulva](https://en.wikipedia.org/wiki/Vulva) (the external parts of female genitalia). It works using radiofrequency heat to remodel collagen and elastin fibers (making the opening tighter) and to increase the thickness of the lining of the vaginal canal. Votiva strengthens and restores the vaginal tissue inside the vagina. 
+Votiva treats your vagina and your vulva (the external parts of female genitalia). It works using radiofrequency heat to remodel collagen and elastin fibers (making the opening tighter) and to increase the thickness of the lining of the vaginal canal. Votiva strengthens and restores the vaginal tissue inside the vagina. 
 
 ## **Benefits Go beyond helping Stretched Tissues**
 

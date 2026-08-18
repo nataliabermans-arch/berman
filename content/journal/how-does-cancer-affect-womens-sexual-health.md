@@ -43,7 +43,7 @@ When you’re facing a cancer diagnosis, your primary focus is on getting well. 
 
 ### Understanding the Cause: Treatment vs. Cancer
 
-It’s a common misconception that cancer itself is the sole cause of sexual health issues. More often, the treatments designed to save your life are the culprits. According to the [National Cancer Institute](https://www.cancer.gov/about-cancer/treatment/side-effects/sexuality-women), treatments like chemotherapy, hormone therapy, and radiation can directly cause sexual problems in women. These can manifest as physical conditions such as vaginal dryness, a narrowing of the vaginal canal (stenosis), or thinning of the vaginal walls (atrophy). Each of these can make intimacy uncomfortable or even painful, but they are manageable side effects, not a permanent state you have to accept.
+It’s a common misconception that cancer itself is the sole cause of sexual health issues. More often, the treatments designed to save your life are the culprits. According to the National Cancer Institute, treatments like chemotherapy, hormone therapy, and radiation can directly cause sexual problems in women. These can manifest as physical conditions such as vaginal dryness, a narrowing of the vaginal canal (stenosis), or thinning of the vaginal walls (atrophy). Each of these can make intimacy uncomfortable or even painful, but they are manageable side effects, not a permanent state you have to accept.
 
 ### Factors That Play a Role in Sexual Side Effects
 
@@ -51,7 +51,7 @@ Your experience with sexual side effects won’t be the same as someone else’s
 
 ### Delayed Onset: When Symptoms Can Appear
 
-The good news is that many sexual side effects are temporary. Your body is incredibly resilient, and once treatment ends, it begins the process of healing and recalibrating. The [American Cancer Society](https://www.cancer.org/cancer/managing-cancer/side-effects/sexual-side-effects/women-managing.html) notes that many issues improve over time. However, some changes, particularly those related to surgery or radiation in the pelvic area, can be long-lasting. It’s also possible for side effects to appear months or even years after you’ve finished treatment. This delayed onset can be confusing, but it’s a known possibility. The key is to stay in tune with your body and continue the conversation with your healthcare team long after your final treatment session.
+The good news is that many sexual side effects are temporary. Your body is incredibly resilient, and once treatment ends, it begins the process of healing and recalibrating. The American Cancer Society notes that many issues improve over time. However, some changes, particularly those related to surgery or radiation in the pelvic area, can be long-lasting. It’s also possible for side effects to appear months or even years after you’ve finished treatment. This delayed onset can be confusing, but it’s a known possibility. The key is to stay in tune with your body and continue the conversation with your healthcare team long after your final treatment session.
 
 ## Understanding the Physical Changes After Treatment
 
@@ -67,7 +67,7 @@ Two specific conditions you might hear about are vaginal atrophy and stenosis. A
 
 #### Sores and Discomfort
 
-Beyond dryness and tightness, some treatments can cause more immediate irritation. Chemotherapy, for instance, can affect all the mucous membranes in your body, including the lining of your vagina. This can make the tissue more sensitive, fragile, and prone to tearing or developing sores. According to [Livestrong](https://livestrong.org/resources/female-sexual-health-after-cancer/), this irritation can cause significant pain and discomfort. If you experience this, it’s important to give your body a break from penetrative sex and talk to your doctor about soothing treatments that can help the tissue heal while you complete your therapy.
+Beyond dryness and tightness, some treatments can cause more immediate irritation. Chemotherapy, for instance, can affect all the mucous membranes in your body, including the lining of your vagina. This can make the tissue more sensitive, fragile, and prone to tearing or developing sores. According to Livestrong, this irritation can cause significant pain and discomfort. If you experience this, it’s important to give your body a break from penetrative sex and talk to your doctor about soothing treatments that can help the tissue heal while you complete your therapy.
 
 ### Early Menopause Caused by Treatment
 
@@ -99,7 +99,7 @@ It’s easy to think moisturizers and lubricants are the same, but they serve tw
 
 #### Tips for Choosing a Lubricant
 
-When you’re at the store, the wall of lubricants can be overwhelming. The [American Cancer Society](https://www.cancer.org/cancer/managing-cancer/side-effects/sexual-side-effects/women-managing.html) recommends sticking to water-based or silicone-based gels. Look for products that are free of perfumes, flavors, and spermicide, as these additives can cause irritation, especially to sensitive tissue. It’s also wise to avoid oil-based products like petroleum jelly or baby oil. They can damage condoms and latex toys and may increase your risk of vaginal infections, which is the last thing you need while your body is recovering.
+When you’re at the store, the wall of lubricants can be overwhelming. The American Cancer Society recommends sticking to water-based or silicone-based gels. Look for products that are free of perfumes, flavors, and spermicide, as these additives can cause irritation, especially to sensitive tissue. It’s also wise to avoid oil-based products like petroleum jelly or baby oil. They can damage condoms and latex toys and may increase your risk of vaginal infections, which is the last thing you need while your body is recovering.
 
 ### How Vaginal Dilators Can Help
 

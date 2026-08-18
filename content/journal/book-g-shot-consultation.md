@@ -68,7 +68,7 @@ Choosing a provider for a personal procedure like the G-Shot is a big decision. 
 
 ### Check for Medical Credentials and Certifications
 
-First things first: you want a licensed medical professional. This is non-negotiable. The process of [provider credentialing](https://www.caqh.org/blog/provider-credentialing-explained) is how the healthcare system formally assesses a doctor’s qualifications, ensuring they meet specific standards. Look for a provider who is board-certified, ideally in a field like gynecology or urology, as this indicates a high level of training and expertise. Don’t hesitate to check their credentials on their website or ask the office directly. A reputable provider will be transparent about their qualifications. This step ensures the person you choose has the foundational medical knowledge to perform the procedure safely and effectively.
+First things first: you want a licensed medical professional. This is non-negotiable. The process of provider credentialing is how the healthcare system formally assesses a doctor’s qualifications, ensuring they meet specific standards. Look for a provider who is board-certified, ideally in a field like gynecology or urology, as this indicates a high level of training and expertise. Don’t hesitate to check their credentials on their website or ask the office directly. A reputable provider will be transparent about their qualifications. This step ensures the person you choose has the foundational medical knowledge to perform the procedure safely and effectively.
 
 ### Look for Experience in Sexual Wellness
 

@@ -110,7 +110,7 @@ If you’re a breast cancer survivor, the thought of taking hormones to manage m
 
 ### Why the Research on BHRT Safety Can Be Confusing
 
-When you start looking into BHRT after breast cancer, you’ll quickly find that the research is mixed, and there isn’t a simple “yes” or “no” answer. Some studies suggest potential risks, while others point to possible benefits, especially when comparing [bioidentical hormones](/whos-a-good-fit-for-bioidentical-hormone-replacement-therapy-bhrt-exploring-your-options/) to their synthetic counterparts. This lack of a clear consensus can be frustrating, but it highlights why a one-size-fits-all approach doesn’t work. The type of hormone, the dosage, and your personal health history all play a significant role. This is why understanding the nuances of the [bioidentical hormones](https://www.bcpp.org/resource/bioidentical-hormones) research is the first step toward making an informed choice.
+When you start looking into BHRT after breast cancer, you’ll quickly find that the research is mixed, and there isn’t a simple “yes” or “no” answer. Some studies suggest potential risks, while others point to possible benefits, especially when comparing [bioidentical hormones](/whos-a-good-fit-for-bioidentical-hormone-replacement-therapy-bhrt-exploring-your-options/) to their synthetic counterparts. This lack of a clear consensus can be frustrating, but it highlights why a one-size-fits-all approach doesn’t work. The type of hormone, the dosage, and your personal health history all play a significant role. This is why understanding the nuances of the bioidentical hormones research is the first step toward making an informed choice.
 
 ### Contrasting Studies: A Look at the Fuller Picture
 
@@ -126,7 +126,7 @@ On the other hand, some research suggests that not all bioidentical hormones car
 
 ### What’s the Recurrence Risk for HR-Positive Survivors?
 
-For women who have had hormone receptor-positive breast cancer, the conversation becomes even more specific. Your main concern is understandably the risk of recurrence. Some research has shown a significantly higher risk of cancer returning for women with this type of breast cancer who took systemic [hormone replacement therapy](https://www.breastcancer.org/risk/risk-factors/using-hormone-replacement-therapy). However, the medical community’s perspective is evolving. Many experts now believe that for certain survivors dealing with severe, quality-of-life-altering menopause symptoms, the benefits of carefully managed HRT might be worth the potential risks. This is where a personalized risk assessment and an open dialogue with your oncology and wellness teams are absolutely essential.
+For women who have had hormone receptor-positive breast cancer, the conversation becomes even more specific. Your main concern is understandably the risk of recurrence. Some research has shown a significantly higher risk of cancer returning for women with this type of breast cancer who took systemic hormone replacement therapy. However, the medical community’s perspective is evolving. Many experts now believe that for certain survivors dealing with severe, quality-of-life-altering menopause symptoms, the benefits of carefully managed HRT might be worth the potential risks. This is where a personalized risk assessment and an open dialogue with your oncology and wellness teams are absolutely essential.
 
 ## Bioidentical vs. Synthetic: Which Is Safer After Breast Cancer?
 
@@ -142,7 +142,7 @@ On the other hand, many FDA-approved synthetic hormone therapies have been on th
 
 ### Why “Natural” Isn’t a Synonym for “Safe”
 
-It’s so easy to be swayed by marketing buzzwords, and “natural” is one of the most persuasive. But when it comes to your health, it’s important to know that “natural” doesn’t automatically mean “safe.” While [bioidentical hormones](https://www.bcpp.org/resource/bioidentical-hormones/) may come from plant sources, they are still powerful medications created in a lab. They carry the same potential risks as any other hormone treatment, especially for someone with a history of breast cancer.
+It’s so easy to be swayed by marketing buzzwords, and “natural” is one of the most persuasive. But when it comes to your health, it’s important to know that “natural” doesn’t automatically mean “safe.” While bioidentical hormones may come from plant sources, they are still powerful medications created in a lab. They carry the same potential risks as any other hormone treatment, especially for someone with a history of breast cancer.
 
 The most important thing to remember is that any form of estrogen or progesterone—bioidentical or not—can potentially encourage the growth of hormone-sensitive cancer cells. Because the research is still inconclusive, it’s vital to approach all hormone therapy with a clear understanding of the potential risks and to work with a provider who truly gets the nuances of your medical history.
 
@@ -160,11 +160,11 @@ The decision to use BHRT is deeply personal and depends on many factors, includi
 
 ### Could BHRT Increase Your Risk of Recurrence?
 
-The biggest question for any breast cancer survivor is, “Could this treatment make my cancer come back?” It’s a valid and critical concern. Research has shown a connection between hormone therapy and the risk of recurrence, particularly for women who had hormone receptor-positive breast cancer. One study highlighted an 80% higher risk of cancer recurrence for this group when taking systemic HRT. This is because hormone-sensitive cancers use estrogen and/or progesterone to grow, so reintroducing these hormones could potentially reactivate dormant cancer cells. This is why a thorough discussion about your specific [cancer history](https://www.cancer.gov/types/breast/patient/breast-treatment-pdq) is the most important part of this process.
+The biggest question for any breast cancer survivor is, “Could this treatment make my cancer come back?” It’s a valid and critical concern. Research has shown a connection between hormone therapy and the risk of recurrence, particularly for women who had hormone receptor-positive breast cancer. One study highlighted an 80% higher risk of cancer recurrence for this group when taking systemic HRT. This is because hormone-sensitive cancers use estrogen and/or progesterone to grow, so reintroducing these hormones could potentially reactivate dormant cancer cells. This is why a thorough discussion about your specific cancer history is the most important part of this process.
 
 ### Can BHRT “Wake Up” Dormant Cancer Cells?
 
-To understand the risk, it helps to know the “why” behind it. Estrogen is incredibly effective for treating menopausal symptoms, but it can also act like fuel for certain types of breast cancer cells. If your cancer was hormone receptor-positive (ER+ or PR+), it means the cancer cells had receptors that allowed hormones to attach and signal them to grow and divide. Because of this, standard medical guidance often advises against systemic estrogen therapy after a breast cancer diagnosis, as it could [stimulate hormone-sensitive tumors](https://www.breastcancer.org/treatment/hormonal-therapy). Even though bioidentical hormones are molecularly identical to the ones your body makes, they can still have the same stimulating effect on these cells.
+To understand the risk, it helps to know the “why” behind it. Estrogen is incredibly effective for treating menopausal symptoms, but it can also act like fuel for certain types of breast cancer cells. If your cancer was hormone receptor-positive (ER+ or PR+), it means the cancer cells had receptors that allowed hormones to attach and signal them to grow and divide. Because of this, standard medical guidance often advises against systemic estrogen therapy after a breast cancer diagnosis, as it could stimulate hormone-sensitive tumors. Even though bioidentical hormones are molecularly identical to the ones your body makes, they can still have the same stimulating effect on these cells.
 
 ### Why Your Personal Health History Matters
 

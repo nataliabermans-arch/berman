@@ -108,6 +108,6 @@ And Michelle? She and Scott made the trip the following weekend, thanks to some 
 
 Additional resources on female sexuality are available from MayoClinic.com:
 
-[https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/kegel-exercises/art-20045283](https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/kegel-exercises/art-20045283)  
-[https://www.mayoclinic.org/diseases-conditions/yeast-infection/symptoms-causes/syc-20378999](https://www.mayoclinic.org/diseases-conditions/yeast-infection/symptoms-causes/syc-20378999)  
-[https://www.mayoclinic.org/healthy-lifestyle/womens-health/basics/womens-health/hlv-20049411](https://www.mayoclinic.org/healthy-lifestyle/womens-health/basics/womens-health/hlv-20049411)
+https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/kegel-exercises/art-20045283  
+https://www.mayoclinic.org/diseases-conditions/yeast-infection/symptoms-causes/syc-20378999  
+https://www.mayoclinic.org/healthy-lifestyle/womens-health/basics/womens-health/hlv-20049411

@@ -100,11 +100,11 @@ Cognitive Behavioral Therapy (CBT) is a type of talk therapy that can be incredi
 
 ### How to Build Your Personal Support Network
 
-Going through perimenopause can feel isolating, but you absolutely don’t have to do it alone. Building a strong support network is one of the most powerful things you can do for your emotional health. Start by talking to a trusted friend, partner, or family member about what you’re experiencing. You might be surprised how many women in your life have gone through something similar. You can also look for online communities or local support groups. The key is to find a [community of support](https://www.womenshealth.gov/menopause/menopause-symptoms-and-relief) where you feel safe to share openly. Don’t be afraid to tell people exactly what you need, whether it’s a listening ear or a night out.
+Going through perimenopause can feel isolating, but you absolutely don’t have to do it alone. Building a strong support network is one of the most powerful things you can do for your emotional health. Start by talking to a trusted friend, partner, or family member about what you’re experiencing. You might be surprised how many women in your life have gone through something similar. You can also look for online communities or local support groups. The key is to find a community of support where you feel safe to share openly. Don’t be afraid to tell people exactly what you need, whether it’s a listening ear or a night out.
 
 ### Exploring Your Professional Counseling Options
 
-Sometimes, lifestyle changes and support from friends aren’t quite enough, and that’s completely okay. Seeking help from a professional counselor or therapist can make a world of difference. A therapist provides a confidential, non-judgmental space to work through your feelings and develop personalized strategies for managing your moods. If you’re not sure where to start, talking to your doctor is a great first step. They can provide a referral, and resources like the [APA Psychologist Locator](https://locator.apa.org/) can help you find someone who specializes in women’s health.
+Sometimes, lifestyle changes and support from friends aren’t quite enough, and that’s completely okay. Seeking help from a professional counselor or therapist can make a world of difference. A therapist provides a confidential, non-judgmental space to work through your feelings and develop personalized strategies for managing your moods. If you’re not sure where to start, talking to your doctor is a great first step. They can provide a referral, and resources like the APA Psychologist Locator can help you find someone who specializes in women’s health.
 
 ## Natural Approaches for Emotional Balance
 
@@ -128,11 +128,11 @@ Feeling like you’re on an emotional rollercoaster is exhausting, but you don�
 
 ### Start with Foundational Lifestyle Habits
 
-Let’s get back to basics. How you eat, move, and sleep forms the foundation of your emotional well-being. Aim for regular movement you actually enjoy—whether it’s brisk walking, dancing, or strength training. Exercise is a fantastic way to release mood-lifting endorphins. What you put on your plate matters, too. A diet rich in whole foods, lean protein, and healthy fats can help stabilize your energy and mood, while limiting sugar and caffeine can prevent those jarring crashes. And please, don’t underestimate the power of a good night’s sleep. [Establishing a consistent sleep schedule](https://health.osu.edu/health/womens-health/why-perimenopause-affects-your-mood) is one of the most restorative things you can do for your mind.
+Let’s get back to basics. How you eat, move, and sleep forms the foundation of your emotional well-being. Aim for regular movement you actually enjoy—whether it’s brisk walking, dancing, or strength training. Exercise is a fantastic way to release mood-lifting endorphins. What you put on your plate matters, too. A diet rich in whole foods, lean protein, and healthy fats can help stabilize your energy and mood, while limiting sugar and caffeine can prevent those jarring crashes. And please, don’t underestimate the power of a good night’s sleep. Establishing a consistent sleep schedule is one of the most restorative things you can do for your mind.
 
 ### Embrace Mind-Body Practices for Stress Relief
 
-When your hormones are in flux, stress can feel amplified. This is the perfect time to build some calming practices into your routine. Techniques like yoga, meditation, or even simple deep breathing exercises can help soothe your nervous system and bring a sense of peace to your day. Another powerful tool is Cognitive Behavioral Therapy (CBT), which helps you recognize and reframe the negative thought patterns that can fuel mood swings. [Working with a therapist](https://www.mayoclinic.org/diseases-conditions/perimenopause/diagnosis-treatment/drc-20354671) can give you personalized strategies to handle emotional challenges as they arise.
+When your hormones are in flux, stress can feel amplified. This is the perfect time to build some calming practices into your routine. Techniques like yoga, meditation, or even simple deep breathing exercises can help soothe your nervous system and bring a sense of peace to your day. Another powerful tool is Cognitive Behavioral Therapy (CBT), which helps you recognize and reframe the negative thought patterns that can fuel mood swings. Working with a therapist can give you personalized strategies to handle emotional challenges as they arise.
 
 ### Explore Medical Support with a Specialist
 

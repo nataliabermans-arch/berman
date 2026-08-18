@@ -24,7 +24,7 @@ author: "Dr. Jennifer Berman, MD"
 
 Are you experiencing anxiety and/or mood changes? Difficulty falling asleep or staying asleep? Lowered sex drive? Weight gain? If so, you could be experiencing hormone imbalance. With age, many changes occur in your body that impact your ovarian, thyroid, and adrenal gland function, or endocrine system. The endocrine system is responsible for maintaining hormone balance.
 
-As women approach perimenopause and menopause, hormone levels(particularly estrogen, progesterone, and testosterone) all decline. At the same time, the bodily functions that your [hormones](https://www.everydayhealth.com/hormones/guide/) target begin to malfunction. These changes can result in multiple symptoms across many aspects of your daily life, function, and well-being. Bioidentical hormone treatment pellets replacement therapy can help you reclaim your life and sense of vitality.
+As women approach perimenopause and menopause, hormone levels(particularly estrogen, progesterone, and testosterone) all decline. At the same time, the bodily functions that your hormones target begin to malfunction. These changes can result in multiple symptoms across many aspects of your daily life, function, and well-being. Bioidentical hormone treatment pellets replacement therapy can help you reclaim your life and sense of vitality.
 
 # **When do hormones begin to decline?**
 

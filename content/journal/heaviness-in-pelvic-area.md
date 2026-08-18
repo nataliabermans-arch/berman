@@ -34,7 +34,7 @@ Many different conditions can make your pelvic area feel heavy, and the good new
 
 ### Pinpointing the Sensation
 
-Many women describe pelvic heaviness as a dull ache or a feeling of pressure deep inside the pelvis. Some have even said it feels like they are “carrying a bowling ball” in their lower abdomen. This sensation might be constant, or it could come and go, perhaps getting worse after standing for a long time or at the end of the day. The feeling can be located in your lower stomach, or you might notice it more in the vaginal area. This type of [chronic pelvic pain](https://www.mayoclinic.org/diseases-conditions/chronic-pelvic-pain/symptoms-causes/syc-20354368) can be disruptive, making it important to identify exactly what you are experiencing.
+Many women describe pelvic heaviness as a dull ache or a feeling of pressure deep inside the pelvis. Some have even said it feels like they are “carrying a bowling ball” in their lower abdomen. This sensation might be constant, or it could come and go, perhaps getting worse after standing for a long time or at the end of the day. The feeling can be located in your lower stomach, or you might notice it more in the vaginal area. This type of chronic pelvic pain can be disruptive, making it important to identify exactly what you are experiencing.
 
 ### Is It Heaviness or Something Else?
 
@@ -106,7 +106,7 @@ When you’re dealing with a constant feeling of heaviness in your pelvis, findi
 
 ### Simple Lifestyle Adjustments
 
-Sometimes, small changes can make a big impact. If your symptoms are mild or just starting, a few lifestyle tweaks might be all you need. Gentle, regular exercise like walking can improve circulation and help with overall pelvic health. It’s also important to avoid activities that put extra strain on your pelvic area, like heavy lifting or high-impact workouts, until you know what’s causing the pressure. According to the NHS, simple [lifestyle changes](https://www.nhs.uk/conditions/pelvic-organ-prolapse/) can be an effective first line of defense, especially when it comes to preventing issues like constipation that can worsen that heavy feeling.
+Sometimes, small changes can make a big impact. If your symptoms are mild or just starting, a few lifestyle tweaks might be all you need. Gentle, regular exercise like walking can improve circulation and help with overall pelvic health. It’s also important to avoid activities that put extra strain on your pelvic area, like heavy lifting or high-impact workouts, until you know what’s causing the pressure. According to the NHS, simple lifestyle changes can be an effective first line of defense, especially when it comes to preventing issues like constipation that can worsen that heavy feeling.
 
 ### Strengthening Your Pelvic Floor
 
@@ -136,11 +136,11 @@ Think of physical therapy as a targeted workout plan for your pelvic floor. A sp
 
 ### Minimally Invasive Procedures
 
-For many women, minimally invasive procedures offer a powerful solution without the need for traditional surgery. These treatments are designed to address specific issues like uterine fibroids or vaginal laxity, which can both cause a feeling of heaviness. For example, Uterine Fibroid Embolization is a procedure that can [shrink fibroids and relieve symptoms](https://www.usafibroidcenters.com/blog/uterus-feels-heavy/). Other modern treatments focus on vaginal rejuvenation, using technologies like radiofrequency to tighten tissues and improve support. These procedures typically involve minimal downtime and can make a huge difference in your daily comfort.
+For many women, minimally invasive procedures offer a powerful solution without the need for traditional surgery. These treatments are designed to address specific issues like uterine fibroids or vaginal laxity, which can both cause a feeling of heaviness. For example, Uterine Fibroid Embolization is a procedure that can shrink fibroids and relieve symptoms. Other modern treatments focus on vaginal rejuvenation, using technologies like radiofrequency to tighten tissues and improve support. These procedures typically involve minimal downtime and can make a huge difference in your daily comfort.
 
 ### Surgical Options for Lasting Relief
 
-When symptoms are severe or other treatments haven’t provided enough relief, surgery may be the most effective option for a lasting solution. Depending on the underlying cause, a surgeon can perform a procedure to [lift and support the pelvic organs](https://www.nhs.uk/conditions/pelvic-organ-prolapse/), putting everything back in its proper place. If fibroids are the issue, a myomectomy can remove them while preserving the uterus. In some cases, a hysterectomy (removal of the uterus) might be recommended. While surgery is a significant step, it can offer a permanent resolution to pelvic heaviness and related symptoms.
+When symptoms are severe or other treatments haven’t provided enough relief, surgery may be the most effective option for a lasting solution. Depending on the underlying cause, a surgeon can perform a procedure to lift and support the pelvic organs, putting everything back in its proper place. If fibroids are the issue, a myomectomy can remove them while preserving the uterus. In some cases, a hysterectomy (removal of the uterus) might be recommended. While surgery is a significant step, it can offer a permanent resolution to pelvic heaviness and related symptoms.
 
 ## Related Articles
 

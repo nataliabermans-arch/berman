@@ -46,7 +46,7 @@ Perimenopause can come with a wide variety of signs and symptoms. Some women hav
 - **Decreased libido**: A dip in sex drive can occur due to hormonal fluctuations.
 - **Vaginal dryness**: This can make intimacy uncomfortable, but it’s manageable with the right treatments.
 
-If you’re looking for more in-depth information on the symptoms and causes of perimenopause, the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/perimenopause/symptoms-causes/syc-20354666) provides a comprehensive guide covering what to expect during this transition and how to manage common symptoms.
+If you’re looking for more in-depth information on the symptoms and causes of perimenopause, the Mayo Clinic provides a comprehensive guide covering what to expect during this transition and how to manage common symptoms.
 
 ## [Menopause Biotype – Get Tailored Relief](/menopause/)
 

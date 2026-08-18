@@ -56,7 +56,7 @@ When choosing a lubricant, you’ll mainly see water-based and silicone-based op
 
 ### Natural Remedies and Simple Lifestyle Changes
 
-Beyond products, a few lifestyle adjustments can make a world of difference. Start with your hygiene routine. The vagina is self-cleaning, so it’s best to avoid [douching](https://www.acog.org/womens-health/faqs/douching) and harsh or scented soaps, which can disrupt your natural pH balance and worsen dryness. Stick to warm water or a gentle, unscented soap on the external vulva only. Staying well-hydrated by drinking plenty of water also supports your body’s overall moisture levels. Finally, regular sexual stimulation, with plenty of foreplay, encourages your body to produce its own natural lubrication.
+Beyond products, a few lifestyle adjustments can make a world of difference. Start with your hygiene routine. The vagina is self-cleaning, so it’s best to avoid douching and harsh or scented soaps, which can disrupt your natural pH balance and worsen dryness. Stick to warm water or a gentle, unscented soap on the external vulva only. Staying well-hydrated by drinking plenty of water also supports your body’s overall moisture levels. Finally, regular sexual stimulation, with plenty of foreplay, encourages your body to produce its own natural lubrication.
 
 ## When to Consider Prescription Treatments
 

@@ -182,7 +182,7 @@ Let’s walk through some of the most common myths surrounding vaginal laser tre
 
 ### Myth #1: It Isn’t Safe
 
-It’s completely understandable to prioritize safety when considering any medical procedure. You may have seen that the [FDA issued a warning](https://www.breastcancer.org/research-news/fda-issues-warning-on-vagina-laser-tx) regarding these devices for certain uses, which can sound alarming. However, this highlights the critical importance of your provider’s expertise. In the hands of a highly qualified specialist who understands the technology’s precise applications, these treatments are performed safely. An experienced doctor will conduct a thorough evaluation to ensure you are a good candidate and will discuss all potential risks and benefits with you, putting your health and well-being first.
+It’s completely understandable to prioritize safety when considering any medical procedure. You may have seen that the FDA issued a warning regarding these devices for certain uses, which can sound alarming. However, this highlights the critical importance of your provider’s expertise. In the hands of a highly qualified specialist who understands the technology’s precise applications, these treatments are performed safely. An experienced doctor will conduct a thorough evaluation to ensure you are a good candidate and will discuss all potential risks and benefits with you, putting your health and well-being first.
 
 ### Myth #2: It’s Purely Cosmetic
 

@@ -106,11 +106,11 @@ Let’s talk about two of the most important factors in any decision about a cos
 
 ### Understanding the cost of Morpheus8
 
-When planning for Morpheus8, it’s helpful to know that most people need between one and three sessions to achieve their desired results. The [cost for a single treatment](https://skintechnique.com/blog/morpheus8-vs-ultherapy-for-skin-tightening) typically averages around $1,100. Of course, this price can vary based on your location, your provider’s expertise, and the size of the area you’re treating. The best way to get an accurate estimate is to schedule a consultation where you can discuss your specific goals and get a personalized quote for your treatment plan. This ensures you know exactly what to expect before you begin.
+When planning for Morpheus8, it’s helpful to know that most people need between one and three sessions to achieve their desired results. The cost for a single treatment typically averages around $1,100. Of course, this price can vary based on your location, your provider’s expertise, and the size of the area you’re treating. The best way to get an accurate estimate is to schedule a consultation where you can discuss your specific goals and get a personalized quote for your treatment plan. This ensures you know exactly what to expect before you begin.
 
 ### What to expect for the price of Ultherapy
 
-Ultherapy is generally priced higher per session than Morpheus8, with a much wider cost range. Depending on the treatment area, you could expect to pay anywhere from $700 to $5,000 for a single session. This significant range is because the price is directly tied to the size and number of areas being treated. For example, a smaller area like a brow lift will be at the lower end of the spectrum, while a full-face and neck treatment will be at the higher end. A consultation will clarify the [exact cost](https://miamicenterfordermatology.com/anti-aging/morpheus8-vs-ultherapy/) for the specific lift and tightening you’re looking for.
+Ultherapy is generally priced higher per session than Morpheus8, with a much wider cost range. Depending on the treatment area, you could expect to pay anywhere from $700 to $5,000 for a single session. This significant range is because the price is directly tied to the size and number of areas being treated. For example, a smaller area like a brow lift will be at the lower end of the spectrum, while a full-face and neck treatment will be at the higher end. A consultation will clarify the exact cost for the specific lift and tightening you’re looking for.
 
 ### Safety and side effects: What you need to know
 

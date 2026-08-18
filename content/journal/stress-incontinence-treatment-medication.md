@@ -80,7 +80,7 @@ Menopause brings a lot of changes, and one of them is a drop in estrogen. This h
 
 ### Improving Bladder Control Signals
 
-Sometimes, the issue isn’t just muscle weakness but a miscommunication between your brain and your bladder. Your nervous system plays a huge role in bladder control, sending signals to keep the sphincter closed. Certain medications can help improve this communication line. For instance, duloxetine not only strengthens the sphincter muscle but also enhances the nerve signals that help control it. By making these signals clearer and stronger, the medication helps your body maintain control, even under pressure. This is why medication is often a powerful addition to behavioral therapies, as it helps your body respond better to your efforts to manage [SUI](https://pubmed.ncbi.nlm.nih.gov/15233589/).
+Sometimes, the issue isn’t just muscle weakness but a miscommunication between your brain and your bladder. Your nervous system plays a huge role in bladder control, sending signals to keep the sphincter closed. Certain medications can help improve this communication line. For instance, duloxetine not only strengthens the sphincter muscle but also enhances the nerve signals that help control it. By making these signals clearer and stronger, the medication helps your body maintain control, even under pressure. This is why medication is often a powerful addition to behavioral therapies, as it helps your body respond better to your efforts to manage SUI.
 
 ## What Are the Potential Side Effects?
 
@@ -90,7 +90,7 @@ Other medications used for urinary incontinence can sometimes cause dry mouth or
 
 ### Managing Common Side Effects
 
-If you do experience side effects, they can often be managed with simple adjustments and clear communication with your doctor. The most important step you can take is to provide a complete picture of your health. It’s essential to [talk to your doctor](https://www.mayoclinic.org/diseases-conditions/urinary-incontinence/in-depth/bladder-control-problems/art-20044220) about every single thing you take—that includes prescriptions, over-the-counter medicines, and even herbal remedies. Some substances can interfere with bladder control medications or make bladder issues worse on their own. Think of it as a partnership; the more information your doctor has, the better they can tailor your treatment and help you manage any side effects that pop up.
+If you do experience side effects, they can often be managed with simple adjustments and clear communication with your doctor. The most important step you can take is to provide a complete picture of your health. It’s essential to talk to your doctor about every single thing you take—that includes prescriptions, over-the-counter medicines, and even herbal remedies. Some substances can interfere with bladder control medications or make bladder issues worse on their own. Think of it as a partnership; the more information your doctor has, the better they can tailor your treatment and help you manage any side effects that pop up.
 
 ### Important Drug Interactions and Precautions
 
@@ -98,7 +98,7 @@ A deep dive into your medical history is a non-negotiable part of starting SUI m
 
 ### When to Call Your Doctor
 
-Your treatment journey is an ongoing conversation. If you feel your medication isn’t working as well as you’d hoped or if side effects are bothering you, it’s time to check in. You don’t have to just live with it. Sometimes a simple dosage adjustment is all that’s needed. In other cases, it might mean exploring different options. It’s common to feel a little shy when discussing incontinence, but [speaking up](https://nafc.org/female-stress-incontinence/) is the first and most powerful step toward feeling better. If medication isn’t the right fit, there are other highly effective treatments available, such as [Emsella Incontinence Therapy](/emsella-treatment-for-incontinence/), that can offer significant relief.
+Your treatment journey is an ongoing conversation. If you feel your medication isn’t working as well as you’d hoped or if side effects are bothering you, it’s time to check in. You don’t have to just live with it. Sometimes a simple dosage adjustment is all that’s needed. In other cases, it might mean exploring different options. It’s common to feel a little shy when discussing incontinence, but speaking up is the first and most powerful step toward feeling better. If medication isn’t the right fit, there are other highly effective treatments available, such as [Emsella Incontinence Therapy](/emsella-treatment-for-incontinence/), that can offer significant relief.
 
 ## Common Myths About SUI Medication
 

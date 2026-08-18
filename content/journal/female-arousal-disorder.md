@@ -211,7 +211,7 @@ The most crucial step is connecting with a medical professional who truly unders
 
 ### Tapping into Resources and Communities
 
-Your journey to better sexual health doesn’t have to happen in isolation. Beyond medical treatment, other forms of support can make a significant difference. A certified sex therapist, for example, can help you and your partner work through emotional or relational factors that may be affecting arousal. The [American Sexual Health Association](https://www.ashasexualhealth.org/) also offers valuable information and resources. Connecting with these communities can help you feel understood and less alone. Sharing experiences and learning from others can be an incredibly validating and empowering part of the process.
+Your journey to better sexual health doesn’t have to happen in isolation. Beyond medical treatment, other forms of support can make a significant difference. A certified sex therapist, for example, can help you and your partner work through emotional or relational factors that may be affecting arousal. The American Sexual Health Association also offers valuable information and resources. Connecting with these communities can help you feel understood and less alone. Sharing experiences and learning from others can be an incredibly validating and empowering part of the process.
 
 ### Your Next Move
 

@@ -52,14 +52,14 @@ I hope that this has given you a brief insight as to the importance and health b
 
 **Beginners Guided Meditation Recording Suggestions:**
 
-*[Inner Smile by Lilias Folan](https://www.amazon.com/Inner-Smile-Lilias-Folan/dp/B000008A4X/) (ASIN # B000009CO8) CD/Cassette, available at www.Amazon.com –* Lilias Folan is a well-known yoga instructor. This recording has 3 tracks which include breathing and stretching, relaxation and deeper meditation that she calls the “inner smile”. Her style is simple and pleasant.
+*Inner Smile by Lilias Folan (ASIN # B000009CO8) CD/Cassette, available at www.Amazon.com –* Lilias Folan is a well-known yoga instructor. This recording has 3 tracks which include breathing and stretching, relaxation and deeper meditation that she calls the “inner smile”. Her style is simple and pleasant.
 
-*[The Soul of Healing Meditations](https://www.amazon.com/Soul-Healing-Meditations-Deepak-Chopra/dp/B0080XNI0I/ref=sr_1_2?ie=UTF8&qid=1538509274&sr=8-2&keywords=The+Soul+of+Healing+Meditations) by Dr. Deepak Chopra; (ASIN # B00005TZSK) CD, available at www.Amazon.com –* Eight meditation tracks over 45 minutes. Very popular and instructional. Focused on relaxation and healing.
+*The Soul of Healing Meditations by Dr. Deepak Chopra; (ASIN # B00005TZSK) CD, available at www.Amazon.com –* Eight meditation tracks over 45 minutes. Very popular and instructional. Focused on relaxation and healing.
 
-*[Healing Meditation: Nourish Mind, Body and Spirit](https://www.amazon.com/Healing-Meditation-Nourish-Mind-Spirit/dp/1881451674/) by Kelly Howell; (ASIN # 1881451674) CD/Cassette, available at Amazon –* Sixty minutes divided into two thirty minute sessions. The first is a guided instructional meditation and the second is meditation music. Soothing instruction voice focused on healing. Great for beginners!
+*Healing Meditation: Nourish Mind, Body and Spirit by Kelly Howell; (ASIN # 1881451674) CD/Cassette, available at Amazon –* Sixty minutes divided into two thirty minute sessions. The first is a guided instructional meditation and the second is meditation music. Soothing instruction voice focused on healing. Great for beginners!
 
-*[Theta Meditation](https://www.amazon.com/Theta-Meditation-System-Jeffrey-Thompson/dp/B001200T08/) by Dr. Jeffrey Thompson; (ASIN # B00005BGUJ) CD/ Cassette, available at Amazon.com –* Comprised of two tracks, Dr. Thompson’s work is deeply relaxing and hypnotic. There is no instruction on this recording but you naturally find yourself falling into a meditative state. Promotes Theta brainwaves which increase self-healing.
+*Theta Meditation by Dr. Jeffrey Thompson; (ASIN # B00005BGUJ) CD/ Cassette, available at Amazon.com –* Comprised of two tracks, Dr. Thompson’s work is deeply relaxing and hypnotic. There is no instruction on this recording but you naturally find yourself falling into a meditative state. Promotes Theta brainwaves which increase self-healing.
 
-*[Chakra Balancing: Body, Mind, and Soul](https://www.amazon.com/Chakra-Balancing-Mind-Body-Soul/dp/B001OFJSSU/) by Dr. Deepak Chopra; (ASIN# B000667GNW) CD, available at Amazon.com –* Two disc set with 19 tracks. The first CD is meditation music only. The second is a guided meditation with instruction. The music is soothing and helps with the meditation.
+*Chakra Balancing: Body, Mind, and Soul by Dr. Deepak Chopra; (ASIN# B000667GNW) CD, available at Amazon.com –* Two disc set with 19 tracks. The first CD is meditation music only. The second is a guided meditation with instruction. The music is soothing and helps with the meditation.
 
 *Letting Go of Stress by Steve Halpern and Emmett Miller; (ASIN# B00009N1WZ) CD, available at Amazon.com –* There are four tracks on this recording each lasting around 20 minutes. Emmett Miller has a soothing voice for instruction with Steven Halpern’s music.

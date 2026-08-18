@@ -60,7 +60,7 @@ Getting your night sweats under control is a huge step toward better sleep, but 
 
 ### Protect Your Bone and Heart Health
 
-Some of the most important benefits of hormone therapy are the ones you can’t see. After menopause, the drop in estrogen accelerates bone loss, increasing your risk for osteoporosis. Hormone therapy helps protect your bones by slowing this process and maintaining their density. It also has a positive effect on your cardiovascular health. Research shows that it can help [reduce insulin resistance](https://www.statnews.com/2024/12/03/menopause-hormone-replacement-therapy-advocates-say-health-concerns-overblown/) and improve other heart-related biomarkers. By supporting your bone and heart health, you’re taking a crucial step to protect yourself from two of the biggest health risks women face as they age.
+Some of the most important benefits of hormone therapy are the ones you can’t see. After menopause, the drop in estrogen accelerates bone loss, increasing your risk for osteoporosis. Hormone therapy helps protect your bones by slowing this process and maintaining their density. It also has a positive effect on your cardiovascular health. Research shows that it can help reduce insulin resistance and improve other heart-related biomarkers. By supporting your bone and heart health, you’re taking a crucial step to protect yourself from two of the biggest health risks women face as they age.
 
 ## What Are the Risks and Side Effects?
 
@@ -72,19 +72,19 @@ The goal is to weigh the benefits against the potential risks for your specific 
 
 You may have heard about a major study from the early 2000s, the Women’s Health Initiative (WHI), which raised significant concerns about the safety of hormone therapy. This study had a lasting impact, causing many women and doctors to shy away from HT. However, it’s crucial to know that our understanding has evolved since then.
 
-Newer analyses and [modern research](https://www.statnews.com/2024/12/03/menopause-hormone-replacement-therapy-advocates-say-health-concerns-overblown/) have shown that for healthy women who start hormone therapy near the beginning of menopause (typically before age 60), the risks are quite low. The initial findings of the WHI study applied more to older women who started therapy many years after menopause. Today, we have a much clearer picture of who can safely benefit from HT.
+Newer analyses and modern research have shown that for healthy women who start hormone therapy near the beginning of menopause (typically before age 60), the risks are quite low. The initial findings of the WHI study applied more to older women who started therapy many years after menopause. Today, we have a much clearer picture of who can safely benefit from HT.
 
 ### Understanding the Risks: Cancer and Heart Health
 
 The most discussed risks associated with hormone therapy involve cancer and heart health. Some types of hormone therapy can slightly increase the risk of breast cancer and blood clots. For example, studies show that oral estrogens can increase the risk of venous thromboembolism (VTE), or blood clots in the veins.
 
-However, these risks depend on many factors, including the type of hormone used, the dose, how it’s administered, and your personal health history. The decision to use [menopausal hormone therapy and cancer risk](https://www.cancer.org/cancer/risk-prevention/medical-treatments/menopausal-hormone-replacement-therapy-and-cancer-risk.html) is a personal one that you should make with your doctor after carefully considering your individual circumstances. A thorough evaluation of your health profile will help determine if the benefits of relieving your symptoms outweigh the potential risks.
+However, these risks depend on many factors, including the type of hormone used, the dose, how it’s administered, and your personal health history. The decision to use menopausal hormone therapy and cancer risk is a personal one that you should make with your doctor after carefully considering your individual circumstances. A thorough evaluation of your health profile will help determine if the benefits of relieving your symptoms outweigh the potential risks.
 
 ### Common Side Effects and How to Manage Them
 
 Aside from the more serious risks, some women experience milder side effects when they first start hormone therapy. These can include breast tenderness, bloating, nausea, or irregular spotting. While these can be annoying, they are usually not serious and often go away on their own as your body adjusts to the new hormone levels.
 
-The good news is that these common side effects are often manageable. If they persist, your doctor can make adjustments to your treatment plan. Simple changes, like lowering the dose, trying a different delivery method (like a patch instead of a pill), or changing the type of [hormone therapy](https://menopause.org/patient-education/menopause-topics/hormone-therapy) you’re on, can make a big difference in reducing or eliminating these issues. Open communication with your doctor is key to finding the right balance for your body.
+The good news is that these common side effects are often manageable. If they persist, your doctor can make adjustments to your treatment plan. Simple changes, like lowering the dose, trying a different delivery method (like a patch instead of a pill), or changing the type of hormone therapy you’re on, can make a big difference in reducing or eliminating these issues. Open communication with your doctor is key to finding the right balance for your body.
 
 ## Is Hormone Therapy Right for You?
 
@@ -112,17 +112,17 @@ Thinking about your options can feel like a lot at first, but it really comes do
 
 You’ve probably heard the terms “bioidentical” and “synthetic” when it comes to hormones. Bioidentical hormones are designed to be chemically identical to the ones your body produces naturally. Often derived from plant sources, they are sometimes marketed as a more “natural” option. Many women feel more comfortable with this approach, which is why treatments like [Bioidentical Hormone Replacement Therapy](/biote-hormone-therapy/) have become so popular.
 
-It’s helpful to know that many synthetic hormones have also been used safely and effectively for decades. The most important thing is finding a solution that works for your body and your symptoms. A specialist can help you weigh the [risks and benefits](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2021.564781/full) of each type to determine the best course of action for your health goals.
+It’s helpful to know that many synthetic hormones have also been used safely and effectively for decades. The most important thing is finding a solution that works for your body and your symptoms. A specialist can help you weigh the risks and benefits of each type to determine the best course of action for your health goals.
 
 ### Systemic vs. Local Treatments
 
 Hormone therapy can work throughout your entire body or in one specific area. Systemic hormone therapy delivers hormones into your bloodstream, where they travel throughout your body. This approach is very effective for widespread menopause symptoms like hot flashes, night sweats, and brain fog. Because it treats your whole system, it can also help protect your bones.
 
-On the other hand, local treatments target a specific area. For example, low-dose vaginal estrogen in the form of a cream, ring, or tablet is mainly used for vaginal and urinary symptoms. According to [The Menopause Society](https://menopause.org/patient-education/menopause-topics/hormone-therapy), these treatments have lower risks because the hormones are absorbed primarily in the vaginal area, making them a great option if your main concerns are related to [vaginal dryness](/vaginal-dryness-treatment/) or discomfort.
+On the other hand, local treatments target a specific area. For example, low-dose vaginal estrogen in the form of a cream, ring, or tablet is mainly used for vaginal and urinary symptoms. According to The Menopause Society, these treatments have lower risks because the hormones are absorbed primarily in the vaginal area, making them a great option if your main concerns are related to [vaginal dryness](/vaginal-dryness-treatment/) or discomfort.
 
 ### Delivery Methods: Creams, Patches, and Pellets
 
-Hormone therapy isn’t just a pill. It can be administered through a variety of methods, each with its own set of benefits. Your doctor will help you choose the one that best suits your lifestyle and treatment needs. Common [delivery methods](https://www.mayoclinic.org/diseases-conditions/menopause/in-depth/hormone-therapy/art-20046372) include skin patches, topical creams or gels, and pellets inserted under the skin.
+Hormone therapy isn’t just a pill. It can be administered through a variety of methods, each with its own set of benefits. Your doctor will help you choose the one that best suits your lifestyle and treatment needs. Common delivery methods include skin patches, topical creams or gels, and pellets inserted under the skin.
 
 Patches and gels are popular because they provide a steady, consistent release of hormones and can have fewer side effects than oral medications. Another effective option is pellet therapy, such as [Biote Hormone Therapy](/hormone-therapy/), which involves placing a small pellet under your skin that releases hormones over several months. This can be a convenient choice if you prefer not to think about your treatment every day.
 

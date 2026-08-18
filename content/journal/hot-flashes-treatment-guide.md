@@ -72,7 +72,7 @@ It’s reassuring to know there are medications created specifically to target h
 
 ### Antidepressants and Other Off-Label Solutions
 
-You might be surprised to learn that certain antidepressants can be very effective at cooling down hot flashes. When a drug is prescribed for a condition other than what it was originally approved for, it’s called “off-label” use, and it’s a common and safe practice. Low doses of antidepressants like venlafaxine, citalopram, and escitalopram are often recommended. While they may not work quite as well as hormone therapy for very severe hot flashes, they provide significant [relief for many women](https://www.mayoclinic.org/diseases-conditions/hot-flashes/diagnosis-treatment/drc-20352795) who need an alternative. Finding the right medication and dosage is key, making it a crucial conversation to have with a specialist who understands your unique needs.
+You might be surprised to learn that certain antidepressants can be very effective at cooling down hot flashes. When a drug is prescribed for a condition other than what it was originally approved for, it’s called “off-label” use, and it’s a common and safe practice. Low doses of antidepressants like venlafaxine, citalopram, and escitalopram are often recommended. While they may not work quite as well as hormone therapy for very severe hot flashes, they provide significant relief for many women who need an alternative. Finding the right medication and dosage is key, making it a crucial conversation to have with a specialist who understands your unique needs.
 
 ## Can Lifestyle and Diet Changes Bring Relief?
 
@@ -84,7 +84,7 @@ When a hot flash hits, you want relief, and you want it now. Having a plan can m
 
 ### Foods to Eat (and Avoid) for Fewer Hot Flashes
 
-What you eat can have a direct impact on your body’s temperature regulation. Certain foods and drinks are well-known [hot flash triggers](https://www.mayoclinic.org/diseases-conditions/hot-flashes/diagnosis-treatment/drc-20352795) for many women, including spicy foods, caffeine, and alcohol. These can dilate blood vessels and send your internal thermostat into overdrive. Try limiting these and see if you notice a difference. Instead, focus on a balanced diet filled with fruits, vegetables, and whole grains. Keeping a simple food journal for a few weeks can be a great way to identify your personal triggers. You might be surprised to find a pattern between what you consume and when your hot flashes spike, giving you clear insight into what your body needs.
+What you eat can have a direct impact on your body’s temperature regulation. Certain foods and drinks are well-known hot flash triggers for many women, including spicy foods, caffeine, and alcohol. These can dilate blood vessels and send your internal thermostat into overdrive. Try limiting these and see if you notice a difference. Instead, focus on a balanced diet filled with fruits, vegetables, and whole grains. Keeping a simple food journal for a few weeks can be a great way to identify your personal triggers. You might be surprised to find a pattern between what you consume and when your hot flashes spike, giving you clear insight into what your body needs.
 
 ### How Exercise and Stress Management Help
 
@@ -96,11 +96,11 @@ When you’re dealing with the discomfort of hot flashes, it’s completely unde
 
 ### Plant Estrogens (Phytoestrogens)
 
-You may have heard about plant estrogens, or phytoestrogens, as a natural way to manage menopause symptoms. These compounds are found in foods like soy, chickpeas, lentils, and flaxseed, and they can mimic the effects of estrogen in the body, just in a much weaker way. The idea is that they might help balance your hormones and reduce hot flashes. However, most [research indicates](https://www.mayoclinic.org/diseases-conditions/hot-flashes/diagnosis-treatment/drc-20352795) that phytoestrogens don’t provide significant relief for most women. While adding these healthy foods to your diet is great for your overall health, they likely won’t be the magic bullet for your hot flashes.
+You may have heard about plant estrogens, or phytoestrogens, as a natural way to manage menopause symptoms. These compounds are found in foods like soy, chickpeas, lentils, and flaxseed, and they can mimic the effects of estrogen in the body, just in a much weaker way. The idea is that they might help balance your hormones and reduce hot flashes. However, most research indicates that phytoestrogens don’t provide significant relief for most women. While adding these healthy foods to your diet is great for your overall health, they likely won’t be the magic bullet for your hot flashes.
 
 ### Black Cohosh and Other Common Herbs
 
-Black cohosh is one of the most popular herbal remedies for hot flashes, and you’ll find it in countless menopause supplements. Despite its popularity, studies on its effectiveness have shown mixed results, meaning it works for some but not for others. More importantly, there are safety concerns to consider. The Mayo Clinic notes that in rare cases, black cohosh has been linked to [liver damage](https://www.mayoclinic.org/diseases-conditions/hot-flashes/diagnosis-treatment/drc-20352795). Other herbs like evening primrose oil and dong quai also have a following, but their ability to consistently reduce hot flashes hasn’t been proven in major studies.
+Black cohosh is one of the most popular herbal remedies for hot flashes, and you’ll find it in countless menopause supplements. Despite its popularity, studies on its effectiveness have shown mixed results, meaning it works for some but not for others. More importantly, there are safety concerns to consider. The Mayo Clinic notes that in rare cases, black cohosh has been linked to liver damage. Other herbs like evening primrose oil and dong quai also have a following, but their ability to consistently reduce hot flashes hasn’t been proven in major studies.
 
 ### What to Know Before Trying “Natural” Treatments
 
@@ -112,7 +112,7 @@ Managing hot flashes isn’t just about addressing the physical heat; it’s als
 
 ### Retrain Your Brain with Cognitive Behavioral Therapy (CBT)
 
-When a hot flash begins, it’s easy for your mind to spiral into panic or frustration, which only makes the experience worse. Cognitive Behavioral Therapy (CBT) is a type of talk therapy that helps you change these negative thought patterns. Instead of reacting with anxiety, you learn practical coping strategies to stay calm and manage the discomfort. Research from the Mayo Clinic has shown that CBT is [effective in easing the discomfort](https://www.mayoclinic.org/diseases-conditions/hot-flashes/diagnosis-treatment/drc-20352795) associated with hot flashes and night sweats. It’s a way to retrain your brain’s response, giving you a powerful tool to reduce the emotional toll of your symptoms.
+When a hot flash begins, it’s easy for your mind to spiral into panic or frustration, which only makes the experience worse. Cognitive Behavioral Therapy (CBT) is a type of talk therapy that helps you change these negative thought patterns. Instead of reacting with anxiety, you learn practical coping strategies to stay calm and manage the discomfort. Research from the Mayo Clinic has shown that CBT is effective in easing the discomfort associated with hot flashes and night sweats. It’s a way to retrain your brain’s response, giving you a powerful tool to reduce the emotional toll of your symptoms.
 
 ### Find Calm with Meditation, Yoga, and Relaxation
 

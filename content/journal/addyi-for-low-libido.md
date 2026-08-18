@@ -36,11 +36,11 @@ First, it’s important to know that what you’re experiencing has a name: Hypo
 
 ### How Addyi Affects Your Brain Chemistry
 
-So, how does it actually work? Addyi’s job is to help rebalance the communication system in your brain. Think of it as a gentle recalibration of the neurotransmitters that regulate your sexual desire. Specifically, it works on key brain chemicals like dopamine and norepinephrine (which help with excitement) while decreasing levels of serotonin (which can inhibit desire). According to the drug’s maker, [Addyi](https://addyi.com/) helps restore a natural balance between these systems. While the exact mechanism is still being studied, the goal is to create a brain chemistry environment that is more receptive to sexual cues and desire.
+So, how does it actually work? Addyi’s job is to help rebalance the communication system in your brain. Think of it as a gentle recalibration of the neurotransmitters that regulate your sexual desire. Specifically, it works on key brain chemicals like dopamine and norepinephrine (which help with excitement) while decreasing levels of serotonin (which can inhibit desire). According to the drug’s maker, Addyi helps restore a natural balance between these systems. While the exact mechanism is still being studied, the goal is to create a brain chemistry environment that is more receptive to sexual cues and desire.
 
 ### Why Addyi Isn’t the “Female Viagra”
 
-One of the biggest misconceptions is that Addyi is a “pink Viagra.” This isn’t accurate. As explained by experts at [UChicago Medicine](https://www.uchicagomedicine.org/forefront/womens-health-articles/2019/june/vyleesi-addyi-how-women-can-get-help-for-low-sexual-desire), Viagra works by increasing blood flow to address a physical issue (erectile dysfunction). Addyi, on the other hand, doesn’t affect your physical arousal mechanics at all. It’s designed to work on your brain to increase your sex drive over time. It’s not a pill you take to get in the mood right before sex. Instead, it’s a daily medication that gradually helps restore your baseline level of desire, making it a unique [treatment for low libido in females](/treatment-for-low-libido-in-females/).
+One of the biggest misconceptions is that Addyi is a “pink Viagra.” This isn’t accurate. As explained by experts at UChicago Medicine, Viagra works by increasing blood flow to address a physical issue (erectile dysfunction). Addyi, on the other hand, doesn’t affect your physical arousal mechanics at all. It’s designed to work on your brain to increase your sex drive over time. It’s not a pill you take to get in the mood right before sex. Instead, it’s a daily medication that gradually helps restore your baseline level of desire, making it a unique [treatment for low libido in females](/treatment-for-low-libido-in-females/).
 
 ## Are You a Good Candidate for Addyi?
 
@@ -126,7 +126,7 @@ Sometimes, a dip in libido is connected to hormonal shifts, especially as we get
 
 ### Lifestyle and Non-Medication Approaches
 
-Medical treatments are powerful, but they aren’t the only tools available. Simple lifestyle changes can have a profound impact on your libido. Regular exercise is a fantastic place to start, as it improves energy, mood, and body image, all of which contribute to sexual desire. It’s also important to find healthy ways to manage stress, whether that’s through meditation, journaling, or just making time for yourself. Finally, don’t underestimate the power of communication. Talking openly with your partner about your feelings and desires can strengthen your emotional intimacy, which is often the foundation for a fulfilling [sexual connection](https://www.mayoclinic.org/diseases-conditions/low-sex-drive-in-women/diagnosis-treatment/drc-20374561).
+Medical treatments are powerful, but they aren’t the only tools available. Simple lifestyle changes can have a profound impact on your libido. Regular exercise is a fantastic place to start, as it improves energy, mood, and body image, all of which contribute to sexual desire. It’s also important to find healthy ways to manage stress, whether that’s through meditation, journaling, or just making time for yourself. Finally, don’t underestimate the power of communication. Talking openly with your partner about your feelings and desires can strengthen your emotional intimacy, which is often the foundation for a fulfilling sexual connection.
 
 ## Find Your Personalized Low Libido Treatment
 

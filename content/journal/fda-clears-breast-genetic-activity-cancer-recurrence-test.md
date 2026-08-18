@@ -37,5 +37,5 @@ According to the American Cancer Society, an estimated 178,480 new cases of inva
 
 Additional resources on female sexuality are available from MayoClinic.com:
 
-[http://www.mayoclinic.com/health/kegel-exercises/WO00119](https://www.mayoclinic.com/health/kegel-exercises/WO00119)  
-[http://www.mayoclinic.com/health/womens-health/WO00110](https://www.mayoclinic.com/health/womens-health/WO00110)
+http://www.mayoclinic.com/health/kegel-exercises/WO00119  
+http://www.mayoclinic.com/health/womens-health/WO00110

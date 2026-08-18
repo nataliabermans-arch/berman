@@ -166,11 +166,11 @@ Beyond the basics, a few specific hygiene habits can significantly lower your ri
 
 #### Wiping From Front to Back
 
-This might be the first piece of advice many of us ever received about preventing UTIs, and for good reason. Wiping from front to back after using the toilet is a crucial habit that helps [prevent bacteria](https://health.clevelandclinic.org/uti-after-sex) from the anal region from being introduced to the urethra. Since the urethra, vagina, and rectum are in close proximity, this simple motion ensures that bacteria like E. coli are moved away from, not toward, the urethral opening. Making this a consistent practice is one of the most effective and easiest ways to reduce your risk of infection every single day.
+This might be the first piece of advice many of us ever received about preventing UTIs, and for good reason. Wiping from front to back after using the toilet is a crucial habit that helps prevent bacteria from the anal region from being introduced to the urethra. Since the urethra, vagina, and rectum are in close proximity, this simple motion ensures that bacteria like E. coli are moved away from, not toward, the urethral opening. Making this a consistent practice is one of the most effective and easiest ways to reduce your risk of infection every single day.
 
 #### Clothing and Menstrual Products
 
-What you wear can also play a role in urinary tract health. Bacteria thrive in warm, moist environments, so choosing the right clothing is key. Opt for breathable, cotton underwear and avoid wearing tight-fitting pants or shorts for extended periods. This helps keep the genital area dry and reduces the opportunity for bacterial growth. During your period, be mindful of changing pads or tampons regularly. This is especially important because menstrual products can trap moisture and create conditions that might [encourage an infection](https://www.womenshealthaz.com/heres-why-utis-are-common-after-sex) if not managed properly.
+What you wear can also play a role in urinary tract health. Bacteria thrive in warm, moist environments, so choosing the right clothing is key. Opt for breathable, cotton underwear and avoid wearing tight-fitting pants or shorts for extended periods. This helps keep the genital area dry and reduces the opportunity for bacterial growth. During your period, be mindful of changing pads or tampons regularly. This is especially important because menstrual products can trap moisture and create conditions that might encourage an infection if not managed properly.
 
 ### Practices Around Sexual Activity
 
@@ -178,7 +178,7 @@ Being proactive during and after sex can make a world of difference in preventin
 
 #### The Role of Lubricant
 
-Friction during sex can cause microscopic tears and irritation to the delicate tissues of the vagina and urethra, making it easier for bacteria to cause an infection. Using a lubricant is an excellent way to [reduce this friction](https://nortonhealthcare.com/news/uti-after-sex) and increase comfort. When choosing a lubricant, stick to water-based or silicone-based formulas, as they are less likely to disrupt your natural pH balance. If you experience persistent discomfort or dryness, it could be a sign of an underlying issue, and seeking expert advice on [vaginal dryness treatment](/vaginal-dryness-treatment/) can provide lasting solutions.
+Friction during sex can cause microscopic tears and irritation to the delicate tissues of the vagina and urethra, making it easier for bacteria to cause an infection. Using a lubricant is an excellent way to reduce this friction and increase comfort. When choosing a lubricant, stick to water-based or silicone-based formulas, as they are less likely to disrupt your natural pH balance. If you experience persistent discomfort or dryness, it could be a sign of an underlying issue, and seeking expert advice on [vaginal dryness treatment](/vaginal-dryness-treatment/) can provide lasting solutions.
 
 ### Dietary Considerations
 
@@ -190,7 +190,7 @@ Cranberries have long been associated with UTI prevention, and there’s science
 
 #### The Benefit of Probiotics
 
-Maintaining a healthy balance of good bacteria is essential for both gut and vaginal health, which in turn supports your urinary system. Probiotics can help fortify your body’s natural defenses against the overgrowth of harmful bacteria that can lead to UTIs. You can find probiotics in fermented foods like yogurt, kefir, kimchi, and sauerkraut. Incorporating these foods into your diet can help [maintain a healthy microbiome](https://www.advancedurology.com/blog/why-do-i-get-utis-so-often). If you struggle with recurrent UTIs, discussing your diet and potential probiotic supplements with a specialist can provide personalized guidance for your specific health needs.
+Maintaining a healthy balance of good bacteria is essential for both gut and vaginal health, which in turn supports your urinary system. Probiotics can help fortify your body’s natural defenses against the overgrowth of harmful bacteria that can lead to UTIs. You can find probiotics in fermented foods like yogurt, kefir, kimchi, and sauerkraut. Incorporating these foods into your diet can help maintain a healthy microbiome. If you struggle with recurrent UTIs, discussing your diet and potential probiotic supplements with a specialist can provide personalized guidance for your specific health needs.
 
 ## **Post-Coital UTI Causes**
 

@@ -140,7 +140,7 @@ It’s amazing how a simple conversation can change everything. Talking with you
 
 ### Prioritize Self-Care and Manage Stress
 
-Your libido is a sensitive barometer of your overall well-being. When you’re stressed, exhausted, or not feeling great about yourself, your desire is often the first thing to take a backseat. It’s completely normal for desire to change, as [many things can affect it](https://theconversation.com/womens-sexual-desire-often-goes-undiscussed-yet-its-one-of-their-most-common-health-concerns-207654), including stress from work, relationship worries, or even pressure about your own libido. This is why prioritizing self-care is non-negotiable. Whether it’s through exercise, meditation, or simply carving out quiet time for yourself, managing your stress levels is crucial. When you feel rested and centered, you create the mental and emotional space for desire to naturally arise.
+Your libido is a sensitive barometer of your overall well-being. When you’re stressed, exhausted, or not feeling great about yourself, your desire is often the first thing to take a backseat. It’s completely normal for desire to change, as many things can affect it, including stress from work, relationship worries, or even pressure about your own libido. This is why prioritizing self-care is non-negotiable. Whether it’s through exercise, meditation, or simply carving out quiet time for yourself, managing your stress levels is crucial. When you feel rested and centered, you create the mental and emotional space for desire to naturally arise.
 
 ## When to Get Help for Low Desire
 

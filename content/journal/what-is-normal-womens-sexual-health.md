@@ -64,7 +64,7 @@ It’s important to understand that physical changes don’t mean something’s 
 
 ### Underlying Medical Conditions
 
-It’s important to remember that your sexual health is connected to your overall health. Sometimes, a change in your sex life is a sign of an underlying medical issue. In fact, it’s quite common; the [American College of Obstetricians and Gynecologists](https://www.acog.org/womens-health/faqs/your-sexual-health) notes that about four out of ten women experience sexual problems at some point. These issues can stem from hormonal shifts during menopause, illnesses, or even stress and anxiety. Conditions like endometriosis can cause significant [pelvic pain](/pelvic-pain-treatment/), making intercourse difficult. If you notice persistent changes or discomfort, it’s a good idea to talk with a specialist who can help you figure out the root cause and find a solution that works for you.
+It’s important to remember that your sexual health is connected to your overall health. Sometimes, a change in your sex life is a sign of an underlying medical issue. In fact, it’s quite common; the American College of Obstetricians and Gynecologists notes that about four out of ten women experience sexual problems at some point. These issues can stem from hormonal shifts during menopause, illnesses, or even stress and anxiety. Conditions like endometriosis can cause significant [pelvic pain](/pelvic-pain-treatment/), making intercourse difficult. If you notice persistent changes or discomfort, it’s a good idea to talk with a specialist who can help you figure out the root cause and find a solution that works for you.
 
 ### The Impact of Medications on Libido
 
@@ -72,7 +72,7 @@ Have you ever considered that your daily medication could be affecting your sex 
 
 ### Lifestyle Habits and Sexual Function
 
-The choices you make every day can have a big influence on your sexual well-being. Taking care of your [general health](https://mydoctor.kaiserpermanente.org/ncal/structured-content/understanding-female-sexual-health-2294529) through good nutrition, stress management, and regular exercise directly supports a healthy sex life. According to the Mayo Clinic, consistent physical activity can do wonders by increasing your energy, improving your mood, and enhancing your body image—all of which can naturally increase your sex drive. It’s a reminder that small, positive habits can create a ripple effect, improving not just how you feel in your daily life, but also how you connect with yourself and your partner intimately. Prioritizing your wellness is one of the most powerful things you can do for your sexual health.
+The choices you make every day can have a big influence on your sexual well-being. Taking care of your general health through good nutrition, stress management, and regular exercise directly supports a healthy sex life. According to the Mayo Clinic, consistent physical activity can do wonders by increasing your energy, improving your mood, and enhancing your body image—all of which can naturally increase your sex drive. It’s a reminder that small, positive habits can create a ripple effect, improving not just how you feel in your daily life, but also how you connect with yourself and your partner intimately. Prioritizing your wellness is one of the most powerful things you can do for your sexual health.
 
 ## How Emotions Shape Your Sexual Life
 

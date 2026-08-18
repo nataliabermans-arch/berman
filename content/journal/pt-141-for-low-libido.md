@@ -132,7 +132,7 @@ Understanding the potential expenses upfront helps you plan accordingly and make
 
 ### Pricing and Insurance Coverage
 
-The cost of PT-141 peptide injections can differ depending on the provider and your personalized treatment plan. To give you a general idea, some clinics offer vials for around $299, while others provide [subscription plans](https://elliemd.com/product/pt-141) that break down the cost into monthly payments. When it comes to insurance, coverage for libido treatments can be tricky, as they are often considered elective. However, it’s always a good idea to check directly with your insurance provider to see what your specific plan covers.
+The cost of PT-141 peptide injections can differ depending on the provider and your personalized treatment plan. To give you a general idea, some clinics offer vials for around $299, while others provide subscription plans that break down the cost into monthly payments. When it comes to insurance, coverage for libido treatments can be tricky, as they are often considered elective. However, it’s always a good idea to check directly with your insurance provider to see what your specific plan covers.
 
 Additionally, many women are able to use funds from a Flexible Spending Account (FSA) or Health Savings Account (HSA) to pay for their treatment. These accounts use pre-tax dollars, which can make the therapy more affordable. We can provide the necessary documentation to help you seek reimbursement through these accounts.
 

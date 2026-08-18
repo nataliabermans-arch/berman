@@ -33,7 +33,7 @@ Fluoxetine, widely known by its brand name Prozac, is one of the most commonly p
 
 ### What It Is and What It Treats
 
-Fluoxetine is a type of medication called a [selective serotonin reuptake inhibitor](https://medlineplus.gov/druginfo/meds/a689006.html) (SSRI). In simple terms, it works by helping to balance a natural chemical in your brain called serotonin, which is often called the “feel-good” chemical because it contributes to happiness and well-being. By increasing the levels of available serotonin, Fluoxetine can help improve mood and emotional regulation. Doctors primarily prescribe it to treat a range of conditions, including major depressive disorder, obsessive-compulsive disorder (OCD), and certain eating disorders like bulimia nervosa. It’s also used for panic attacks and a severe form of premenstrual syndrome known as premenstrual dysphoric disorder (PMDD), offering relief to those who experience intense mood shifts related to their menstrual cycle.
+Fluoxetine is a type of medication called a selective serotonin reuptake inhibitor (SSRI). In simple terms, it works by helping to balance a natural chemical in your brain called serotonin, which is often called the “feel-good” chemical because it contributes to happiness and well-being. By increasing the levels of available serotonin, Fluoxetine can help improve mood and emotional regulation. Doctors primarily prescribe it to treat a range of conditions, including major depressive disorder, obsessive-compulsive disorder (OCD), and certain eating disorders like bulimia nervosa. It’s also used for panic attacks and a severe form of premenstrual syndrome known as premenstrual dysphoric disorder (PMDD), offering relief to those who experience intense mood shifts related to their menstrual cycle.
 
 ### How Long Until It Takes Effect?
 
@@ -57,7 +57,7 @@ While changes in sexual health are a significant concern, it’s also important 
 
 #### Stomach, Nervous System, and Energy Level Changes
 
-When starting Fluoxetine, it’s common to experience a few bumps in the road. You might notice issues like nausea, headaches, diarrhea, or difficulty sleeping. Some people also report feeling unusually tired or weak during the initial phase. According to the [NHS](https://www.nhs.uk/medicines/fluoxetine-prozac/side-effects-of-fluoxetine/), these side effects are quite common and often improve within the first week or two as your body gets used to the medicine. Think of it as an adjustment period; your system is learning to work with a new chemical balance, and these effects are often a sign of that process. While they can be unpleasant, they typically don’t last long.
+When starting Fluoxetine, it’s common to experience a few bumps in the road. You might notice issues like nausea, headaches, diarrhea, or difficulty sleeping. Some people also report feeling unusually tired or weak during the initial phase. According to the NHS, these side effects are quite common and often improve within the first week or two as your body gets used to the medicine. Think of it as an adjustment period; your system is learning to work with a new chemical balance, and these effects are often a sign of that process. While they can be unpleasant, they typically don’t last long.
 
 ### How to Cope with Common Side Effects
 
@@ -93,11 +93,11 @@ If you’ve noticed changes in your period since starting an antidepressant, you
 
 ### Interactions with Birth Control
 
-While fluoxetine doesn’t directly reduce the effectiveness of birth control pills, some of its side effects can. For instance, if you experience severe diarrhea or vomiting for more than 24 hours, your body may not absorb your birth control pill properly, which could put you at risk for an unintended pregnancy. It’s a practical point that’s easy to overlook. The [National Health Service (NHS)](https://www.nhs.uk/medicines/fluoxetine-prozac/side-effects-of-fluoxetine/) advises checking the information packet that comes with your specific pill for guidance on what to do in these situations. Being aware of this potential interaction is key to ensuring your contraceptive method remains effective while you’re on your medication.
+While fluoxetine doesn’t directly reduce the effectiveness of birth control pills, some of its side effects can. For instance, if you experience severe diarrhea or vomiting for more than 24 hours, your body may not absorb your birth control pill properly, which could put you at risk for an unintended pregnancy. It’s a practical point that’s easy to overlook. The National Health Service (NHS) advises checking the information packet that comes with your specific pill for guidance on what to do in these situations. Being aware of this potential interaction is key to ensuring your contraceptive method remains effective while you’re on your medication.
 
 ### Pregnancy and Breastfeeding Considerations
 
-Navigating mental health treatment during pregnancy and breastfeeding requires careful consideration and open conversations with your healthcare provider. Taking any medication during this time involves weighing the benefits for your well-being against potential risks to your baby. According to the [Mayo Clinic](https://www.mayoclinic.org/drugs-supplements/fluoxetine-oral-route/description/drg-20063952), fluoxetine can pass into breast milk and may cause unwanted effects in a nursing infant. Because of this, your doctor might recommend switching to a different medication or exploring other options. This is a deeply personal decision, and having a supportive medical team to guide you is essential for making the choice that feels right for you and your family.
+Navigating mental health treatment during pregnancy and breastfeeding requires careful consideration and open conversations with your healthcare provider. Taking any medication during this time involves weighing the benefits for your well-being against potential risks to your baby. According to the Mayo Clinic, fluoxetine can pass into breast milk and may cause unwanted effects in a nursing infant. Because of this, your doctor might recommend switching to a different medication or exploring other options. This is a deeply personal decision, and having a supportive medical team to guide you is essential for making the choice that feels right for you and your family.
 
 ### The Emotional and Relational Impact
 

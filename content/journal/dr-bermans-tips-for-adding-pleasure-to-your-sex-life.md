@@ -27,8 +27,8 @@ But if you’re in the market for a vibrator,  Be cautions about walking into a
 
 The following are resources for online shopping of sex aids, videos, erotic books and massage oils. 
 
-Candida Royalle’s Femme Videos available online at [http://grandopening.com](http://grandopening.com/) and along with other web sites.
+Candida Royalle’s Femme Videos available online at http://grandopening.com and along with other web sites.
 
 Sinclair Intimacy Institute 
 
-Grand Opening Sexuality Boutique  [www.grandopening.com](https://www.grandopening.com)
+Grand Opening Sexuality Boutique  www.grandopening.com

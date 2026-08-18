@@ -101,13 +101,13 @@ It’s completely fair to wonder if over-the-counter moisturizers deliver on the
 
 When you’re looking at moisturizers, you’ll notice they are usually either water-based or oil-based. For daily moisturizing, this is an important distinction. Water-based formulas are generally the go-to recommendation because they are less likely to disrupt the delicate vaginal pH balance or cause irritation. They also mimic the body’s natural lubrication.
 
-While the conversation around water- and oil-based products often centers on lubricant and condom compatibility, it’s still relevant for moisturizers. Oil-based products can sometimes trap bacteria and aren’t always ideal for those prone to infections. For overall [vaginal health](https://www.mskcc.org/cancer-care/patient-education/vaginal-health), a water-based moisturizer is typically the safest and most effective choice for long-term use.
+While the conversation around water- and oil-based products often centers on lubricant and condom compatibility, it’s still relevant for moisturizers. Oil-based products can sometimes trap bacteria and aren’t always ideal for those prone to infections. For overall vaginal health, a water-based moisturizer is typically the safest and most effective choice for long-term use.
 
 #### A Critical Warning for Condom Users
 
 If you rely on condoms for protection, this is one detail you can’t afford to overlook. When choosing a vaginal moisturizer, it’s essential to check its compatibility. Many products, particularly those that are oil-based, can seriously compromise the integrity of latex condoms. The oil essentially degrades the latex, making the condom much more likely to tear or break during use. This significantly increases the risk of unintended pregnancy and sexually transmitted infections (STIs), undermining the very reason you’re using a condom in the first place.
 
-Beyond the risk of breakage, some formulas can also affect your vaginal environment. According to [pH-D Feminine Health](https://www.phdfemininehealth.com/products/vaginal-moisturizing-gel-with-hyaluronic-acid?srsltid=AfmBOordWawkjFvXIW_m_169G9gEIUJTX2wLyD-AzyF4eQSHVMNKYm9D), oil-based products can sometimes trap bacteria, which isn’t ideal if you’re prone to infections. This is why water-based options are generally recommended; they mimic your body’s natural lubrication without disrupting your delicate pH balance. The Mayo Clinic also emphasizes that using oil-based products with latex condoms can cause them to fail. The bottom line is to always read the label carefully. For your comfort and safety, choose a product that is explicitly marked as safe for use with condoms.
+Beyond the risk of breakage, some formulas can also affect your vaginal environment. According to pH-D Feminine Health, oil-based products can sometimes trap bacteria, which isn’t ideal if you’re prone to infections. This is why water-based options are generally recommended; they mimic your body’s natural lubrication without disrupting your delicate pH balance. The Mayo Clinic also emphasizes that using oil-based products with latex condoms can cause them to fail. The bottom line is to always read the label carefully. For your comfort and safety, choose a product that is explicitly marked as safe for use with condoms.
 
 ## How to Read the Ingredient Label on a Vaginal Moisturizer
 
@@ -123,7 +123,7 @@ While hyaluronic acid is a superstar hydrator, it’s not the only helpful ingre
 
 ### Potentially Irritating Ingredients to Avoid
 
-Just as important as what’s in your moisturizer is what’s _not_ in it. Your first rule of thumb: steer clear of fragrances and perfumes. These can be highly irritating to sensitive vaginal tissue. You should also avoid products containing parabens, phthalates, and glycerin, as they can disrupt your hormonal and pH balance. Some sources also recommend [avoiding certain ingredients](https://www.breastcancer.org/treatment-side-effects/vaginal-dryness/moisturizers-lubricants) like spermicide, which can be harsh and drying. And while it might seem like a simple solution, never use petroleum jelly as a moisturizer. It can trap bacteria and increase your risk of infection.
+Just as important as what’s in your moisturizer is what’s _not_ in it. Your first rule of thumb: steer clear of fragrances and perfumes. These can be highly irritating to sensitive vaginal tissue. You should also avoid products containing parabens, phthalates, and glycerin, as they can disrupt your hormonal and pH balance. Some sources also recommend avoiding certain ingredients like spermicide, which can be harsh and drying. And while it might seem like a simple solution, never use petroleum jelly as a moisturizer. It can trap bacteria and increase your risk of infection.
 
 #### Common Allergens like Propylene Glycol
 

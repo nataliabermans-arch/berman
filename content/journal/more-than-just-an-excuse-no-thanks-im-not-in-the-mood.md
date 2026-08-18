@@ -35,5 +35,5 @@ If you’re suffering from loss of libido and think there is a medical basis for
 
 Additional resources on female sexuality are available from MayoClinic.com:
 
-[http://www.mayoclinic.com/health/kegel-exercises/WO00119](https://www.mayoclinic.com/health/kegel-exercises/WO00119)  
-[http://www.mayoclinic.com/health/womens-health/WO00110](https://www.mayoclinic.com/health/womens-health/WO00110)
+http://www.mayoclinic.com/health/kegel-exercises/WO00119  
+http://www.mayoclinic.com/health/womens-health/WO00110

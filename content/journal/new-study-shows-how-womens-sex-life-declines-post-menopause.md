@@ -46,11 +46,11 @@ While your mindset and life circumstances play a huge role, we can’t ignore th
 
 ### The Biological Reasons for Sexual Changes
 
-The hormonal fluctuations of menopause can feel like a perfect storm for a dwindling libido. According to [The Menopause Society](https://menopause.org/patient-education/menopause-topics/sexual-health), lower estrogen levels are linked to classic symptoms like hot flashes and night sweats. When you’re not sleeping well and feel uncomfortable in your own skin, it’s natural to be less interested in sex. These hormonal changes don’t just affect your temperature regulation and sleep; they also directly impact the tissues of your vagina and vulva, leading to physical changes that can make sex less pleasurable and even painful. It’s a chain reaction where one symptom often fuels another, making it important to address the root hormonal cause.
+The hormonal fluctuations of menopause can feel like a perfect storm for a dwindling libido. According to The Menopause Society, lower estrogen levels are linked to classic symptoms like hot flashes and night sweats. When you’re not sleeping well and feel uncomfortable in your own skin, it’s natural to be less interested in sex. These hormonal changes don’t just affect your temperature regulation and sleep; they also directly impact the tissues of your vagina and vulva, leading to physical changes that can make sex less pleasurable and even painful. It’s a chain reaction where one symptom often fuels another, making it important to address the root hormonal cause.
 
 #### How Estrogen Levels Affect Vaginal Health
 
-Estrogen is like a natural moisturizer and plumping agent for your vaginal tissues. It helps maintain thickness, elasticity, and lubrication. As estrogen levels decline during menopause, these tissues can become thinner, drier, and less flexible. The [Office on Women’s Health](https://womenshealth.gov/menopause/menopause-and-sexuality) explains that this can make sexual activity uncomfortable or even painful. Think of it like skin on other parts of your body—when it’s dry, it’s more sensitive and prone to irritation. The good news is that this isn’t necessarily permanent. Consistent sexual activity (with lubrication) and targeted treatments can help maintain blood flow and tissue health.
+Estrogen is like a natural moisturizer and plumping agent for your vaginal tissues. It helps maintain thickness, elasticity, and lubrication. As estrogen levels decline during menopause, these tissues can become thinner, drier, and less flexible. The Office on Women’s Health explains that this can make sexual activity uncomfortable or even painful. Think of it like skin on other parts of your body—when it’s dry, it’s more sensitive and prone to irritation. The good news is that this isn’t necessarily permanent. Consistent sexual activity (with lubrication) and targeted treatments can help maintain blood flow and tissue health.
 
 #### Genitourinary Syndrome of Menopause (GSM)
 
@@ -66,7 +66,7 @@ Navigating changes in your sex life can feel overwhelming, but there are many pr
 
 ### Open Communication With Your Partner
 
-This might be the most important step of all. Your partner can’t know what you’re feeling—physically or emotionally—unless you tell them. It can be vulnerable to talk about painful sex or a low libido, but [openly discussing your concerns](https://womenshealth.gov/menopause/menopause-and-sexuality) is crucial. Explain the physical changes you’re experiencing and what feels good versus what doesn’t. This conversation can relieve the pressure you might feel to perform and allows your partner to be part of the solution. It transforms the challenge from your problem into a shared goal of finding new ways to be intimate, which can strengthen your emotional connection significantly.
+This might be the most important step of all. Your partner can’t know what you’re feeling—physically or emotionally—unless you tell them. It can be vulnerable to talk about painful sex or a low libido, but openly discussing your concerns is crucial. Explain the physical changes you’re experiencing and what feels good versus what doesn’t. This conversation can relieve the pressure you might feel to perform and allows your partner to be part of the solution. It transforms the challenge from your problem into a shared goal of finding new ways to be intimate, which can strengthen your emotional connection significantly.
 
 ### Lubricants and Moisturizers
 
@@ -94,7 +94,7 @@ Since hormonal decline is the root cause of many menopausal symptoms, hormone th
 
 #### Low-Dose Vaginal Estrogen
 
-For women whose primary symptoms are related to vaginal and urinary health (GSM), a low-dose vaginal estrogen treatment can be an excellent choice. This approach delivers a small amount of estrogen directly to the vaginal tissues where it’s needed most. Because the dose is low and applied locally (as a cream, tablet, or ring), it has minimal absorption into the rest of the body. According to [The Menopause Society](https://menopause.org/patient-education/menopause-topics/sexual-health), this method is very effective for restoring lubrication, elasticity, and thickness to the vaginal walls, directly addressing the cause of dryness and painful intercourse.
+For women whose primary symptoms are related to vaginal and urinary health (GSM), a low-dose vaginal estrogen treatment can be an excellent choice. This approach delivers a small amount of estrogen directly to the vaginal tissues where it’s needed most. Because the dose is low and applied locally (as a cream, tablet, or ring), it has minimal absorption into the rest of the body. According to The Menopause Society, this method is very effective for restoring lubrication, elasticity, and thickness to the vaginal walls, directly addressing the cause of dryness and painful intercourse.
 
 #### Testosterone Therapy
 

@@ -24,6 +24,6 @@ Dr. Berman can help women to find answers to such issues as sexual pain, hormona
 
 If you would like to schedule a consultation with Dr. Berman today, contact us today.
 
-Read more: [https://www.nytimes.com/2000/02/20/magazine/the-second-sexual-revolution.html](https://www.nytimes.com/2000/02/20/magazine/the-second-sexual-revolution.html)
+Read more: https://www.nytimes.com/2000/02/20/magazine/the-second-sexual-revolution.html
 
 ## Want More Information?

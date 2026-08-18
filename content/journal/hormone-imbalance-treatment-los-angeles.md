@@ -112,7 +112,7 @@ These small, consistent efforts can make a big difference in how you feel day-to
 
 What you eat has a direct impact on your hormones. Focusing on a nutrient-dense diet can help your body find its equilibrium. Start by adding more fiber-rich foods to your meals, like cruciferous vegetables (think broccoli and cauliflower) and flaxseeds. These foods are fantastic for helping your body maintain a healthy estrogen balance.
 
-It’s also important to include healthy fats in your diet. Foods high in Omega-3 fatty acids, such as salmon and walnuts, are essential for supporting not just your hormones but also your brain and heart health. Making these simple [lifestyle alterations](https://www.mdanderson.org/cancerwise/5-common-myths-about-hormone-imbalances-and-thyroid-function.h00-159538956.html) can have a profound effect on alleviating unwanted symptoms and improving your overall well-being.
+It’s also important to include healthy fats in your diet. Foods high in Omega-3 fatty acids, such as salmon and walnuts, are essential for supporting not just your hormones but also your brain and heart health. Making these simple lifestyle alterations can have a profound effect on alleviating unwanted symptoms and improving your overall well-being.
 
 ### The Role of Exercise, Stress, and Sleep
 
@@ -146,7 +146,7 @@ Your journey will likely start with a consultation to create a personalized plan
 
 ### How to Plan for Your Hormone Health Journey
 
-Once you have a treatment plan, you can start planning for the costs. Different [types of hormone therapy](https://estrogenica.com/how-much-does-hormone-therapy-cost/) come with different price points; for instance, pills and patches are often less expensive upfront than injections or pellet therapies. As you map out your budget, think about these long-term costs and how they fit into your financial picture.
+Once you have a treatment plan, you can start planning for the costs. Different types of hormone therapy come with different price points; for instance, pills and patches are often less expensive upfront than injections or pellet therapies. As you map out your budget, think about these long-term costs and how they fit into your financial picture.
 
 Don’t hesitate to look for ways to manage expenses. Many drug manufacturers offer copay programs that can significantly lower your out-of-pocket costs. You can also use online resources to find better prices on your prescriptions. Exploring these options can help make your treatment more accessible, allowing you to invest in your health without unexpected financial stress. A conversation with your provider can also shed light on the most cost-effective treatments for your specific needs.
 

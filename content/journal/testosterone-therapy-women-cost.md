@@ -52,7 +52,7 @@ Testosterone injections are a very common and direct way to administer hormone t
 
 ### Creams and Gels
 
-If you prefer a non-invasive, daily option, topical testosterone creams or gels might be a great fit. You simply apply a prescribed amount of the cream to your skin, usually on your arms or legs, once a day. Your body absorbs the hormone directly through the skin, providing a steady stream throughout the day. This method is simple and easy to incorporate into your morning or evening routine. The [monthly cost for these products](https://atlanticurologyclinics.com/blog/testosterone-replacement-therapy-cost/) can range from $200 to $500. The price variation often depends on the specific formulation, brand, and the dosage you require to achieve your optimal hormone levels.
+If you prefer a non-invasive, daily option, topical testosterone creams or gels might be a great fit. You simply apply a prescribed amount of the cream to your skin, usually on your arms or legs, once a day. Your body absorbs the hormone directly through the skin, providing a steady stream throughout the day. This method is simple and easy to incorporate into your morning or evening routine. The monthly cost for these products can range from $200 to $500. The price variation often depends on the specific formulation, brand, and the dosage you require to achieve your optimal hormone levels.
 
 ### Pellets
 
@@ -60,7 +60,7 @@ For those who want a low-maintenance approach, testosterone pellets are an excel
 
 ### Lozenges
 
-Testosterone troches, or lozenges, offer another needle-free alternative. These small, dissolvable tablets are placed between your cheek and gum, where the hormone is absorbed directly into your bloodstream. This method bypasses the digestive system, allowing for effective absorption. Lozenges are typically taken once or twice a day. They can be a great middle-ground option for those who want to avoid injections but are looking for something different from a topical cream. The [monthly cost for these](https://honehealth.com/edge/testosterone-replacement-therapy-cost/) can range from $100 to $450, depending on your specific dosage and how frequently you need to take them throughout the day.
+Testosterone troches, or lozenges, offer another needle-free alternative. These small, dissolvable tablets are placed between your cheek and gum, where the hormone is absorbed directly into your bloodstream. This method bypasses the digestive system, allowing for effective absorption. Lozenges are typically taken once or twice a day. They can be a great middle-ground option for those who want to avoid injections but are looking for something different from a topical cream. The monthly cost for these can range from $100 to $450, depending on your specific dosage and how frequently you need to take them throughout the day.
 
 ## What’s the Average Monthly Cost?
 
@@ -162,7 +162,7 @@ When you’re looking at the numbers, it’s easy to see testosterone therapy as
 
 ### Considering the Long-Term Health Benefits
 
-While many people think of testosterone as a “guy thing,” it’s a critical hormone for women, too. Your body needs it for more than just libido. According to the Cleveland Clinic, balanced [testosterone levels are essential](https://health.clevelandclinic.org/testosterone-in-women) for a woman’s overall health. Proper levels help maintain strong bones, preserve lean muscle mass, and support a healthy metabolism. Investing in testosterone therapy isn’t just about feeling better in the short term; it’s about supporting your body’s foundational health for years to come. By addressing a hormonal imbalance, you are taking a proactive step toward long-term wellness and vitality.
+While many people think of testosterone as a “guy thing,” it’s a critical hormone for women, too. Your body needs it for more than just libido. According to the Cleveland Clinic, balanced testosterone levels are essential for a woman’s overall health. Proper levels help maintain strong bones, preserve lean muscle mass, and support a healthy metabolism. Investing in testosterone therapy isn’t just about feeling better in the short term; it’s about supporting your body’s foundational health for years to come. By addressing a hormonal imbalance, you are taking a proactive step toward long-term wellness and vitality.
 
 ### How It Can Improve Your Quality of Life
 

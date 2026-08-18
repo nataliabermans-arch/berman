@@ -81,7 +81,7 @@ The magnetic field can interfere with these items, potentially damaging them or 
 
 #### The Importance of Hydration
 
-Staying hydrated is a simple but powerful way to support your Emsella treatment. Proper hydration is essential for [healthy muscle function](https://www.chicagopelvic.com/blog/hydration-pelvic-floor-health), and that absolutely includes your pelvic floor. When your muscles have enough water, they can contract more effectively and recover efficiently after the intense workout each session provides. Think of it as giving your body the resources it needs to build strength and resilience from the inside out. Making a conscious effort to drink plenty of water before and after your appointments helps your body’s natural recovery process and plays a significant role in achieving the best possible outcome from your treatment.
+Staying hydrated is a simple but powerful way to support your Emsella treatment. Proper hydration is essential for healthy muscle function, and that absolutely includes your pelvic floor. When your muscles have enough water, they can contract more effectively and recover efficiently after the intense workout each session provides. Think of it as giving your body the resources it needs to build strength and resilience from the inside out. Making a conscious effort to drink plenty of water before and after your appointments helps your body’s natural recovery process and plays a significant role in achieving the best possible outcome from your treatment.
 
 ## How to Sit on the Emsella Chair for Best Results
 

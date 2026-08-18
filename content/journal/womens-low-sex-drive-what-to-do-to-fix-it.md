@@ -27,11 +27,11 @@ This post explains what low sex drive really means, some common causes of **wome
 
 Everyone’s sex drive is different and there’s no such thing as a ‘normal’ libido. This means the frequency of sexual intercourse has actually nothing to do with sexual desire or satisfaction. There is no ‘normal’ frequency or set of behaviors, and things change with time and as we age. As long as it works for the individual and/or their partner, there is no problem.
 
-But when a woman experiences a significant **loss of sexual desire**, which is having an effect on her life and is causing distress, then it’s a good idea to get medical help. Specifically, if your lack of sex drive has lasted more than six months, you could be suffering from a condition called Hypoactive Sexual Desire Disorder (HSDD). [The American Sexual Health Association](http://www.ashasexualhealth.org/hypoactive-sexual-desire-disorder/) defines HSDD as follow:
+But when a woman experiences a significant **loss of sexual desire**, which is having an effect on her life and is causing distress, then it’s a good idea to get medical help. Specifically, if your lack of sex drive has lasted more than six months, you could be suffering from a condition called Hypoactive Sexual Desire Disorder (HSDD). The American Sexual Health Association defines HSDD as follow:
 
 > The absence of sexual fantasies and thoughts, and/or desire for or receptivity to, sexual activity that causes the person distress or difficulties in her relationship.
 
-**It’s estimated that [1 in 10 women have HSDD](https://www.ncbi.nlm.nih.gov/pubmed/18978095), which makes it the most common sexual dysfunction in females.**
+**It’s estimated that 1 in 10 women have HSDD, which makes it the most common sexual dysfunction in females.**
 
 ![science behind hsdd](/wp-content/uploads/2023/02/Annotation-2020-09-07-180727-1024x510.jpg)
 

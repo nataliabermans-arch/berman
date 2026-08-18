@@ -154,7 +154,7 @@ Testosterone therapy is not a one-size-fits-all solution. There are several ways
 
 #### Understanding “Off-Label” Use and Insurance
 
-It’s important to know that in the U.S., testosterone therapy is not officially approved by the FDA specifically for women. When a doctor prescribes it to treat low libido or other symptoms of hormonal imbalance, it’s considered an “off-label” use. This simply means the medication is being used in a way not specified on its official label. Because of this status, many insurance plans [may not cover the cost](https://www.healthline.com/health/low-dose-testosterone-for-females) of the therapy. This is why having a transparent conversation with your healthcare provider about the expenses involved is a crucial part of the process. An experienced doctor can help you understand the costs and explore your options, ensuring there are no surprises along the way.
+It’s important to know that in the U.S., testosterone therapy is not officially approved by the FDA specifically for women. When a doctor prescribes it to treat low libido or other symptoms of hormonal imbalance, it’s considered an “off-label” use. This simply means the medication is being used in a way not specified on its official label. Because of this status, many insurance plans may not cover the cost of the therapy. This is why having a transparent conversation with your healthcare provider about the expenses involved is a crucial part of the process. An experienced doctor can help you understand the costs and explore your options, ensuring there are no surprises along the way.
 
 #### Applications in Gender-Affirming Care
 
@@ -176,7 +176,7 @@ Chronic stress is a major disruptor of hormonal harmony. When you’re constantl
 
 ### [Nutrition for Hormonal Balance](/lifestyle-strategies-for-managing-menopause-symptoms/)
 
-The food you eat provides the essential building blocks for hormone production. A diet rich in whole foods—including lean proteins, healthy fats, and complex carbohydrates—gives your body the nutrients it needs to function optimally. Certain micronutrients are especially important. For example, one study found that zinc supplementation helped increase testosterone levels and improve sexual function in postmenopausal women. You can find zinc in foods like oysters, beef, pumpkin seeds, and lentils. Focusing on a [nutritious diet](https://www.healthline.com/nutrition/8-ways-to-boost-testosterone) doesn’t have to be complicated; simply aim to add more colorful, unprocessed foods to your plate each day to support your overall health.
+The food you eat provides the essential building blocks for hormone production. A diet rich in whole foods—including lean proteins, healthy fats, and complex carbohydrates—gives your body the nutrients it needs to function optimally. Certain micronutrients are especially important. For example, one study found that zinc supplementation helped increase testosterone levels and improve sexual function in postmenopausal women. You can find zinc in foods like oysters, beef, pumpkin seeds, and lentils. Focusing on a nutritious diet doesn’t have to be complicated; simply aim to add more colorful, unprocessed foods to your plate each day to support your overall health.
 
 ## Your Next Steps for Hormonal Health
 

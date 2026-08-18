@@ -22,7 +22,7 @@ Dr. Berman has noticed the incredible benefits of [CBD](/cbd-oil/) for female se
 
 ## The Science Behind CBD and Your Sexual Health
 
-The [endocannabinoid system](https://www.health.harvard.edu/blog/the-endocannabinoid-system-essential-and-mysterious-202108112569), which includes tiny receptors located throughout your body, regulates a variety of functions in your body. These receptors are the locks that the key in this case, CBD can unlock. Through it’s indirect activation, the body responds in a variety of ways, including as an anti-inflammatory and anticonvulsant.
+The endocannabinoid system, which includes tiny receptors located throughout your body, regulates a variety of functions in your body. These receptors are the locks that the key in this case, CBD can unlock. Through it’s indirect activation, the body responds in a variety of ways, including as an anti-inflammatory and anticonvulsant.
 
 ![Empower your health and happiness with Dr. Jennifer Berman. Call (310) 772-0072 to book your consultation. CBD ](/wp-content/uploads/2024/11/6721365c31c87cbdb180547b-300x178.png)
 

@@ -45,7 +45,7 @@ Before exploring medications or procedures, it’s helpful to start with non-sur
 
 ### Strengthen Your Pelvic Floor with Kegels
 
-Pelvic floor muscle training, better known as Kegels, is a proven and effective way to manage urinary incontinence. These exercises work by strengthening the very muscles that support your bladder and help control urination. To do one, simply squeeze the muscles you would use to stop the flow of urine, hold for a few seconds, and then release. The key is consistency. Making Kegels a regular part of your routine can significantly improve bladder control over time. For a detailed guide, you can [learn the proper technique](https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/kegel-exercises/art-20045283) to ensure you’re getting the most out of every repetition.
+Pelvic floor muscle training, better known as Kegels, is a proven and effective way to manage urinary incontinence. These exercises work by strengthening the very muscles that support your bladder and help control urination. To do one, simply squeeze the muscles you would use to stop the flow of urine, hold for a few seconds, and then release. The key is consistency. Making Kegels a regular part of your routine can significantly improve bladder control over time. For a detailed guide, you can learn the proper technique to ensure you’re getting the most out of every repetition.
 
 ### Try Bladder Training Techniques
 
@@ -63,7 +63,7 @@ These treatments can help calm an overactive bladder, which causes those sudden 
 
 ### Anticholinergics: What to Know
 
-If you’re constantly feeling that sudden, urgent need to go, you might have what’s called urge incontinence. Anticholinergics are a class of medications designed to help with this by calming an overactive bladder. Think of them as a “chill pill” for your bladder muscles. These drugs block the chemical signals that tell your bladder to contract unexpectedly, which helps reduce those urgent bathroom trips and prevent leaks. Common examples include oxybutynin and tolterodine. A healthcare professional can help you understand the [diagnosis and treatment](https://www.mayoclinic.org/diseases-conditions/urinary-incontinence/diagnosis-treatment/drc-20352814) options and determine if this medication is a good fit for your needs.
+If you’re constantly feeling that sudden, urgent need to go, you might have what’s called urge incontinence. Anticholinergics are a class of medications designed to help with this by calming an overactive bladder. Think of them as a “chill pill” for your bladder muscles. These drugs block the chemical signals that tell your bladder to contract unexpectedly, which helps reduce those urgent bathroom trips and prevent leaks. Common examples include oxybutynin and tolterodine. A healthcare professional can help you understand the diagnosis and treatment options and determine if this medication is a good fit for your needs.
 
 ### Understanding Beta-3 Agonists
 

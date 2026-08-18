@@ -108,9 +108,9 @@ Here are some additional tips to help you move forward with confidence:
 
 **Additional Resources:**
 
-- The National Vulvodynia Association: [https://www.nva.org/](https://www.nva.org/)
-- American Sexual Health Association: [https://www.ashasexualhealth.org/](https://www.ashasexualhealth.org/)
-- The Mayo Clinic: [https://www.mayoclinic.org/diseases-conditions/painful-intercourse/symptoms-causes/syc-20375967](https://www.mayoclinic.org/diseases-conditions/painful-intercourse/symptoms-causes/syc-20375967)
-- Office on Women’s Health: [https://www.womenshealth.gov/](https://www.womenshealth.gov/)
+- The National Vulvodynia Association: https://www.nva.org/
+- American Sexual Health Association: https://www.ashasexualhealth.org/
+- The Mayo Clinic: https://www.mayoclinic.org/diseases-conditions/painful-intercourse/symptoms-causes/syc-20375967
+- Office on Women’s Health: https://www.womenshealth.gov/
 
 By taking charge of your health and well-being, you can move forward with confidence and experience a pleasurable and fulfilling sex life.

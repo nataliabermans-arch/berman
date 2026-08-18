@@ -34,7 +34,7 @@ While HRT is primarily known for tackling hot flashes and protecting bone health
 
 ### Understanding the Types of HRT
 
-Not all hormone therapy is the same, and the right type for you depends on your health history and symptoms. Most often, HRT involves a combination of estrogen and a progestin (a synthetic form of progesterone). For example, some studies have used a mix of 17beta-oestradiol (a type of estrogen) and medroxyprogesterone acetate (a progestin) to [study its effects](https://pubmed.ncbi.nlm.nih.gov/10515671/). If you’ve had a hysterectomy, your doctor might prescribe estrogen-only therapy.
+Not all hormone therapy is the same, and the right type for you depends on your health history and symptoms. Most often, HRT involves a combination of estrogen and a progestin (a synthetic form of progesterone). For example, some studies have used a mix of 17beta-oestradiol (a type of estrogen) and medroxyprogesterone acetate (a progestin) to study its effects. If you’ve had a hysterectomy, your doctor might prescribe estrogen-only therapy.
 
 Today, many women are turning to options like [Biote Hormone Therapy](/hormone-therapy/), which uses bioidentical hormones delivered through pellets. These hormones are chemically identical to the ones your body produces. HRT can also be administered in various forms, including pills, patches, gels, and creams. The best approach is always one that is customized to your body and lifestyle.
 
@@ -42,7 +42,7 @@ Today, many women are turning to options like [Biote Hormone Therapy](/hormone-t
 
 Let’s be clear: hormone therapy is not a weight loss drug. Taking estrogen won’t magically cause you to shed pounds on its own. However, it can create a more favorable environment for weight management. During menopause, the drop in estrogen often causes the body to store more fat around the abdomen. HRT can help shift this pattern, leading to a healthier distribution of body fat.
 
-By restoring hormonal balance, HRT can also support your metabolism, which helps your body use energy more efficiently. This means that your efforts to eat well and exercise are more likely to pay off. According to the American College of Obstetricians and Gynecologists, while HRT doesn’t directly cause weight loss, it can [change where fat is stored](https://www.acog.org/womens-health/experts-and-stories/ask-acog/can-hormone-therapy-help-me-lose-weight). Essentially, it helps your body work with you, not against you, as you pursue your health goals.
+By restoring hormonal balance, HRT can also support your metabolism, which helps your body use energy more efficiently. This means that your efforts to eat well and exercise are more likely to pay off. According to the American College of Obstetricians and Gynecologists, while HRT doesn’t directly cause weight loss, it can change where fat is stored. Essentially, it helps your body work with you, not against you, as you pursue your health goals.
 
 ## How Menopause Affects Your Weight and Metabolism
 

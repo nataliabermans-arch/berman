@@ -90,11 +90,11 @@ If you’re struggling with moderate to severe menopause symptoms, you might be 
 
 ### When Is the Best Time to Start Therapy?
 
-When it comes to hormone therapy, timing can make a significant difference. Research shows that the [benefits of treatment](https://www.mayoclinic.org/diseases-conditions/menopause/in-depth/hormone-therapy/art-20046372) are most likely to outweigh the risks if you begin before you turn 60 or within a decade of menopause onset. Starting during this window can help you get the most out of the therapy, not just for symptom relief but also for potential long-term benefits like protecting your bone health. If you’re past this window, it doesn’t automatically rule out treatment, but it does mean you’ll need a more detailed conversation with your doctor about what makes sense for your health.
+When it comes to hormone therapy, timing can make a significant difference. Research shows that the benefits of treatment are most likely to outweigh the risks if you begin before you turn 60 or within a decade of menopause onset. Starting during this window can help you get the most out of the therapy, not just for symptom relief but also for potential long-term benefits like protecting your bone health. If you’re past this window, it doesn’t automatically rule out treatment, but it does mean you’ll need a more detailed conversation with your doctor about what makes sense for your health.
 
 ### Health Factors to Consider Before Starting
 
-Your personal health history is a critical piece of the puzzle. Hormone therapy isn’t a one-size-fits-all solution, and it’s not recommended for everyone. Certain conditions can increase the risks associated with treatment, so it’s important to be completely open with your doctor. According to [The Menopause Society](https://menopause.org/patient-education/menopause-topics/hormone-therapy), women with a history of breast or uterine cancer, unexplained vaginal bleeding, liver disease, or blood clots may not be suitable candidates. Dr. Berman takes a highly [personalized approach](/about/) to care, ensuring any treatment plan is based on a comprehensive review of your medical history and current health status.
+Your personal health history is a critical piece of the puzzle. Hormone therapy isn’t a one-size-fits-all solution, and it’s not recommended for everyone. Certain conditions can increase the risks associated with treatment, so it’s important to be completely open with your doctor. According to The Menopause Society, women with a history of breast or uterine cancer, unexplained vaginal bleeding, liver disease, or blood clots may not be suitable candidates. Dr. Berman takes a highly [personalized approach](/about/) to care, ensuring any treatment plan is based on a comprehensive review of your medical history and current health status.
 
 ## What Types of Hormone Therapy Are Available?
 
@@ -124,7 +124,7 @@ One of the best things about modern hormone therapy is that it’s not a one-siz
 
 ### Pills, Patches, and Gels
 
-Systemic hormone therapy is designed to travel throughout your bloodstream to address a wide range of menopause symptoms, from hot flashes to mood swings. This is the approach most people think of first. You can take a daily pill, apply a patch to your skin once or twice a week, or rub a gel or spray on your arm. Each method delivers a steady dose of hormones to help restore your body’s balance. The choice often comes down to personal preference and what works best for your daily routine. These [prescription treatments](https://menopause.org/patient-education/menopause-topics/hormone-therapy) are a reliable way to manage moderate to severe symptoms and get back to feeling like yourself.
+Systemic hormone therapy is designed to travel throughout your bloodstream to address a wide range of menopause symptoms, from hot flashes to mood swings. This is the approach most people think of first. You can take a daily pill, apply a patch to your skin once or twice a week, or rub a gel or spray on your arm. Each method delivers a steady dose of hormones to help restore your body’s balance. The choice often comes down to personal preference and what works best for your daily routine. These prescription treatments are a reliable way to manage moderate to severe symptoms and get back to feeling like yourself.
 
 ### Creams, Rings, and Suppositories
 
@@ -140,7 +140,7 @@ Walking into your doctor’s office ready for a productive conversation is one o
 
 ### Questions to Ask Your Doctor
 
-It’s easy for questions to slip your mind once you’re in the exam room. I always recommend jotting down a list on your phone or in a notebook. This simple step ensures you don’t forget anything important. Start with your symptoms and how they affect your daily life. From there, you can ask specific questions about treatment, like: What are the benefits and risks of hormone therapy for me personally? Which type of therapy do you think is best, and why? What can I expect in the first few weeks? How will we track my progress? It’s so important to [discuss your symptoms](https://www.mayoclinic.org/diseases-conditions/menopause/in-depth/hormone-therapy/art-20046372) and health concerns openly to figure out if this is the right path for you.
+It’s easy for questions to slip your mind once you’re in the exam room. I always recommend jotting down a list on your phone or in a notebook. This simple step ensures you don’t forget anything important. Start with your symptoms and how they affect your daily life. From there, you can ask specific questions about treatment, like: What are the benefits and risks of hormone therapy for me personally? Which type of therapy do you think is best, and why? What can I expect in the first few weeks? How will we track my progress? It’s so important to discuss your symptoms and health concerns openly to figure out if this is the right path for you.
 
 ### Discuss Your Medical History
 
@@ -160,7 +160,7 @@ Once you begin treatment, regular check-ins with your doctor are essential. Thes
 
 ### Adjusting Your Dosage for the Best Results
 
-Finding the right hormone balance isn’t always immediate; it often involves a bit of fine-tuning. Your body is unique, and what works perfectly for one person might need a slight adjustment for another. According to [The Menopause Society](https://menopause.org/patient-education/menopause-topics/hormone-therapy), “The best dose and type of HT often require some trial and error.” Your treatment can be adjusted as your body and needs change. This flexibility is a core part of effective hormone therapy. We’ll work together to find the precise dosage that helps you feel your best, making small changes as needed along the way.
+Finding the right hormone balance isn’t always immediate; it often involves a bit of fine-tuning. Your body is unique, and what works perfectly for one person might need a slight adjustment for another. According to The Menopause Society, “The best dose and type of HT often require some trial and error.” Your treatment can be adjusted as your body and needs change. This flexibility is a core part of effective hormone therapy. We’ll work together to find the precise dosage that helps you feel your best, making small changes as needed along the way.
 
 ### How Long Should Treatment Last?
 
@@ -174,11 +174,11 @@ Making small, sustainable changes can have a huge impact on your energy levels, 
 
 ### Nutrition and Exercise Tips
 
-Pairing your hormone therapy with a balanced diet and regular exercise is one of the best things you can do for your health. Simple adjustments to what you eat and how you move can make a significant difference in your results. Focus on whole foods like fruits, vegetables, lean proteins, and healthy fats to nourish your body. Staying active is just as important. Whether you enjoy brisk walking, yoga, or strength training, consistent movement helps maintain a healthy weight and supports your heart. These habits also help [reduce health risks](https://www.mayoclinic.org/diseases-conditions/menopause/in-depth/hormone-therapy/art-20046372) like type 2 diabetes, making them a crucial part of your long-term wellness plan.
+Pairing your hormone therapy with a balanced diet and regular exercise is one of the best things you can do for your health. Simple adjustments to what you eat and how you move can make a significant difference in your results. Focus on whole foods like fruits, vegetables, lean proteins, and healthy fats to nourish your body. Staying active is just as important. Whether you enjoy brisk walking, yoga, or strength training, consistent movement helps maintain a healthy weight and supports your heart. These habits also help reduce health risks like type 2 diabetes, making them a crucial part of your long-term wellness plan.
 
 ### Manage Stress and Improve Your Sleep
 
-Menopause can often disrupt sleep and increase feelings of anxiety, creating a cycle that leaves you feeling exhausted. While hormone therapy can bring significant relief from symptoms like night sweats that interrupt your rest, creating calming routines is also key. Practices like meditation, deep breathing, or gentle stretching before bed can signal to your body that it’s time to wind down. Many women find that once their hormones are balanced, they have the mental clarity and energy to build these healthy habits. This combination of medical support and self-care can lead to [better sleep patterns](https://www.raveco.com/blog/patient-perspectives-success-stories-in-menopause-symptom-relief) and a greater sense of calm in your daily life.
+Menopause can often disrupt sleep and increase feelings of anxiety, creating a cycle that leaves you feeling exhausted. While hormone therapy can bring significant relief from symptoms like night sweats that interrupt your rest, creating calming routines is also key. Practices like meditation, deep breathing, or gentle stretching before bed can signal to your body that it’s time to wind down. Many women find that once their hormones are balanced, they have the mental clarity and energy to build these healthy habits. This combination of medical support and self-care can lead to better sleep patterns and a greater sense of calm in your daily life.
 
 ### Complementary Ways to Feel Your Best
 

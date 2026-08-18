@@ -80,7 +80,7 @@ It might sound surprising, but some types of antidepressants are highly effectiv
 
 ### Neuropathic Pain Medications
 
-If your pelvic pain feels like a burning, shooting, or tingling sensation, it might be neuropathic, meaning it originates from the nerves. Standard pain relievers often don’t work well for this type of pain. Instead, doctors may prescribe medications specifically designed to calm overactive nerves, such as gabapentin or pregabalin. These drugs work by interfering with the pain signals that damaged nerves send to your brain. According to the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/chronic-pelvic-pain/diagnosis-treatment/drc-20354371), they are a cornerstone of treating chronic nerve pain and can provide significant relief when other options have failed.
+If your pelvic pain feels like a burning, shooting, or tingling sensation, it might be neuropathic, meaning it originates from the nerves. Standard pain relievers often don’t work well for this type of pain. Instead, doctors may prescribe medications specifically designed to calm overactive nerves, such as gabapentin or pregabalin. These drugs work by interfering with the pain signals that damaged nerves send to your brain. According to the Mayo Clinic, they are a cornerstone of treating chronic nerve pain and can provide significant relief when other options have failed.
 
 ### Antibiotics for Infections
 
@@ -98,7 +98,7 @@ When your body’s natural hormone levels are out of sync, it can lead to a host
 
 ### Birth Control for Hormonal Regulation
 
-You might associate birth control with preventing pregnancy, but hormonal contraceptives like pills, patches, and IUDs are also powerful tools for managing pelvic pain. They work by regulating your cycle, which can thin the uterine lining and suppress ovulation. This process often leads to lighter, less painful periods and can be a first-line treatment for the discomfort caused by endometriosis and fibroids. According to [NYU Langone Health](https://nyulangone.org/conditions/pelvic-pain/treatments/medication-for-pelvic-pain), this hormonal regulation is a highly effective way to reduce menstrual-related pain and regain control over your monthly cycle.
+You might associate birth control with preventing pregnancy, but hormonal contraceptives like pills, patches, and IUDs are also powerful tools for managing pelvic pain. They work by regulating your cycle, which can thin the uterine lining and suppress ovulation. This process often leads to lighter, less painful periods and can be a first-line treatment for the discomfort caused by endometriosis and fibroids. According to NYU Langone Health, this hormonal regulation is a highly effective way to reduce menstrual-related pain and regain control over your monthly cycle.
 
 ### GnRH Agonists for Endometriosis
 
@@ -106,7 +106,7 @@ For persistent pelvic pain caused by endometriosis, a doctor may recommend Gonad
 
 ### Aromatase Inhibitors
 
-Aromatase inhibitors are another option for tackling estrogen-driven pelvic pain, especially from endometriosis. These medications work by blocking an enzyme called aromatase, which is responsible for producing estrogen in the body. By lowering your overall estrogen levels, these inhibitors can help prevent the growth of painful endometrial tissue. They are often used alongside other hormonal therapies to create a comprehensive treatment plan. This approach can be particularly helpful for managing symptoms that haven’t responded to other treatments, as noted by the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/endometriosis/diagnosis-treatment/drc-20354661).
+Aromatase inhibitors are another option for tackling estrogen-driven pelvic pain, especially from endometriosis. These medications work by blocking an enzyme called aromatase, which is responsible for producing estrogen in the body. By lowering your overall estrogen levels, these inhibitors can help prevent the growth of painful endometrial tissue. They are often used alongside other hormonal therapies to create a comprehensive treatment plan. This approach can be particularly helpful for managing symptoms that haven’t responded to other treatments, as noted by the Mayo Clinic.
 
 ## How to Talk to Your Doctor About Pelvic Pain
 
@@ -160,11 +160,11 @@ If your pelvic pain is linked to muscle issues, pelvic floor physical therapy ca
 
 ### Stress Management and CBT
 
-The connection between your mind and body is powerful, especially when dealing with chronic pain. Constant discomfort can understandably lead to stress, anxiety, and a lower mood, which in turn can make the pain feel worse. This is where strategies like Cognitive Behavioral Therapy (CBT) come in. CBT is a form of therapy that helps you identify and change negative thought patterns related to your pain. A therapist can teach you coping mechanisms to [reduce pain and anxiety](https://www.ccjm.org/content/85/3/215), helping you feel more in control and improving your quality of life and relationships.
+The connection between your mind and body is powerful, especially when dealing with chronic pain. Constant discomfort can understandably lead to stress, anxiety, and a lower mood, which in turn can make the pain feel worse. This is where strategies like Cognitive Behavioral Therapy (CBT) come in. CBT is a form of therapy that helps you identify and change negative thought patterns related to your pain. A therapist can teach you coping mechanisms to reduce pain and anxiety, helping you feel more in control and improving your quality of life and relationships.
 
 ### Acupuncture and Relaxation
 
-Sometimes, looking beyond conventional medicine can provide surprising relief. Acupuncture, a practice rooted in traditional Chinese medicine, may help by stimulating your body’s natural painkillers. Many women find it to be a safe and effective way to manage their symptoms. You can also incorporate simple relaxation techniques into your daily routine. Practices like meditation, yoga, and deep breathing exercises can help release muscle tension, calm your nervous system, and reduce stress. According to the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/chronic-pelvic-pain/diagnosis-treatment/drc-20354371), these methods can also lead to better sleep, which is essential for healing.
+Sometimes, looking beyond conventional medicine can provide surprising relief. Acupuncture, a practice rooted in traditional Chinese medicine, may help by stimulating your body’s natural painkillers. Many women find it to be a safe and effective way to manage their symptoms. You can also incorporate simple relaxation techniques into your daily routine. Practices like meditation, yoga, and deep breathing exercises can help release muscle tension, calm your nervous system, and reduce stress. According to the Mayo Clinic, these methods can also lead to better sleep, which is essential for healing.
 
 ### Lifestyle and Diet Changes
 
@@ -176,7 +176,7 @@ Finding the right medication is a huge step, but managing chronic pelvic pain of
 
 ### Combine Medication with Other Therapies
 
-Medication can be incredibly effective, but it often works best as part of a team. Combining your prescribed treatment with other therapies can address the root causes of your pain from multiple angles. For many women, a [multidisciplinary approach](https://www.mayoclinic.org/diseases-conditions/chronic-pelvic-pain/diagnosis-treatment/drc-20354371) that includes [pelvic floor physical therapy](/the-use-of-physical-therapy-in-treatment-for-endometriosis/) is a game-changer. This specialized therapy helps relax and strengthen the muscles contributing to your discomfort. Additionally, lifestyle adjustments, stress management techniques, and counseling can provide powerful support, helping your body and mind work together toward healing.
+Medication can be incredibly effective, but it often works best as part of a team. Combining your prescribed treatment with other therapies can address the root causes of your pain from multiple angles. For many women, a multidisciplinary approach that includes [pelvic floor physical therapy](/the-use-of-physical-therapy-in-treatment-for-endometriosis/) is a game-changer. This specialized therapy helps relax and strengthen the muscles contributing to your discomfort. Additionally, lifestyle adjustments, stress management techniques, and counseling can provide powerful support, helping your body and mind work together toward healing.
 
 ### Set Realistic Goals and Track Your Progress
 

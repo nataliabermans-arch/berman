@@ -86,5 +86,5 @@ In these women, there were no significant differences in the increases in the ph
 
 Additional resources on female sexuality are available from MayoClinic.com:
 
-[http://www.mayoclinic.com/health/kegel-exercises/WO00119](https://www.mayoclinic.com/health/kegel-exercises/WO00119)  
-[http://www.mayoclinic.com/health/womens-health/WO00110](https://www.mayoclinic.com/health/womens-health/WO00110)
+http://www.mayoclinic.com/health/kegel-exercises/WO00119  
+http://www.mayoclinic.com/health/womens-health/WO00110

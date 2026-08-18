@@ -104,19 +104,19 @@ Each treatment comes with its own unique approach, recovery time, and cost struc
 
 Radiofrequency (RF) treatments are another popular non-surgical option for vaginal rejuvenation. Like lasers, they use controlled thermal energy to stimulate collagen production and remodel tissue, addressing concerns like laxity and dryness. A well-known example is the [Votiva treatment](/vaginal-rejuvenation-expert/), which uses gentle RF energy to improve both internal and external tissues.
 
-In terms of cost, RF treatments are often in a similar price range to laser therapy. According to one report, a single session of a non-surgical treatment like Votiva can range from [$800 to $3,000](https://www.yanaskincare.com/how-much-does-vaginal-rejuvenation-cost/). The final price depends on the same factors that influence laser costs, including your provider’s expertise and your specific treatment plan.
+In terms of cost, RF treatments are often in a similar price range to laser therapy. According to one report, a single session of a non-surgical treatment like Votiva can range from $800 to $3,000. The final price depends on the same factors that influence laser costs, including your provider’s expertise and your specific treatment plan.
 
 ### Laser vs. The O-Shot
 
 The O-Shot offers a completely different approach. Instead of using energy, the [O-Shot](/sexual-health/) uses platelet-rich plasma (PRP) derived from your own blood to stimulate new cell growth and improve sexual function. It’s often used to enhance arousal, improve orgasms, and address urinary incontinence.
 
-Because the procedure involves drawing and processing your blood, the cost reflects the specialized technique and equipment required. A single session of the O-Shot typically costs between [$1,500 and $2,000](https://www.yanaskincare.com/how-much-does-vaginal-rejuvenation-cost/). While some patients achieve their desired results after one treatment, others may need additional sessions, so it’s important to discuss your long-term goals with your provider to understand the full financial picture.
+Because the procedure involves drawing and processing your blood, the cost reflects the specialized technique and equipment required. A single session of the O-Shot typically costs between $1,500 and $2,000. While some patients achieve their desired results after one treatment, others may need additional sessions, so it’s important to discuss your long-term goals with your provider to understand the full financial picture.
 
 ### Laser vs. Surgical Options
 
 Surgical procedures like labiaplasty and vaginoplasty offer more dramatic and permanent results, but they also come with a significantly higher price tag and a longer recovery period. These are invasive procedures that require anesthesia and downtime, which is reflected in the cost.
 
-The price for [surgical vaginal rejuvenation](https://serenitymedspa.com/how-much-does-vaginal-rejuvenation-cost/) generally starts around $4,000 and can go up from there. In fact, some sources note that the total cost for a surgical procedure can range anywhere from [$4,000 to $12,000](https://www.elpasoplasticsurgery.com/blog/how-much-does-vaginal-rejuvenation-cost-in-2025/). This makes non-surgical laser treatments a much more accessible option for many women who want noticeable results without the expense and recovery time of surgery.
+The price for surgical vaginal rejuvenation generally starts around $4,000 and can go up from there. In fact, some sources note that the total cost for a surgical procedure can range anywhere from $4,000 to $12,000. This makes non-surgical laser treatments a much more accessible option for many women who want noticeable results without the expense and recovery time of surgery.
 
 ## What to Expect: Risks and Effectiveness
 

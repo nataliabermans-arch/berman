@@ -70,7 +70,7 @@ A great way to begin your search is by using online directories and medical revi
 
 ### How to verify a doctor’s credentials
 
-This step is absolutely crucial. You want to ensure your doctor has the right training and qualifications. Look for a provider who is “board-certified” in a relevant field like Obstetrics and Gynecology or Urogynecology. Board certification means a doctor has gone through extensive training and testing to prove their expertise. You can usually find this information on the doctor’s website, but it’s always a good idea to double-check. You can [verify a physician’s board certification](https://www.certificationmatters.org/) through organizations like the American Board of Medical Specialties. This simple check confirms your doctor meets high standards for education, knowledge, and skill.
+This step is absolutely crucial. You want to ensure your doctor has the right training and qualifications. Look for a provider who is “board-certified” in a relevant field like Obstetrics and Gynecology or Urogynecology. Board certification means a doctor has gone through extensive training and testing to prove their expertise. You can usually find this information on the doctor’s website, but it’s always a good idea to double-check. You can verify a physician’s board certification through organizations like the American Board of Medical Specialties. This simple check confirms your doctor meets high standards for education, knowledge, and skill.
 
 ### Reading between the lines of patient reviews
 

@@ -33,7 +33,7 @@ It’s easy to think of hormones as messengers that only manage things like your
 
 ### The Pituitary Gland: The Brain’s Master Controller
 
-Tucked away at the base of your brain is the pituitary gland, a tiny but mighty organ that acts as the master controller for your entire endocrine system. It produces and regulates many of the hormones that circulate throughout your body, including those that directly [affect](https://www.pacificneuroscienceinstitute.org/blog/brain-health/the-impact-of-hormone-imbalances-on-neurological-health-and-memory/) your memory and cognitive function. If the pituitary gland isn’t working correctly—due to factors like a tumor or injury—it can set off a chain reaction of hormonal imbalances. This disruption can lead to a frustrating mix of symptoms, including persistent mood swings, memory lapses, and a general inability to focus. It’s a powerful reminder that the brain’s health and hormonal balance are intricately linked, with the pituitary gland sitting right at the center of it all.
+Tucked away at the base of your brain is the pituitary gland, a tiny but mighty organ that acts as the master controller for your entire endocrine system. It produces and regulates many of the hormones that circulate throughout your body, including those that directly affect your memory and cognitive function. If the pituitary gland isn’t working correctly—due to factors like a tumor or injury—it can set off a chain reaction of hormonal imbalances. This disruption can lead to a frustrating mix of symptoms, including persistent mood swings, memory lapses, and a general inability to focus. It’s a powerful reminder that the brain’s health and hormonal balance are intricately linked, with the pituitary gland sitting right at the center of it all.
 
 ### The Gut-Brain Connection and Mental Wellness
 
@@ -53,7 +53,7 @@ The term “pregnancy brain” is often used casually, but there’s real scienc
 
 ### The Impact of Oral Contraceptives on the Body
 
-Oral contraceptives (OCs) are a common choice for many women, with over 60% of adult women using them at some point. While they are effective for birth control and can help manage certain health conditions, it’s important to be aware of how they can affect your body’s internal environment. The synthetic hormones in OCs can alter how your body processes sugar, and some research suggests they may [contribute](https://link.springer.com/article/10.1007/s40279-022-01755-3) to increased inflammation and oxidative stress. For some women, these changes might be unnoticeable, but for others, they could influence mood, energy levels, and overall well-being. If you’re taking OCs and not feeling your best, it’s worth discussing with a healthcare provider to explore whether your birth control method is the right fit for your unique body and health goals.
+Oral contraceptives (OCs) are a common choice for many women, with over 60% of adult women using them at some point. While they are effective for birth control and can help manage certain health conditions, it’s important to be aware of how they can affect your body’s internal environment. The synthetic hormones in OCs can alter how your body processes sugar, and some research suggests they may contribute to increased inflammation and oxidative stress. For some women, these changes might be unnoticeable, but for others, they could influence mood, energy levels, and overall well-being. If you’re taking OCs and not feeling your best, it’s worth discussing with a healthcare provider to explore whether your birth control method is the right fit for your unique body and health goals.
 
 ## The Key Hormonal Players in Brain Health
 
@@ -69,7 +69,7 @@ Your thyroid gland produces two critical hormones, T4 and T3, that are essential
 
 ### The Stress Hormone: Cortisol
 
-Cortisol is your body’s primary stress hormone. In short bursts, it’s incredibly helpful—giving you the focus and energy to handle a threatening situation. However, the chronic stress of modern life can lead to consistently high cortisol levels, which can be detrimental to your brain. Prolonged exposure to excess cortisol can [damage](https://www.pacificneuroscienceinstitute.org/blog/brain-health/the-impact-of-hormone-imbalances-on-neurological-health-and-memory/) the hippocampus, the brain’s memory center, leading to issues with memory recall, concentration, and emotional regulation. If you constantly feel frazzled, overwhelmed, and forgetful, your cortisol levels might be to blame. Managing stress through lifestyle changes is key, but sometimes, a medical evaluation is needed to address the underlying hormonal imbalance and protect your long-term brain health.
+Cortisol is your body’s primary stress hormone. In short bursts, it’s incredibly helpful—giving you the focus and energy to handle a threatening situation. However, the chronic stress of modern life can lead to consistently high cortisol levels, which can be detrimental to your brain. Prolonged exposure to excess cortisol can damage the hippocampus, the brain’s memory center, leading to issues with memory recall, concentration, and emotional regulation. If you constantly feel frazzled, overwhelmed, and forgetful, your cortisol levels might be to blame. Managing stress through lifestyle changes is key, but sometimes, a medical evaluation is needed to address the underlying hormonal imbalance and protect your long-term brain health.
 
 ### Testosterone’s Role in Cognition
 
@@ -193,7 +193,7 @@ Hormone Replacement Therapy, or HRT, is a medical treatment that replenishes the
 
 #### The Benefits of Bioidentical Hormones
 
-A more tailored approach within HRT involves using bioidentical hormones. These are a game-changer for many women because they are structurally identical to the hormones your body produces naturally. Because of this molecular match, your body can use them just as it would its own hormones. This can lead to a more natural-feeling sense of balance and potentially fewer side effects. Expert-led [Bioidentical Hormone Replacement Therapy (BHRT)](/biote-hormone-therapy/) is not a one-size-fits-all solution; it’s customized to your specific needs, ensuring you get the precise support required to [support cognitive function](https://www.pacificneuroscienceinstitute.org/blog/brain-health/the-impact-of-hormone-imbalances-on-neurological-health-and-memory/) and overall wellness.
+A more tailored approach within HRT involves using bioidentical hormones. These are a game-changer for many women because they are structurally identical to the hormones your body produces naturally. Because of this molecular match, your body can use them just as it would its own hormones. This can lead to a more natural-feeling sense of balance and potentially fewer side effects. Expert-led [Bioidentical Hormone Replacement Therapy (BHRT)](/biote-hormone-therapy/) is not a one-size-fits-all solution; it’s customized to your specific needs, ensuring you get the precise support required to support cognitive function and overall wellness.
 
 ## **By Dr. Jennifer Berman, expert in women’s health and hormone regulation.**
 

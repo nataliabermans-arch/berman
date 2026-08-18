@@ -36,7 +36,7 @@ So far, early reviews of the procedures have been positive, with patients report
 
 #### Conclusion
 
-It’s estimated that 1 in 10 women have [HSDD](https://www.ashasexualhealth.org/hypoactive-sexual-desire-disorder/), which makes the most common sexual dysfunction in females. Women’s low sex drive and related distress can negatively impact a woman’s life, but can be fixed.
+It’s estimated that 1 in 10 women have HSDD, which makes the most common sexual dysfunction in females. Women’s low sex drive and related distress can negatively impact a woman’s life, but can be fixed.
 
 Luckily, women who suffer from low sex drive or hormone deficiency don’t have to face their problems alone any longer. [Dr. Jennifer Berman](/about/) is world-renowned as a leading authority in the field of women’s sexual health and has a vast amount of experience in treating women who live with hypoactive sexual desire. Women who go through menopause, experience hormone deficiency, and need compassionate low libido therapy from an experienced urologist, come to [The Berman Women’s Wellness Center in Beverly Hills](/). Here, Dr. Berman offers a wide variety of [treatments for women experiencing low libido](/treatment-for-low-libido-in-females/), and can custom create a solution to bring back your passionate play. She also supports the initiative of the ‘Right To Desire’ movement to raise awareness around this condition.
 

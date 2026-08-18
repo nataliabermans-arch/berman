@@ -61,7 +61,7 @@ Vyleesi, or bremelanotide, is another FDA-approved option for premenopausal wome
 
 ### The Link Between Brain Chemistry and Desire
 
-The development of medications like Addyi and Vyleesi highlights a critical aspect of female sexual health: desire begins in the brain. The intricate [interplay between brain chemistry and sexual arousal](https://time.com/7341012/sexual-desire-pill-addyi-cindy-eckert/) is the reason these treatments focus on neurotransmitters rather than just physical stimulation. When chemicals like dopamine and norepinephrine are low, your brain’s reward and pleasure centers aren’t as active, making it difficult to feel motivated or interested in sex. At the same time, high levels of serotonin can put a damper on desire. By addressing this imbalance, these medications help clear the path for your natural desire to emerge, confirming that low libido is a complex medical issue with real, science-backed solutions.
+The development of medications like Addyi and Vyleesi highlights a critical aspect of female sexual health: desire begins in the brain. The intricate interplay between brain chemistry and sexual arousal is the reason these treatments focus on neurotransmitters rather than just physical stimulation. When chemicals like dopamine and norepinephrine are low, your brain’s reward and pleasure centers aren’t as active, making it difficult to feel motivated or interested in sex. At the same time, high levels of serotonin can put a damper on desire. By addressing this imbalance, these medications help clear the path for your natural desire to emerge, confirming that low libido is a complex medical issue with real, science-backed solutions.
 
 ## A Look at FDA-Approved Options
 
@@ -129,11 +129,11 @@ The price for female arousal pills can vary quite a bit. For example, Addyi (fli
 
 ### Will Insurance Cover It?
 
-Navigating insurance benefits can feel tricky, and coverage for female arousal pills is no exception. Because flibanserin (Addyi) is the first drug [approved by the FDA](https://www.healthline.com/health/viagra-for-women) specifically for hypoactive sexual desire disorder (HSDD) in premenopausal women, some insurance plans do cover it. However, coverage isn’t universal and depends entirely on your individual plan. The best course of action is to contact your insurance provider directly to ask about your benefits. They can give you the most accurate information about what is and isn’t covered. It’s also important to work with a doctor who can properly document your diagnosis, which can help with the insurance approval process.
+Navigating insurance benefits can feel tricky, and coverage for female arousal pills is no exception. Because flibanserin (Addyi) is the first drug approved by the FDA specifically for hypoactive sexual desire disorder (HSDD) in premenopausal women, some insurance plans do cover it. However, coverage isn’t universal and depends entirely on your individual plan. The best course of action is to contact your insurance provider directly to ask about your benefits. They can give you the most accurate information about what is and isn’t covered. It’s also important to work with a doctor who can properly document your diagnosis, which can help with the insurance approval process.
 
 ### Finding Discounts and Assistance Programs
 
-If you find that your medication isn’t fully covered, don’t worry, you still have options. Many resources are available to help make your prescription more affordable. You can find [discounts on Addyi](https://addyi.com/) and other medications through services like GoodRx, which can lower the price at major pharmacies. It’s also worth checking the drug manufacturer’s website directly. They often have patient assistance programs or savings cards that can provide significant financial help to eligible patients. Taking a few minutes to explore these programs can make a big difference in your monthly costs.
+If you find that your medication isn’t fully covered, don’t worry, you still have options. Many resources are available to help make your prescription more affordable. You can find discounts on Addyi and other medications through services like GoodRx, which can lower the price at major pharmacies. It’s also worth checking the drug manufacturer’s website directly. They often have patient assistance programs or savings cards that can provide significant financial help to eligible patients. Taking a few minutes to explore these programs can make a big difference in your monthly costs.
 
 ## How Effective Are These Pills?
 

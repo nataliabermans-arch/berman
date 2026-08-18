@@ -30,7 +30,7 @@ OK, folks; it’s winter, cold and dark. No one has any money, and none of us kn
 
 ## Almost Half of Women Have Sexual Problems
 
-FRIDAY, Oct. 31 (HealthDay News) — In a double whammy for the female gender, new research shows that 40 percent of women report sexual problems, but only 12 percent are distressed about it. click on link to read article [Almost Half of Women Have Sexual Problems](http://www.healthfinder.gov/news/newsstory.aspx?docID=620838)
+FRIDAY, Oct. 31 (HealthDay News) — In a double whammy for the female gender, new research shows that 40 percent of women report sexual problems, but only 12 percent are distressed about it. click on link to read article Almost Half of Women Have Sexual Problems
 
 ---
 

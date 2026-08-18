@@ -157,7 +157,7 @@ This is the most important step: always talk with your doctor before trying any 
 
 #### Understanding FDA Regulation and Third-Party Testing
 
-It’s important to know that the FDA handles dietary supplements differently than prescription drugs. While manufacturers are responsible for ensuring their products are safe, the [FDA](https://www.fda.gov/food/dietary-supplements) doesn’t approve them for safety or effectiveness before they go on sale. This gap in oversight means that what’s on the label isn’t always what’s in the bottle. This is where third-party testing becomes your best friend. When a supplement is third-party certified, it means an independent organization has [evaluated](https://www.opss.org/article/why-third-party-certification-important-dietary-supplements) the product to confirm that it contains the ingredients listed on the label and isn’t contaminated with anything harmful. Looking for seals from organizations like NSF International or USP on the packaging is a simple way to [ensure](https://beaconpointlabs.com/third-party-testing-ensuring-your-supplements-are-safe-and-effective/) you’re getting a quality product, giving you peace of mind in a crowded market.
+It’s important to know that the FDA handles dietary supplements differently than prescription drugs. While manufacturers are responsible for ensuring their products are safe, the FDA doesn’t approve them for safety or effectiveness before they go on sale. This gap in oversight means that what’s on the label isn’t always what’s in the bottle. This is where third-party testing becomes your best friend. When a supplement is third-party certified, it means an independent organization has evaluated the product to confirm that it contains the ingredients listed on the label and isn’t contaminated with anything harmful. Looking for seals from organizations like NSF International or USP on the packaging is a simple way to ensure you’re getting a quality product, giving you peace of mind in a crowded market.
 
 ## Connect With Your Body to Increase Sensitivity
 
@@ -209,7 +209,7 @@ Our hormones naturally fluctuate throughout our lives. You might notice shifts d
 
 ### Simple Ways to Support Hormonal Balance
 
-You can make a real difference in your hormonal health with a few key lifestyle adjustments. Start with your diet; eating plenty of whole foods, healthy fats, and lean protein gives your body the building blocks it needs. Regular exercise is another powerful tool—it not only improves blood flow but also helps [manage stress](https://www.mayoclinic.org/diseases-conditions/low-sex-drive-in-women/diagnosis-treatment/drc-20374561), which is a major disruptor of hormonal balance. Finally, don’t underestimate the power of rest. Getting enough quality sleep is essential, as studies have shown that women who get more sleep often report [stronger sexual desire](https://www.medicalnewstoday.com/articles/323918) the next day.
+You can make a real difference in your hormonal health with a few key lifestyle adjustments. Start with your diet; eating plenty of whole foods, healthy fats, and lean protein gives your body the building blocks it needs. Regular exercise is another powerful tool—it not only improves blood flow but also helps manage stress, which is a major disruptor of hormonal balance. Finally, don’t underestimate the power of rest. Getting enough quality sleep is essential, as studies have shown that women who get more sleep often report stronger sexual desire the next day.
 
 ### When to Consider Professional Help
 

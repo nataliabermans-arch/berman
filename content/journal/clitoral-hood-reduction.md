@@ -48,7 +48,7 @@ Like any other part of the body, the clitoral hood requires proper care to stay 
 
 #### Keeping the Area Clean
 
-When it comes to hygiene for your vulva, less is often more. The vagina is self-cleaning, and the external areas, including the clitoral hood, don’t require harsh soaps or special cleansers. In fact, these products can strip the skin of its natural oils and disrupt its delicate pH balance, leading to dryness and irritation. The best practice is simple: gently wash the area with warm water. You can carefully retract the hood to rinse away any buildup of smegma—a natural combination of skin cells and oils. As the experts at [Scarleteen](https://www.scarleteen.com/read/bodies/how-can-i-keep-my-clitoris-clean) advise, soap is generally unnecessary and can be irritating.
+When it comes to hygiene for your vulva, less is often more. The vagina is self-cleaning, and the external areas, including the clitoral hood, don’t require harsh soaps or special cleansers. In fact, these products can strip the skin of its natural oils and disrupt its delicate pH balance, leading to dryness and irritation. The best practice is simple: gently wash the area with warm water. You can carefully retract the hood to rinse away any buildup of smegma—a natural combination of skin cells and oils. As the experts at Scarleteen advise, soap is generally unnecessary and can be irritating.
 
 #### Understanding Clitoral Adhesions
 
@@ -112,7 +112,7 @@ For some, modifying the clitoral hood is a form of self-expression through body 
 
 ### Understanding Female Genital Mutilation (FGM)
 
-It is critical to distinguish elective procedures from Female Genital Mutilation (FGM). FGM involves the partial or total removal of external female genitalia for non-medical reasons and is a violation of human rights. According to the [World Health Organization](https://www.who.int/news-room/fact-sheets/detail/female-genital-mutilation), this practice is often performed as a cultural tradition to control a woman’s sexuality and is done without consent. FGM has no health benefits and can cause severe, lifelong physical and psychological harm. This stands in stark contrast to a clitoral hood reduction, which is a safe, consensual medical procedure chosen by an individual to improve their comfort, confidence, and overall [sexual wellness](/sexual-urinary-tract-health/).
+It is critical to distinguish elective procedures from Female Genital Mutilation (FGM). FGM involves the partial or total removal of external female genitalia for non-medical reasons and is a violation of human rights. According to the World Health Organization, this practice is often performed as a cultural tradition to control a woman’s sexuality and is done without consent. FGM has no health benefits and can cause severe, lifelong physical and psychological harm. This stands in stark contrast to a clitoral hood reduction, which is a safe, consensual medical procedure chosen by an individual to improve their comfort, confidence, and overall [sexual wellness](/sexual-urinary-tract-health/).
 
 ## Frequently Asked Questions
 

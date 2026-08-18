@@ -1125,7 +1125,7 @@ I was nine actually. I was younger than these guys and she took me out on a date
 Early education.
 
 01:38:03 **Dr. Laura Berman OC/VO**  
-So thank you so much for being with us. [Puberty](https://kidshealth.org/en/teens/puberty.html) and adolescence, we could go on forever. Clinical psychologist and author of Trust Me Mom, Everybody Else is Going, Roni Cohen-Sandler. Stay with us.
+So thank you so much for being with us. Puberty and adolescence, we could go on forever. Clinical psychologist and author of Trust Me Mom, Everybody Else is Going, Roni Cohen-Sandler. Stay with us.
 
 01:38:14 **Dr. Jennifer Berman VO/OC**  
 And hear what moms and teens in our studio audience have to say coming up next.

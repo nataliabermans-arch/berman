@@ -136,7 +136,7 @@ Chronic stress is a major roadblock to desire. When you’re stressed, your body
 
 ### Communication and Intimacy
 
-Desire often begins long before you get to the bedroom; it starts with emotional connection. Open and honest communication with your partner can build a foundation of trust and intimacy that fuels sexual desire. Talking about your likes, dislikes, and fantasies can strengthen your bond and lead to more satisfying experiences. According to the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/low-sex-drive-in-women/diagnosis-treatment/drc-20374561), this kind of dialogue is key to better sex. Intimacy isn’t just physical; it’s about feeling seen, heard, and desired for who you are. Prioritizing quality time together, free from distractions, can help you reconnect and rediscover each other.
+Desire often begins long before you get to the bedroom; it starts with emotional connection. Open and honest communication with your partner can build a foundation of trust and intimacy that fuels sexual desire. Talking about your likes, dislikes, and fantasies can strengthen your bond and lead to more satisfying experiences. According to the Mayo Clinic, this kind of dialogue is key to better sex. Intimacy isn’t just physical; it’s about feeling seen, heard, and desired for who you are. Prioritizing quality time together, free from distractions, can help you reconnect and rediscover each other.
 
 ## How to Choose a Libido Specialist in Los Angeles
 

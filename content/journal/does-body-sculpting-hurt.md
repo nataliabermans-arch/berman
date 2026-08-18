@@ -34,7 +34,7 @@ Understanding your options is the first step in figuring out what’s right for 
 
 ### [Non-invasive options like CoolSculpting and radiofrequency](/body-sculpting-non-invasive/)
 
-Non-invasive treatments are exactly what they sound like—nothing breaks the skin. There are no needles, no incisions, and typically little to no downtime. One of the most well-known methods is cryolipolysis, or [fat freezing](https://www.healthline.com/health/is-coolsculpting-painful), which uses controlled cooling to target and eliminate fat cells. Another popular approach uses radiofrequency energy to heat and destroy fat cells while tightening the surrounding skin. Most people describe these treatments as comfortable, often feeling sensations of intense cold or gentle warmth, but not outright pain. They’re a great choice if you’re looking for subtle refinement without interrupting your daily life.
+Non-invasive treatments are exactly what they sound like—nothing breaks the skin. There are no needles, no incisions, and typically little to no downtime. One of the most well-known methods is cryolipolysis, or fat freezing, which uses controlled cooling to target and eliminate fat cells. Another popular approach uses radiofrequency energy to heat and destroy fat cells while tightening the surrounding skin. Most people describe these treatments as comfortable, often feeling sensations of intense cold or gentle warmth, but not outright pain. They’re a great choice if you’re looking for subtle refinement without interrupting your daily life.
 
 ### Minimally Invasive Methods: Ultrasound Cavitation
 
@@ -50,7 +50,7 @@ Some of the newest body sculpting technologies focus on building muscle in addit
 
 ### Surgical Body Contouring: What to Know
 
-Surgical body contouring, such as liposuction, is the most traditional and transformative option. Because these procedures are performed under anesthesia, you won’t feel anything during the surgery itself. However, the recovery period is where you’ll experience the most significant discomfort. You can expect considerable swelling, bruising, and pain as your body heals over several weeks. While [surgical methods](https://www.laseraway.com/faqs/body-contouring/does-body-contouring-hurt/) can produce dramatic results, they require a real commitment to the recovery process. This path is best for those seeking major changes and who are prepared for a period of downtime to heal properly.
+Surgical body contouring, such as liposuction, is the most traditional and transformative option. Because these procedures are performed under anesthesia, you won’t feel anything during the surgery itself. However, the recovery period is where you’ll experience the most significant discomfort. You can expect considerable swelling, bruising, and pain as your body heals over several weeks. While surgical methods can produce dramatic results, they require a real commitment to the recovery process. This path is best for those seeking major changes and who are prepared for a period of downtime to heal properly.
 
 ## Does Body Sculpting Hurt? What to Really Expect
 
@@ -184,7 +184,7 @@ While you’ll want to avoid strenuous exercise right after your treatment, inco
 
 ### OTC Medications and Natural Remedies for Relief
 
-If you do experience discomfort, you have plenty of options. Over-the-counter pain relievers like acetaminophen (Tylenol) or ibuprofen (Advil) can be very effective for managing any soreness or swelling. Beyond medication, there are also wonderful natural remedies you can try. Gentle practices like [deep breathing](https://www.healthline.com/health/breathing-exercise) or meditation can help calm your nervous system. You might also find relief from warm compresses or light exercise, like walking, which can help with circulation and ease stiffness.
+If you do experience discomfort, you have plenty of options. Over-the-counter pain relievers like acetaminophen (Tylenol) or ibuprofen (Advil) can be very effective for managing any soreness or swelling. Beyond medication, there are also wonderful natural remedies you can try. Gentle practices like deep breathing or meditation can help calm your nervous system. You might also find relief from warm compresses or light exercise, like walking, which can help with circulation and ease stiffness.
 
 ## Body Sculpting vs. Other Treatments: The Pain Factor
 
@@ -232,7 +232,7 @@ Going into your treatment with realistic expectations is key to a positive exper
 
 #### Typical Fat Reduction Percentages
 
-It’s important to understand that body sculpting is about precision, not just volume. Most non-invasive treatments are designed to reduce fat in a targeted area by about [20-25% with each session](https://www.healthline.com/health/is-coolsculpting-painful). While that number might not sound huge, think about what it means for a stubborn spot like your lower abdomen or love handles—a nearly one-quarter reduction can make a visible difference in how your clothes fit and how you feel. This targeted approach is what creates a more defined, contoured silhouette. It’s less about the number on the scale and more about reshaping specific areas that diet and exercise can’t seem to touch.
+It’s important to understand that body sculpting is about precision, not just volume. Most non-invasive treatments are designed to reduce fat in a targeted area by about 20-25% with each session. While that number might not sound huge, think about what it means for a stubborn spot like your lower abdomen or love handles—a nearly one-quarter reduction can make a visible difference in how your clothes fit and how you feel. This targeted approach is what creates a more defined, contoured silhouette. It’s less about the number on the scale and more about reshaping specific areas that diet and exercise can’t seem to touch.
 
 #### Body Sculpting and Weight Loss
 

@@ -178,11 +178,11 @@ As you can see, the best approach to treating vaginal dryness is a holistic one,
 
 Some Helpful Websites:
 
-MayoClinic.com. (2004). Vaginal Dryness. Retrieved 03-22-05 from [http://www.mayoclinic.com/invoke.cfm?id=DS00550](http://www.mayoclinic.com/invoke.cfm?id=DS00550)  
-MedicineNet.com. (2004). Vaginal Dryness. Retrieved 03-22-05 from [https://www.medicinenet.com/vaginal_dryness_and_vaginal_atrophy/article.htm](https://www.medicinenet.com/vaginal_dryness_and_vaginal_atrophy/article.htm)  
-DiscoveryHealth.com. (2004). Vaginal Dryness. Retrieved 03-22-05 from [http://health.discovery.com/encyclopedias/2111.html](http://health.discovery.com/encyclopedias/2111.html)  
-CancerConsultants.com. (2004). Managing side effects, treatment and prevention. Retrieved 03-22-05 from [http://patient.cancerconsultants.com/supportive_treatment.aspx?id=23166](http://patient.cancerconsultants.com/supportive_%3Cbr%20/%3Etreatment.aspx?id=23166)  
-The Department of Health and Human Services, National Women’s Health Information Center (2005). Vaginal Dryness. Retrieved 03-22-05 from [http://www.4woman.gov](http://www.4woman.gov/)
+MayoClinic.com. (2004). Vaginal Dryness. Retrieved 03-22-05 from http://www.mayoclinic.com/invoke.cfm?id=DS00550  
+MedicineNet.com. (2004). Vaginal Dryness. Retrieved 03-22-05 from https://www.medicinenet.com/vaginal_dryness_and_vaginal_atrophy/article.htm  
+DiscoveryHealth.com. (2004). Vaginal Dryness. Retrieved 03-22-05 from http://health.discovery.com/encyclopedias/2111.html  
+CancerConsultants.com. (2004). Managing side effects, treatment and prevention. Retrieved 03-22-05 from http://patient.cancerconsultants.com/supportive_treatment.aspx?id=23166  
+The Department of Health and Human Services, National Women’s Health Information Center (2005). Vaginal Dryness. Retrieved 03-22-05 from http://www.4woman.gov
 
 APPENDIX:
 

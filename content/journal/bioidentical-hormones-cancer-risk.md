@@ -86,11 +86,11 @@ When we talk about the risks associated with hormone therapy, it’s not a simpl
 
 ### Why Dosage, Method, and Timing Matter
 
-The way you take hormones is just as important as which hormones you take. Your risk can depend on the specific [mix of hormones used](https://www.mdanderson.org/cancerwise/does-hormone-replacement-therapy-increase-cancer-risk.h00-159699123.html), the dosage, and the delivery method, whether it’s a pill, patch, cream, or pellet. For example, some delivery methods can bypass the liver, which may alter the risk profile for certain conditions. Timing is another crucial piece of the puzzle. Evidence suggests that starting [bioidentical hormone replacement therapy](/biote-hormone-therapy/) closer to the onset of menopause can offer the most benefits with the lowest risks. This is a conversation to have with your doctor to determine the optimal window for you.
+The way you take hormones is just as important as which hormones you take. Your risk can depend on the specific mix of hormones used, the dosage, and the delivery method, whether it’s a pill, patch, cream, or pellet. For example, some delivery methods can bypass the liver, which may alter the risk profile for certain conditions. Timing is another crucial piece of the puzzle. Evidence suggests that starting [bioidentical hormone replacement therapy](/biote-hormone-therapy/) closer to the onset of menopause can offer the most benefits with the lowest risks. This is a conversation to have with your doctor to determine the optimal window for you.
 
 ### How Your Age and Duration of Use Play a Role
 
-Your age when you begin therapy and how long you continue it are significant factors. Hormone therapy is generally considered a safe option for healthy women who are under 60 or within 10 years of starting menopause. The conversation changes slightly when we talk about long-term use. According to the [American Cancer Society](https://www.cancer.org/cancer/risk-prevention/medical-treatments/menopausal-hormone-replacement-therapy-and-cancer-risk.html), using certain types of hormone therapy for more than a decade may be associated with a higher risk of breast cancer. This doesn’t mean it’s off the table, but it does mean that ongoing monitoring and regular check-ins with your healthcare provider are absolutely key to ensuring your treatment plan remains right for you.
+Your age when you begin therapy and how long you continue it are significant factors. Hormone therapy is generally considered a safe option for healthy women who are under 60 or within 10 years of starting menopause. The conversation changes slightly when we talk about long-term use. According to the American Cancer Society, using certain types of hormone therapy for more than a decade may be associated with a higher risk of breast cancer. This doesn’t mean it’s off the table, but it does mean that ongoing monitoring and regular check-ins with your healthcare provider are absolutely key to ensuring your treatment plan remains right for you.
 
 ### The Importance of Your Personal Health History
 
@@ -128,7 +128,7 @@ Furthermore, compounding pharmacies are not required to report adverse side effe
 
 ### How Your Choice Affects Blood Clot and Cancer Risk
 
-So, how does this all connect back to cancer risk? While much of the fear surrounding hormone therapy is based on outdated studies of synthetic hormones, the safety of modern [bioidentical hormones](https://navacenter.com/bhrt-and-cancer-risk/) relies on precise and stable dosing. The lack of regulation and potential for inconsistent dosing in compounded formulas can disrupt the careful balance needed to keep health risks low.
+So, how does this all connect back to cancer risk? While much of the fear surrounding hormone therapy is based on outdated studies of synthetic hormones, the safety of modern bioidentical hormones relies on precise and stable dosing. The lack of regulation and potential for inconsistent dosing in compounded formulas can disrupt the careful balance needed to keep health risks low.
 
 By choosing a well-researched, standardized bioidentical hormone therapy, you and your doctor have much greater control and predictability. This allows you to receive the full benefits of treatment, like relief from menopause symptoms, while carefully managing your overall health profile. Exploring all your [treatment options](/hormone-therapy/) with a trusted expert is the best way to find a path that feels both effective and safe.
 
@@ -158,7 +158,7 @@ The primary difference lies in how these hormones are structured. Traditional ho
 
 Much of the fear surrounding hormone therapy and cancer stems from an older, widely publicized study called the Women’s Health Initiative (WHI). However, that study focused on synthetic hormones, specifically a combination of synthetic estrogen and progestin. More recent research paints a much clearer picture for bioidentical hormones.
 
-A large-scale French study, for example, found that while synthetic progestins were linked to an increased risk of breast cancer, the use of bioidentical progesterone alongside bioidentical estrogen did not show the same major increase in risk. This suggests that the type of hormone matters immensely. Proponents of BHRT point to evidence that bioidentical progesterone and estradiol don’t appear to carry the same [breast cancer risks](https://navacenter.com/bhrt-and-cancer-risk/) as the synthetic versions used in older therapies.
+A large-scale French study, for example, found that while synthetic progestins were linked to an increased risk of breast cancer, the use of bioidentical progesterone alongside bioidentical estrogen did not show the same major increase in risk. This suggests that the type of hormone matters immensely. Proponents of BHRT point to evidence that bioidentical progesterone and estradiol don’t appear to carry the same breast cancer risks as the synthetic versions used in older therapies.
 
 ### Weighing the Pros and Cons for Your Stage of Life
 
