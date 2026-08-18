@@ -1,10 +1,10 @@
-export const BERMAN_SMS_PROGRAM_NAME = "Berman Women's Wellness Center";
+export const BERMAN_SMS_PROGRAM_NAME = "JRB Medical Wellness";
 
 export const FORM_ACKNOWLEDGMENT_TEXT =
   "I understand this website form is for appointment requests and general coordination only and is not a secure medical record.";
 
 export const SMS_CONSENT_TEXT =
-  "I agree to receive customer care text messages from Berman Women's Wellness Center about appointment requests, scheduling, and service updates. Message frequency varies, up to 10 messages/month. Message and data rates may apply. Reply HELP for help and STOP to unsubscribe. Consent is not a condition of purchase or treatment. See our Privacy Policy and Terms of Use.";
+  "By checking this box, I consent to receive customer care and support SMS messages from JRB Medical Wellness. Reply STOP to opt-out; Reply HELP for support. Message & data rates may apply; Messaging frequency may vary. Visit https://bermansexualhealth.com/privacy/ to see our Privacy Policy and https://bermansexualhealth.com/terms/ for a Terms of Use. Consent is not a condition of purchase or treatment.";
 
 export const REQUESTED_TIME_WINDOWS = [
   { value: "first-available", label: "First available" },

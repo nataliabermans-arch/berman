@@ -498,21 +498,27 @@ export default function LeadCaptureModal({
                         }
                       />
                       <span>
-                        I agree to receive customer care text messages from
-                        Berman Women&apos;s Wellness Center about appointment
-                        requests, scheduling, and service updates. Message
-                        frequency varies, up to 10 messages/month. Message and
-                        data rates may apply. Reply HELP for help and STOP to
-                        unsubscribe. Consent is not a condition of purchase or
-                        treatment. See our{" "}
-                        <a href="/privacy/" target="_blank" rel="noreferrer">
-                          Privacy Policy
+                        By checking this box, I consent to receive customer care
+                        and support SMS messages from JRB Medical Wellness. Reply
+                        STOP to opt-out; Reply HELP for support. Message &amp;
+                        data rates may apply; Messaging frequency may vary. Visit{" "}
+                        <a
+                          href="https://bermansexualhealth.com/privacy/"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          https://bermansexualhealth.com/privacy/
                         </a>{" "}
-                        and{" "}
-                        <a href="/terms/" target="_blank" rel="noreferrer">
-                          Terms of Use
-                        </a>
-                        .
+                        to see our Privacy Policy and{" "}
+                        <a
+                          href="https://bermansexualhealth.com/terms/"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          https://bermansexualhealth.com/terms/
+                        </a>{" "}
+                        for a Terms of Use. Consent is not a condition of
+                        purchase or treatment.
                       </span>
                     </label>
                   </>
