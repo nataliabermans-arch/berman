@@ -35,7 +35,7 @@ Furthermore, high cortisol (stress hormone) and systemic inflammation can down-r
 
 **2\. Metabolic Dysfunction and PCOS**
 
-Women with [polycystic ovary syndrome (PCOS)](/menopause-perimenopause/) often have elevated testosterone, but instead of vitality, they experience fatigue, irregular cycles, and [low libido](/vaginal-rejuvenation-expert/).
+Women with polycystic ovary syndrome (PCOS) often have elevated testosterone, but instead of vitality, they experience fatigue, irregular cycles, and low libido.
 
 This paradox is due to underlying insulin resistance, chronic low-grade inflammation, and hormonal chaos that impairs the body’s ability to utilize testosterone constructively.
 

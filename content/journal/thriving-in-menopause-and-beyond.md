@@ -21,7 +21,7 @@ author: "Dr. Jennifer Berman, MD"
 
 Menopause is a natural phase in a woman’s life that can bring about changes in both the body and mind. It is important for women over the age of 45 to embrace these changes and take steps to care for their bodies and minds during this time. Embracing your body and mind during menopause means accepting and understanding the changes that are happening and taking proactive steps to support your overall health and well-being.
 
-One key aspect of embracing your body and mind during **[menopause](/menopause-perimenopause/)** is staying active. Regular exercise can help to alleviate symptoms such as hot flashes, mood swings, and weight gain. It can also help to improve your overall mood and sense of well-being. Finding activities that you enjoy, such as walking, swimming, or yoga, can make it easier to stay motivated and consistent with your exercise routine.
+One key aspect of embracing your body and mind during **menopause** is staying active. Regular exercise can help to alleviate symptoms such as hot flashes, mood swings, and weight gain. It can also help to improve your overall mood and sense of well-being. Finding activities that you enjoy, such as walking, swimming, or yoga, can make it easier to stay motivated and consistent with your exercise routine.
 
 Another important aspect of embracing your body and mind during menopause is prioritizing self-care. This means taking time for yourself to relax, de-stress, and recharge. This could involve activities such as meditation, journaling, or spending time in nature. Self-care can help to reduce feelings of anxiety and overwhelm that can sometimes accompany menopause.
 
@@ -31,9 +31,9 @@ Avoiding processed foods, sugar, and caffeine can help to reduce symptoms such a
 
 Finally, seeking support from healthcare providers, friends, and family members can be incredibly beneficial during menopause. Talking to a doctor about your symptoms and treatment options can help you to feel more empowered and in control of your health. Connecting with other women who are going through menopause can also provide a sense of camaraderie and understanding. By embracing your body and mind during menopause and taking proactive steps to care for yourself, you can navigate this phase of life with grace and confidence.
 
-## [Menopause Biotype – Get Tailored Relief](/menopause/)
+## Menopause Biotype – Get Tailored Relief
 
-I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. [Learn More](/menopause/)
+I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. Learn More
 
 ## **Setting** **Goals** **for** **a** **Healthy** **and** **Fulfilling** **Post-Menopausal** **Life**
 
@@ -53,7 +53,7 @@ Remember to be kind to yourself and celebrate your accomplishments along the way
 
 ## **Celebrating** **the** **Wisdom** **and** **Strength of Menopausal Women**
 
-Menopause is a natural phase in a woman’s life that marks the end of her reproductive years. It is a time of transition that can bring about physical and emotional changes. However, **[menopausal](/menopause-perimenopause/)** women should not be viewed as weak or fragile. On the contrary, they should be celebrated for their wisdom and strength.
+Menopause is a natural phase in a woman’s life that marks the end of her reproductive years. It is a time of transition that can bring about physical and emotional changes. However, **menopausal** women should not be viewed as weak or fragile. On the contrary, they should be celebrated for their wisdom and strength.
 
 Menopausal women have lived through various life experiences and have gained valuable knowledge along the way. They have overcome challenges and have developed resilience that can serve as an inspiration to others.
 

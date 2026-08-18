@@ -17,7 +17,7 @@ author: "Dr. Jennifer Berman, MD"
 
 During Christmas parties and New Year’s Eve celebrations, drinking and dancing is in full flow, while the celebrations bring fun to all those around, it can also be a recipe for embarrassing leaks and awkward moments among friends and colleagues.
 
-To manage these conditions, many women who live with [stress urinary incontinence](/incontinence/) (SUI) on a daily basis will use common incontinence products such as pads and pants, which are promoted as a discreet method of managing urinary continence for women.
+To manage these conditions, many women who live with stress urinary incontinence (SUI) on a daily basis will use common incontinence products such as pads and pants, which are promoted as a discreet method of managing urinary continence for women.
 
 A new survey commissioned by ‘Control Your Choice’, has shown that 72 percent of women said they ‘felt embarrassed about wearing incontinence products’. An additional 29 percent said it made them feel more conscious about going out in public. Furthermore, almost 31 percent of women are ‘depressed by the thought of having to wear incontinence products for decades.’
 

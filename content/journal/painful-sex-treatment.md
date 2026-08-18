@@ -37,7 +37,7 @@ At the Berman Women’s Wellness Center, we believe that open conversations are 
 
 Education plays a crucial role in addressing painful sex. By understanding the underlying causes and available treatments, women can make informed decisions about their health. For instance, pelvic floor therapy can help with muscle-related issues, while hormone therapy might be needed for dryness due to menopause.
 
-Our team at the Berman Women’s Wellness Center is dedicated to providing comprehensive **[painful sex treatment in Los Angeles](/painful-sex-treatment/)**. We offer resources and consultations to help women understand their options. Knowledge empowers you to take control of your sexual health and seek the right treatments.
+Our team at the Berman Women’s Wellness Center is dedicated to providing comprehensive **painful sex treatment in Los Angeles**. We offer resources and consultations to help women understand their options. Knowledge empowers you to take control of your sexual health and seek the right treatments.
 
 ## Seeking Professional Help: What to Expect?
 

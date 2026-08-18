@@ -33,7 +33,7 @@ Perimenopause symptoms include:
 - Moodiness
 - Difficulty sleeping
 - Dry eyes and dry skin
-- [Weight gain](/menopausal-weight-gain-doesnt-have-to-be-your-reality/)
+- Weight gain
 - Memory, focus, and concentration difficulty 
 
 ![Get compassionate care for every stage of perimenopause and menopause with Dr. Jennifer Berman. Call (310) 772-0072 for expert guidance and personalized treatments.](/wp-content/uploads/2025/01/Dr.-Berman-Menopause-Perimenopause-197x300.png)
@@ -44,10 +44,10 @@ Perimenopause often lasts several years, and women may not even be fully aware o
 
 ## Is there a Perimenopause test?
 
-Many women wonder if they can be tested to find out if they are in perimenopause. My hormone balance quiz and testing provide information about your ovarian function and the status of your hormones ([estrogen](/neuroprotective-benefits-of-estrogen-in-womens-brain-health/), progesterone, and testosterone). Follicle-stimulating hormone or FSH, levels rise during perimenopause, while testosterone levels fall.
+Many women wonder if they can be tested to find out if they are in perimenopause. My hormone balance quiz and testing provide information about your ovarian function and the status of your hormones (estrogen, progesterone, and testosterone). Follicle-stimulating hormone or FSH, levels rise during perimenopause, while testosterone levels fall.
 
 ## Finding balance in your Hormones during Perimenopause
 
-The symptoms of perimenopause are typically directly related to fluctuations in your hormone (estrogen, progesterone, testosterone) levels. My bio-identical [hormone replacement therapy](/bio-identical-hormone-expert/) program is designed to balance hormones and eliminate the symptoms of perimenopause. My treatments are individually tailored to each woman’s specific needs based on her age, weight, symptoms, hormone levels, and risk factors. In almost all cases of perimenopause, testosterone levels are low and need to be balanced. Testosterone is a critical hormone for women as well as men and is responsible for physical energy levels, lean muscle mass, [sexual desire](/do-you-have-low-sexual-desire-if-so-youre-not-alone/), and much more.
+The symptoms of perimenopause are typically directly related to fluctuations in your hormone (estrogen, progesterone, testosterone) levels. My bio-identical hormone replacement therapy program is designed to balance hormones and eliminate the symptoms of perimenopause. My treatments are individually tailored to each woman’s specific needs based on her age, weight, symptoms, hormone levels, and risk factors. In almost all cases of perimenopause, testosterone levels are low and need to be balanced. Testosterone is a critical hormone for women as well as men and is responsible for physical energy levels, lean muscle mass, sexual desire, and much more.
 
-Take my quiz to find out if you’re in perimenopause. Looking for relief from hot flashes and hormone imbalance? Contact me, [Dr. Berman](/menopause-expert/), today for a [consultation](/virtual-consultation/) to discuss your options!
+Take my quiz to find out if you’re in perimenopause. Looking for relief from hot flashes and hormone imbalance? Contact me, Dr. Berman, today for a consultation to discuss your options!

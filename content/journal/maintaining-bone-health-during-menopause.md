@@ -28,11 +28,11 @@ Maintaining bone health during menopause can also help prevent other health issu
 
 Another reason why bone health is crucial for menopausal women is the impact it can have on overall quality of life. Fractures and bone-related issues can lead to chronic pain, decreased mobility, and a loss of independence. By prioritizing bone health through proper nutrition, exercise, and preventative measures, women can improve their overall well-being and maintain an active lifestyle during and after menopause.
 
-In conclusion, bone health is essential for **[menopausal women](/menopause-perimenopause/)** to prevent osteoporosis, reduce the risk of fractures, and maintain overall health and quality of life. By taking proactive steps to prioritize bone health, such as engaging in weight-bearing exercises, ensuring adequate calcium and vitamin D intake, and receiving regular screenings, women can empower themselves to age gracefully and maintain their independence and vitality during the menopausal transition and beyond.
+In conclusion, bone health is essential for **menopausal women** to prevent osteoporosis, reduce the risk of fractures, and maintain overall health and quality of life. By taking proactive steps to prioritize bone health, such as engaging in weight-bearing exercises, ensuring adequate calcium and vitamin D intake, and receiving regular screenings, women can empower themselves to age gracefully and maintain their independence and vitality during the menopausal transition and beyond.
 
-## [Menopause Biotype – Get Tailored Relief](/menopause/)
+## Menopause Biotype – Get Tailored Relief
 
-I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. [Learn More](/menopause/)
+I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. Learn More
 
 ## **Recommended** **Supplements** **for** **Bone** **Health**
 
@@ -46,7 +46,7 @@ Magnesium is another important mineral for bone health, as it helps regulate cal
 
 Vitamin K2 is a lesser-known nutrient that is essential for bone health, as it helps transport calcium to the bones and prevents it from accumulating in the arteries. Menopausal women should aim to get 90-120 mcg of vitamin K2 per day through supplements. Vitamin K2 MK-7 is the most bioavailable form of vitamin K2 and is recommended for women over 45 to support bone health.
 
-In addition to these supplements, menopausal women should also consider incorporating collagen peptides into their daily routine to support bone health. Collagen is the main protein in bones and helps maintain bone strength and flexibility. **[Menopausal women](/menopause-perimenopause/)** can add collagen peptides to their morning smoothie or coffee to support bone health and overall well-being during the menopausal years.
+In addition to these supplements, menopausal women should also consider incorporating collagen peptides into their daily routine to support bone health. Collagen is the main protein in bones and helps maintain bone strength and flexibility. **Menopausal women** can add collagen peptides to their morning smoothie or coffee to support bone health and overall well-being during the menopausal years.
 
 ## **Exercise** **Tips** **for** **Strong** **Bones**
 

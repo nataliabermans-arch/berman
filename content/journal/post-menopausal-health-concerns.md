@@ -26,7 +26,7 @@ One of the most significant risks of osteoporosis after menopause is the increas
 
 Fractures can occur more easily in those with weakened bones, leading to a higher risk of injuries and complications. This can have a significant impact on a woman’s quality of life, as fractures can result in pain, limited mobility, and potentially long-term health issues.
 
-Another risk of osteoporosis after **[menopause](/menopause-perimenopause/)** is the potential for spinal compression fractures. These fractures can occur in the vertebrae of the spine, leading to a stooped posture and chronic back pain. Spinal compression fractures can also result in a loss of height and decreased lung capacity, making it more challenging to breathe properly. It is crucial for women over 45 to be aware of the risks of osteoporosis and take steps to prevent this condition from developing.
+Another risk of osteoporosis after **menopause** is the potential for spinal compression fractures. These fractures can occur in the vertebrae of the spine, leading to a stooped posture and chronic back pain. Spinal compression fractures can also result in a loss of height and decreased lung capacity, making it more challenging to breathe properly. It is crucial for women over 45 to be aware of the risks of osteoporosis and take steps to prevent this condition from developing.
 
 In addition to fractures and spinal compression fractures, women with osteoporosis are also at a higher risk of developing other health issues, such as osteoarthritis.
 
@@ -54,7 +54,7 @@ In conclusion, breast cancer screening and prevention are critical components of
 
 As women age and go through menopause, there are several health considerations that become more important to address. In addition to the common symptoms of menopause such as hot flashes and mood swings, post-menopausal women should also pay attention to their overall health and well-being. Here are some other health considerations for post-menopausal women to keep in mind.
 
-One important consideration for post-menopausal women is bone health. After **[menopause](/menopause-perimenopause/)**, women are at a higher risk for osteoporosis, a condition that weakens bones and increases the risk of fractures. It is important for women to get enough calcium and vitamin D in their diet, as well as engage in weight-bearing exercises to help maintain bone strength. Regular bone density screenings may also be recommended to monitor bone health and detect any signs of osteoporosis early on.
+One important consideration for post-menopausal women is bone health. After **menopause**, women are at a higher risk for osteoporosis, a condition that weakens bones and increases the risk of fractures. It is important for women to get enough calcium and vitamin D in their diet, as well as engage in weight-bearing exercises to help maintain bone strength. Regular bone density screenings may also be recommended to monitor bone health and detect any signs of osteoporosis early on.
 
 Heart health is another important consideration for post- menopausal women. Estrogen levels drop after menopause, which can increase the risk of heart disease. It is important for women to maintain a healthy lifestyle, including a balanced diet, regular exercise, and managing stress. Regular check-ups with a healthcare provider may also be necessary to monitor blood pressure, cholesterol levels, and other risk factors for heart disease.
 

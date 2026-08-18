@@ -48,13 +48,13 @@ Perimenopause can come with a wide variety of signs and symptoms. Some women hav
 
 If you’re looking for more in-depth information on the symptoms and causes of perimenopause, the Mayo Clinic provides a comprehensive guide covering what to expect during this transition and how to manage common symptoms.
 
-## [Menopause Biotype – Get Tailored Relief](/menopause/)
+## Menopause Biotype – Get Tailored Relief
 
-I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. [Learn More](/menopause/)
+I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. Learn More
 
 ### Treatment Options for Perimenopause at The Berman Women’s Wellness Center
 
-Dealing with perimenopause isn’t always easy, but there are options to help you feel more like yourself again. Dr. Berman offers a range of [**hormone treatments for menopause in Los Angeles**](/menopause-perimenopause/) tailored to your needs.
+Dealing with perimenopause isn’t always easy, but there are options to help you feel more like yourself again. Dr. Berman offers a range of **hormone treatments for menopause in Los Angeles** tailored to your needs.
 
 #### Bio-Identical Hormone Replacement Therapy (HRT)
 

@@ -18,7 +18,7 @@ Recently approved by the FDA, Vyleesi™ (bremelanotide) provides another dimens
 
 Vyleesi was developed by Palatin Technologies under the trade name Rekynda™ (bremelanotide). The company licensed the drug to AMAG Pharmaceuticals for development and marketing in North America under the brand name Vyleesi, in February 2017.
 
-The new drug was submitted to the FDA for approval in March 2018. After a 12+ month review process, the FDA granted approval to the drug in June 2019. This approval made Vyleesi the first drug to be approved for the purpose of treating acquired or generalised HSDD affecting pre-menopausal women. Other solutions such as [Addyi](/addyi-the-pink-pill-for-women-affected-by-hypoactive-sexual-desire-disorder-hsdd/) were introduced before to treat loss of sexual desire in women.
+The new drug was submitted to the FDA for approval in March 2018. After a 12+ month review process, the FDA granted approval to the drug in June 2019. This approval made Vyleesi the first drug to be approved for the purpose of treating acquired or generalised HSDD affecting pre-menopausal women. Other solutions such as Addyi were introduced before to treat loss of sexual desire in women.
 
 Expect more developments and buzz to surround this drug as pharmaceutical companies are promoting it in China, South Korea, and many other markets.
 

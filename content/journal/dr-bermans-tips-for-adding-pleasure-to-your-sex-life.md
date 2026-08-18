@@ -21,7 +21,7 @@ Most women wouldn’t be caught dead in a sex shop. They’d simply be too embar
 
 If you’ve been thinking of buying a sex toy or an erotic video, but feel less than confident about what you’re doing, this is the kind of shop for you. 
 
-[Dr. Berman](/) recommends vibrators to everyone, but obviously not everyone is comfortable with the idea. The first step is getting to know your body, feeling comfortable with your body—and some women are never comfortable with vibrators, and that’s okay. 
+Dr. Berman recommends vibrators to everyone, but obviously not everyone is comfortable with the idea. The first step is getting to know your body, feeling comfortable with your body—and some women are never comfortable with vibrators, and that’s okay. 
 
 But if you’re in the market for a vibrator,  Be cautions about walking into a store and asking: “What’s your best vibrator?” You’ll get a $75 thing with bells and whistles and moving pearls that doesn’t even necessarily help.” 
 

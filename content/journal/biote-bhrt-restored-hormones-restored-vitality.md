@@ -16,7 +16,7 @@ As we age, there is a decline in the functions of our body systems. Skin sags, m
 
 HRT comes in different ways or forms – patches, creams, gels, or pills. In recent years, Bioidentical Hormone Replacement Therapy emerged, introducing the pellets form. And among the key players in this market is BioTE. BioTE is a leading innovator in precision and preventive medicine, whose aim is hormone restoration and optimization for restored vitality.
 
-BioTE’s Method of [bioidentical hormone replacement therapy](/biote-hormone-therapy/) (BHRT) uses pellets about the size of a grain of rice. These pellets contain bioidentical hormones compounded in quality-controlled U.S.-based facilities. These supplemental pellets are identical to the ones produced by the body.
+BioTE’s Method of bioidentical hormone replacement therapy (BHRT) uses pellets about the size of a grain of rice. These pellets contain bioidentical hormones compounded in quality-controlled U.S.-based facilities. These supplemental pellets are identical to the ones produced by the body.
 
 As a certified BioTE BHRT provider, I strongly recommend this innovative healthcare service. Because here at Berman Women’s Wellness Center, we provide you with only the best restored vitality!
 
@@ -67,4 +67,4 @@ It was a retrospective conducted over nine years, with data collected from Janua
 
 ## **Schedule Your BioTE Pellet Therapy Consultation Today**
 
-BioTE bioidentical testosterone pellets can be an excellent and convenient way to combat the effects of changing hormones due to menopause. If you want to experience the benefits of BioTE bioidentical testosterone pellets, to learn more about [hormone replacement therapy](/natural-alternative-hrt/) and restored vitality, ask a question, or schedule your first appointment, contact my office at **(310) 772-0072** or email me directly at [office@drjennberman.com](mailto:office@drjennberman.com).
+BioTE bioidentical testosterone pellets can be an excellent and convenient way to combat the effects of changing hormones due to menopause. If you want to experience the benefits of BioTE bioidentical testosterone pellets, to learn more about hormone replacement therapy and restored vitality, ask a question, or schedule your first appointment, contact my office at **(310) 772-0072** or email me directly at [office@drjennberman.com](mailto:office@drjennberman.com).

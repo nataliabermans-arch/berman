@@ -27,13 +27,13 @@ Chronic pelvic pain can be debilitating, and the effects far reaching. Living in
 
 Dr. Berman developed and created an innovative pelvic pain treatment program that is clinically proven to work. Dr. Berman is best known for rapidly identifying the root cause for the problem and tailoring her treatments based on each woman’s individual history and needs. Dr. Berman partners with her patients to implement effective treatment plans using cutting edge, clinically proven medications, supplements, interventions and medical technologies directed towards treating the vascular, smooth muscle and neurological exacerbating symptoms. If you are struggling with pelvic pain and are seeking to get your life back. Schedule your consultation with Dr. Jennifer Berman today by calling **310-772-0072.**
 
-[![book a consultation with dr berman](/wp-content/uploads/2023/02/Book-a-consultation-with-Dr.-Nina.png)](/contact/)
+![book a consultation with dr berman](/contact/)
 
 #### Conclusion
 
 It’s estimated that 1 in 10 women have HSDD, which makes the most common sexual dysfunction in females. Women’s low sex drive and related distress can negatively impact a woman’s life, but can be fixed.
 
-Luckily, women who suffer from low sex drive or hormone deficiency don’t have to face their problems alone any longer. [Dr. Jennifer Berman](/about/) is world-renowned as a leading authority in the field of women’s sexual health and has a vast amount of experience in treating women who live with hypo active sexual desire. Women who go through menopause, experience hormone deficiency, and need compassionate low libido therapy from an experienced urologist, come to [The Berman Women’s Wellness Center in Beverly Hills](/). Here, Dr. Berman offers a wide variety of treatments for women experiencing low libido, and can custom create a solution to bring back your passionate play. She also supports the initiative of the ‘Right To Desire’ movement to raise awareness around this condition.
+Luckily, women who suffer from low sex drive or hormone deficiency don’t have to face their problems alone any longer. Dr. Jennifer Berman is world-renowned as a leading authority in the field of women’s sexual health and has a vast amount of experience in treating women who live with hypo active sexual desire. Women who go through menopause, experience hormone deficiency, and need compassionate low libido therapy from an experienced urologist, come to The Berman Women’s Wellness Center in Beverly Hills. Here, Dr. Berman offers a wide variety of treatments for women experiencing low libido, and can custom create a solution to bring back your passionate play. She also supports the initiative of the ‘Right To Desire’ movement to raise awareness around this condition.
 
 ![Right to Desire Movement](/wp-content/uploads/2023/02/right-to-desire-berman.jpg)
 

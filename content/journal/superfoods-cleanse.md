@@ -20,7 +20,7 @@ author: "Dr. Jennifer Berman, MD"
 
 **_I, personally, have had success with the superfood cleanse, and I want to share the experience of one of my patients, who turned from a super skeptic into a superfood believer!_**
 
-Dear [Dr. Berman](/about/),
+Dear Dr. Berman,
 
 I want to thank you for introducing me to the KROMA superfood cleanse. I am not one to ever stick to a diet, let alone a 5 -day cleanse. However this program literally changed my life!
 

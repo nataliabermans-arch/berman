@@ -24,7 +24,7 @@ Let’s dive into what causes vaginal dryness and how we can help you regain you
 
 ## What Causes Vaginal Dryness?
 
-**[Vaginal dryness](/vaginal-dryness-causes-moisturizing-treatments/)** can happen for a variety of reasons, and it’s not just something women experience as they get older. Here are some of the most common culprits:
+**Vaginal dryness** can happen for a variety of reasons, and it’s not just something women experience as they get older. Here are some of the most common culprits:
 
 ### Hormonal Changes
 
@@ -72,6 +72,6 @@ Our team is experienced, compassionate, and committed to providing personalized 
 
 ### Take the Next Step Toward Comfort!
 
-With modern **[vaginal dryness treatments](/vaginal-dryness-causes-moisturizing-treatments/)** like V-Tone, FormaV, andEmFemme 360**,** relief is just around the corner. These treatments can restore natural moisture, improve your comfort, and enhance your overall vaginal health. And best of all? They’re quick, painless, and non-invasive.
+With modern **vaginal dryness treatments** like V-Tone, FormaV, andEmFemme 360**,** relief is just around the corner. These treatments can restore natural moisture, improve your comfort, and enhance your overall vaginal health. And best of all? They’re quick, painless, and non-invasive.
 
 If you’re ready to say goodbye to vaginal dryness, contact the Berman Women’s Wellness Center today to schedule a consultation. Let us help you get back to feeling like yourself again.

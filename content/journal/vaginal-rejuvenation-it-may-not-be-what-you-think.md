@@ -13,7 +13,7 @@ originalUrl: >-
 author: "Dr. Jennifer Berman, MD"
 ---
 
-In line with everything in nature, the female body changes with aging, [menopause](/menopause-expert/) and childbirth. Some of the common symptoms women experience include:
+In line with everything in nature, the female body changes with aging, menopause and childbirth. Some of the common symptoms women experience include:
 
 - Vaginal dryness and painful intercourse
 - Diminished arousal and difficulty reaching orgasm
@@ -24,7 +24,7 @@ I frequently performs Votiva feminine rejuvenation to quickly and comfortably ad
 
 ## Nonsurgical, Minimally Invasive Vaginal Rejuvenation
 
-Nonsurgical [vaginal rejuvenation](/vaginal-rejuvenation-expert/) is an energy-based treatment that targets the core issues related to vaginal atrophy: laxity and thinning. Just like the skin everywhere on the body, the vaginal lining and external genitalia rely on strong collagen and elastin fibers for thickness and tone. These tissues rely on blood flow. The Votiva radiofrequency platform stimulates the production of new vascual and neural tissue.
+Nonsurgical vaginal rejuvenation is an energy-based treatment that targets the core issues related to vaginal atrophy: laxity and thinning. Just like the skin everywhere on the body, the vaginal lining and external genitalia rely on strong collagen and elastin fibers for thickness and tone. These tissues rely on blood flow. The Votiva radiofrequency platform stimulates the production of new vascual and neural tissue.
 
 ## Customized Treatments Achieve Excellent Results
 

@@ -18,7 +18,7 @@ author: "Dr. Jennifer Berman, MD"
 
 CBD has been making a lot of headlines as of late, and for good reason. Having become one of the most beneficial substances you can put in and on your body when it comes to alleviating pain or suffering from debilitating conditions. It has also been found to have many other benefits including lessening anxiety, reducing nausea, enhancing moods, and more!
 
-Dr. Berman has noticed the incredible benefits of [CBD](/cbd-oil/) for female sexual health, function, and wellness. From her clinical experience, she has found that it has the ability to improve sexual desire, arousal, pain during intercourse, and can be used to treat irritation in the vagina. Dr. Berman has spoken with a variety of businesses about the development of a [CBD](/cbd-oil/) line that aids in sexual health, sleep, anxiety, and inflammation.
+Dr. Berman has noticed the incredible benefits of CBD for female sexual health, function, and wellness. From her clinical experience, she has found that it has the ability to improve sexual desire, arousal, pain during intercourse, and can be used to treat irritation in the vagina. Dr. Berman has spoken with a variety of businesses about the development of a CBD line that aids in sexual health, sleep, anxiety, and inflammation.
 
 ## The Science Behind CBD and Your Sexual Health
 
@@ -30,6 +30,6 @@ The endocannabinoid system, which includes tiny receptors located throughout you
 
 - Help with erectile dysfunction Cannabis sativa, the plant from which marijuana and CBD are derived, has been widely used as an ancient Indian Technique for years to improve ejaculatory function and sexual performance.
 - Lubrication- Many CBD manufacturers are adding it to their lubricant due to its anti-inflammatory effects, with users finding that it increases lubrication and helps them feel much more relaxed during intercourse.
-- [Sex Drive](/what-is-normal-womens-sexual-health/) – There is a theory that activating the cannabinoid receptor in the brain can help those that suffer from a low sex drive. 
+- Sex Drive – There is a theory that activating the cannabinoid receptor in the brain can help those that suffer from a low sex drive. 
 
-For additional information feel free to check out our [CBD](/cbd-oil-and-sexual-health-benefits/) resource page.
+For additional information feel free to check out our CBD resource page.

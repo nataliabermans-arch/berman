@@ -15,7 +15,7 @@ author: "Dr. Jennifer Berman, MD"
 
 Professional interest in female sexual dysfunction (FSD) has evolved rapidly with the FDA approval of several landmark treatments. Studies indicate that approximately 43% of American women experience some form of sexual dysfunction, with Hypoactive Sexual Desire Disorder (HSDD) being the most common complaint. The highest proportion occurs in young women between the ages of 18 and 29. (Updated clinical data from the Journal of Women’s Health and the FDA now provides a clearer roadmap for pharmacological intervention in pre- and postmenopausal women.) The lack of desire appears to be the number one, most significant complaint, followed by arousal and lubrication dysfunctions.
 
-Twenty-one percent of those surveyed experienced physical pain during sex, while 27 percent reported that intercourse was not enjoyable. Sixteen percent admitted to sexual anxiety. The prevalence of [female sexual dysfunction](/female-sexual-dysfunction/) continues to be documented and the topic has generated discussions in both the medical and lay communities (60 Minutes, Larry King, Newsweek, Oprah).
+Twenty-one percent of those surveyed experienced physical pain during sex, while 27 percent reported that intercourse was not enjoyable. Sixteen percent admitted to sexual anxiety. The prevalence of female sexual dysfunction continues to be documented and the topic has generated discussions in both the medical and lay communities (60 Minutes, Larry King, Newsweek, Oprah).
 
 Male sexual dysfunction has received the lion’s share of interest, but women’s complaints have been virtually ignored. Thankfully, that trend seems to be changing. With the advent of Viagra, the JAMA report and women’s demands, drug companies are investigating drug treatments for women with sexual dysfunction. We know that there will not be a magic pill to cure sexual dysfunction, but we do have hope for the future. While clinical investigations take time, we anticipate the study of female sexual dysfunction will advance so all women can benefit from treatment. While medications are effective, many patients see optimal results when combining drug therapy with regenerative options like the **O-Shot treatment for low libido**.
 
@@ -105,7 +105,7 @@ HSDD is the medical term for a persistent or recurrent lack of interest in sex t
 
 **Q: How do I know if I need a prescription or a procedure?** During your consultation, we evaluate if your symptoms are best treated with medication (like Addyi) or regenerative procedures such as the **O-Shot®** or **Vaginal Rejuvenation** to improve physical sensation and comfort.
 
-For women experiencing physical discomfort or laxity, we also offer non-surgical **[Vaginal Rejuvenation](/vaginal-rejuvenation-expert/)** and **[Forma V](/vaginal-rejuvenation/)** treatments to complement your prescription plan.
+For women experiencing physical discomfort or laxity, we also offer non-surgical **Vaginal Rejuvenation** and **Forma V** treatments to complement your prescription plan.
 
 Additional resources on female sexuality are available from MayoClinic.com:
 

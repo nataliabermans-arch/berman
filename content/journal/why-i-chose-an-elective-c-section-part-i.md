@@ -24,7 +24,7 @@ The reason being that it was believed that the risk of surgery outweighed the be
 
 Thus, the occurrence of poor maternal or neonatal outcomes occur predominantly in emergent C- sections as opposed to planned c section under a well controlled setting. A study was done in the international randomized Term Breech Trial involving 2088 women which found that the risk of perinatal or neonatal death or of serious neonatal morbidity was significantly lower in the planned cesarean group, with no significant increase in the risk of maternal death or serious maternal morbidity. This is exciting news for women as elective C-Sections can now be covered by insurance.
 
-This time it’s going to be different! I won’t have as much trouble with pain or a prolonged process. I have an appointment scheduled, so Ill be fully prepared. Above all, I hope to avoid [incontinence and prolapse](/vaginal-rejuvenation-expert/) problem’s later in my life. Ive elected to have my baby by caesarean section.
+This time it’s going to be different! I won’t have as much trouble with pain or a prolonged process. I have an appointment scheduled, so Ill be fully prepared. Above all, I hope to avoid incontinence and prolapse problem’s later in my life. Ive elected to have my baby by caesarean section.
 
 ## **Before the C-Section Procedure:**
 
@@ -42,7 +42,7 @@ Had I seen patients with such problems before Max was born, I would have elected
 
 In the past, conventional wisdom held that a woman should only have a c-section in cases of emergency: fetal distress, a baby in breech (feet first) position, mother’s blood pressure, preeclampsia, and other health concerns. Vaginal births were ?mother nature’s way; it is also the way most obstetricians and midwives have been taught. In some cases, women who had caesarians felt inadequate, thinking they’d somehow failed to do things the ?right way.?
 
-Now, however, women and their doctors are turning to c-section to reduce the inherent risks of vaginal delivery. These risks include damage to the [pelvic floor](/vaginal-rejuvenation-expert/), urinary and rectal incontinence, vaginal tearing, and pain. Complications from episiotomy (the cutting of the perineum, the area between the vagina and the anus) can cause scarring and lead to painful intercourse. In cases of vacuum or forceps delivery, these risks to baby and mother increase.
+Now, however, women and their doctors are turning to c-section to reduce the inherent risks of vaginal delivery. These risks include damage to the pelvic floor, urinary and rectal incontinence, vaginal tearing, and pain. Complications from episiotomy (the cutting of the perineum, the area between the vagina and the anus) can cause scarring and lead to painful intercourse. In cases of vacuum or forceps delivery, these risks to baby and mother increase.
 
 Even elective c-section, with its measure of control, is not without risks. It is major surgery that has the potential to cause excessive blood loss, infection, deep vein thrombosis, bowel and bladder damage. The baby can experience respiratory distress syndrome if it is born too early. The recovery period for c-section can be longer than for vaginal delivery and there can be accompanying sexual dysfunction due to adhesions.
 

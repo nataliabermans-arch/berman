@@ -17,7 +17,7 @@ Stress urinary incontinence is an issue many women struggle with, and women are 
 
 ## What are the symptoms of stress urinary incontinence?
 
-[Urinary incontinence](/incontinence/) is the involuntary release of urine from the urethra. Stress incontinence means that loss of urine happens whenever increased pressure is placed on the bladder. This occurs when you cough, sneeze, jump, laugh or lift heavy objects. 
+Urinary incontinence is the involuntary release of urine from the urethra. Stress incontinence means that loss of urine happens whenever increased pressure is placed on the bladder. This occurs when you cough, sneeze, jump, laugh or lift heavy objects. 
 
 ## What are the causes of stress incontinence? 
 
@@ -31,7 +31,7 @@ Weakening of the pelvic floor muscles and support tissue typically occurs follow
 
 There are several NEW treatment options available for stress incontinence that are minimally invasive, safe, and effective. We all know about Kegels, which can help strengthen your pelvic floor, but they can lose their effect after childbirth. Pelvic floor physical therapy can help too, but it requires time and commitment. Surgery is an option in more severe cases, such as those involving bladder prolapse. 
 
-For those looking for a quicker and more effective fix, another option is the [Emsella](/emsella-treatment-for-incontinence/) device. The Emsella device is a noninvasive way to re-strengthen the pelvic floor muscles. This chair-like device allows the user to sit down fully clothed, and using electromagnetic energy, the device stimulates the pelvic floor muscles, causing them to contract to tone the pelvic floor. This treatment involves six 28-minute sessions for three weeks and is painless. Emsella has a 95% patient satisfaction rate.
+For those looking for a quicker and more effective fix, another option is the Emsella device. The Emsella device is a noninvasive way to re-strengthen the pelvic floor muscles. This chair-like device allows the user to sit down fully clothed, and using electromagnetic energy, the device stimulates the pelvic floor muscles, causing them to contract to tone the pelvic floor. This treatment involves six 28-minute sessions for three weeks and is painless. Emsella has a 95% patient satisfaction rate.
 
 Another option is the Empower treatment. This is a multi-tool treatment that helps everything from stress incontinence to vaginal laxity to blood circulation. The multiple tools include the FormaV handpiece which helps to tighten and tone vaginal tissue using radiofrequency. This painless procedure requires only about three sessions for optimal results. Along with FormaV is the Morpheus 8V which also uses customizable radiofrequency. Another tool is the VTone, which uses electrical muscle stimulation  (EMS) to help strengthen the pelvic floor and help with incontinence. 
 

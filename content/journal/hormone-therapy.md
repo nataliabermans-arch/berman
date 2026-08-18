@@ -16,7 +16,7 @@ author: "Dr. Jennifer Berman, MD"
 
 ## Restore your vitality and balance your body with personalized Bioidentical Hormone Replacement Therapy (BHRT).
 
-Dr. Jennifer Berman offers cutting-edge, natural hormone solutions designed to alleviate the symptoms of menopause, perimenopause, and hormonal imbalances. Unlike synthetic options, our [bioidentical hormones](/biote-hormone-therapy/) are molecularly identical to those your body produces, ensuring a safer and more effective path to wellness.
+Dr. Jennifer Berman offers cutting-edge, natural hormone solutions designed to alleviate the symptoms of menopause, perimenopause, and hormonal imbalances. Unlike synthetic options, our bioidentical hormones are molecularly identical to those your body produces, ensuring a safer and more effective path to wellness.
 
 ---
 
@@ -29,7 +29,7 @@ Dr. Jennifer Berman offers cutting-edge, natural hormone solutions designed to a
 **Is a Hormone Imbalance Affecting Your Quality of Life?** Hormonal shifts during perimenopause and menopause can trigger a wide range of disruptive symptoms. Dr. Berman specializes in treating:
 
 - **Hot Flashes & Night Sweats:** Regulate your body’s “internal thermostat.”
-- **[Low Libido](/o-shot/) & Sexual Dysfunction:** Restore desire and intimacy.
+- **Low Libido & Sexual Dysfunction:** Restore desire and intimacy.
 - **Mood Swings & Anxiety:** Stabilize brain chemistry for emotional balance.
 - **Weight Gain & Stubborn Belly Fat:** Address metabolic slows caused by estrogen decline.
 - **Insomnia & Fatigue:** Improve sleep cycles and daytime energy levels.
@@ -41,7 +41,7 @@ Dr. Jennifer Berman offers cutting-edge, natural hormone solutions designed to a
 
 **Personalized Delivery Methods for Your Lifestyle** Every woman’s body is unique. We offer various administration routes to ensure optimal absorption:
 
-- **Bioidentical Hormone Pellets ([Biote](/hormone-therapy/)):** Subcutaneous pellets that release a steady stream of hormones.
+- **Bioidentical Hormone Pellets (Biote):** Subcutaneous pellets that release a steady stream of hormones.
 - **Transdermal Gels & Creams:** Easy-to-apply topical solutions.
 - **Vaginal Suppositories:** Targeted relief for vaginal dryness and atrophy.
 - **Oral Micronized Progesterone:** Often used to improve sleep and uterine health.
@@ -50,7 +50,7 @@ Dr. Jennifer Berman offers cutting-edge, natural hormone solutions designed to a
 
 ### **Menopause Symptoms May Come Back After Stopping Menopausal Hormone Therapy**
 
-Some women who use a combination of estrogen and progestin to control the symptoms of [menopause](/menopause/) might find symptoms return when they stop the hormones. According to the latest findings from the Women’s Health Initiative (WHI), a major clinical trial of the risks and benefits of menopausal hormone therapy supported by the National Institutes of Health (NIH).
+Some women who use a combination of estrogen and progestin to control the symptoms of menopause might find symptoms return when they stop the hormones. According to the latest findings from the Women’s Health Initiative (WHI), a major clinical trial of the risks and benefits of menopausal hormone therapy supported by the National Institutes of Health (NIH).
 
 ---
 

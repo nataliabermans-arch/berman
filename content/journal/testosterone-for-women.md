@@ -86,7 +86,7 @@ Hormone therapy can be required for different reasons as an imbalance of the hor
 - Weight gain
 - Mood swings
 - Hot flashes
-- [Vaginal dryness](/vaginal-dryness-treatment/)
+- Vaginal dryness
 - Night sweats
 - Low energy levels
 - Memory loss
@@ -97,7 +97,7 @@ Hormone therapy can be required for different reasons as an imbalance of the hor
 
 There are various treatments options available for women with low testosterone levels and reduced sex drive. These treatments must be delivered by a medical provider who can properly evaluate, dose, and treat each patient’s individual needs.
 
-Every woman is unique, and the treatments needs can vary. For this reason, a formal consultation is important before any hormonal treatment is initiated. The symptoms need to be properly identified and assessed to ensure proper delivery and dosing. For the appropriate patient, [Bio-Identical Hormone Replacement therapy](/bioidentical-hormone-replacement-therapy/) is safe, effective, and improves overall health and well-being. Achieving hormone balance improves general health, sexual health, promotes longevity and helps to prevent diseases such as Alzheimer’s, colon cancer, and bone demineralization.
+Every woman is unique, and the treatments needs can vary. For this reason, a formal consultation is important before any hormonal treatment is initiated. The symptoms need to be properly identified and assessed to ensure proper delivery and dosing. For the appropriate patient, Bio-Identical Hormone Replacement therapy is safe, effective, and improves overall health and well-being. Achieving hormone balance improves general health, sexual health, promotes longevity and helps to prevent diseases such as Alzheimer’s, colon cancer, and bone demineralization.
 
 ## FAQs:
 

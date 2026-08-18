@@ -15,7 +15,7 @@ tags:
 author: "Dr. Jennifer Berman, MD"
 ---
 
-If you’re near or within your [**menopausal years**](/menopause/), you may be well aware that **weight gain** is one of the most common effects of changing hormones. Weight may also be affected by your genetics and your lifestyle. Perimenopause and menopause are highly individual experiences. Regardless of how well you eat and how committed you are to regular exercise, your journey may be bumpier than you’d like. The frustrations of stubborn weight gain are manageable, though. What you may need is a more effective weight loss program.
+If you’re near or within your **menopausal years**, you may be well aware that **weight gain** is one of the most common effects of changing hormones. Weight may also be affected by your genetics and your lifestyle. Perimenopause and menopause are highly individual experiences. Regardless of how well you eat and how committed you are to regular exercise, your journey may be bumpier than you’d like. The frustrations of stubborn weight gain are manageable, though. What you may need is a more effective weight loss program.
 
 ## **Finding the Ideal Way to Lose Weight**
 

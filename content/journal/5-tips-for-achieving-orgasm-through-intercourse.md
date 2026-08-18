@@ -13,7 +13,7 @@ originalUrl: >-
 author: "Dr. Jennifer Berman, MD"
 ---
 
-For women who want to have an [orgasm during intercourse](/vaginal-rejuvenation-expert/), but have either been unable to or [have had difficulties](/contact/), here are some positions and techniques that may help.
+For women who want to have an orgasm during intercourse, but have either been unable to or [have had difficulties](/contact/), here are some positions and techniques that may help.
 
 **The missionary position with a full pelvic tilt.** This position enables the penis to reach the G-spot, the part of the clitoris that extends into the vaginal wall. Lie on your back, beneath your partner, and tilt your pelvis upward. It helps to put one or more pillows beneath your buttocks, or have your partner raise up your buttocks with his hands.
 

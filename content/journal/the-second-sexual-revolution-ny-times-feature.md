@@ -12,7 +12,7 @@ originalUrl: "https://bermansexualhealth.com/the-second-sexual-revolution-ny-tim
 author: "Dr. Jennifer Berman, MD"
 ---
 
-This New York Times article from Jack Hitt, 2000, highlights Viagra and the growth of sexual enhancement drugs as a whole. The objective of the article was to discuss the various aspects associated with the usage and effectiveness of these medicines for [treating sexual dysfunction](/about/wellness-center/). Since then, the use of male sexual enhancement drugs has grown exponentially and Viagra alone generates half a Billion Dollars in revenue per year.
+This New York Times article from Jack Hitt, 2000, highlights Viagra and the growth of sexual enhancement drugs as a whole. The objective of the article was to discuss the various aspects associated with the usage and effectiveness of these medicines for treating sexual dysfunction. Since then, the use of male sexual enhancement drugs has grown exponentially and Viagra alone generates half a Billion Dollars in revenue per year.
 
 Dr. Berman was one of the researchers who conducted early studies to see whether there is a link between Viagra and strong libido. The NYT article and many doctors wonder whether these types of drugs can also be applied to improve the sexual experiences of normally functioning individuals.
 

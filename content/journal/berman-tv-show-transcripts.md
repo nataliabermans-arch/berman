@@ -32,7 +32,7 @@ Dr. Berman’s academic career began at Hollins College (now Hollins University)
 
 #### Medical Degree and Specialized Training
 
-After building her foundational knowledge, Dr. Berman earned her medical degree from the prestigious Boston University School of Medicine. She then completed her urology residency at the University of Maryland, followed by a highly specialized fellowship at the UCLA Medical Center. There, she focused specifically on female urology and pelvic floor reconstructive surgery. This advanced training put her at the forefront of a new and evolving field, equipping her with the unique expertise to address health concerns that many women face. You can learn more about her impressive background on her [about page](/about/).
+After building her foundational knowledge, Dr. Berman earned her medical degree from the prestigious Boston University School of Medicine. She then completed her urology residency at the University of Maryland, followed by a highly specialized fellowship at the UCLA Medical Center. There, she focused specifically on female urology and pelvic floor reconstructive surgery. This advanced training put her at the forefront of a new and evolving field, equipping her with the unique expertise to address health concerns that many women face. You can learn more about her impressive background on her about page.
 
 ### A Career Dedicated to Women’s Health
 
@@ -44,7 +44,7 @@ In 2001, Dr. Berman made history when she became the first-ever director of the 
 
 #### Founding The Berman Women’s Wellness Center
 
-Driven by a vision to provide comprehensive and integrated care, Dr. Berman later opened her private practice in Beverly Hills, founding The Berman Women’s Wellness Center. This center is the culmination of her life’s work, offering a holistic approach to women’s health that addresses everything from menopause and [low libido](/low-libido-and-your-relationships/) to urinary incontinence. It’s a place where she can offer innovative treatments and personalized care plans, ensuring every patient feels empowered on their journey to optimal health and wellness.
+Driven by a vision to provide comprehensive and integrated care, Dr. Berman later opened her private practice in Beverly Hills, founding The Berman Women’s Wellness Center. This center is the culmination of her life’s work, offering a holistic approach to women’s health that addresses everything from menopause and low libido to urinary incontinence. It’s a place where she can offer innovative treatments and personalized care plans, ensuring every patient feels empowered on their journey to optimal health and wellness.
 
 ### Bringing Women’s Health to the Forefront
 
@@ -112,10 +112,3 @@ Description not available.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
-## Related Articles
-
-- [Female Urinary Incontinence Specialist Los Angeles](/urinary-incontinence-treatment/)
-- [Female Urology, Incontinence | Dr. Jennifer Berman MD](/female-urology-incontinence/)
-- [The Best Way to Treat Stress Urinary Incontinence | Dr. Jennifer Berman MD](/the-best-way-to-treat-stress-urinary-incontinence/)
-- [The Ultimate List: 100 Symptoms of Perimenopause](/100-symptoms-of-perimenopause/)
-- [Votiva Treatment Beverly Hills & Santa Monica | Dr. Jennifer Berman MD](/vaginal-rejuvenation-expert/)

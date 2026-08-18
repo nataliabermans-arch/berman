@@ -147,9 +147,3 @@ The cost of a BeautiFill procedure varies depending on several factors, includin
 
 [SCHEDULE A CONSULTATION](/contact/)
 
-## Related Articles
-
-- [BeautiFill laser-assisted liposuction | Dr. Jennifer Berman MD](/beautifill-laser-assisted-liposuction/)
-- [Revolutionary Beautifill and how it differs from traditional liposuction procedures. | Dr. Jennifer Berman MD](/revolutionary-beautifill-and-how-it-differs-from-traditional-liposuction-procedures/)
-- [Beautifill Beverly Hills & Santa Monica | Dr. Jennifer Berman MD](/beautifill/)
-- [Beautifill Beverly Hills & Santa Monica | Dr. Jennifer Berman MD](/beautifill/)

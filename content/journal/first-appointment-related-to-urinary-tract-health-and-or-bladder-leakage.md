@@ -34,9 +34,9 @@ This is your body and your life, so don’t under-exaggerate! Like I said before
 
 Sometimes your behavioral patterns can actually be a primary cause of your urinary incontinence. For example, the amount of fluids you drink, certain foods you may be eating, and your voiding patterns can all affect urinary tract health and bladder function and control. There are also many prescription drugs as well as common supplements that have been found to make incontinence worse. Some of the common triggers for urinary incontinence are caffeine, alcohol and nicotine, spicy foods and even chocolate—so if any of these are a staple in your life cutting them out could potentially be the solution! But whether solutions are achieved through lifestyle and behavioral changes, medication, products from companies such as Depend®, surgery, or a combination of treatments, talking honestly and openly with your doctor can get you on the right track.
 
-4.  **Tell your doctor if urinating is painful, if you have [pelvic pain](/pelvic-pain-treatment/), if there is blood in your urine, or if you have symptoms that come on very fast or dramatically.**
+4.  **Tell your doctor if urinating is painful, if you have pelvic pain, if there is blood in your urine, or if you have symptoms that come on very fast or dramatically.**
 
-Although this is not commonly the case, sometimes [urinary incontinence](/incontinence/) can be a sign of a larger or more urgent problem. If you are experiencing any or all of the symptoms above, it is even more important to honestly discuss the situation with a medical professional.
+Although this is not commonly the case, sometimes urinary incontinence can be a sign of a larger or more urgent problem. If you are experiencing any or all of the symptoms above, it is even more important to honestly discuss the situation with a medical professional.
 
 5.  **Tell your doctor if you are also having trouble with your bowel movements**
 

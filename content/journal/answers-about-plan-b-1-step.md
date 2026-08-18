@@ -37,7 +37,7 @@ If your regular doctor’s office is closed or you can’t get a timely appointm
 
 ### Your Local OB/GYN or Sexual Health Clinic
 
-Your OB/GYN or a specialized sexual health clinic is another fantastic place to get emergency contraception. These providers offer a supportive and knowledgeable environment where you can discuss your situation confidentially. Clinics like HealthQ emphasize creating a safe space for discussing all aspects of sexual health. For women in the Los Angeles area, a dedicated expert like Dr. Jennifer Berman can provide not only emergency options but also long-term guidance on your overall [sexual and urinary tract health](/sexual-urinary-tract-health/). Building a relationship with a trusted provider ensures you have someone to turn to for all your health questions and needs.
+Your OB/GYN or a specialized sexual health clinic is another fantastic place to get emergency contraception. These providers offer a supportive and knowledgeable environment where you can discuss your situation confidentially. Clinics like HealthQ emphasize creating a safe space for discussing all aspects of sexual health. For women in the Los Angeles area, a dedicated expert like Dr. Jennifer Berman can provide not only emergency options but also long-term guidance on your overall sexual and urinary tract health. Building a relationship with a trusted provider ensures you have someone to turn to for all your health questions and needs.
 
 ## Beyond the Morning-After Pill: Other Birth Control Options
 
@@ -65,7 +65,7 @@ Taking charge of your sexual health starts with finding the right care, but that
 
 ### Finding a Provider Who Fits Your Needs
 
-The relationship you have with your healthcare provider is fundamental to your well-being. It’s essential to find someone who provides excellent, evidence-based care while respecting your personal choices and privacy. This is especially true when it comes to sensitive topics like sexual health. A great provider listens without judgment and partners with you to create a personalized care plan. At practices like Dr. Jennifer Berman’s, the focus is on a comprehensive and individualized approach to [women’s wellness](/hormone-therapy/), ensuring that your unique health concerns are addressed with expertise and compassion in a supportive setting.
+The relationship you have with your healthcare provider is fundamental to your well-being. It’s essential to find someone who provides excellent, evidence-based care while respecting your personal choices and privacy. This is especially true when it comes to sensitive topics like sexual health. A great provider listens without judgment and partners with you to create a personalized care plan. At practices like Dr. Jennifer Berman’s, the focus is on a comprehensive and individualized approach to women’s wellness, ensuring that your unique health concerns are addressed with expertise and compassion in a supportive setting.
 
 #### Telehealth and Same-Day Appointments
 
@@ -95,10 +95,3 @@ Privacy is paramount when it comes to your health, especially sexual health. You
 - **Know Your Access Points**: You can purchase Plan B and its generic versions over-the-counter at most drugstores. For professional advice or other options, urgent care centers and your trusted OB/GYN are excellent resources for immediate care.
 - **Plan for the Future, Not Just the Emergency**: Emergency contraception is a backup, not a primary birth control method. This is a perfect opportunity to discuss a consistent, long-term strategy with your doctor to find a method that fits your lifestyle.
 
-## Related Articles
-
-- [Answers About Plan B One-Step | Dr. Jennifer Berman MD](/answers-about-plan-b-1-step/)
-- [How women can deal with low libido when on birth control? | Dr. Jennifer Berman MD](/how-women-can-deal-with-low-libido-when-on-birth-control/)
-- [Announcing My Partnership with Plan B One-Step | Dr. Jennifer Berman MD](/announcing-my-partnership-with-plan-b-one-step/)
-- [Menopause Beverly Hills & Santa Monica | Dr. Jennifer Berman MD](/menopause-perimenopause/)
-- [Drugs That Can Affect Sexual Response | Dr. Jennifer Berman MD](/drugs-that-can-affect-sexual-response/)

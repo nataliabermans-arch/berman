@@ -151,11 +151,11 @@ When at-home remedies aren’t enough, a specialist in female sexual medicine ca
 
 #### Hormone Replacement Therapies
 
-For women thrown into abrupt menopause, hormonal changes are often at the core of their sexual side effects. A specialist can help determine if you are a candidate for hormone replacement. Depending on your cancer type and health history, options like [Bioidentical Hormone Replacement Therapy](/biote-hormone-therapy/) or [Biote Hormone Therapy](/hormone-therapy/) may be considered to replenish hormones and alleviate symptoms like vaginal dryness, low libido, and hot flashes. These treatments require careful consideration and expert management, ensuring they are both safe and effective for you.
+For women thrown into abrupt menopause, hormonal changes are often at the core of their sexual side effects. A specialist can help determine if you are a candidate for hormone replacement. Depending on your cancer type and health history, options like Bioidentical Hormone Replacement Therapy or Biote Hormone Therapy may be considered to replenish hormones and alleviate symptoms like vaginal dryness, low libido, and hot flashes. These treatments require careful consideration and expert management, ensuring they are both safe and effective for you.
 
 #### Vaginal Rejuvenation and Health
 
-Modern medicine offers incredible, minimally invasive treatments to restore vaginal health. A specialist like Dr. Jennifer Berman can provide advanced therapies that directly target issues like vaginal atrophy, laxity, and discomfort. For example, treatments such as the [O-Shot](/sexual-health/) use your body’s own growth factors to promote tissue regeneration, while energy-based treatments like [Morpheus 8-V](/morpheus-8-v/) can help rebuild collagen and improve tissue quality. These options can offer profound improvements in lubrication, sensation, and comfort, helping you fully enjoy intimacy again.
+Modern medicine offers incredible, minimally invasive treatments to restore vaginal health. A specialist like Dr. Jennifer Berman can provide advanced therapies that directly target issues like vaginal atrophy, laxity, and discomfort. For example, treatments such as the O-Shot use your body’s own growth factors to promote tissue regeneration, while energy-based treatments like Morpheus 8-V can help rebuild collagen and improve tissue quality. These options can offer profound improvements in lubrication, sensation, and comfort, helping you fully enjoy intimacy again.
 
 ## Need More Help With Your Sexual Health?
 
@@ -177,9 +177,3 @@ Modern medicine offers incredible, minimally invasive treatments to restore vagi
 - **Take control with at-home care**: Simple, consistent actions can bring significant relief. Learn the difference between daily moisturizers and lubricants for sex, consider using vaginal dilators to maintain tissue health, and practice pelvic floor exercises to improve function and sensation.
 - **Build your team of medical experts**: You don’t have to solve complex issues alone. If at-home care isn’t enough, a specialist in female sexual medicine can provide advanced treatments like hormone therapy or vaginal rejuvenation to help you find lasting relief.
 
-## Related Articles
-
-- [How Does Cancer Affect Women’s Sexual Health? | Dr. Jennifer Berman MD](/how-does-cancer-affect-womens-sexual-health/)
-- [Breast Cancer & Bioidentical Hormone Therapy: Is It Safe?](/breast-cancer-bioidentical-hormone-replacement/)
-- [5 Effective Female Impotence Treatment Options](/female-sexual-dysfunction/)
-- [New Study Shows How Women’s Sex Life Declines Post-Menopause | Dr. Jennifer Berman MD](/new-study-shows-how-womens-sex-life-declines-post-menopause/)

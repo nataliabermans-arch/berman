@@ -15,7 +15,7 @@ author: "Dr. Jennifer Berman, MD"
 
 ## Sexual Health Expert, Dr. Jennifer Berman
 
-#### Featured on [Conan](/#press)
+#### Featured on Conan
 
 - NY Times Best Selling Author
 - Emmy Nominated

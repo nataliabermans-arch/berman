@@ -18,7 +18,7 @@ author: "Dr. Jennifer Berman, MD"
 
 Vibrance Associates Welcomes JJ Virgin, View video here.
 
-JJ Virgin, one of the nation’s foremost fitness and nutrition experts, is joining Vibrance Associates sites and sharing her articles and expertise. Her 25 years in the health and fitness industry, the past 10 in holistic nutrition and functional medicine, have earned JJ recognition as the go- to weight loss expert who can unlock the door to [lifelong weight management](/weight-loss-program/) through her sensible, no- fail approach to nutrition and fitness. She will write articles for our sites, participate on our forums where she will respond to your questions and ideas and share her blogs.
+JJ Virgin, one of the nation’s foremost fitness and nutrition experts, is joining Vibrance Associates sites and sharing her articles and expertise. Her 25 years in the health and fitness industry, the past 10 in holistic nutrition and functional medicine, have earned JJ recognition as the go- to weight loss expert who can unlock the door to lifelong weight management through her sensible, no- fail approach to nutrition and fitness. She will write articles for our sites, participate on our forums where she will respond to your questions and ideas and share her blogs.
 
 ---
 

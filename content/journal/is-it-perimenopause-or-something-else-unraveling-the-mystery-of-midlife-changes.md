@@ -42,9 +42,9 @@ While the experience varies greatly from woman to woman, some common symptoms ca
 - **Changes in Body Composition:** You might experience weight gain, particularly around the belly, and a decrease in muscle mass due to metabolic changes.
 - **Cognitive Changes:** Some women report experiencing forgetfulness, difficulty concentrating, or “brain fog” during perimenopause.
 
-## [Menopause Biotype – Get Tailored Relief](/menopause/)
+## Menopause Biotype – Get Tailored Relief
 
-I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. [Learn More](/menopause/)
+I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. Learn More
 
 **The Plot Thickens: When Perimenopause Mimics Other Conditions**
 

@@ -50,9 +50,9 @@ Beyond the numbers on the scale, perimenopause can bring a feeling of being puff
 - **Digestive Issues:** Perimenopause can also trigger changes in gut bacteria and digestion, leading to constipation, gas, and bloating.
 - **Increased Inflammation:** Declining estrogen levels can contribute to low-grade inflammation in the body, which can manifest as puffiness and bloating.
 
-## [Menopause Biotype – Get Tailored Relief](/menopause/)
+## Menopause Biotype – Get Tailored Relief
 
-I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. [Learn More](/menopause/)
+I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. Learn More
 
 **Breaking the Cycle: Strategies for Managing Perimenopausal Weight Gain**
 

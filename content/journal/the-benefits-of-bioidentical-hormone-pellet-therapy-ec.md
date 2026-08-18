@@ -55,6 +55,6 @@ The hormones are released based on your individual needs, metabolism, and blood 
 
 Bioidentical hormone treatment pellets deliver hormones based on your body’s metabolism and blood flow. This allows for a more physiologic release of hormones that remains stable. The pellets are also more convenient and freeing since you don’t need to remember to take pills or apply any patches or creams regularly. There is no danger of using too much or too little gel or cream or transfer of hormones to our partner, child, or animals. The Bioidentical hormone treatment pellets deliver hormones in a physiologic fashion that optimizes the beneficial effects of HRT while minimizing side effects.
 
-# **Ready to [learn more](/biote-hormone-therapy/) and book your appointment?**
+# **Ready to learn more and book your appointment?**
 
 [Contact us here](/contact/) to schedule a consultation today!

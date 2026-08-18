@@ -70,9 +70,9 @@ Don’t let mood swings dictate your life! Here are some practical strategies to
 - **Limit Caffeine and Alcohol:** While caffeine might offer a temporary energy boost, it can contribute to anxiety and worsen sleep quality, both of which can exacerbate mood swings. Limit caffeine intake, especially in the afternoon and evening. Alcohol might initially make you feel relaxed, but it disrupts sleep architecture and can lead to increased feelings of anxiety and mood swings later.
 - **Social Connection:** Strong social connections are essential for emotional well-being. Spend time with loved ones who support and uplift you. Consider joining a support group for women experiencing perimenopause to connect with others who understand what you’re going through.
 
-## [Menopause Biotype – Get Tailored Relief](/menopause/)
+## Menopause Biotype – Get Tailored Relief
 
-I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. [Learn More](/menopause/)
+I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. Learn More
 
 **Exploring Treatment Options**
 

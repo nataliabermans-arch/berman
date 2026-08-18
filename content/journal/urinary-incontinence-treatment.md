@@ -44,6 +44,6 @@ There are certain factors which can increase your risk of getting urinary incont
 
 Though it is more likely to occur as you advance in age, urinary incontinence isn’t an inevitable consequence of aging. If urinary incontinence affects your daily activities, don’t hesitate to contact me. For most people, simple lifestyle changes or medical treatment can ease discomfort or stop urinary incontinence.
 
-I’m one of the nation’s leading female [urologists](/about/) and a sexual health expert who is very active in the media, featured on and co-hosting shows like The Doctors, Dr. Phil, Good Morning America, and more. I have a long track record of treating menopause symptoms and helping women take control of their sexuality back!
+I’m one of the nation’s leading female urologists and a sexual health expert who is very active in the media, featured on and co-hosting shows like The Doctors, Dr. Phil, Good Morning America, and more. I have a long track record of treating menopause symptoms and helping women take control of their sexuality back!
 
 \*Female Urologist Dr. Jennifer Berman has written information about Urinary Incontinence that has been carefully reviewed. If you have any questions, feel free to contact us using our form.

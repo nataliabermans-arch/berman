@@ -23,7 +23,7 @@ In the largest and most rigorous U.S. trial comparing two traditional operations
 
 ### **Dropped Bladder: Here’s Help for Women Dealing with the Problem**
 
-Dropped bladder is a general term used by doctors and patients to describe a condition known as [**Pelvic Organ Prolapse**](/pelvic-pain-treatment/). Pelvic Organ Prolapse means that one of the pelvic organs. The bladder, the uterus, the intestines or the rectum has fallen down into the vagina. Prolapse ranges in severity from very mild (i.e. prolapse that can only be felt by your doctor on examination) to severe where one or more of the pelvic organs actually protrude through the vaginal opening. When the prolapse is severe you can actually see it; it looks like a red ball protruding from the vagina.
+Dropped bladder is a general term used by doctors and patients to describe a condition known as **Pelvic Organ Prolapse**. Pelvic Organ Prolapse means that one of the pelvic organs. The bladder, the uterus, the intestines or the rectum has fallen down into the vagina. Prolapse ranges in severity from very mild (i.e. prolapse that can only be felt by your doctor on examination) to severe where one or more of the pelvic organs actually protrude through the vaginal opening. When the prolapse is severe you can actually see it; it looks like a red ball protruding from the vagina.
 
 ---
 

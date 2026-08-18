@@ -41,10 +41,3 @@ Pelvic trauma, whether through surgery or injury, can do major damage to any hap
 
 [SCHEDULE A CONSULTATION](/contact/)
 
-## Related Articles
-
-- [Pelvic Trauma and Your Sex Life: Understanding How One Affects The Other | Dr. Jennifer Berman MD](/pelvic-trauma-and-your-sex-life-understanding-how-one-affects-the-other/)
-- [Female Sexual Dysfunction: Definitions, Causes & Potential Treatments | Dr. Jennifer Berman MD](/female-sexual-dysfunction-definitions-causes-a-potential-treatments/)
-- [5 Effective Female Impotence Treatment Options](/female-sexual-dysfunction/)
-- [Female Sexual Dysfunction | Dr. Jennifer Berman MD](/female-sexual-dysfunction/)
-- [How Does Cancer Affect Women’s Sexual Health? | Dr. Jennifer Berman MD](/how-does-cancer-affect-womens-sexual-health/)

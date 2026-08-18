@@ -48,9 +48,9 @@ While hormones play a leading role, other factors can contribute to sleep proble
 - **Lifestyle Habits:** Stress, lack of exercise, irregular sleep schedules, and excessive screen time can all disrupt sleep quality, and these factors can be especially problematic during perimenopause when your sleep is already vulnerable.
 - **Underlying Medical Conditions:** Certain health conditions, like sleep apnea or thyroid problems, can worsen sleep disturbances during perimenopause.
 
-## [Menopause Biotype – Get Tailored Relief](/menopause/)
+## Menopause Biotype – Get Tailored Relief
 
-I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. [Learn More](/menopause/)
+I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. Learn More
 
 **Breaking the Cycle: Strategies for a More Restful Night’s Sleep**
 

@@ -28,7 +28,7 @@ Berman & Berman For Women Only
 GRAPHICS ON SCREEN  
 Berman & Berman
 
-Breasts, periods, mood swings, raging [hormones](/category/hormones/).
+Breasts, periods, mood swings, raging hormones.
 
 01:00:14 **Dr. Jennifer Berman OC**  
 Boys, nosy parents, boys, secrecy and boys.
@@ -87,7 +87,7 @@ And I’m Jennifer Berman?
 GRAPHICS ON SCREEN  
 Drs. Jennifer & Laura Berman
 
-We run the [Female Sexual Medicine Center](/) at UCLA here in Los Angeles. I’m a urologist and Laura’s a sex therapist.
+We run the Female Sexual Medicine Center at UCLA here in Los Angeles. I’m a urologist and Laura’s a sex therapist.
 
 01:01:30 **Dr. Laura Berman OC**  
 Do you remember what it was like to go through puberty with all the changes your body goes through?

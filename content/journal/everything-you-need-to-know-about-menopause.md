@@ -16,7 +16,7 @@ author: "Dr. Jennifer Berman, MD"
 
 ## \***\*The Stages and Symptoms of Menopause\*\***
 
-The premenopausal stage occurs during the teens and twenties when you have a regular menstrual cycle and are most likely to be fertile. In the mid to late thirties or early forties is when the perimenopausal stage begins. At this stage, women begin to report that their cycles become more irregular, worsening PMS, mild hot flashes, and night sweats start to occur. Irritability, depression, and weight gain, specifically around the middle of the body, are also common occurrences in the [perimenopausal](/menopause-expert/) stage. This can be a particularly challenging time as your body goes through rises and falls in estrogen levels while transitioning into menopause.
+The premenopausal stage occurs during the teens and twenties when you have a regular menstrual cycle and are most likely to be fertile. In the mid to late thirties or early forties is when the perimenopausal stage begins. At this stage, women begin to report that their cycles become more irregular, worsening PMS, mild hot flashes, and night sweats start to occur. Irritability, depression, and weight gain, specifically around the middle of the body, are also common occurrences in the perimenopausal stage. This can be a particularly challenging time as your body goes through rises and falls in estrogen levels while transitioning into menopause.
 
 Once you have not had a menstrual cycle for at least twelve months, you are now in the final stage of menopause. All of the symptoms faced in the perimenopausal stage can be expected to hang around in the menopausal stage plus fatigue, difficulty falling and staying asleep, low libido, low sexual desire, changes in memory (specifically short-term memory), anxiety, and vaginal dryness.
 
@@ -32,7 +32,7 @@ Declining estrogen and testosterone levels lead to loss of libido. Loss of libid
 
 ## \***\*Urinary Symptoms\*\***
 
-Menopausal women are at greater risk for urinary symptoms. Frequency, urgency, irritation, [stress urinary incontinence](/the-best-way-to-treat-stress-urinary-incontinence/), which means leakage of urine when you cough, laugh, sneeze, or urge incontinence. Estrogen is protective of those symptoms, so when menopause begins, symptoms such as frequency, urgency, vaginal irritation, itchiness, or burning along with urinary incontinence can occur. Prolapse of the bladder may also occur as estrogen levels decline.
+Menopausal women are at greater risk for urinary symptoms. Frequency, urgency, irritation, stress urinary incontinence, which means leakage of urine when you cough, laugh, sneeze, or urge incontinence. Estrogen is protective of those symptoms, so when menopause begins, symptoms such as frequency, urgency, vaginal irritation, itchiness, or burning along with urinary incontinence can occur. Prolapse of the bladder may also occur as estrogen levels decline.
 
 ## \***\*Preparing for your appointment\*\***
 
@@ -64,11 +64,11 @@ Hormone imbalance and climacteric symptoms, as it is referred to in the medical 
 
 Menopause is something that’s going to affect all of us as women. It’s not something that we can ignore, and not something that we can avoid. If you have any further questions or want to book an appointment, contact Jennifer Berman today!
 
-[![book a consultation with dr berman](/wp-content/uploads/2023/02/Book-a-consultation-with-Dr.-Nina.png)](/contact/)
+![book a consultation with dr berman](/contact/)
 
 It’s estimated that 1 in 10 women have HSDD, which makes the most common sexual dysfunction in females. Women’s low sex drive and related distress can negatively impact a woman’s life, but can be fixed.
 
-Luckily, women who suffer from low sex drive or hormone deficiency don’t have to face their problems alone any longer. [Dr. Jennifer Berman](/) is world-renowned as a leading authority in the field of women’s sexual health and has a vast amount of experience in treating women who live with hypoactive sexual desire. Women who go through menopause, experience hormone deficiency, and need compassionate low libido therapy from an experienced urologist, come to [The Berman Women’s Wellness Center in Beverly Hills](/). Here, Dr. Berman offers a wide variety of treatments for women experiencing low libido, and can custom create a solution to bring back your passionate play. She also supports the initiative of the ‘Right To Desire’ movement to raise awareness around this condition.
+Luckily, women who suffer from low sex drive or hormone deficiency don’t have to face their problems alone any longer. Dr. Jennifer Berman is world-renowned as a leading authority in the field of women’s sexual health and has a vast amount of experience in treating women who live with hypoactive sexual desire. Women who go through menopause, experience hormone deficiency, and need compassionate low libido therapy from an experienced urologist, come to The Berman Women’s Wellness Center in Beverly Hills. Here, Dr. Berman offers a wide variety of treatments for women experiencing low libido, and can custom create a solution to bring back your passionate play. She also supports the initiative of the ‘Right To Desire’ movement to raise awareness around this condition.
 
 ![Right to Desire Movement](/wp-content/uploads/2023/02/right-to-desire-berman.jpg)
 

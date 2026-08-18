@@ -22,7 +22,7 @@ Body sculpting has become a go-to for many women looking to tone and shape their
 
 ### Know Your Body Goals
 
-Before jumping into [**body sculpting for women**](/body-sculpting-fat-melting-cellulite-treatment/), it’s important to know what you’re aiming for. Are you looking to slim down, tone up, or build muscle? Understanding your own body’s needs and desires will help guide you toward the right treatments. Whether it’s targeting your arms, legs, or abs, being clear about your goals keeps you focused and motivated.
+Before jumping into **body sculpting for women**, it’s important to know what you’re aiming for. Are you looking to slim down, tone up, or build muscle? Understanding your own body’s needs and desires will help guide you toward the right treatments. Whether it’s targeting your arms, legs, or abs, being clear about your goals keeps you focused and motivated.
 
 ### Consistency Is Key
 

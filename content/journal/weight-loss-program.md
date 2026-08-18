@@ -53,7 +53,7 @@ In 2001, Dr. Berman made history by becoming the first director of the Female Se
 
 #### Establishing a Private Practice in Beverly Hills
 
-After her trailblazing work at UCLA, Dr. Berman brought her expertise to a more personal setting by opening her own private practice in Beverly Hills. This move allowed her to create an environment centered entirely around her patients’ needs, offering a private, comfortable, and supportive space for women to seek care. Here, she continues her mission of providing comprehensive wellness solutions, from managing menopause to addressing complex sexual health concerns. Her practice is the culmination of her life’s work, offering women in the community direct access to a world-class expert who is deeply invested in their well-being. You can learn more [about her journey](/about/) and philosophy on her website.
+After her trailblazing work at UCLA, Dr. Berman brought her expertise to a more personal setting by opening her own private practice in Beverly Hills. This move allowed her to create an environment centered entirely around her patients’ needs, offering a private, comfortable, and supportive space for women to seek care. Here, she continues her mission of providing comprehensive wellness solutions, from managing menopause to addressing complex sexual health concerns. Her practice is the culmination of her life’s work, offering women in the community direct access to a world-class expert who is deeply invested in their well-being. You can learn more about her journey and philosophy on her website.
 
 ## The Full Scope of Dr. Berman’s Medical Practice
 
@@ -61,11 +61,11 @@ While some may know Dr. Berman for a specific specialty, the full scope of her p
 
 ### More Than Weight Loss: A Focus on Sexual Health and Menopause
 
-Dr. Berman’s practice addresses much more than just weight management; it is a comprehensive center for women’s wellness with a strong focus on sexual health and menopause. She recognizes that these are critical aspects of a woman’s overall well-being that are often overlooked. Her expertise covers a wide spectrum of concerns, from hormonal imbalances that arise during menopause to specific issues like vaginal dryness and low libido. By offering advanced [services and treatments](/hormone-therapy/), she helps women manage their symptoms and reclaim their vitality. This focus ensures that patients receive specialized care for some of the most personal and impactful health challenges they may face.
+Dr. Berman’s practice addresses much more than just weight management; it is a comprehensive center for women’s wellness with a strong focus on sexual health and menopause. She recognizes that these are critical aspects of a woman’s overall well-being that are often overlooked. Her expertise covers a wide spectrum of concerns, from hormonal imbalances that arise during menopause to specific issues like vaginal dryness and low libido. By offering advanced services and treatments, she helps women manage their symptoms and reclaim their vitality. This focus ensures that patients receive specialized care for some of the most personal and impactful health challenges they may face.
 
 #### Treatments for Sexual and Urinary Health
 
-A key area of Dr. Berman’s practice is her focus on sexual and urinary health. She offers a variety of state-of-the-art treatments designed to address common yet often unspoken issues. For women experiencing urinary incontinence, she provides innovative solutions like [Emsella Incontinence Therapy](/emsella-treatment-for-incontinence/), a non-invasive treatment that strengthens the pelvic floor. For sexual wellness, she offers treatments such as the O-Shot and G-Shot to enhance arousal and satisfaction. Her practice also provides solutions for conditions like pelvic pain and vaginal dryness, ensuring that women have access to effective, modern therapies that can restore comfort, confidence, and intimacy in their lives.
+A key area of Dr. Berman’s practice is her focus on sexual and urinary health. She offers a variety of state-of-the-art treatments designed to address common yet often unspoken issues. For women experiencing urinary incontinence, she provides innovative solutions like Emsella Incontinence Therapy, a non-invasive treatment that strengthens the pelvic floor. For sexual wellness, she offers treatments such as the O-Shot and G-Shot to enhance arousal and satisfaction. Her practice also provides solutions for conditions like pelvic pain and vaginal dryness, ensuring that women have access to effective, modern therapies that can restore comfort, confidence, and intimacy in their lives.
 
 #### A Holistic Approach to Patient Care
 
@@ -183,10 +183,3 @@ Contact me today at (213) 493-8487 to schedule your consultation and get started
 - **A personalized strategy is essential**: Cookie-cutter programs often fail because they don’t account for your unique body chemistry. An effective approach combines multiple tools—like bioidentical hormone therapy, targeted medications, and specific nutrition plans—to create a strategy that works for you.
 - **Aim for overall health, not just a number**: The most rewarding weight loss journeys improve your entire well-being. A comprehensive program focuses on benefits like increased energy, better sleep, and balanced hormones, which are just as important as the number on the scale.
 
-## Related Articles
-
-- [Perimenopause & Menopause Solutions](/menopause-perimenopause/)
-- [BHRT Balancing Act: Can Bioidentical Hormones Help with Weight Loss?](/the-bhrt-balancing-act-can-bioidentical-hormones-help-with-weight-loss/)
-- [Hormone Weight Loss](/hormone-weight-loss/)
-- [Could Bioidentical Hormones Be Your Ticket to Feeling Like Yourself Again?](/could-bioidentical-hormones-be-your-ticket-to-feeling-like-yourself-again/)
-- [Dr. Jennifer Berman: Women’s Wellness](/about/)

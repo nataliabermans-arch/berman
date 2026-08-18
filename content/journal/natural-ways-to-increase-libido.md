@@ -116,10 +116,3 @@ Remember, communication with your doctor is key. They can help you identify any 
 
 [SCHEDULE A CONSULTATION](/contact/)
 
-## Related Articles
-
-- [7 Natural Ways to Increase Libido & Feel Great](/natural-ways-to-increase-libido/)
-- [Oriental Medicine and Sexual Dysfunctions | Dr. Jennifer Berman MD](/oriental-medicine-and-sexual-dysfunctions/)
-- [The Psychology of Creating Desire in a Woman](/create-desire-woman-psychology/)
-- [Antidepressants and Sexual Side Effects in Women](/antidepressants-and-sexual-side-effects-in-women-insights-with-dr-jennifer-berman/)
-- [How Does Cancer Affect Women’s Sexual Health? | Dr. Jennifer Berman MD](/how-does-cancer-affect-womens-sexual-health/)

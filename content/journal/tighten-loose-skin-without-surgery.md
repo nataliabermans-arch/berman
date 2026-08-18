@@ -27,7 +27,7 @@ Surgical options like facelifts and tummy tucks can be effective, but they’re 
 
 ## The Evolve Treatment
 
-One of the top **[body skin tightening](/hydrafacial-treatment/)** treatments we offer at the center is _Evolve_. This is a versatile and highly effective option for skin tightening. It uses radiofrequency (RF) technology to heat deep layers of your skin, encouraging collagen growth. The best part? Evolve can be tailored to target different areas of your body, from your arms to your thighs, without any invasive procedures. You’ll feel a warming sensation during the treatment, but it’s pretty comfortable. Plus, it works for skin tightening, fat reduction, and muscle toning — all in one go.
+One of the top **body skin tightening** treatments we offer at the center is _Evolve_. This is a versatile and highly effective option for skin tightening. It uses radiofrequency (RF) technology to heat deep layers of your skin, encouraging collagen growth. The best part? Evolve can be tailored to target different areas of your body, from your arms to your thighs, without any invasive procedures. You’ll feel a warming sensation during the treatment, but it’s pretty comfortable. Plus, it works for skin tightening, fat reduction, and muscle toning — all in one go.
 
 ## Morpheus 8-Body: Tackling Stubborn Skin Issues
 
@@ -47,7 +47,7 @@ At _The Berman Women’s Wellness Center_, our goal is to make you feel comforta
 
 ## Why Choose _The Berman Women’s Wellness Center_?
 
-Dr. Berman created this center with women’s wellness in mind, offering a comprehensive approach to health and beauty. Our state-of-the-art technology, combined with the expertise of our team, ensures you get the best care possible. Whether you’re looking to tighten loose skin, reduce wrinkles, or just feel more confident, we have **[body skin tightening](/hydrafacial-treatment/)** treatments that work for you.
+Dr. Berman created this center with women’s wellness in mind, offering a comprehensive approach to health and beauty. Our state-of-the-art technology, combined with the expertise of our team, ensures you get the best care possible. Whether you’re looking to tighten loose skin, reduce wrinkles, or just feel more confident, we have **body skin tightening** treatments that work for you.
 
 Non-surgical treatments like _Evolve_, _Morpheus 8-Body_, _Forma_, and _Beautifill_ are changing the game when it comes to tightening loose skin. If you’ve been putting off addressing your sagging skin because of the fear of surgery, these options offer a safer, faster, and more comfortable alternative. Why not book a consultation at _The Berman Women’s Wellness Center_ today and see how we can help you feel and look your best?
 

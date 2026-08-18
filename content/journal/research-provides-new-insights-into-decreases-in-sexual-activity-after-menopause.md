@@ -20,7 +20,7 @@ author: "Dr. Jennifer Berman, MD"
 
 One of the most frequent topics in women’s sexual health is the decline of sexual activity after menopause. Many women report that following this period, sex does not produce as satisfying a feeling as it used to be. Does the blame fall entirely on menopause?
 
-According to new research, the hormonal changes resulting from menopause form part of the reason that women’s sexual activity declines with age. It acknowledges the fact that many symptoms affect women after menopause, including [vaginal dryness](/vaginal-dryness/), [low libido](/low-libido/) or sexual desire, pain during intercourse, and more. These factors are underlying influences on the frequency and pleasure of sex.
+According to new research, the hormonal changes resulting from menopause form part of the reason that women’s sexual activity declines with age. It acknowledges the fact that many symptoms affect women after menopause, including vaginal dryness, low libido or sexual desire, pain during intercourse, and more. These factors are underlying influences on the frequency and pleasure of sex.
 
 Based on conclusions from the new study, there are a variety of complex reasons women stop wanting, enjoying, or having sex. While women traditionally have been blamed when sex declines in a relationship, the research shows that, often, it’s the health of a woman’s partner that influences the sexual activeness and satisfaction she experiences. (Most studies have focused entirely on heterosexual women, so less is known about same-sex couples after menopause.)
 

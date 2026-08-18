@@ -56,7 +56,7 @@ F. Flattering Phoenix
 
 This position is tranquilizing the life force. Helps the woman with PMS and fibroids and harmonizes the joints of the man. Beneficial for woman with blood Qi stagnation and man with kidney deficiency.
 
-The Use of Acupuncture and Herbal Medicine to [Enhance Sexual Performance](/the-secret-all-in-one-aphrodisiac-sexual-arousal-enhancer-and-intimacy-enhancer/)
+The Use of Acupuncture and Herbal Medicine to Enhance Sexual Performance
 
 Acupuncture and herbal medicine have been used to enhance sexual drive and improve sexual pleasure for 5000 years in Orient and is very helpful and popular today in modern Western world. Licensed Acupuncturist and Herbalist would diagnose the problem by taking a detailed medical and personal history, evaluating patients tongue and pulse, and help to achieve the harmony within. Chinese medicine is offering assistance for menopausal symptoms such as hot flashes, night sweats, vaginal dryness and pain, decreased libido, lack of sexual desire, pms, urinary dysfunction, irritability, pain during intercourse and many more. It also helps with impotence and sexual anhedonia.
 
@@ -82,7 +82,7 @@ Rapid contraction and release of pelvic area for one to two minutes Slow contrac
 
 C. Massage the Ears
 
-With the ears each having over 150 acupuncture points, they are an excellent source for stimulation of sexual energy. In Chinese medicine, the ear is an extension of the Kidney energy, which is [responsible for sexuality](/drugs-that-can-affect-sexual-response/). A couple instinctively massages, kisses and nibbles each other’s ears during lovemaking. When the ear is massaged, it stimulates the entire body (Oleson 1996).
+With the ears each having over 150 acupuncture points, they are an excellent source for stimulation of sexual energy. In Chinese medicine, the ear is an extension of the Kidney energy, which is responsible for sexuality. A couple instinctively massages, kisses and nibbles each other’s ears during lovemaking. When the ear is massaged, it stimulates the entire body (Oleson 1996).
 
 D. Taoist Retention of the Semen exercise
 

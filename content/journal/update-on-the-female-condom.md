@@ -40,9 +40,3 @@ Let’s be honest: insisting on condom use isn’t always a simple or comfortabl
 
 [SCHEDULE A CONSULTATION](/contact/)
 
-## Related Articles
-
-- [Update on the Female Condom | Dr. Jennifer Berman MD](/update-on-the-female-condom/)
-- [Your Guide to Emergency Contraception in Beverly](/answers-about-plan-b-1-step/)
-- [Emsella Chair FDA Approved: What You Need to Know](/emsella-chair-fda-approved/)
-- [Votiva Treatment Beverly Hills & Santa Monica | Dr. Jennifer Berman MD](/vaginal-rejuvenation-expert/)

@@ -18,7 +18,7 @@ author: "Dr. Jennifer Berman, MD"
 
 ##### _By Jennifer Berman, MD_
 
-Doctor Jennifer Berman, as part of a Sildenafil Study Group in conjunction with the Department of Urology at UCLA Medical Center, have conducted the first large, well-controlled study to demonstrate the effectiveness of sildenafil (better known as Viagra) in treating sexual arousal disorder in [postmenopausal](/menopause-treatment/) women. 
+Doctor Jennifer Berman, as part of a Sildenafil Study Group in conjunction with the Department of Urology at UCLA Medical Center, have conducted the first large, well-controlled study to demonstrate the effectiveness of sildenafil (better known as Viagra) in treating sexual arousal disorder in postmenopausal women. 
 
 A double-blind, placebo-controlled study was conducted so that neither the patients nor the scientists knew which women were receiving the Viagra and which were receiving the placebo (non-medicated pill). This method is standard scientific procedure to ensure the most accurate results.
 
@@ -32,6 +32,6 @@ Patients had to engage in sexual activity (any sexual stimulation or sexual plea
 
 **The results of the questionnaires and the personal logs indicated that those women who had received the Viagra reported better arousal, lubrication, orgasm and overall sexual satisfaction than those who received the placebo.**
 
-Viagra treatment was associated with greater improvement in all items of the Female Intervention Efficacy Index compared with placebo. Specifically, question 2 (assessing genital sensation or feeling) and question 4 (satisfaction with foreplay/intercourse) showed the most significant improvement among the Viagra group. Women who had [low libido](/treatment-for-low-libido-in-females/) as well as arousal problems showed no significant improvement.
+Viagra treatment was associated with greater improvement in all items of the Female Intervention Efficacy Index compared with placebo. Specifically, question 2 (assessing genital sensation or feeling) and question 4 (satisfaction with foreplay/intercourse) showed the most significant improvement among the Viagra group. Women who had low libido as well as arousal problems showed no significant improvement.
 
 The results of this study are only the beginning of the research into the use of Viagra in women. As the evidence of Viagra’s success in women begins to develop, it will still be quite a while before both sexes can pop their little blue pills and enjoy an enhanced sexual experience.

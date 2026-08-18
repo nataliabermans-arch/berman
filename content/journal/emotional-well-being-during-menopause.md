@@ -21,7 +21,7 @@ author: "Dr. Jennifer Berman, MD"
 
 Menopause is a natural phase in a woman’s life that brings about many changes, both physical and emotional. One of the most common symptoms experienced during menopause is mood swings and emotional changes. These can range from feeling irritable and anxious to experiencing sudden bouts of sadness or anger. It is important to remember that these changes are a normal part of the menopausal process and can be managed effectively with the right strategies.
 
-One way to cope with mood swings and emotional changes during **[menopause](/menopause-perimenopause/)** is to practice self-care. This can include engaging in activities that help you relax and unwind, such as yoga, meditation, or spending time in nature. Taking care of your physical health, such as getting regular exercise and eating a balanced diet, can also help regulate your mood and emotions. Additionally, getting enough sleep and staying hydrated are important factors in managing mood swings.
+One way to cope with mood swings and emotional changes during **menopause** is to practice self-care. This can include engaging in activities that help you relax and unwind, such as yoga, meditation, or spending time in nature. Taking care of your physical health, such as getting regular exercise and eating a balanced diet, can also help regulate your mood and emotions. Additionally, getting enough sleep and staying hydrated are important factors in managing mood swings.
 
 It is also helpful to talk to your healthcare provider about your symptoms and seek support from friends and family. Sometimes, simply talking about your feelings can help you feel better and alleviate some of the emotional burden you may be experiencing. Your healthcare provider may also be able to recommend therapy or counseling to help you cope with your mood swings and emotional changes more effectively.
 
@@ -29,9 +29,9 @@ Another important aspect of managing mood swings and emotional changes during me
 
 In conclusion, coping with mood swings and emotional changes during menopause is a normal part of the process and can be effectively managed with the right strategies. By practicing self- care, seeking support, maintaining a positive mindset, and talking to your healthcare provider, you can navigate this phase of life with grace and resilience. Remember, you are not alone in this journey, and there are resources available to help you through this transition.
 
-## [Menopause Biotype – Get Tailored Relief](/menopause/)
+## Menopause Biotype – Get Tailored Relief
 
-I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. [Learn More](/menopause/)
+I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. Learn More
 
 ## **Strategies** **for** **Managing** **Stress** **and Anxiety**
 
@@ -57,4 +57,4 @@ In addition to talking to your healthcare provider, reaching out to friends and 
 
 Another important aspect of seeking support for your mental health during menopause is taking care of yourself. This means prioritizing self-care practices such as getting enough sleep, eating well, and engaging in regular physical activity. These practices can help improve your mood and overall mental well-being during this transitional time in your life.
 
-Remember, you are not alone in experiencing the emotional challenges of **[menopause](/menopause-perimenopause/)**. By seeking support from your healthcare provider, friends and family, and by taking care of yourself, you can navigate this period with greater ease and maintain your mental health. Don’t hesitate to reach out for help when you need it – you deserve to feel supported and empowered during this time of change.
+Remember, you are not alone in experiencing the emotional challenges of **menopause**. By seeking support from your healthcare provider, friends and family, and by taking care of yourself, you can navigate this period with greater ease and maintain your mental health. Don’t hesitate to reach out for help when you need it – you deserve to feel supported and empowered during this time of change.

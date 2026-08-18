@@ -16,7 +16,7 @@ tags:
 author: "Dr. Jennifer Berman, MD"
 ---
 
-With age, menopause, and childbirth, the vagina undergoes a lot of changes. These changes include laxity or “stretched out” tissues, decreased lubrication, decreased sensitivity, painful intercourse, prolapse, and urinary incontinence. One form of [treatment](/vaginal-rejuvenation-expert/) you should absolutely know about if you’re experiencing any of these symptoms is [Votiva](/votiva-treatment/). Here are five facts you should know about this amazing treatment and it’s benefits.
+With age, menopause, and childbirth, the vagina undergoes a lot of changes. These changes include laxity or “stretched out” tissues, decreased lubrication, decreased sensitivity, painful intercourse, prolapse, and urinary incontinence. One form of treatment you should absolutely know about if you’re experiencing any of these symptoms is Votiva. Here are five facts you should know about this amazing treatment and it’s benefits.
 
 ## **It can restore and Rejuvenate both your Vagina and Vulva**
 
@@ -24,7 +24,7 @@ Votiva treats your vagina and your vulva (the external parts of female genitalia
 
 ## **Benefits Go beyond helping Stretched Tissues**
 
-The [benefits of Votiva](/what-15-minutes-of-votiva-can-do-for-your-sex-life/) don’t stop there. Votiva can also help stimulate blood flow to the genitalia and nerve regeneration. This increases sensation in the area, which can help improve your sex life. It can also help increase lubrication, relieving the vaginal dryness women often experience with age. 
+The benefits of Votiva don’t stop there. Votiva can also help stimulate blood flow to the genitalia and nerve regeneration. This increases sensation in the area, which can help improve your sex life. It can also help increase lubrication, relieving the vaginal dryness women often experience with age. 
 
 ## **Votiva Treatment is Quick and Painless**
 
@@ -32,7 +32,7 @@ Votiva treatment takes about 15 minutes. The treatment is virtually painless. Th
 
 ## **Votiva is a Great alternative to Surgery for Incontinence**
 
-Typically, [vaginal rejuvenation](/vaginal-rejuvenation-expert/) and urinary incontinence surgery involves going under the knife and a recovery period. Many women are searching for less invasive options. Votiva is an amazing non-surgical alternative that addresses the same concerns in a shorter time frame with no downtime and no anesthesia.
+Typically, vaginal rejuvenation and urinary incontinence surgery involves going under the knife and a recovery period. Many women are searching for less invasive options. Votiva is an amazing non-surgical alternative that addresses the same concerns in a shorter time frame with no downtime and no anesthesia.
 
 ## **Votiva is Safe and Effective** 
 

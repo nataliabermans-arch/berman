@@ -41,10 +41,3 @@ In the largest and most rigorous U.S. trial comparing two traditional operations
 
 [SCHEDULE A CONSULTATION](/contact/)
 
-## Related Articles
-
-- [Sling Surgery is More Effective than Burch for Bladder Control in Women | Dr. Jennifer Berman MD](/sling-surgery-is-more-effective-than-burch-for-bladder-control-in-women/)
-- [Female Urology, Incontinence | Dr. Jennifer Berman MD](/female-urology-incontinence/)
-- [The Best Way to Treat Stress Urinary Incontinence | Dr. Jennifer Berman MD](/the-best-way-to-treat-stress-urinary-incontinence/)
-- [Emsella Contraindications: Is It Safe For You?](/emsella-contraindications-safety/)
-- [What Is V-Tone Therapy? A Complete Patient Guide](/v-tone-pelvic-floor/)

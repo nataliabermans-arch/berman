@@ -18,7 +18,7 @@ tags:
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Cellulite — we all know it, and let’s be honest, most of us have it. Those stubborn dimples can show up on the thighs, hips, and even the arms, no matter how fit or active you are. The good news? You don’t have to live with it. At The Berman Women’s Wellness Center, we’ve got a few tricks up our sleeves to help you smooth things out. Whether you’re looking for a quick fix or a more long-term solution, here’s a breakdown of the best [**cellulite treatments in Los Angeles**](/body-sculpting-fat-melting-cellulite-treatment/), CA, we offer.
+Cellulite — we all know it, and let’s be honest, most of us have it. Those stubborn dimples can show up on the thighs, hips, and even the arms, no matter how fit or active you are. The good news? You don’t have to live with it. At The Berman Women’s Wellness Center, we’ve got a few tricks up our sleeves to help you smooth things out. Whether you’re looking for a quick fix or a more long-term solution, here’s a breakdown of the best **cellulite treatments in Los Angeles**, CA, we offer.
 
 ### What Causes Cellulite?
 

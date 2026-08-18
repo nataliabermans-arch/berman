@@ -67,7 +67,7 @@ In a significant career milestone, Dr. Berman became the first-ever director of 
 
 #### Over 30 Years of Medical Experience
 
-With over three decades of experience, Dr. Berman brings a wealth of knowledge and a seasoned perspective to her practice. Her long-standing career is built on a patient-centered approach that prioritizes individual wellness and advocacy. She has seen the evolution of women’s healthcare firsthand and has remained a constant, trusted resource for her patients. This extensive experience means she has encountered a wide range of complex cases and has honed her ability to create effective, personalized [treatment plans](/hormone-therapy/) that address the root cause of a patient’s concerns, not just the symptoms.
+With over three decades of experience, Dr. Berman brings a wealth of knowledge and a seasoned perspective to her practice. Her long-standing career is built on a patient-centered approach that prioritizes individual wellness and advocacy. She has seen the evolution of women’s healthcare firsthand and has remained a constant, trusted resource for her patients. This extensive experience means she has encountered a wide range of complex cases and has honed her ability to create effective, personalized treatment plans that address the root cause of a patient’s concerns, not just the symptoms.
 
 ### The Berman Women’s Wellness Center
 
@@ -85,7 +85,7 @@ To ensure her patients have access to the highest standards of hospital care if 
 
 True wellness isn’t about treating one symptom; it’s about understanding the whole person. This is the philosophy at the heart of Dr. Berman’s practice. She recognizes that issues like low libido, incontinence, and the effects of menopause are often interconnected, stemming from a combination of hormonal, physical, and emotional factors. Her approach is comprehensive, drawing from her diverse expertise in urology, endocrinology, and sex therapy to create a cohesive and effective treatment plan. By looking at the bigger picture, she can identify the root causes of your concerns and provide solutions that promote lasting health and vitality.
 
-This holistic method means your treatment plan is as unique as you are. Whether you’re seeking help for a specific medical condition or looking to optimize your overall well-being, Dr. Berman provides a full spectrum of care. She offers everything from advanced [hormone replacement therapies](/biote-hormone-therapy/) to cutting-edge treatments for sexual dysfunction and body sculpting. Her goal is to empower you with the knowledge and tools you need to take control of your health, helping you feel your best from the inside out. This integrated approach ensures that all aspects of your well-being are addressed in a coordinated and thoughtful manner.
+This holistic method means your treatment plan is as unique as you are. Whether you’re seeking help for a specific medical condition or looking to optimize your overall well-being, Dr. Berman provides a full spectrum of care. She offers everything from advanced hormone replacement therapies to cutting-edge treatments for sexual dysfunction and body sculpting. Her goal is to empower you with the knowledge and tools you need to take control of your health, helping you feel your best from the inside out. This integrated approach ensures that all aspects of your well-being are addressed in a coordinated and thoughtful manner.
 
 ### Core Specialties: From Urology to Endocrinology
 
@@ -93,7 +93,7 @@ Dr. Berman’s expertise is both deep and broad, covering several interconnected
 
 #### Expertise in Female Urology
 
-As a urologist specializing in female care, Dr. Berman addresses conditions that affect the urinary tract and pelvic floor. Many women silently struggle with issues like urinary incontinence, overactive bladder, and chronic pelvic pain, often assuming they are just a normal part of aging or childbirth. Dr. Berman provides both accurate diagnoses and effective, modern solutions. Her expertise allows her to offer a range of treatments, from non-invasive therapies like [Emsella Incontinence Therapy](/emsella-treatment-for-incontinence/) to minimally invasive procedures, helping women regain control and live without discomfort or embarrassment.
+As a urologist specializing in female care, Dr. Berman addresses conditions that affect the urinary tract and pelvic floor. Many women silently struggle with issues like urinary incontinence, overactive bladder, and chronic pelvic pain, often assuming they are just a normal part of aging or childbirth. Dr. Berman provides both accurate diagnoses and effective, modern solutions. Her expertise allows her to offer a range of treatments, from non-invasive therapies like Emsella Incontinence Therapy to minimally invasive procedures, helping women regain control and live without discomfort or embarrassment.
 
 #### Endocrinology, Diabetes & Metabolism
 
@@ -109,7 +109,7 @@ Every woman’s body and life experience are different, which is why a one-size-
 
 #### Sexual Health and Libido Treatments
 
-A healthy sex life is a vital component of overall well-being, but many women experience issues with desire, arousal, or satisfaction at some point in their lives. Dr. Berman offers a range of advanced treatments designed to address the root causes of [low libido](/low-libido-and-your-relationships/) and sexual dysfunction. These include innovative therapies like the O-Shot and G-Shot, which use your body’s own growth factors to enhance sensitivity and arousal, as well as FDA-approved medications like Addyi. Her goal is to help you reclaim your vitality and enjoy a fulfilling and pleasurable intimate life.
+A healthy sex life is a vital component of overall well-being, but many women experience issues with desire, arousal, or satisfaction at some point in their lives. Dr. Berman offers a range of advanced treatments designed to address the root causes of low libido and sexual dysfunction. These include innovative therapies like the O-Shot and G-Shot, which use your body’s own growth factors to enhance sensitivity and arousal, as well as FDA-approved medications like Addyi. Her goal is to help you reclaim your vitality and enjoy a fulfilling and pleasurable intimate life.
 
 #### Urological Care for Incontinence and Pelvic Pain
 
@@ -117,7 +117,7 @@ Urological issues like urinary incontinence and pelvic pain can significantly di
 
 #### Menopause and Hormone Balancing Therapies
 
-Menopause is a natural transition, but its symptoms don’t have to control your life. Dr. Berman specializes in helping women manage the hormonal fluctuations that occur during perimenopause and menopause. She offers sophisticated hormone balancing therapies, including [Biote Hormone Therapy](/hormone-therapy/) and Bioidentical Hormone Replacement Therapy (BHRT), which are customized to your body’s specific needs. These treatments can effectively alleviate symptoms like hot flashes, night sweats, vaginal dryness, and mood swings, helping you feel more like yourself again and navigate this life stage with grace and energy.
+Menopause is a natural transition, but its symptoms don’t have to control your life. Dr. Berman specializes in helping women manage the hormonal fluctuations that occur during perimenopause and menopause. She offers sophisticated hormone balancing therapies, including Biote Hormone Therapy and Bioidentical Hormone Replacement Therapy (BHRT), which are customized to your body’s specific needs. These treatments can effectively alleviate symptoms like hot flashes, night sweats, vaginal dryness, and mood swings, helping you feel more like yourself again and navigate this life stage with grace and energy.
 
 #### Medical Weight Loss and Body Sculpting
 
@@ -187,10 +187,3 @@ To better serve the diverse community of Southern California, Dr. Berman is prou
 - **Demand a Personalized Plan**: Your body and health history are unique, so your treatment should be too. Dr. Berman creates customized strategies for everything from hormone balancing to sexual health, ensuring your care is specifically designed for your goals.
 - **Trust an Experienced Authority**: When it comes to personal health, expertise matters. Dr. Berman is a nationally recognized pioneer in female sexual medicine, giving you confidence that your care is based on decades of specialized experience and innovation.
 
-## Related Articles
-
-- [Dr. Jennifer Berman: Women’s Wellness](/about/)
-- [Berman Women’s Wellness Center](/)
-- [A Note from Dr. Jennifer Berman: Reflections and Achievements](/)
-- [Addyi: The Pink Pill for Women Affected by Hypoactive Sexual Desire Disorder (HSDD)](/)
-- [Berman Sexual Health](/)

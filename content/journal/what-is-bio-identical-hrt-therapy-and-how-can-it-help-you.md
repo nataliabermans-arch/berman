@@ -22,7 +22,7 @@ If you’re a woman navigating the challenges of aging, hormonal imbalances can 
 
 ## What Exactly is Bio-Identical HRT?
 
-To put it simply, **[Bio-Identical Hormone Replacement Therapy](/testosterone-hormone-replacement-therapy/)** (BHRT) uses hormones that are chemically identical to the ones your body naturally produces. These hormones come from plant sources like yams or soy and are customized to fit your individual hormonal needs. Because they mimic your body’s natural hormones, BHRT is often better tolerated and can provide relief from symptoms linked to menopause or other hormonal issues.
+To put it simply, **Bio-Identical Hormone Replacement Therapy** (BHRT) uses hormones that are chemically identical to the ones your body naturally produces. These hormones come from plant sources like yams or soy and are customized to fit your individual hormonal needs. Because they mimic your body’s natural hormones, BHRT is often better tolerated and can provide relief from symptoms linked to menopause or other hormonal issues.
 
 Dr. Berman, who founded The Berman Women’s Wellness Center, created a comprehensive center focused solely on women’s health. She believes in offering tailored treatments like BHRT to help women regain balance and feel more like themselves again.
 

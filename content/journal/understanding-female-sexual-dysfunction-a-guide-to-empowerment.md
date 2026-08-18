@@ -37,7 +37,7 @@ Since FSD affects women in various ways, it’s essential to know that you’re 
 
 ## Causes of Female Sexual Dysfunction
 
-**[FSD](/female-sexual-dysfunction/)** can stem from a range of causes, often overlapping. These causes include physical issues, such as hormonal imbalances, chronic pain, or medications, and psychological factors, like anxiety, depression, or trauma.
+**FSD** can stem from a range of causes, often overlapping. These causes include physical issues, such as hormonal imbalances, chronic pain, or medications, and psychological factors, like anxiety, depression, or trauma.
 
 In many cases, life events such as pregnancy, childbirth, or menopause can also lead to changes in sexual function. Hormonal shifts during these periods can affect your libido, making intimacy less appealing or even uncomfortable.
 
@@ -51,6 +51,6 @@ The team at Berman Women’s Wellness Center is here to provide the care and sup
 
 ## Empowering Women Through Wellness
 
-**[Female sexual dysfunction](/female-sexual-dysfunction/)** is a sensitive subject, but it’s one that deserves attention. Too many women struggle in silence, not knowing there are effective treatments and support systems available. At Berman Women’s Wellness Center, we aim to empower women to take charge of their health. By addressing the root causes of FSD, we can create solutions that work for you.
+**Female sexual dysfunction** is a sensitive subject, but it’s one that deserves attention. Too many women struggle in silence, not knowing there are effective treatments and support systems available. At Berman Women’s Wellness Center, we aim to empower women to take charge of their health. By addressing the root causes of FSD, we can create solutions that work for you.
 
 So, if you’re ready to explore treatment options or just need someone to talk to about your concerns, don’t hesitate to reach out. You don’t have to navigate this journey alone—our team is here to help you live your best life.

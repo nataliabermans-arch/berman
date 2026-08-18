@@ -17,7 +17,7 @@ author: "Dr. Jennifer Berman, MD"
 
 Dr. Jennifer Berman, a prominent expert in sexual health, underscores the pivotal role of body image in influencing sexual function and intimacy. She highlights that a positive body image fosters self-confidence and comfort, which are essential for sexual satisfaction. Dr. Berman advocates for holistic self-care, open communication to discuss insecurities, and self-acceptance to overcome body image concerns. Embracing one’s body and focusing on its capabilities enhance intimacy and strengthen relationship bonds. By adopting these practices, individuals can notably enhance both their body image and sexual function, creating a more fulfilling intimate life. Discover the nuanced strategies she recommends for achieving these improvements.
 
-[**Dr. Jennifer Berman**](/), a prominent expert in sexual health, underscores the pivotal role of body image in influencing sexual function and intimacy. She highlights that a positive body image fosters self-confidence and comfort, which are essential for sexual satisfaction. Dr. Berman advocates for holistic self-care, open communication to discuss insecurities, and self-acceptance to overcome body image concerns. Embracing one’s body and focusing on its capabilities enhance intimacy and strengthen relationship bonds. By adopting these practices, individuals can notably enhance both their body image and sexual function, creating a more fulfilling intimate life. Discover the nuanced strategies she recommends for achieving these improvements.
+**Dr. Jennifer Berman**, a prominent expert in sexual health, underscores the pivotal role of body image in influencing sexual function and intimacy. She highlights that a positive body image fosters self-confidence and comfort, which are essential for sexual satisfaction. Dr. Berman advocates for holistic self-care, open communication to discuss insecurities, and self-acceptance to overcome body image concerns. Embracing one’s body and focusing on its capabilities enhance intimacy and strengthen relationship bonds. By adopting these practices, individuals can notably enhance both their body image and sexual function, creating a more fulfilling intimate life. Discover the nuanced strategies she recommends for achieving these improvements.
 
 ## Importance of Body Image
 
@@ -107,7 +107,7 @@ Dr. Jennifer Berman shifted her medical career into roles as a TV personality, h
 
 **Is Jennifer Berman Married?**
 
-Isn’t it inspiring when professional success is matched by a fulfilling personal life? [**Dr. Jennifer Berman’s**](/) relationship status reflects this balance, as she remains happily married to David Berman, with their strong family life evident in social media updates.
+Isn’t it inspiring when professional success is matched by a fulfilling personal life? **Dr. Jennifer Berman’s** relationship status reflects this balance, as she remains happily married to David Berman, with their strong family life evident in social media updates.
 
 ## Conclusion
 

@@ -52,9 +52,9 @@ Hot flashes – those sudden surges of warmth that leave you feeling flushed and
 
 The beauty (and sometimes frustration) of menopause is that it’s a deeply personal experience. The severity and duration of symptoms can vary greatly from woman to woman. Factors like genetics, lifestyle choices, and overall health can all play a role. Some women sail through menopause with minimal symptoms, while others face a more challenging journey.
 
-## [Menopause Biotype – Get Tailored Relief](/menopause/)
+## Menopause Biotype – Get Tailored Relief
 
-I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. [Learn More](/menopause/)
+I created the Menopause Biotype Test as a genetic test designed to identify how menopause will impact your body, from symptom severity to risks for diseases such as osteoporosis and cardiovascular conditions. Learn More
 
 **Taking Charge: Managing Your Menopause Journey**
 

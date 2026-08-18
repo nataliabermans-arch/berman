@@ -53,10 +53,3 @@ What can I tell you? I weighed the risks and this was one of them. Women who wan
 
 [SCHEDULE A CONSULTATION](/contact/)
 
-## Related Articles
-
-- [Understanding the Menopause Biotype](/understanding-the-menopause-biotype/)
-- [How Does Cancer Affect Women’s Sexual Health?](/how-does-cancer-affect-womens-sexual-health/)
-- [Menopause and Your Sex Life](/menopause-and-your-sex-life/)
-- [New Study Shows How Women’s Sex Life Declines Post-Menopause](/new-study-shows-how-womens-sex-life-declines-post-menopause/)
-- [Research Provides New Insights Into Decreases in Sexual Activity After Menopause](/research-provides-new-insights-into-decreases-in-sexual-activity-after-menopause/)
