@@ -178,7 +178,7 @@ export default function AccessibilityClient() {
               Our <em style={ITALIC}>commitment.</em>
             </h2>
             <p style={P}>
-              The Berman Women&apos;s Wellness Center is committed to making
+              JRB Medical Wellness is committed to making
               this website accessible to people with a wide range of abilities,
               including those who use assistive technologies such as screen
               readers, screen magnification, voice recognition, and

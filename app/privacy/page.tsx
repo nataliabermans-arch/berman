@@ -3,9 +3,9 @@ import type { Metadata } from "next";
 import PrivacyClient from "./_privacy-client";
 
 const seo = {
-  title: "Privacy Policy — The Berman Women's Wellness Center",
+  title: "Privacy Policy — JRB Medical Wellness",
   description:
-    "How we collect, use, and protect your information at The Berman Women's Wellness Center.",
+    "How we collect, use, and protect your information at JRB Medical Wellness.",
   url: "/privacy",
 };
 

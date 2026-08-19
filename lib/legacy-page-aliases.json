@@ -1,8 +1,8 @@
 [
   {
     "path": "/about/wellness-center/",
-    "title": "The Berman Women's Wellness Center",
-    "description": "About Dr. Jennifer Berman and The Berman Women's Wellness Center in Beverly Hills.",
+    "title": "JRB Medical Wellness",
+    "description": "About Dr. Jennifer Berman and JRB Medical Wellness in Beverly Hills.",
     "type": "simple"
   },
   {
@@ -29,7 +29,7 @@
   {
     "path": "/aesthetic-treatments/",
     "title": "Aesthetic Treatments",
-    "description": "Aesthetic and regenerative treatments at The Berman Women's Wellness Center in Beverly Hills.",
+    "description": "Aesthetic and regenerative treatments at JRB Medical Wellness in Beverly Hills.",
     "type": "service",
     "serviceSlug": "aesthetic-regenerative"
   },
@@ -77,7 +77,7 @@
   {
     "path": "/beautifill/",
     "title": "Beautifill",
-    "description": "Body contouring and aesthetic care at The Berman Women's Wellness Center.",
+    "description": "Body contouring and aesthetic care at JRB Medical Wellness.",
     "type": "service",
     "serviceSlug": "body-contouring"
   },
@@ -153,7 +153,7 @@
   {
     "path": "/dr-jennifer-berman-womens-wellness/",
     "title": "Dr. Jennifer Berman",
-    "description": "About Dr. Jennifer Berman and The Berman Women's Wellness Center.",
+    "description": "About Dr. Jennifer Berman and JRB Medical Wellness.",
     "type": "simple"
   },
   {
@@ -387,7 +387,7 @@
   {
     "path": "/virtual-consultation/",
     "title": "Virtual Consultation",
-    "description": "Request a consultation with The Berman Women's Wellness Center.",
+    "description": "Request a consultation with JRB Medical Wellness.",
     "type": "simple"
   },
   {
@@ -414,7 +414,7 @@
   {
     "path": "/thank-you/",
     "title": "Thank you",
-    "description": "Thank you for contacting The Berman Women's Wellness Center.",
+    "description": "Thank you for contacting JRB Medical Wellness.",
     "type": "thank-you"
   },
   {

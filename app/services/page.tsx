@@ -48,7 +48,7 @@ export default function ServicesPage() {
 
   const medicalBusiness = {
     "@type": "MedicalBusiness",
-    name: "The Berman Women's Wellness Center",
+    name: "JRB Medical Wellness",
     url: `${siteUrl}/`,
     image: `${siteUrl}/images/dr-berman/headshot-portrait.webp`,
     address: {

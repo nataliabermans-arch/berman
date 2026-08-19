@@ -23,7 +23,7 @@ export async function generateMetadata(): Promise<Metadata> {
           url: "/images/dr-berman/headshot-portrait.webp",
           width: 1200,
           height: 1500,
-          alt: "Dr. Jennifer Berman, MD — The Berman Women's Wellness Center",
+          alt: "Dr. Jennifer Berman, MD — JRB Medical Wellness",
         },
       ],
     },

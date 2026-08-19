@@ -17,7 +17,7 @@ interface LegacySimplePageProps {
 export default function LegacySimplePage({
   title,
   description,
-  eyebrow = "The Berman Women's Wellness Center",
+  eyebrow = "JRB Medical Wellness",
   ctaHref = "/contact/",
   ctaLabel = "Request a consultation",
 }: LegacySimplePageProps) {

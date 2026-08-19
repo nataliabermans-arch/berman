@@ -125,7 +125,7 @@ function LegacyAliasPage({ alias }: { alias: LegacyPageAlias }) {
       eyebrow={
         alias.type === "media"
           ? "Media"
-          : "The Berman Women's Wellness Center"
+          : "JRB Medical Wellness"
       }
       ctaHref={alias.type === "thank-you" ? "/" : "/contact/"}
       ctaLabel={alias.type === "thank-you" ? "Return home" : "Request a consult"}
@@ -198,7 +198,7 @@ export default function MigratedArticlePage({
     },
     publisher: {
       "@type": "Organization",
-      name: "The Berman Women's Wellness Center",
+      name: "JRB Medical Wellness",
       url: SITE,
     },
     image: heroImage,

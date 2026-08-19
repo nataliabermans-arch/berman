@@ -1197,7 +1197,7 @@ export default function ContactClient() {
                   marginBottom: 10,
                 }}
               >
-                The Berman Women&apos;s Wellness Center
+                JRB Medical Wellness
               </div>
               <div
                 style={{

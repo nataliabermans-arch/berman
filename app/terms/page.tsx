@@ -3,9 +3,9 @@ import type { Metadata } from "next";
 import TermsClient from "./_terms-client";
 
 const seo = {
-  title: "Terms of Use — The Berman Women's Wellness Center",
+  title: "Terms of Use — JRB Medical Wellness",
   description:
-    "The terms and conditions governing your use of the Berman Women's Wellness Center website.",
+    "The terms and conditions governing your use of the JRB Medical Wellness website.",
   url: "/terms",
 };
 

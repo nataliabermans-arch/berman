@@ -37,7 +37,7 @@ export default function SiteFooter() {
             <span style={footerLogoDotInline}>.</span>
           </div>
           <p style={footerAddrInline}>
-            The Berman Women&apos;s Wellness Center
+            JRB Medical Wellness
             <br />
             415 N. Crescent Drive, Suite 355
             <br />
@@ -118,7 +118,7 @@ export default function SiteFooter() {
       </div>
       <div className="footer-tail">
         <span className="footer-tail__copy">
-          © {new Date().getFullYear()} The Berman Women&apos;s Wellness Center
+          © {new Date().getFullYear()} JRB Medical Wellness
         </span>
         <a
           className="legitscript-seal"

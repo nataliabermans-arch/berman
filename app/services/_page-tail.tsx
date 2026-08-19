@@ -80,7 +80,7 @@ export default function PageTail() {
               <div className="meta">
                 <span>Where</span>
                 <span>
-                  The Berman Women&apos;s Wellness Center, Beverly Hills
+                  JRB Medical Wellness, Beverly Hills
                 </span>
                 <span>Length</span>
                 <span>60–90 min new-patient consult</span>

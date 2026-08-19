@@ -7,7 +7,7 @@ import StoriesClient from "./_stories-client";
 const seo = {
   title: "Patient Stories — In Their Own Words | Berman Women's Wellness",
   description:
-    "Eight women, eight different concerns, one consistent thread — they were finally heard. Patient stories from The Berman Women's Wellness Center, Beverly Hills.",
+    "Eight women, eight different concerns, one consistent thread — they were finally heard. Patient stories from JRB Medical Wellness, Beverly Hills.",
   url: "/stories",
 };
 
@@ -23,7 +23,7 @@ export async function generateMetadata(): Promise<Metadata> {
       images: [
         {
           url: "/images/stories/sarah-portrait.webp",
-          alt: "Patient stories — Berman Women's Wellness Center",
+          alt: "Patient stories — JRB Medical Wellness",
         },
       ],
     },
@@ -38,7 +38,7 @@ export default function StoriesPage() {
     "@type": "Review",
     itemReviewed: {
       "@type": "MedicalBusiness",
-      name: "The Berman Women's Wellness Center",
+      name: "JRB Medical Wellness",
     },
     reviewBody: story.excerpt,
     author: {

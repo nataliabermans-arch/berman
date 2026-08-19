@@ -211,7 +211,7 @@ export default function TermsClient() {
               Reading this Site, submitting a form, or chatting with the AI
               concierge does <em style={ITALIC}>not</em> create a
               physician-patient relationship between you and Dr. Jennifer Berman
-              or The Berman Women&apos;s Wellness Center. A physician-patient
+              or JRB Medical Wellness. A physician-patient
               relationship is established only through a formal consultation
               with the practice. Always seek the advice of a qualified physician
               with any questions you have about a medical condition. Never
@@ -279,7 +279,7 @@ export default function TermsClient() {
               SMS <em style={ITALIC}>terms.</em>
             </h2>
             <p style={P}>
-              Berman Women&apos;s Wellness Center may send customer care text
+              JRB Medical Wellness may send customer care text
               messages to users who opt in through our website forms or
               approved intake channels. Messages may include appointment request
               follow-up, scheduling coordination, appointment reminders, and
@@ -443,7 +443,7 @@ export default function TermsClient() {
               .
             </p>
             <p style={P}>
-              The Berman Women&apos;s Wellness Center
+              JRB Medical Wellness
               <br />
               415 N. Crescent Drive, Suite 355
               <br />

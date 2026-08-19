@@ -249,7 +249,7 @@ export default function PrivacyClient() {
               and 45 C.F.R. &sect;164.520 require covered healthcare providers
               to give patients a Notice of Privacy Practices describing how
               their protected health information (PHI) may be used and
-              disclosed. The Berman Women&apos;s Wellness Center maintains a
+              disclosed. JRB Medical Wellness maintains a
               separate Notice of Privacy Practices for our clinical operations,
               available at the front desk and on request from the practice.
             </p>
@@ -408,7 +408,7 @@ export default function PrivacyClient() {
               .
             </p>
             <p style={P}>
-              The Berman Women&apos;s Wellness Center
+              JRB Medical Wellness
               <br />
               415 N. Crescent Drive, Suite 355
               <br />

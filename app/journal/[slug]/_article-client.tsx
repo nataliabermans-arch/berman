@@ -1368,7 +1368,7 @@ export default function ArticleClient({
       reviewedBy: drBerman,
       publisher: {
         "@type": "Organization",
-        name: "The Berman Women's Wellness Center",
+        name: "JRB Medical Wellness",
         logo: {
           "@type": "ImageObject",
           url: `${siteUrl}/images/jb-logo.png`,
@@ -1870,7 +1870,7 @@ export default function ArticleClient({
                 Dr. Jennifer Berman, MD
               </em>{" "}
               · Urologist &amp; female sexual medicine specialist · Founder of
-              The Berman Women&apos;s Wellness Center, Beverly Hills, and two-time
+              JRB Medical Wellness, Beverly Hills, and two-time
               New York Times best-selling author ·{" "}
               <Link
                 href="/about/"

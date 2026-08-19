@@ -25,10 +25,10 @@ export async function generateMetadata(): Promise<Metadata> {
 export default function WellnessCenterPage() {
   return (
     <LegacySimplePage
-      title={alias?.title ?? "The Berman Women's Wellness Center"}
+      title={alias?.title ?? "JRB Medical Wellness"}
       description={
         alias?.description ??
-        "About Dr. Jennifer Berman and The Berman Women's Wellness Center."
+        "About Dr. Jennifer Berman and JRB Medical Wellness."
       }
       ctaHref="/contact/"
       ctaLabel="Request a consult"

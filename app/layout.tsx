@@ -75,7 +75,7 @@ const jsonLd = {
       "@type": "WebSite",
       "@id": `${siteUrl}/#website`,
       url: siteUrl,
-      name: "Berman Women's Wellness",
+      name: "JRB Medical Wellness",
       description: defaultDescription,
       publisher: {
         "@id": `${siteUrl}/#organization`,
@@ -89,8 +89,8 @@ const jsonLd = {
     {
       "@type": "Organization",
       "@id": `${siteUrl}/#organization`,
-      name: "Berman Women's Wellness",
-      alternateName: "The Berman Women's Wellness Center",
+      name: "JRB Medical Wellness",
+      alternateName: "Berman Women's Wellness",
       url: siteUrl,
       logo: `${siteUrl}/images/jb-logo.png`,
       image: `${siteUrl}/images/dr-berman/headshot-portrait.jpg`,
@@ -114,7 +114,7 @@ const jsonLd = {
       honorificSuffix: "MD",
       jobTitle: "Urologist",
       description:
-        "Internationally recognized urologist, pioneer of female sexual medicine, and founder and director of The Berman Women's Wellness Center in Beverly Hills.",
+        "Internationally recognized urologist, pioneer of female sexual medicine, and founder and director of JRB Medical Wellness in Beverly Hills.",
       knowsAbout: [
         "Menopause",
         "Perimenopause",
@@ -157,7 +157,7 @@ const jsonLd = {
     {
       "@type": "MedicalBusiness",
       "@id": `${siteUrl}/#medical-business`,
-      name: "The Berman Women's Wellness Center",
+      name: "JRB Medical Wellness",
       url: siteUrl,
       image: `${siteUrl}/images/dr-berman/headshot-portrait.jpg`,
       telephone: "+1-310-772-0072",
