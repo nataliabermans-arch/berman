@@ -957,7 +957,7 @@ function HomeClient() {
           <div className="e-hero-foot">
             <span className="left">since 2007 · 1M+ women cared for</span>
             <span className="scroll">Scroll ↓</span>
-            <span className="right">25 yrs · two NYT best-sellers</span>
+            <span className="right">25 yrs · two NYT bestsellers</span>
           </div>
         </div>
       </div>
@@ -1085,7 +1085,7 @@ function HomeClient() {
                     </>
                   ),
                   photoSrc: "/images/practice/senior-glow.webp",
-                  desc: "Filler · PRP/PRF · peptides · skin tightening",
+                  desc: "Filler · PRP/PRF (platelet-rich plasma/fibrin) · peptides · skin tightening",
                   arrow: "Open →",
                   href: "/services/aesthetic-regenerative/",
                 },
@@ -1124,7 +1124,7 @@ function HomeClient() {
                     </>
                   ),
                   photoSrc: "/images/practice/vineyard.webp",
-                  desc: "BHRT · perimenopause workup · hormone panels",
+                  desc: "BHRT (bioidentical hormone therapy) · perimenopause workup · hormone panels",
                   arrow: "Open →",
                   href: "/menopause-perimenopause/",
                 },
@@ -1392,7 +1392,7 @@ function HomeClient() {
               <h6>Training</h6>
               <ul>
                 <li>MD · Boston University</li>
-                <li>Residency · U. Maryland</li>
+                <li>Residency · University of Maryland</li>
                 <li>Fellowship · UCLA</li>
               </ul>
             </div>
@@ -2090,7 +2090,7 @@ function HomeClient() {
             >
               <div className="tag">N° 02 · Anywhere</div>
               <h4>
-                Telehealth <em>visit</em>
+                Virtual <em>consult</em>
               </h4>
               <div className="photo">
                 <LazyFillImage
@@ -2162,7 +2162,9 @@ function HomeClient() {
           <p style={footerAddrInline}>
             The Berman Women&apos;s Wellness Center
             <br />
-            Beverly Hills, CA
+            415 N. Crescent Drive, Suite 355
+            <br />
+            Beverly Hills, CA 90210
           </p>
           <form
             className="news"

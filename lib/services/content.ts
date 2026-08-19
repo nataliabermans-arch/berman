@@ -818,7 +818,7 @@ export const SERVICES: SpecialtyContent[] = [
       sub: "Dermal filler. PRP and PRF. Peptides. Skin tightening. Regenerative protocols. Practiced as medicine — restrained, indication-led, and tuned to look like you on a better day, not someone else.",
     },
     atAGlance: {
-      consultation: "45–60 min",
+      consultation: "60–90 min",
       followUp: "8–12 wks",
       setting: "In-person",
       insurance: "Out-of-network",
@@ -884,7 +884,7 @@ export const SERVICES: SpecialtyContent[] = [
         num: "01",
         title: "Consultation",
         italicWord: "Consultation",
-        body: "45–60 min consultation. We talk about what bothers you, what you want, and what we recommend. No pressure, no upsell.",
+        body: "60–90 min consultation. We talk about what bothers you, what you want, and what we recommend. No pressure, no upsell.",
       },
       {
         num: "02",
@@ -918,7 +918,7 @@ export const SERVICES: SpecialtyContent[] = [
       {
         when: "Week 1",
         title: "Consultation",
-        body: "45–60 min in-person consultation. Plan written same day. First treatment scheduled if you want to proceed.",
+        body: "60–90 min in-person consultation. Plan written same day. First treatment scheduled if you want to proceed.",
       },
       {
         when: "Week 2–3",
@@ -1155,7 +1155,7 @@ export const SERVICES: SpecialtyContent[] = [
       italicWord: "peptide therapy",
     },
     atAGlance: {
-      consultation: "45–60 min",
+      consultation: "60–90 min",
       followUp: "4–6 wks",
       setting: "In-person + telehealth",
       insurance: "Out-of-network",
@@ -1221,7 +1221,7 @@ export const SERVICES: SpecialtyContent[] = [
         num: "01",
         title: "Intake & history",
         italicWord: "Intake",
-        body: "A 45–60 minute consultation. Symptoms, goals, medications, and a review of what you’ve already tried and how it went.",
+        body: "A 60–90 minute consultation. Symptoms, goals, medications, and a review of what you’ve already tried and how it went.",
       },
       {
         num: "02",
@@ -1255,7 +1255,7 @@ export const SERVICES: SpecialtyContent[] = [
       {
         when: "Week 1",
         title: "Consultation",
-        body: "45–60 min in-person or telehealth. History, labs ordered where indicated, first protocol outlined.",
+        body: "60–90 min in-person or telehealth. History, labs ordered where indicated, first protocol outlined.",
       },
       {
         when: "Week 2–3",

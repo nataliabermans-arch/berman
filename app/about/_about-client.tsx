@@ -64,7 +64,7 @@ const TIMELINE: { year: string; title: React.ReactNode; body: string }[] = [
     title: (
       <>
         <em style={{ color: "#8a3a44" }}>For Women Only</em> — New York Times
-        best-seller
+        bestseller
       </>
     ),
     body: "Published with Henry Holt & Co. Spent 11 weeks on the NYT Best-Seller list. Became a defining text in the field.",
@@ -77,7 +77,7 @@ const TIMELINE: { year: string; title: React.ReactNode; body: string }[] = [
         <em style={{ color: "#8a3a44" }}>Sexually Satisfied Woman</em>
       </>
     ),
-    body: "Second NYT best-seller. Made female arousal physiology a household-vocabulary topic.",
+    body: "Second NYT bestseller. Made female arousal physiology a household-vocabulary topic.",
   },
   {
     year: "2007",
@@ -97,7 +97,7 @@ const TIMELINE: { year: string; title: React.ReactNode; body: string }[] = [
         protocols
       </>
     ),
-    body: "Among the first U.S. clinicians to combine PRP, peptide therapy, and energy-based devices for vaginal and pelvic health.",
+    body: "Among the first U.S. clinicians to combine PRP (platelet-rich plasma), peptide therapy, and energy-based devices for vaginal and pelvic health.",
   },
   {
     year: "2024",
@@ -277,7 +277,7 @@ const GLANCE: { dt: string; dd: React.ReactNode }[] = [
     dt: "Authored",
     dd: (
       <>
-        Two <em style={{ color: "#8a3a44" }}>New York Times</em> best-sellers
+        Two <em style={{ color: "#8a3a44" }}>New York Times</em> bestsellers
       </>
     ),
   },
@@ -538,7 +538,7 @@ export default function AboutClient() {
           <span style={{ color: "#d99ba1" }}>·</span>
           <span>
             <b style={{ color: "#ffeae0", fontWeight: 600 }}>2×</b> NYT
-            best-seller
+            bestseller
           </span>
           <span style={{ color: "#d99ba1" }}>·</span>
           <span>
@@ -714,7 +714,7 @@ export default function AboutClient() {
               co-authored <em style={{ color: "#8a3a44" }}>For Women Only</em>,
               the book that introduced female sexual dysfunction as a clinical
               concept to a mainstream audience. The book became a New York Times
-              best-seller. So did the follow-up.
+              bestseller. So did the follow-up.
             </motion.p>
 
             <motion.blockquote
@@ -896,7 +896,7 @@ export default function AboutClient() {
               }}
             >
               From a research thesis with almost no published literature to the
-              first U.S. center for female sexual medicine, two best-sellers,
+              first U.S. center for female sexual medicine, two bestsellers,
               and a concierge Beverly Hills practice now in its eighteenth year.
             </motion.p>
           </div>

@@ -39,7 +39,9 @@ export default function SiteFooter() {
           <p style={footerAddrInline}>
             The Berman Women&apos;s Wellness Center
             <br />
-            Beverly Hills, CA
+            415 N. Crescent Drive, Suite 355
+            <br />
+            Beverly Hills, CA 90210
           </p>
           <div className="news">
             <input

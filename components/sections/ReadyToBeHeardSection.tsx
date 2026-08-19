@@ -173,7 +173,7 @@ export default function ReadyToBeHeardSection() {
           >
             <div className="tag">N° 02 · Anywhere</div>
             <h4>
-              Telehealth <em>visit</em>
+              Virtual <em>consult</em>
             </h4>
             <div
               className="photo"
