@@ -90,11 +90,6 @@ function splitName(fullName: string) {
   return { firstName, lastName };
 }
 
-function isInteractiveConsentTarget(target: EventTarget | null) {
-  if (!(target instanceof HTMLElement)) return false;
-  return Boolean(target.closest("a, button, input, select, textarea"));
-}
-
 type LeadCaptureModalProps = {
   displayPhone: string;
   isOpen: boolean;
@@ -461,16 +456,7 @@ export default function LeadCaptureModal({
                       />
                     </label>
 
-                    <label
-                      className="lead-consent"
-                      onClick={(event) => {
-                        if (isInteractiveConsentTarget(event.target)) return;
-                        setField(
-                          "formAcknowledgment",
-                          !form.formAcknowledgment,
-                        );
-                      }}
-                    >
+                    <label className="lead-consent">
                       <input
                         name="formAcknowledgment"
                         type="checkbox"
@@ -482,13 +468,7 @@ export default function LeadCaptureModal({
                       <span>{FORM_ACKNOWLEDGMENT_TEXT}</span>
                     </label>
 
-                    <label
-                      className="lead-consent"
-                      onClick={(event) => {
-                        if (isInteractiveConsentTarget(event.target)) return;
-                        setField("smsConsent", !form.smsConsent);
-                      }}
-                    >
+                    <label className="lead-consent">
                       <input
                         name="smsConsent"
                         type="checkbox"

@@ -149,11 +149,6 @@ const hiddenChipInputStyle: React.CSSProperties = {
   zIndex: 2,
 };
 
-function isInteractiveLabelTarget(target: EventTarget | null): boolean {
-  if (!(target instanceof HTMLElement)) return false;
-  return Boolean(target.closest("a, button, input, select, textarea"));
-}
-
 function countDigits(s: string): number {
   let n = 0;
   for (const c of s) if (c >= "0" && c <= "9") n++;
@@ -1011,11 +1006,6 @@ export default function ContactClient() {
                 <div style={{ marginBottom: 28 }}>
                   <label
                     htmlFor="formAcknowledgment"
-                    onClick={(e) => {
-                      if (isInteractiveLabelTarget(e.target)) return;
-                      setField("formAcknowledgment")(!form.formAcknowledgment);
-                      setErrors((prev) => ({ ...prev, consent: undefined }));
-                    }}
                     style={{
                       display: "flex",
                       alignItems: "flex-start",
@@ -1032,9 +1022,10 @@ export default function ContactClient() {
                       name="formAcknowledgment"
                       type="checkbox"
                       checked={form.formAcknowledgment}
-                      onChange={(e) =>
-                        setField("formAcknowledgment")(e.target.checked)
-                      }
+                      onChange={(e) => {
+                        setField("formAcknowledgment")(e.target.checked);
+                        setErrors((prev) => ({ ...prev, consent: undefined }));
+                      }}
                       onBlur={blurField("consent")}
                       aria-required="true"
                       aria-invalid={errors.consent ? "true" : undefined}
@@ -1061,10 +1052,6 @@ export default function ContactClient() {
                 <div style={{ marginBottom: 28 }}>
                   <label
                     htmlFor="smsConsent"
-                    onClick={(e) => {
-                      if (isInteractiveLabelTarget(e.target)) return;
-                      setField("smsConsent")(!form.smsConsent);
-                    }}
                     style={{
                       display: "flex",
                       alignItems: "flex-start",
