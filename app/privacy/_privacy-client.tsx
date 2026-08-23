@@ -90,8 +90,8 @@ export default function PrivacyClient() {
         className="e-rounded-section"
         style={{
           position: "relative",
-          minHeight: "72vh",
-          padding: "180px clamp(24px, 4vw, 56px) 100px",
+          padding:
+            "clamp(150px, 20vh, 200px) clamp(24px, 4vw, 56px) clamp(72px, 9vh, 110px)",
           color: "#fff5f1",
           overflow: "hidden",
         }}
@@ -164,7 +164,7 @@ export default function PrivacyClient() {
         style={{
           position: "relative",
           zIndex: 1,
-          padding: "120px clamp(24px, 4vw, 56px) 140px",
+          padding: "clamp(72px, 8vh, 110px) clamp(24px, 4vw, 56px) 140px",
         }}
       >
         <div

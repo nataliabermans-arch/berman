@@ -1419,7 +1419,7 @@ export default function ArticleClient({
             color: "#4a1c26",
           }}
         >
-          <SiteNav />
+          <SiteNav showCart />
           <GrainGradient
             colors={["#ffeae0", "#f4d4d4", "#f4a3aa"]}
             colorBack="#fff5f1"
