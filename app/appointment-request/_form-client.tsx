@@ -61,6 +61,7 @@ export default function AppointmentRequestForm() {
   const [submitting, setSubmitting] = useState(false);
   const [submitError, setSubmitError] = useState<string | null>(null);
   const [done, setDone] = useState(false);
+  const [website, setWebsite] = useState(""); // honeypot
 
   const validate = (): Errors => {
     const e: Errors = {};
@@ -91,6 +92,7 @@ export default function AppointmentRequestForm() {
           lastName: lastName.trim(),
           email: email.trim(),
           phone: phone.trim(),
+          website,
           preferredContact: "either",
           reasons: ["not-sure"],
           visitType: "either",
@@ -210,6 +212,26 @@ export default function AppointmentRequestForm() {
           </div>
         ) : (
           <form onSubmit={submit} noValidate>
+            {/* Honeypot: hidden from people, bait for bots. Must stay empty. */}
+            <div
+              aria-hidden="true"
+              style={{
+                position: "absolute",
+                left: "-9999px",
+                width: 1,
+                height: 1,
+                overflow: "hidden",
+              }}
+            >
+              <input
+                type="text"
+                name="website"
+                tabIndex={-1}
+                autoComplete="off"
+                value={website}
+                onChange={(e) => setWebsite(e.target.value)}
+              />
+            </div>
             <div
               style={{
                 display: "grid",

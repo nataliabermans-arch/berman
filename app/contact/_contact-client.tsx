@@ -427,6 +427,7 @@ export default function ContactClient() {
   const [submitting, setSubmitting] = useState(false);
   const [submitError, setSubmitError] = useState<string | null>(null);
   const [success, setSuccess] = useState<{ ticketId: string } | null>(null);
+  const [website, setWebsite] = useState(""); // honeypot
 
   const setField =
     <K extends keyof FormState>(k: K) =>
@@ -464,6 +465,7 @@ export default function ContactClient() {
           lastName: form.lastName.trim(),
           email: form.email.trim(),
           phone: form.phone.trim(),
+          website,
           preferredContact: form.preferredContact,
           reasons: form.reasons,
           visitType: form.visitType,
@@ -781,6 +783,26 @@ export default function ContactClient() {
               </div>
             ) : (
               <form onSubmit={submit} noValidate>
+                {/* Honeypot: hidden from people, bait for bots. Must stay empty. */}
+                <div
+                  aria-hidden="true"
+                  style={{
+                    position: "absolute",
+                    left: "-9999px",
+                    width: 1,
+                    height: 1,
+                    overflow: "hidden",
+                  }}
+                >
+                  <input
+                    type="text"
+                    name="website"
+                    tabIndex={-1}
+                    autoComplete="off"
+                    value={website}
+                    onChange={(e) => setWebsite(e.target.value)}
+                  />
+                </div>
                 <div
                   style={{
                     fontFamily: MONO,

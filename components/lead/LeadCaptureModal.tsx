@@ -108,6 +108,7 @@ export default function LeadCaptureModal({
   const [submitState, setSubmitState] = useState<SubmitState>("idle");
   const [error, setError] = useState("");
   const [ticketId, setTicketId] = useState("");
+  const [website, setWebsite] = useState(""); // honeypot
 
   useEffect(() => {
     if (!isOpen) return;
@@ -191,6 +192,7 @@ export default function LeadCaptureModal({
           lastName,
           email: form.email.trim(),
           phone: form.phone.trim(),
+          website,
           preferredContact: form.preferredContact,
           reasons: form.reasons,
           visitType: form.visitType,
@@ -272,6 +274,26 @@ export default function LeadCaptureModal({
           </div>
         ) : (
               <form onSubmit={submit} className="lead-modal-form" noValidate>
+                {/* Honeypot: hidden from people, bait for bots. Must stay empty. */}
+                <div
+                  aria-hidden="true"
+                  style={{
+                    position: "absolute",
+                    left: "-9999px",
+                    width: 1,
+                    height: 1,
+                    overflow: "hidden",
+                  }}
+                >
+                  <input
+                    type="text"
+                    name="website"
+                    tabIndex={-1}
+                    autoComplete="off"
+                    value={website}
+                    onChange={(e) => setWebsite(e.target.value)}
+                  />
+                </div>
                 <h2 id="lead-modal-title">
                   {step === 0 ? (
                     <>

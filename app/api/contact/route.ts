@@ -64,6 +64,7 @@ type ContactPayload = {
   smsConsent?: boolean;
   consent?: boolean;
   source?: string;
+  website?: string; // honeypot — real users never fill this
 };
 
 function badRequest(message: string) {
@@ -72,6 +73,24 @@ function badRequest(message: string) {
 
 function nonEmpty(s: unknown): s is string {
   return typeof s === "string" && s.trim().length > 0;
+}
+
+// Requests from a real browser form submit always carry our own Origin.
+// A missing Origin (server-to-server, some privacy tools) is allowed; a
+// present-but-foreign Origin is a cross-site bot and gets dropped.
+function isAllowedOrigin(origin: string): boolean {
+  try {
+    const host = new URL(origin).hostname.toLowerCase();
+    return (
+      host === "bermansexualhealth.com" ||
+      host.endsWith(".bermansexualhealth.com") ||
+      host === "localhost" ||
+      host === "127.0.0.1" ||
+      host.endsWith(".vercel.app")
+    );
+  } catch {
+    return false;
+  }
 }
 
 function makeTicketId() {
@@ -293,6 +312,22 @@ export async function POST(req: NextRequest) {
   }
 
   if (!body || typeof body !== "object") return badRequest("Missing body");
+
+  // --- Spam / bot protection ---
+  // 1) Honeypot: a hidden "website" field no real user can see. Bots that
+  //    auto-fill every input trip it. Pretend success (so the bot moves on)
+  //    and silently drop the submission — no lead is created.
+  if (nonEmpty(body.website)) {
+    console.warn("[contact-intake-spam-honeypot]", { source: body.source || null });
+    return NextResponse.json({ ok: true, ticketId: makeTicketId() });
+  }
+  // 2) Cross-site origin: a foreign Origin header means a bot POSTing from
+  //    somewhere other than our own site. Drop it the same quiet way.
+  const requestOrigin = req.headers.get("origin");
+  if (requestOrigin && !isAllowedOrigin(requestOrigin)) {
+    console.warn("[contact-intake-spam-origin]", { origin: requestOrigin });
+    return NextResponse.json({ ok: true, ticketId: makeTicketId() });
+  }
 
   if (!nonEmpty(body.firstName)) return badRequest("First name is required");
   if (!nonEmpty(body.lastName)) return badRequest("Last name is required");
