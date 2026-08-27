@@ -73,13 +73,14 @@ const GHL_CUSTOM_FIELD_KEYS = {
 } as const;
 
 const REASON_LABELS: Record<string, string> = {
-  "menopause-hormones": "Menopause & Hormones",
+  "menopause-hormones": "Hormone Replacement Therapy",
   "sexual-health": "Sexual Health",
-  "pelvic-urinary": "Pelvic & Urinary",
+  "pelvic-urinary": "Pelvic Floor and Urinary Tract Health",
   "vaginal-rejuvenation": "Vaginal Rejuvenation",
-  "aesthetic-regenerative": "Aesthetic & Regenerative",
+  "aesthetic-regenerative": "Aesthetic and Regenerative Care",
+  "menopause-perimenopause": "Menopause and Perimenopause Care",
   "body-contouring": "Body Contouring",
-  "berman-supplements": "Berman Supplements",
+  "berman-supplements": "Supplement and Peptide",
   "berman-brief": "The Berman Brief",
   "not-sure": "Not sure yet",
 };

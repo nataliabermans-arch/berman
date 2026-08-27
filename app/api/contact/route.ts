@@ -38,6 +38,7 @@ const REASON_VALUES = new Set<string>([
   "vaginal-rejuvenation",
   "aesthetic-regenerative",
   "body-contouring",
+  "menopause-perimenopause",
   "berman-supplements",
   "not-sure",
 ]);
@@ -186,6 +187,9 @@ function addLegacyServiceChoices(params: URLSearchParams, reasons: string[]) {
     switch (reason) {
       case "menopause-hormones":
         add("input_9.3", "Hormones");
+        add("input_9.6", "Menopause & Perimenopause");
+        break;
+      case "menopause-perimenopause":
         add("input_9.6", "Menopause & Perimenopause");
         break;
       case "sexual-health":

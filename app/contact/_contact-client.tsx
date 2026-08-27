@@ -29,13 +29,13 @@ const ERROR_ROSE = "#a83a3a";
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 const REASONS: Array<{ value: string; label: string }> = [
-  { value: "menopause-hormones", label: "Menopause & Hormones" },
+  { value: "menopause-hormones", label: "Hormone Replacement Therapy" },
   { value: "sexual-health", label: "Sexual Health" },
-  { value: "pelvic-urinary", label: "Pelvic & Urinary" },
+  { value: "pelvic-urinary", label: "Pelvic Floor and Urinary Tract Health" },
   { value: "vaginal-rejuvenation", label: "Vaginal Rejuvenation" },
-  { value: "aesthetic-regenerative", label: "Aesthetic & Regenerative" },
-  { value: "body-contouring", label: "Body Contouring" },
-  { value: "berman-supplements", label: "Berman Supplements" },
+  { value: "aesthetic-regenerative", label: "Aesthetic and Regenerative Care" },
+  { value: "menopause-perimenopause", label: "Menopause and Perimenopause Care" },
+  { value: "berman-supplements", label: "Supplement and Peptide" },
   { value: "not-sure", label: "Not sure yet" },
 ];
 

@@ -9,7 +9,6 @@ import {
 } from "lucide-react";
 import {
   FORM_ACKNOWLEDGMENT_TEXT,
-  REQUESTED_TIME_WINDOWS,
 } from "@/lib/leads/a2p";
 import {
   type FormEvent,
@@ -24,6 +23,7 @@ type ReasonValue =
   | "vaginal-rejuvenation"
   | "aesthetic-regenerative"
   | "body-contouring"
+  | "menopause-perimenopause"
   | "berman-supplements"
   | "not-sure";
 
@@ -61,20 +61,14 @@ const INITIAL_FORM: LeadFormState = {
 };
 
 const REASONS: Array<{ value: ReasonValue; label: string }> = [
-  { value: "menopause-hormones", label: "Hormones or menopause" },
+  { value: "menopause-hormones", label: "Hormone Replacement Therapy" },
   { value: "sexual-health", label: "Sexual health" },
-  { value: "pelvic-urinary", label: "Pelvic or urinary symptoms" },
+  { value: "pelvic-urinary", label: "Pelvic Floor and Urinary Tract Health" },
   { value: "vaginal-rejuvenation", label: "Vaginal rejuvenation" },
-  { value: "aesthetic-regenerative", label: "Aesthetic or regenerative care" },
-  { value: "body-contouring", label: "Body contouring" },
-  { value: "berman-supplements", label: "Supplements" },
+  { value: "aesthetic-regenerative", label: "Aesthetic and Regenerative Care" },
+  { value: "menopause-perimenopause", label: "Menopause and Perimenopause Care" },
+  { value: "berman-supplements", label: "Supplement and Peptide" },
   { value: "not-sure", label: "I am not sure yet" },
-];
-
-const VISIT_TYPES: Array<{ value: VisitType; label: string }> = [
-  { value: "either", label: "Either" },
-  { value: "in-person", label: "Beverly Hills" },
-  { value: "telehealth", label: "Virtual consult" },
 ];
 
 const CONTACT_METHODS: Array<{ value: PreferredContact; label: string }> = [
@@ -342,24 +336,6 @@ export default function LeadCaptureModal({
                         ))}
                       </div>
                     </fieldset>
-
-                    <fieldset>
-                      <legend>What kind of visit feels right?</legend>
-                      <div className="lead-segmented">
-                        {VISIT_TYPES.map((option) => (
-                          <button
-                            key={option.value}
-                            type="button"
-                            className={
-                              form.visitType === option.value ? "selected" : ""
-                            }
-                            onClick={() => setField("visitType", option.value)}
-                          >
-                            {option.label}
-                          </button>
-                        ))}
-                      </div>
-                    </fieldset>
                   </>
                 ) : (
                   <>
@@ -426,44 +402,11 @@ export default function LeadCaptureModal({
                       </div>
                     </fieldset>
 
-                    <label>
-                      <span>Preferred appointment date</span>
-                      <input
-                        name="requestedDate"
-                        type="date"
-                        value={form.requestedDate}
-                        onChange={(event) =>
-                          setField("requestedDate", event.target.value)
-                        }
-                      />
-                    </label>
-
-                    <fieldset>
-                      <legend>Preferred appointment time</legend>
-                      <div className="lead-segmented lead-time-grid">
-                        {REQUESTED_TIME_WINDOWS.map((option) => (
-                          <button
-                            key={option.value}
-                            type="button"
-                            className={
-                              form.requestedTimeWindow === option.value
-                                ? "selected"
-                                : ""
-                            }
-                            onClick={() =>
-                              setField("requestedTimeWindow", option.value)
-                            }
-                          >
-                            {option.label}
-                          </button>
-                        ))}
-                      </div>
-                      <p className="lead-field-note">
-                        This is an appointment request, not a confirmed
-                        appointment. Our office will call to confirm
-                        availability.
-                      </p>
-                    </fieldset>
+                    <p className="lead-field-note">
+                      This is an appointment request, not a confirmed
+                      appointment. Our office will call to confirm
+                      availability.
+                    </p>
 
                     <label>
                       <span>Anything non-urgent you want us to know?</span>
