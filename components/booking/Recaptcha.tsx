@@ -70,14 +70,20 @@ function loadScript(): Promise<void> {
 // Vercel preview deployments, which are already behind Vercel's own login.
 // Both checks are "disabled only when explicitly preview", so an unset value
 // leaves the CAPTCHA ON — this can never silently weaken production.
-function isPreviewDeployment(): boolean {
-  if (process.env.NEXT_PUBLIC_VERCEL_ENV === "preview") return true;
+// Mirrors lib/booking/human.ts exactly: verification is OPT-IN, and skipped on
+// Vercel previews. Both sides read the same variable so they can never
+// disagree about whether a pass is required.
+function captchaRequiredHere(): boolean {
+  if ((process.env.NEXT_PUBLIC_BOOKING_REQUIRE_CAPTCHA || "").trim() !== "true") {
+    return false;
+  }
+  if (process.env.NEXT_PUBLIC_VERCEL_ENV === "preview") return false;
   // Fallback for when Vercel's system variables are not exposed to the client.
   // The production site is bermansexualhealth.com, so it never matches.
   if (typeof window !== "undefined") {
-    return window.location.hostname.endsWith(".vercel.app");
+    return !window.location.hostname.endsWith(".vercel.app");
   }
-  return false;
+  return true;
 }
 
 export type RecaptchaProps = {
@@ -101,7 +107,7 @@ export default function Recaptcha({ onPass, onSkipped, onError }: RecaptchaProps
   useEffect(() => {
     // Not configured (local dev without keys), or a preview deployment where
     // verification is deliberately skipped: don't block the flow.
-    if (!siteKey || isPreviewDeployment()) {
+    if (!siteKey || !captchaRequiredHere()) {
       setStatus("passed");
       setSkipped(true);
       onSkipped?.();

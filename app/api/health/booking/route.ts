@@ -93,13 +93,17 @@ export async function GET() {
 
   // --- Human verification ---
   const captcha = isCaptchaConfigured();
+  const requested =
+    (process.env.NEXT_PUBLIC_BOOKING_REQUIRE_CAPTCHA || "").trim() === "true";
   checks.captcha = {
-    ok: true, // never fatal
+    ok: true, // never fatal — it must not be able to block bookings
     detail: captcha
       ? "enforced"
-      : process.env.VERCEL_ENV === "preview"
-        ? "skipped (preview deployment)"
-        : "NOT enforced — both reCAPTCHA keys must be set",
+      : !requested
+        ? "off (opt-in: set NEXT_PUBLIC_BOOKING_REQUIRE_CAPTCHA=true with both reCAPTCHA keys to enable)"
+        : process.env.VERCEL_ENV === "preview"
+          ? "requested, but skipped on preview deployments"
+          : "requested, but a reCAPTCHA key is missing — running without it rather than blocking bookings",
   };
 
   checks.booking_session_secret = {

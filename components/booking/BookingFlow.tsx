@@ -11,7 +11,10 @@ import Recaptcha from "@/components/booking/Recaptcha";
 // those three surfaces carried its own copy of intake, which is how they came
 // to disagree about which fields they even collected.
 
-const CAPTCHA_REQUIRED = Boolean(process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY);
+// Opt-in, matching lib/booking/human.ts. Off unless explicitly switched on.
+const CAPTCHA_REQUIRED =
+  (process.env.NEXT_PUBLIC_BOOKING_REQUIRE_CAPTCHA || "").trim() === "true" &&
+  Boolean(process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY);
 
 export type ReasonValue =
   | "menopause-hormones"

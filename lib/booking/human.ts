@@ -34,14 +34,28 @@ function signingKey(): string {
  * page itself showed no CAPTCHA to solve. Requiring both makes the two sides
  * agree: either verification is on everywhere, or it is off everywhere.
  */
+/**
+ * CAPTCHA is OPT-IN. It is enforced only when
+ * `NEXT_PUBLIC_BOOKING_REQUIRE_CAPTCHA` is exactly "true" AND both reCAPTCHA
+ * keys are present.
+ *
+ * Deliberately off by default. A domain allowlist that has to be right in
+ * Google's console before a single booking can be taken is a hard dependency
+ * on config nobody can see, and its failure mode is blocking 100% of patients
+ * with an error only they ever see. The endpoint still has the honeypot,
+ * origin checking, the timing trap and per-IP rate limiting without it — which
+ * is more than the form it replaces ever had.
+ *
+ * One variable, read identically on both sides, so the browser and the server
+ * can never disagree about whether a pass is required.
+ */
 export function isCaptchaConfigured(): boolean {
-  // Vercel preview deployments sit behind Vercel's own authentication, so a
-  // CAPTCHA adds nothing there — and Google's domain allowlist makes every
-  // ephemeral preview host a manual step before anything can be tested.
-  //
-  // Deliberately written as "disabled ONLY when explicitly preview": an
-  // unset or unexpected value leaves verification ON. This cannot weaken
-  // production, where VERCEL_ENV is "production".
+  const requested =
+    (process.env.NEXT_PUBLIC_BOOKING_REQUIRE_CAPTCHA || "").trim() === "true";
+  if (!requested) return false;
+
+  // Previews sit behind Vercel's own login, so a CAPTCHA there guards an
+  // already-gated URL while blocking every test.
   if (process.env.VERCEL_ENV === "preview") return false;
 
   const hasSecret = secret().length > 20;
@@ -50,9 +64,9 @@ export function isCaptchaConfigured(): boolean {
 
   if (hasSecret !== hasSiteKey) {
     console.error(
-      "[booking-captcha-misconfigured] only one of RECAPTCHA_SECRET_KEY / " +
-        "NEXT_PUBLIC_RECAPTCHA_SITE_KEY is set — verification is DISABLED " +
-        "rather than blocking every booking. Set both.",
+      "[booking-captcha-misconfigured] verification was requested but only one " +
+        "of RECAPTCHA_SECRET_KEY / NEXT_PUBLIC_RECAPTCHA_SITE_KEY is set — it " +
+        "is DISABLED rather than blocking every booking. Set both.",
     );
     return false;
   }
