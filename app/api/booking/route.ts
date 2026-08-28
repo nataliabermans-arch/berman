@@ -8,7 +8,11 @@ import {
   summarizeLeadDelivery,
 } from "@/lib/leads/delivery";
 import { FORM_ACKNOWLEDGMENT_TEXT, SMS_CONSENT_TEXT } from "@/lib/leads/a2p";
-import { createBooking, isCalendlyConfigured } from "@/lib/booking/calendly";
+import {
+  createBooking,
+  findExistingBooking,
+  isCalendlyConfigured,
+} from "@/lib/booking/calendly";
 import { isCaptchaConfigured, verifyBookingPass } from "@/lib/booking/human";
 
 // Native booking: capture the lead, then book the consult, without ever
@@ -245,6 +249,30 @@ export async function POST(req: NextRequest) {
         { ok: false, code: "slot_taken", error: "That time was just taken. Please pick another." },
         { status: 409 },
       );
+    }
+
+    // Ambiguous outcome — a timeout or 5xx means we do not know whether the
+    // booking landed. Calendly offers no idempotency key, so retrying blind
+    // could give this patient two appointments. Ask what actually happened.
+    if (booking.code === "transient") {
+      const existing = await findExistingBooking(
+        body.email.trim(),
+        body.startTime,
+      );
+      if (existing) {
+        // It did land. Adopt it rather than creating a second one.
+        console.warn("[booking-adopted-after-timeout]", {
+          consultId,
+          eventUri: existing,
+        });
+        return NextResponse.json({
+          ok: true,
+          consultId,
+          startTime: body.startTime,
+          adopted: true,
+        });
+      }
+      console.error("[booking-unresolved-after-timeout]", { consultId });
     }
     // The lead is safely in the CRM, so staff can still reach them.
     return NextResponse.json(

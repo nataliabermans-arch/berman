@@ -177,6 +177,77 @@ export async function listAvailableSlots(days = 14): Promise<AvailableSlot[]> {
 }
 
 // ---------------------------------------------------------------------------
+// Timeout recovery
+//
+// Calendly has no idempotency key and no 409 on POST /invitees, so a request
+// that times out leaves us genuinely unsure whether the booking landed. Blindly
+// retrying could double-book a patient. Instead we ask Calendly what actually
+// happened, and adopt the booking if it exists.
+// ---------------------------------------------------------------------------
+
+let userUriCache: { value: string; expiresAt: number } | null = null;
+
+async function currentUserUri(): Promise<string> {
+  const configured = envValue("CALENDLY_USER_URI");
+  if (configured) return configured;
+  if (userUriCache && userUriCache.expiresAt > Date.now()) {
+    return userUriCache.value;
+  }
+  const res = await fetch(`${CALENDLY_BASE_URL}/users/me`, {
+    headers: headers(),
+    cache: "no-store",
+  });
+  if (!res.ok) throw new Error(`Calendly /users/me failed: ${res.status}`);
+  const uri = ((await res.json()) as { resource?: { uri?: string } }).resource
+    ?.uri;
+  if (!uri) throw new Error("Calendly /users/me returned no uri");
+  userUriCache = { value: uri, expiresAt: Date.now() + 60 * 60_000 };
+  return uri;
+}
+
+/**
+ * Did a booking for this invitee at this exact time actually land?
+ * Returns the event URI if so. Used only on the ambiguous path — never to
+ * "verify" a response that already returned 201.
+ */
+export async function findExistingBooking(
+  email: string,
+  startTime: string,
+): Promise<string | null> {
+  try {
+    const user = await currentUserUri();
+    // A one-minute window either side of the slot: start times are exact, but
+    // the filter is a range.
+    const start = new Date(startTime);
+    const min = new Date(start.getTime() - 60_000);
+    const max = new Date(start.getTime() + 60_000);
+
+    const url =
+      `${CALENDLY_BASE_URL}/scheduled_events` +
+      `?user=${encodeURIComponent(user)}` +
+      `&invitee_email=${encodeURIComponent(email)}` +
+      `&min_start_time=${toCalendlyTime(min)}` +
+      `&max_start_time=${toCalendlyTime(max)}` +
+      `&status=active`;
+
+    const res = await fetch(url, { headers: headers(), cache: "no-store" });
+    if (!res.ok) return null;
+
+    const body = (await res.json()) as {
+      collection?: Array<{ uri?: string; start_time?: string }>;
+    };
+    const hit = (body.collection || []).find(
+      (e) => e.start_time === startTime || e.uri,
+    );
+    return hit?.uri || null;
+  } catch {
+    // If we cannot establish the truth, say so rather than guessing. The
+    // caller must not retry on an unknown.
+    return null;
+  }
+}
+
+// ---------------------------------------------------------------------------
 // Reason mapping
 //
 // The site's reason list and Calendly's required multi-select do not match.
