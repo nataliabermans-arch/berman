@@ -56,7 +56,8 @@ const ALLOWED_HOSTS = [
 ];
 
 type BookingPayload = {
-  fullName?: string;
+  firstName?: string;
+  lastName?: string;
   email?: string;
   phone?: string;
   preferredContact?: string;
@@ -133,12 +134,6 @@ async function tagContact(email: string, tags: string[]): Promise<void> {
   }
 }
 
-function splitName(full: string): { firstName: string; lastName: string } {
-  const parts = full.trim().split(/\s+/);
-  if (parts.length === 1) return { firstName: parts[0], lastName: "-" };
-  return { firstName: parts[0], lastName: parts.slice(1).join(" ") };
-}
-
 export async function POST(req: NextRequest) {
   let body: BookingPayload;
   try {
@@ -208,7 +203,8 @@ export async function POST(req: NextRequest) {
   }
 
   // --- Validation ---
-  if (!nonEmpty(body.fullName)) return badRequest("Your name is required");
+  if (!nonEmpty(body.firstName)) return badRequest("First name is required");
+  if (!nonEmpty(body.lastName)) return badRequest("Last name is required");
   if (!nonEmpty(body.email) || !EMAIL_RE.test(body.email.trim())) {
     return badRequest("A valid email is required");
   }
@@ -244,7 +240,8 @@ export async function POST(req: NextRequest) {
   }
 
   const consultId = makeConsultId();
-  const { firstName, lastName } = splitName(body.fullName);
+  const firstName = body.firstName.trim();
+  const lastName = body.lastName.trim();
   const smsConsent = Boolean(body.smsConsent);
 
   // --- Step 1: CRM first. Reversible, and nothing has been booked yet. ---
@@ -298,7 +295,7 @@ export async function POST(req: NextRequest) {
   // --- Step 2: the irreversible act. ---
   const booking = await createBooking({
     startTime: body.startTime,
-    name: body.fullName.trim(),
+    name: `${firstName} ${lastName}`.trim(),
     email: body.email.trim(),
     timezone: body.timezone,
     phone: body.phone.trim(),
