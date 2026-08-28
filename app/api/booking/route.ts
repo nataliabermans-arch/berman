@@ -123,12 +123,24 @@ function requestedTimeLabel(startTime?: string): string | null {
   })} PT`;
 }
 
-/** Best-effort CRM annotation. Never allowed to affect the patient's outcome. */
-async function tagContact(email: string, tags: string[]): Promise<void> {
+/**
+ * Best-effort CRM annotation. Never allowed to affect the patient's outcome.
+ *
+ * Takes the contact id from the upsert response rather than looking it up by
+ * email: GHL's contact search is eventually consistent, so a lookup running
+ * immediately after the write finds nothing and the tag is silently dropped —
+ * which is exactly what happened to every booking before this.
+ */
+async function tagContact(
+  contactId: string | undefined,
+  email: string,
+  tags: string[],
+): Promise<void> {
   if (!isGhlConfigured()) return;
   try {
-    const contactId = await findContactIdByEmail(email);
-    if (contactId) await addContactTags(contactId, tags);
+    const id = contactId || (await findContactIdByEmail(email));
+    if (id) await addContactTags(id, tags);
+    else console.warn("[booking-tag-no-contact-id]", { tags });
   } catch {
     // A tagging failure must never turn a good booking into a bad response.
   }
@@ -295,6 +307,9 @@ export async function POST(req: NextRequest) {
     );
   }
 
+  // The upsert hands back the contact id; a later search cannot find it yet.
+  const ghlContactId = delivery.ghl?.contactId;
+
   // --- Step 2: the irreversible act. ---
   const booking = await createBooking({
     startTime: body.startTime,
@@ -331,7 +346,7 @@ export async function POST(req: NextRequest) {
           consultId,
           eventUri: existing,
         });
-        await tagContact(body.email.trim(), ["booking-confirmed"]);
+        await tagContact(ghlContactId, body.email.trim(), ["booking-confirmed"]);
         return NextResponse.json({
           ok: true,
           consultId,
@@ -344,7 +359,7 @@ export async function POST(req: NextRequest) {
     // The lead is safely in the CRM, so staff can still reach them — but the
     // record must say the booking did not complete, or staff will assume an
     // appointment exists.
-    await tagContact(body.email.trim(), ["booking-failed"]);
+    await tagContact(ghlContactId, body.email.trim(), ["booking-failed"]);
     return NextResponse.json(
       {
         ok: false,
@@ -359,7 +374,7 @@ export async function POST(req: NextRequest) {
     startTime: booking.startTime,
     eventUri: booking.eventUri,
   });
-  await tagContact(body.email.trim(), ["booking-confirmed"]);
+  await tagContact(ghlContactId, body.email.trim(), ["booking-confirmed"]);
 
   return NextResponse.json({
     ok: true,

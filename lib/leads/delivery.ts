@@ -40,6 +40,15 @@ export interface LeadDeliveryChannelResult {
   status: LeadDeliveryStatus;
   target?: string;
   detail?: string;
+  /**
+   * The GHL contact id returned by the upsert.
+   *
+   * Exposed because looking a contact back up by email immediately after
+   * writing it does NOT work: GHL's contact search is only eventually
+   * consistent, so a search that runs straight after an upsert returns
+   * nothing. Callers that need to act on the contact must use this id.
+   */
+  contactId?: string;
 }
 
 export interface LeadDeliveryResult {
@@ -626,6 +635,7 @@ async function sendLeadToGhl(
       channel: "ghl",
       status: "sent",
       target: "Jennifer R. Berman, MD",
+      contactId: contactId || undefined,
       detail: contactId
         ? `Contact ${contactId} upserted. ${details.join(" ")}`.trim()
         : "Contact upserted without returned id.",
