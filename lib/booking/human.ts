@@ -25,8 +25,29 @@ function signingKey(): string {
   );
 }
 
+/**
+ * CAPTCHA counts as configured only when BOTH keys are present.
+ *
+ * The browser can only produce a pass if the public site key exists. If the
+ * server enforced on the secret alone, a deploy that set one and not the other
+ * would reject every real patient with a 403 they cannot act on — while the
+ * page itself showed no CAPTCHA to solve. Requiring both makes the two sides
+ * agree: either verification is on everywhere, or it is off everywhere.
+ */
 export function isCaptchaConfigured(): boolean {
-  return secret().length > 20;
+  const hasSecret = secret().length > 20;
+  const hasSiteKey =
+    (process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY || "").trim().length > 20;
+
+  if (hasSecret !== hasSiteKey) {
+    console.error(
+      "[booking-captcha-misconfigured] only one of RECAPTCHA_SECRET_KEY / " +
+        "NEXT_PUBLIC_RECAPTCHA_SITE_KEY is set — verification is DISABLED " +
+        "rather than blocking every booking. Set both.",
+    );
+    return false;
+  }
+  return hasSecret;
 }
 
 export type CaptchaVerdict =
@@ -83,32 +104,82 @@ function sign(payload: string): string {
   return createHmac("sha256", signingKey()).update(payload).digest("base64url");
 }
 
-export function issueBookingPass(): string {
+// The pass is bound to the client it was issued to, so a captured one cannot be
+// replayed from elsewhere. Hashed with the signing key so the raw IP is never
+// written into a token that travels through the browser.
+function clientFingerprint(ip: string | null | undefined): string {
+  return createHmac("sha256", signingKey())
+    .update(`ip:${ip || "unknown"}`)
+    .digest("base64url")
+    .slice(0, 22);
+}
+
+// Single-use enforcement. Serverless instances do not share memory, so this
+// caps amplification rather than eliminating it: an attacker can get at most
+// one booking per pass per warm instance instead of unlimited bookings per
+// pass. A shared store (KV/Redis) would make it absolute; that is a
+// provisioning decision, and this is the strongest guarantee available without
+// one.
+const consumed = new Map<string, number>();
+
+function consumeNonce(nonce: string, exp: number): boolean {
+  const now = Date.now();
+  if (consumed.size > 5000) {
+    for (const [k, v] of consumed) if (v <= now) consumed.delete(k);
+  }
+  const seen = consumed.get(nonce);
+  if (seen !== undefined && seen > now) return false;
+  consumed.set(nonce, exp);
+  return true;
+}
+
+export function issueBookingPass(ip?: string | null): string {
   const payload = JSON.stringify({
     exp: Date.now() + PASS_TTL_MS,
     n: randomBytes(9).toString("base64url"),
+    iph: clientFingerprint(ip),
   });
   const encoded = Buffer.from(payload).toString("base64url");
   return `${encoded}.${sign(encoded)}`;
 }
 
-export function verifyBookingPass(pass: string): boolean {
-  if (!isCaptchaConfigured()) return true;
-  if (!pass || typeof pass !== "string") return false;
+export type PassVerdict =
+  | { ok: true }
+  | { ok: false; reason: "missing" | "signature" | "expired" | "wrong_client" | "already_used" };
+
+export function verifyBookingPass(
+  pass: string,
+  ip?: string | null,
+): PassVerdict {
+  if (!isCaptchaConfigured()) return { ok: true };
+  if (!pass || typeof pass !== "string") return { ok: false, reason: "missing" };
 
   const [encoded, signature] = pass.split(".");
-  if (!encoded || !signature) return false;
+  if (!encoded || !signature) return { ok: false, reason: "missing" };
 
   const expected = sign(encoded);
   // Constant-time compare; lengths must match first or timingSafeEqual throws.
   const a = Buffer.from(signature);
   const b = Buffer.from(expected);
-  if (a.length !== b.length || !timingSafeEqual(a, b)) return false;
-
-  try {
-    const { exp } = JSON.parse(Buffer.from(encoded, "base64url").toString());
-    return typeof exp === "number" && exp > Date.now();
-  } catch {
-    return false;
+  if (a.length !== b.length || !timingSafeEqual(a, b)) {
+    return { ok: false, reason: "signature" };
   }
+
+  let claims: { exp?: number; n?: string; iph?: string };
+  try {
+    claims = JSON.parse(Buffer.from(encoded, "base64url").toString());
+  } catch {
+    return { ok: false, reason: "signature" };
+  }
+
+  if (typeof claims.exp !== "number" || claims.exp <= Date.now()) {
+    return { ok: false, reason: "expired" };
+  }
+  if (claims.iph !== clientFingerprint(ip)) {
+    return { ok: false, reason: "wrong_client" };
+  }
+  if (!claims.n || !consumeNonce(claims.n, claims.exp)) {
+    return { ok: false, reason: "already_used" };
+  }
+  return { ok: true };
 }

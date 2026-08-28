@@ -17,6 +17,11 @@ const DEFAULT_EVENT_TYPE_URI =
 // Calendly rejects an availability window wider than 31 days.
 const MAX_WINDOW_DAYS = 31;
 
+// Without an explicit timeout a hung connection consumes the whole serverless
+// invocation, so the booking request dies before the timeout-recovery path it
+// exists for can run. Kept well inside the platform limit.
+const CALENDLY_TIMEOUT_MS = 10_000;
+
 export type AvailableSlot = {
   startTime: string;
   invitees_remaining: number;
@@ -103,7 +108,7 @@ export async function getEventTypeMeta(): Promise<EventTypeMeta> {
 
   const res = await fetch(eventTypeUri(), {
     headers: headers(),
-    cache: "no-store",
+    cache: "no-store", signal: AbortSignal.timeout(CALENDLY_TIMEOUT_MS),
   });
   if (!res.ok) {
     throw new Error(`Calendly event type lookup failed: ${res.status}`);
@@ -153,7 +158,7 @@ export async function listAvailableSlots(days = 14): Promise<AvailableSlot[]> {
     `&start_time=${toCalendlyTime(start)}` +
     `&end_time=${toCalendlyTime(end)}`;
 
-  const res = await fetch(url, { headers: headers(), cache: "no-store" });
+  const res = await fetch(url, { headers: headers(), cache: "no-store", signal: AbortSignal.timeout(CALENDLY_TIMEOUT_MS) });
   if (!res.ok) {
     throw new Error(`Calendly availability failed: ${res.status}`);
   }
@@ -195,7 +200,7 @@ async function currentUserUri(): Promise<string> {
   }
   const res = await fetch(`${CALENDLY_BASE_URL}/users/me`, {
     headers: headers(),
-    cache: "no-store",
+    cache: "no-store", signal: AbortSignal.timeout(CALENDLY_TIMEOUT_MS),
   });
   if (!res.ok) throw new Error(`Calendly /users/me failed: ${res.status}`);
   const uri = ((await res.json()) as { resource?: { uri?: string } }).resource
@@ -230,15 +235,24 @@ export async function findExistingBooking(
       `&max_start_time=${toCalendlyTime(max)}` +
       `&status=active`;
 
-    const res = await fetch(url, { headers: headers(), cache: "no-store" });
+    const res = await fetch(url, { headers: headers(), cache: "no-store", signal: AbortSignal.timeout(CALENDLY_TIMEOUT_MS) });
     if (!res.ok) return null;
 
     const body = (await res.json()) as {
       collection?: Array<{ uri?: string; start_time?: string }>;
     };
-    const hit = (body.collection || []).find(
-      (e) => e.start_time === startTime || e.uri,
-    );
+    // Match the exact slot only. An `|| e.uri` fallback here would make ANY
+    // returned event a match, so a patient with an unrelated upcoming
+    // appointment inside the query window would have it adopted as if it were
+    // this booking — reporting success for a consult that was never made.
+    // Compare as instants, since the two sources may format the same moment
+    // differently ("...Z" vs "...000000Z").
+    const wanted = new Date(startTime).getTime();
+    const hit = (body.collection || []).find((e) => {
+      if (!e.uri || !e.start_time) return false;
+      const got = new Date(e.start_time).getTime();
+      return Number.isFinite(got) && got === wanted;
+    });
     return hit?.uri || null;
   } catch {
     // If we cannot establish the truth, say so rather than guessing. The
@@ -282,8 +296,8 @@ const REASON_CANDIDATES: Record<string, string[]> = {
 export function mapReasonsToChoices(
   reasons: string[],
   available: string[],
-): { choices: string[]; unmapped: string[] } {
-  const chosen: string[] = [];
+): { choice: string; unmapped: string[]; usedFallback: boolean } {
+  const matched: string[] = [];
   const unmapped: string[] = [];
 
   for (const reason of reasons) {
@@ -291,20 +305,37 @@ export function mapReasonsToChoices(
       available.includes(c),
     );
     if (match) {
-      if (!chosen.includes(match)) chosen.push(match);
+      if (!matched.includes(match)) matched.push(match);
     } else {
       unmapped.push(reason);
     }
   }
 
-  // The multi-select is required, so an empty answer would fail the booking.
-  // Fall back to the first available choice and record it, rather than
-  // silently pretending the mapping succeeded.
-  if (chosen.length === 0 && available.length > 0) {
-    chosen.push(available[0]);
+  // A single value, never a joined list. Calendly does not document a
+  // separator for multi-select answers, and one live choice — "Body Sculpting,
+  // Fat Melting, Cellulite Treatment" — contains commas, so a comma-joined
+  // answer is ambiguous by construction. The complete set of reasons is
+  // written into the free-text question instead, where it is unambiguous.
+  if (matched.length > 0) {
+    return { choice: matched[0], unmapped, usedFallback: false };
   }
 
-  return { choices: chosen, unmapped };
+  // Nothing mapped. The question is required, so something must be sent — but
+  // inventing a clinical interest the patient never chose would be worse than
+  // saying nothing. Prefer an explicitly non-committal option if the account
+  // has one.
+  const neutral = available.find((c) => /not sure|other|general/i.test(c));
+  if (neutral) {
+    return { choice: neutral, unmapped, usedFallback: false };
+  }
+
+  return {
+    choice: available[0] || "",
+    unmapped,
+    // Signals to the caller that the answer does NOT reflect what the patient
+    // selected, so the real reasons must be carried elsewhere.
+    usedFallback: true,
+  };
 }
 
 // ---------------------------------------------------------------------------
@@ -342,28 +373,44 @@ export async function createBooking(
     });
   }
 
+  // Whatever the select question cannot express is carried in the free-text
+  // answer, so the doctor always sees what the patient actually chose.
+  const freeTextParts: string[] = [];
+
   if (selectQuestion) {
-    const { choices, unmapped } = mapReasonsToChoices(
+    const { choice, unmapped, usedFallback } = mapReasonsToChoices(
       input.reasons,
       selectQuestion.answerChoices,
     );
-    if (unmapped.length) {
+    if (unmapped.length || usedFallback) {
       console.warn("[booking-reason-unmapped]", {
         consultId: input.consultId,
         unmapped,
+        usedFallback,
       });
+    }
+    // The select carries one choice; the full set goes into free text below.
+    if (input.reasons.length > 1 || unmapped.length || usedFallback) {
+      freeTextParts.push(`Selected: ${input.reasons.join(", ")}`);
+    }
+    if (usedFallback) {
+      freeTextParts.push(
+        "(none of the Calendly options match what was selected — see above)",
+      );
     }
     questions.push({
       question: selectQuestion.name,
-      answer: choices.join(", "),
+      answer: choice,
       position: selectQuestion.position,
     });
   }
 
-  if (textQuestion && input.note?.trim()) {
+  if (input.note?.trim()) freeTextParts.push(input.note.trim());
+
+  if (textQuestion && freeTextParts.length) {
     questions.push({
       question: textQuestion.name,
-      answer: input.note.trim().slice(0, 1000),
+      answer: freeTextParts.join(" — ").slice(0, 1000),
       position: textQuestion.position,
     });
   }
@@ -403,7 +450,7 @@ export async function createBooking(
       method: "POST",
       headers: headers(),
       body: JSON.stringify(body),
-      cache: "no-store",
+      cache: "no-store", signal: AbortSignal.timeout(CALENDLY_TIMEOUT_MS),
     });
   } catch (err) {
     // Calendly has no idempotency key, so a blind retry here could double-book.

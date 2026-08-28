@@ -39,14 +39,28 @@ function loadScript(): Promise<void> {
   if (scriptPromise) return scriptPromise;
 
   scriptPromise = new Promise<void>((resolve, reject) => {
-    window.__bermanRecaptchaOnload = () => resolve();
+    // A blocked or throttled request can leave onload/onerror both silent, so
+    // without a deadline the patient stares at nothing forever.
+    const deadline = window.setTimeout(() => {
+      scriptPromise = null; // allow a later retry
+      reject(new Error("recaptcha script timed out"));
+    }, 12_000);
+
+    window.__bermanRecaptchaOnload = () => {
+      window.clearTimeout(deadline);
+      resolve();
+    };
     const s = document.createElement("script");
     s.id = SCRIPT_ID;
     s.src =
       "https://www.google.com/recaptcha/api.js?render=explicit&onload=__bermanRecaptchaOnload";
     s.async = true;
     s.defer = true;
-    s.onerror = () => reject(new Error("recaptcha script failed"));
+    s.onerror = () => {
+      window.clearTimeout(deadline);
+      scriptPromise = null;
+      reject(new Error("recaptcha script failed"));
+    };
     document.head.appendChild(s);
   });
   return scriptPromise;
@@ -114,8 +128,11 @@ export default function Recaptcha({ onPass, onError }: RecaptchaProps) {
           theme: "dark",
           callback: (token: string) => void exchange(token),
           "expired-callback": () => {
+            // Google's token lapses after ~2 minutes. Our server pass lasts 30,
+            // and is what actually authorises the booking — so do NOT clear it
+            // here, or a patient who lingers loses a perfectly valid pass and
+            // is blocked from continuing.
             setStatus("ready");
-            onPass("");
           },
           "error-callback": () => {
             setStatus("error");

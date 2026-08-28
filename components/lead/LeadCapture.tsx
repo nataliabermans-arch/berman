@@ -124,10 +124,14 @@ export default function LeadCaptureProvider({
           </a>
         </div>
       ) : null}
-      {LeadCaptureModal ? (
+      {/* Mounted only while open. Previously this rendered unconditionally and
+          the modal early-returned null, so it never unmounted: booking state
+          (the chosen slot, the verification pass, a finished confirmation)
+          survived a close and could be re-submitted on reopen. */}
+      {LeadCaptureModal && isOpen ? (
         <LeadCaptureModal
           displayPhone={DISPLAY_PHONE}
-          isOpen={isOpen}
+          isOpen
           onClose={close}
           phoneNumber={PHONE_NUMBER}
         />

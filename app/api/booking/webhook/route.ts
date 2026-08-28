@@ -1,6 +1,6 @@
-import { createHmac, timingSafeEqual } from "node:crypto";
 import { NextRequest, NextResponse } from "next/server";
 import { addContactTags, findContactIdByEmail, isGhlConfigured } from "@/lib/booking/ghl";
+import { verifyCalendlySignature } from "@/lib/booking/webhook-signature";
 
 // Calendly webhook receiver.
 //
@@ -20,52 +20,6 @@ import { addContactTags, findContactIdByEmail, isGhlConfigured } from "@/lib/boo
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
-
-const TOLERANCE_SECONDS = 180;
-
-function signingKey(): string {
-  return (process.env.CALENDLY_WEBHOOK_SIGNING_KEY || "").trim();
-}
-
-type SigCheck = { ok: true } | { ok: false; reason: string };
-
-export function verifySignature(header: string | null, rawBody: string): SigCheck {
-  const key = signingKey();
-  if (!key) return { ok: false, reason: "signing key not configured" };
-  if (!header) return { ok: false, reason: "missing signature header" };
-
-  let t = "";
-  let v1 = "";
-  for (const part of header.split(",")) {
-    const idx = part.indexOf("=");
-    if (idx === -1) continue;
-    const name = part.slice(0, idx).trim();
-    const value = part.slice(idx + 1).trim();
-    if (name === "t") t = value;
-    if (name === "v1") v1 = value;
-  }
-  if (!t || !v1) return { ok: false, reason: "malformed signature header" };
-
-  // `t` is in SECONDS. Rejecting stale timestamps blocks replay of a captured
-  // delivery.
-  const ts = Number(t);
-  if (!Number.isFinite(ts)) return { ok: false, reason: "bad timestamp" };
-  const ageSeconds = Math.abs(Date.now() / 1000 - ts);
-  if (ageSeconds > TOLERANCE_SECONDS) {
-    return { ok: false, reason: `timestamp outside tolerance (${Math.round(ageSeconds)}s)` };
-  }
-
-  const expected = createHmac("sha256", key)
-    .update(`${t}.${rawBody}`)
-    .digest("hex");
-
-  const a = Buffer.from(v1, "utf8");
-  const b = Buffer.from(expected, "utf8");
-  if (a.length !== b.length || !timingSafeEqual(a, b)) {
-    return { ok: false, reason: "signature mismatch" };
-  }
-  return { ok: true };
-}
 
 type InviteePayload = {
   uri?: string;
@@ -87,9 +41,10 @@ export async function POST(req: NextRequest) {
   // The raw text, never a re-serialisation — the HMAC covers these exact bytes.
   const raw = await req.text();
 
-  const check = verifySignature(
+  const check = verifyCalendlySignature(
     req.headers.get("calendly-webhook-signature"),
     raw,
+    (process.env.CALENDLY_WEBHOOK_SIGNING_KEY || "").trim(),
   );
   if (!check.ok) {
     console.warn("[calendly-webhook-rejected]", { reason: check.reason });
@@ -110,10 +65,6 @@ export async function POST(req: NextRequest) {
   const consultId = p.tracking?.salesforce_uuid || null;
   const email = p.email || "";
 
-  // first_name/last_name are null when the event type uses a single combined
-  // name field, so `name` is the reliable one.
-  const who = p.name || [p.first_name, p.last_name].filter(Boolean).join(" ");
-
   console.info("[calendly-webhook]", {
     event,
     consultId,
@@ -126,24 +77,24 @@ export async function POST(req: NextRequest) {
     const contactId = await findContactIdByEmail(email);
     if (contactId) {
       const ok = await addContactTags(contactId, ["booking-canceled"]);
+      // Patient name and email are deliberately absent: these lines land in
+      // platform logs, which are a far wider audience than the CRM.
       console.info("[calendly-webhook-cancel-synced]", {
         consultId,
         contactId,
         tagged: ok,
         canceledBy: p.cancellation?.canceler_type || null,
-        who,
       });
     } else {
-      console.warn("[calendly-webhook-cancel-no-contact]", { consultId, email });
+      console.warn("[calendly-webhook-cancel-no-contact]", { consultId });
     }
   }
 
   if (event === "invitee.created" && !consultId) {
     // Booked straight from the Calendly page rather than through the site, so
-    // no lead exists in the CRM for it.
+    // no lead exists in the CRM for it. Logged without identifying detail —
+    // the booking itself is visible in Calendly.
     console.info("[calendly-webhook-direct-booking]", {
-      email,
-      who,
       startTime: p.scheduled_event?.start_time || null,
     });
   }

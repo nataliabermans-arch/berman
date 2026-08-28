@@ -127,16 +127,27 @@ export default function TimeSlotPicker({
 
   // Default to the first day that has availability, and follow the selection
   // if one is already made.
+  const syncedSelection = useRef("");
+
   useEffect(() => {
     if (!days.length) return;
-    if (value) {
-      const d = new Date(value);
-      const key = dayKey(d);
+
+    // Jump to the selection's day only when the selection actually CHANGES.
+    // `days` gets a fresh identity on every poll, so re-running this effect
+    // unconditionally would drag the patient back to the selected day every
+    // 25 seconds and make browsing another day impossible.
+    if (value && value !== syncedSelection.current) {
+      syncedSelection.current = value;
+      const key = dayKey(new Date(value));
       if (days.some((day) => day.key === key)) {
         setActiveDay(key);
         return;
       }
     }
+    if (!value) syncedSelection.current = "";
+
+    // Otherwise keep whichever day they are looking at, falling back to the
+    // first day only if theirs no longer has any availability.
     setActiveDay((current) =>
       current && days.some((d) => d.key === current) ? current : days[0].key,
     );

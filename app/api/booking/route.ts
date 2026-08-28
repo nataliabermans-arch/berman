@@ -14,6 +14,8 @@ import {
   isCalendlyConfigured,
 } from "@/lib/booking/calendly";
 import { isCaptchaConfigured, verifyBookingPass } from "@/lib/booking/human";
+import { clientIp, rateLimit } from "@/lib/booking/rate-limit";
+import { addContactTags, findContactIdByEmail, isGhlConfigured } from "@/lib/booking/ghl";
 
 // Native booking: capture the lead, then book the consult, without ever
 // handing the patient off to a Calendly page.
@@ -96,6 +98,41 @@ function isAllowedOrigin(origin: string): boolean {
   }
 }
 
+const PRACTICE_TZ = "America/Los_Angeles";
+
+function requestedDate(startTime?: string): string | null {
+  if (!startTime) return null;
+  const d = new Date(startTime);
+  if (Number.isNaN(d.getTime())) return null;
+  // en-CA gives YYYY-MM-DD, which is what the existing field expects.
+  return d.toLocaleDateString("en-CA", { timeZone: PRACTICE_TZ });
+}
+
+function requestedTimeLabel(startTime?: string): string | null {
+  if (!startTime) return null;
+  const d = new Date(startTime);
+  if (Number.isNaN(d.getTime())) return null;
+  return `${d.toLocaleString("en-US", {
+    timeZone: PRACTICE_TZ,
+    weekday: "short",
+    month: "short",
+    day: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+  })} PT`;
+}
+
+/** Best-effort CRM annotation. Never allowed to affect the patient's outcome. */
+async function tagContact(email: string, tags: string[]): Promise<void> {
+  if (!isGhlConfigured()) return;
+  try {
+    const contactId = await findContactIdByEmail(email);
+    if (contactId) await addContactTags(contactId, tags);
+  } catch {
+    // A tagging failure must never turn a good booking into a bad response.
+  }
+}
+
 function splitName(full: string): { firstName: string; lastName: string } {
   const parts = full.trim().split(/\s+/);
   if (parts.length === 1) return { firstName: parts[0], lastName: "-" };
@@ -123,27 +160,51 @@ export async function POST(req: NextRequest) {
     console.warn("[booking-spam-origin]", { origin });
     return NextResponse.json({ ok: true, consultId: makeConsultId(), startTime: body.startTime });
   }
-  const elapsedMs = typeof body.elapsedMs === "number" ? body.elapsedMs : -1;
-  if (elapsedMs >= 0 && elapsedMs < 1500) {
-    console.warn("[booking-spam-timing]", { elapsedMs });
-    return NextResponse.json({ ok: true, consultId: makeConsultId(), startTime: body.startTime });
+  // --- Rate limit ---
+  // Bounds how much damage one solved CAPTCHA can do. Booking is a
+  // low-frequency action; nobody legitimately books four consults an hour.
+  const ip = clientIp(req.headers);
+  const limit = rateLimit(`book:${ip}`, 3, 60 * 60_000);
+  if (!limit.allowed) {
+    console.warn("[booking-rate-limited]", { retryAfter: limit.retryAfterSeconds });
+    return NextResponse.json(
+      {
+        ok: false,
+        error: `Too many booking attempts. Please try again later, or call ${PHONE}.`,
+      },
+      { status: 429, headers: { "Retry-After": String(limit.retryAfterSeconds) } },
+    );
   }
 
   // --- Human verification ---
   // The pass is issued by /api/booking/verify-human after a real reCAPTCHA
-  // token was checked with Google. It is signed and short-lived, so a stale or
-  // forged one cannot book. Unlike the spam checks above this is a visible
-  // failure: a real person whose pass expired needs to know why.
-  if (isCaptchaConfigured() && !verifyBookingPass(body.humanPass || "")) {
-    console.warn("[booking-human-pass-invalid]");
+  // token was checked with Google. It is signed, single-use, bound to this
+  // client, and short-lived. Unlike the bot traps above this failure is
+  // visible: a real person whose pass expired needs to know why.
+  const passVerdict = verifyBookingPass(body.humanPass || "", ip);
+  if (!passVerdict.ok) {
+    console.warn("[booking-human-pass-invalid]", { reason: passVerdict.reason });
     return NextResponse.json(
       {
         ok: false,
         code: "verification_expired",
-        error: "Your verification expired. Please close this and start again.",
+        error:
+          passVerdict.reason === "already_used"
+            ? "That booking was already submitted. Please start again if you need another time."
+            : "Your verification expired. Please tick the verification box again.",
       },
       { status: 403 },
     );
+  }
+
+  // --- Timing trap ---
+  // Deliberately AFTER the pass check. A request carrying a valid, single-use,
+  // client-bound pass is not a bot, and returning the fake success below to a
+  // real patient would show them a confirmed booking that does not exist.
+  const elapsedMs = typeof body.elapsedMs === "number" ? body.elapsedMs : -1;
+  if (!isCaptchaConfigured() && elapsedMs >= 0 && elapsedMs < 1500) {
+    console.warn("[booking-spam-timing]", { elapsedMs });
+    return NextResponse.json({ ok: true, consultId: makeConsultId(), startTime: body.startTime });
   }
 
   // --- Validation ---
@@ -198,13 +259,18 @@ export async function POST(req: NextRequest) {
     preferredContact: body.preferredContact as string,
     visitType: body.visitType as string,
     preferredWindow: null,
-    requestedDate: null,
-    requestedTimeWindow: null,
+    // These are the only time-carrying fields GHL renders. Leaving them null
+    // meant the patient's chosen slot never reached the CRM or the staff
+    // email on any path — they showed as "Not specified".
+    requestedDate: requestedDate(body.startTime),
+    requestedTimeWindow: requestedTimeLabel(body.startTime),
     reasons: body.reasons,
     reasonLabels: labelLeadReasons(body.reasons),
+    // Written BEFORE the booking is attempted, so it must not claim the
+    // appointment exists. Tagged confirmed or failed once we know.
     message: nonEmpty(body.note)
       ? body.note.trim()
-      : "Booked a 15-minute consult through the website booking flow.",
+      : "Requested a 15-minute consult through the website booking flow — confirmation pending.",
     formAcknowledgment: true,
     formAcknowledgmentText: FORM_ACKNOWLEDGMENT_TEXT,
     smsConsent,
@@ -265,6 +331,7 @@ export async function POST(req: NextRequest) {
           consultId,
           eventUri: existing,
         });
+        await tagContact(body.email.trim(), ["booking-confirmed"]);
         return NextResponse.json({
           ok: true,
           consultId,
@@ -274,7 +341,10 @@ export async function POST(req: NextRequest) {
       }
       console.error("[booking-unresolved-after-timeout]", { consultId });
     }
-    // The lead is safely in the CRM, so staff can still reach them.
+    // The lead is safely in the CRM, so staff can still reach them — but the
+    // record must say the booking did not complete, or staff will assume an
+    // appointment exists.
+    await tagContact(body.email.trim(), ["booking-failed"]);
     return NextResponse.json(
       {
         ok: false,
@@ -289,6 +359,7 @@ export async function POST(req: NextRequest) {
     startTime: booking.startTime,
     eventUri: booking.eventUri,
   });
+  await tagContact(body.email.trim(), ["booking-confirmed"]);
 
   return NextResponse.json({
     ok: true,

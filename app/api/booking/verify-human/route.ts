@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { issueBookingPass, verifyCaptchaToken } from "@/lib/booking/human";
+import { clientIp, rateLimit } from "@/lib/booking/rate-limit";
 
 // Exchanges a reCAPTCHA token for a short-lived signed pass, so the CAPTCHA can
 // live at the start of the flow without its ~2 minute expiry killing a booking
@@ -16,8 +17,16 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ ok: false, error: "Invalid body" }, { status: 400 });
   }
 
-  const ip =
-    req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || null;
+  const ip = clientIp(req.headers);
+
+  // Issuing passes is the cheap half of the attack; cap it too.
+  const limit = rateLimit(`verify:${ip}`, 10, 60 * 60_000);
+  if (!limit.allowed) {
+    return NextResponse.json(
+      { ok: false, error: "Too many attempts. Please try again later." },
+      { status: 429, headers: { "Retry-After": String(limit.retryAfterSeconds) } },
+    );
+  }
 
   const verdict = await verifyCaptchaToken(body?.token || "", ip);
   if (!verdict.ok) {
@@ -28,5 +37,7 @@ export async function POST(req: NextRequest) {
     );
   }
 
-  return NextResponse.json({ ok: true, pass: issueBookingPass() });
+  // The pass is bound to this client, so a captured one cannot be replayed
+  // from another address.
+  return NextResponse.json({ ok: true, pass: issueBookingPass(ip) });
 }

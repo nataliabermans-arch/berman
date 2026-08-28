@@ -126,7 +126,9 @@ export default function LeadCaptureModal({
   useEffect(() => {
     if (!isOpen) return;
     const onKey = (event: KeyboardEvent) => {
-      if (event.key === "Escape") onClose();
+      // Never abandon an in-flight booking: the request would keep running and
+      // land its result into a component the patient can no longer see.
+      if (event.key === "Escape" && submitState !== "submitting") onClose();
     };
     document.addEventListener("keydown", onKey);
     const previousOverflow = document.body.style.overflow;
@@ -135,7 +137,13 @@ export default function LeadCaptureModal({
       document.removeEventListener("keydown", onKey);
       document.body.style.overflow = previousOverflow;
     };
-  }, [isOpen, onClose]);
+  }, [isOpen, onClose, submitState]);
+
+  // Closing mid-request would orphan the fetch and lose the outcome.
+  const requestClose = () => {
+    if (submitState === "submitting") return;
+    onClose();
+  };
 
   const setField = <K extends keyof LeadFormState>(
     key: K,
@@ -261,9 +269,25 @@ export default function LeadCaptureModal({
         return;
       }
 
+      // Verification lapsed. Send them back to the checkbox and clear the dead
+      // pass — otherwise `humanVerified` stays truthy on a stale string and
+      // Continue sails straight past a fresh challenge.
+      if (response.status === 403 || data?.code === "verification_expired") {
+        setHumanPass("");
+        setStep(0);
+        setSubmitState("idle");
+        setError(
+          data?.error ||
+            "Your verification expired. Please tick the verification box again.",
+        );
+        track("booking_failed", { reason: "verification_expired" });
+        return;
+      }
+
       if (!response.ok || !data?.ok) {
         throw new Error(
-          data?.error || "We could not confirm that booking. Please call us.",
+          data?.error ||
+            `We could not confirm that booking. Please call ${displayPhone}.`,
         );
       }
 
@@ -273,11 +297,18 @@ export default function LeadCaptureModal({
       track("booking_confirmed", { transaction_id: data.consultId });
     } catch (err) {
       setSubmitState("error");
-      track("booking_failed", { reason: "error" });
+      // fetch rejects with a TypeError when the request never reached us at
+      // all. Surfacing "Failed to fetch" to a patient is meaningless, and the
+      // booking may or may not have been made — so say so and give them a way
+      // through.
+      const isNetwork = err instanceof TypeError;
+      track("booking_failed", { reason: isNetwork ? "network" : "error" });
       setError(
-        err instanceof Error
-          ? err.message
-          : "We could not confirm that booking. Please call us.",
+        isNetwork
+          ? `We couldn't reach the booking system — please check your connection and try again, or call ${displayPhone}.`
+          : err instanceof Error
+            ? err.message
+            : `We could not confirm that booking. Please call ${displayPhone}.`,
       );
     }
   };
@@ -295,14 +326,14 @@ export default function LeadCaptureModal({
         type="button"
         className="lead-modal-backdrop"
         aria-label="Close request form"
-        onClick={onClose}
+        onClick={requestClose}
       />
       <div className="lead-modal-panel">
         <button
           type="button"
           className="lead-modal-close"
           aria-label="Close request form"
-          onClick={onClose}
+          onClick={requestClose}
         >
           <X aria-hidden="true" size={18} />
         </button>
