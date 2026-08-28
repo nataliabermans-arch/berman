@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { motion } from "motion/react";
 
 import SiteNav from "@/components/layout/SiteNav";
@@ -428,6 +428,7 @@ export default function ContactClient() {
   const [submitError, setSubmitError] = useState<string | null>(null);
   const [success, setSuccess] = useState<{ ticketId: string } | null>(null);
   const [website, setWebsite] = useState(""); // honeypot
+  const renderedAtRef = useRef(Date.now());
 
   const setField =
     <K extends keyof FormState>(k: K) =>
@@ -466,6 +467,7 @@ export default function ContactClient() {
           email: form.email.trim(),
           phone: form.phone.trim(),
           website,
+          elapsedMs: Date.now() - renderedAtRef.current,
           preferredContact: form.preferredContact,
           reasons: form.reasons,
           visitType: form.visitType,

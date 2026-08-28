@@ -13,8 +13,11 @@ import {
 import {
   type FormEvent,
   useEffect,
+  useRef,
   useState,
 } from "react";
+
+const CALENDLY_URL = "https://calendly.com/nataliabermans/30-min-session";
 
 type ReasonValue =
   | "menopause-hormones"
@@ -103,11 +106,13 @@ export default function LeadCaptureModal({
   const [error, setError] = useState("");
   const [ticketId, setTicketId] = useState("");
   const [website, setWebsite] = useState(""); // honeypot
+  const renderedAtRef = useRef(Date.now());
 
   useEffect(() => {
     if (!isOpen) return;
     setSubmitState("idle");
     setError("");
+    renderedAtRef.current = Date.now();
   }, [isOpen]);
 
   useEffect(() => {
@@ -187,6 +192,7 @@ export default function LeadCaptureModal({
           email: form.email.trim(),
           phone: form.phone.trim(),
           website,
+          elapsedMs: Date.now() - renderedAtRef.current,
           preferredContact: form.preferredContact,
           reasons: form.reasons,
           visitType: form.visitType,
@@ -215,6 +221,23 @@ export default function LeadCaptureModal({
       setSubmitState("success");
       setForm(INITIAL_FORM);
       setStep(0);
+      // Lead is captured (data for tracking). Fire the conversion event,
+      // then send them to Calendly to actually book their consult.
+      try {
+        const w = window as unknown as {
+          dataLayer?: Array<Record<string, unknown>>;
+        };
+        w.dataLayer = w.dataLayer || [];
+        w.dataLayer.push({
+          event: "lead_submit",
+          lead_source: "website_lead_modal",
+        });
+      } catch {
+        // no-op
+      }
+      window.setTimeout(() => {
+        window.location.href = CALENDLY_URL;
+      }, 900);
     } catch (err) {
       setSubmitState("error");
       setError(
@@ -253,18 +276,23 @@ export default function LeadCaptureModal({
         {submitState === "success" ? (
           <div className="lead-success">
             <CheckCircle2 aria-hidden="true" size={34} />
-            <p className="lead-kicker">Request received</p>
+            <p className="lead-kicker">You&apos;re all set</p>
             <h2 id="lead-modal-title">
-              You are on our radar. A coordinator will reach out soon.
+              Now pick a time for your complimentary 15-minute consult.
             </h2>
+            <p>Taking you to the calendar&hellip;</p>
+            <a
+              className="lead-submit"
+              href={CALENDLY_URL}
+              style={{ textDecoration: "none" }}
+            >
+              Book my 15-min consult &rarr;
+            </a>
             <p>
-              If you need help faster, call{" "}
+              Prefer to talk now? Call{" "}
               <a href={`tel:${phoneNumber}`}>{displayPhone}</a>.
             </p>
             {ticketId ? <small>Reference {ticketId}</small> : null}
-            <button type="button" onClick={onClose}>
-              Close
-            </button>
           </div>
         ) : (
               <form onSubmit={submit} className="lead-modal-form" noValidate>
@@ -289,26 +317,9 @@ export default function LeadCaptureModal({
                   />
                 </div>
                 <h2 id="lead-modal-title">
-                  {step === 0 ? (
-                    <>
-                      Book your appointment via{" "}
-                      <a
-                        href="https://calendly.com/nataliabermans/30-min-session"
-                        target="_blank"
-                        rel="noreferrer"
-                        style={{
-                          color: "#f4a3aa",
-                          textDecoration: "underline",
-                          textUnderlineOffset: "3px",
-                        }}
-                      >
-                        Calendly
-                      </a>{" "}
-                      here or fill out the form below and we&apos;ll be in touch.
-                    </>
-                  ) : (
-                    "How should our team reach you?"
-                  )}
+                  {step === 0
+                    ? "Book your complimentary 15-minute consult."
+                    : "How should our team reach you?"}
                 </h2>
                 <div className="lead-progress" aria-hidden="true">
                   <span className={step === 0 ? "active" : ""} />
@@ -493,12 +504,12 @@ export default function LeadCaptureModal({
                   <button
                     type="submit"
                     className="lead-submit"
-                    disabled={step === 1 ? !canSubmit : !canContinue}
+                    disabled={submitState === "submitting"}
                   >
                     {submitState === "submitting" ? (
                       <Loader2 aria-hidden="true" size={16} />
                     ) : null}
-                    {step === 0 ? "Continue" : "Send request"}
+                    {step === 0 ? "Continue" : "Book my 15-min consult →"}
                   </button>
                 </div>
 

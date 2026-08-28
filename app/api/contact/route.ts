@@ -66,6 +66,7 @@ type ContactPayload = {
   consent?: boolean;
   source?: string;
   website?: string; // honeypot — real users never fill this
+  elapsedMs?: number; // ms the form was on screen before submit (bot-timing check)
 };
 
 function badRequest(message: string) {
@@ -325,11 +326,24 @@ export async function POST(req: NextRequest) {
     console.warn("[contact-intake-spam-honeypot]", { source: body.source || null });
     return NextResponse.json({ ok: true, ticketId: makeTicketId() });
   }
-  // 2) Cross-site origin: a foreign Origin header means a bot POSTing from
-  //    somewhere other than our own site. Drop it the same quiet way.
+  // 2) Origin: a real browser form submit always carries our own Origin.
+  //    A foreign OR missing Origin means a script/bot hitting the endpoint
+  //    directly. Drop it the same quiet way. (The AI concierge does NOT use
+  //    this route — it calls deliverLead server-side — so requiring Origin
+  //    here is safe.)
   const requestOrigin = req.headers.get("origin");
-  if (requestOrigin && !isAllowedOrigin(requestOrigin)) {
+  if (!requestOrigin || !isAllowedOrigin(requestOrigin)) {
     console.warn("[contact-intake-spam-origin]", { origin: requestOrigin });
+    return NextResponse.json({ ok: true, ticketId: makeTicketId() });
+  }
+  // 3) Timing: a real person needs a few seconds to fill out the form. A
+  //    submit landing within ~1.5s of the form being shown is a bot. The
+  //    client measures this itself (a duration, not a clock time) so device
+  //    clock skew can never drop a real lead.
+  const elapsedMs =
+    typeof body.elapsedMs === "number" ? body.elapsedMs : -1;
+  if (elapsedMs >= 0 && elapsedMs < 1500) {
+    console.warn("[contact-intake-spam-timing]", { elapsedMs });
     return NextResponse.json({ ok: true, ticketId: makeTicketId() });
   }
 

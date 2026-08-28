@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useRef, useState } from "react";
 
 import { FORM_ACKNOWLEDGMENT_TEXT } from "@/lib/leads/a2p";
 
@@ -62,6 +62,7 @@ export default function AppointmentRequestForm() {
   const [submitError, setSubmitError] = useState<string | null>(null);
   const [done, setDone] = useState(false);
   const [website, setWebsite] = useState(""); // honeypot
+  const renderedAtRef = useRef(Date.now());
 
   const validate = (): Errors => {
     const e: Errors = {};
@@ -93,6 +94,7 @@ export default function AppointmentRequestForm() {
           email: email.trim(),
           phone: phone.trim(),
           website,
+          elapsedMs: Date.now() - renderedAtRef.current,
           preferredContact: "either",
           reasons: ["not-sure"],
           visitType: "either",
