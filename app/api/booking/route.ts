@@ -155,21 +155,7 @@ export async function POST(req: NextRequest) {
     console.warn("[booking-spam-origin]", { origin });
     return NextResponse.json({ ok: true, consultId: makeConsultId(), startTime: body.startTime });
   }
-  // --- Rate limit ---
-  // Bounds how much damage one solved CAPTCHA can do. Booking is a
-  // low-frequency action; nobody legitimately books four consults an hour.
   const ip = clientIp(req.headers);
-  const limit = rateLimit(`book:${ip}`, 3, 60 * 60_000);
-  if (!limit.allowed) {
-    console.warn("[booking-rate-limited]", { retryAfter: limit.retryAfterSeconds });
-    return NextResponse.json(
-      {
-        ok: false,
-        error: `Too many booking attempts. Please try again later, or call ${PHONE}.`,
-      },
-      { status: 429, headers: { "Retry-After": String(limit.retryAfterSeconds) } },
-    );
-  }
 
   // --- Human verification ---
   // The pass is issued by /api/booking/verify-human after a real reCAPTCHA
@@ -236,6 +222,23 @@ export async function POST(req: NextRequest) {
     return NextResponse.json(
       { ok: false, error: `Online booking is unavailable. Please call ${PHONE}.` },
       { status: 503 },
+    );
+  }
+
+  // --- Rate limit ---
+  // Deliberately AFTER validation. Counting malformed submissions would mean a
+  // patient who mistypes their phone twice has spent their budget on typos and
+  // is refused when they finally get it right. Only well-formed attempts —
+  // the ones that could actually consume a slot — are counted.
+  const limit = rateLimit(`book:${ip}`, 3, 60 * 60_000);
+  if (!limit.allowed) {
+    console.warn("[booking-rate-limited]", { retryAfter: limit.retryAfterSeconds });
+    return NextResponse.json(
+      {
+        ok: false,
+        error: `Too many booking attempts. Please try again in a little while, or call ${PHONE}.`,
+      },
+      { status: 429, headers: { "Retry-After": String(limit.retryAfterSeconds) } },
     );
   }
 

@@ -476,16 +476,38 @@ export async function createBooking(
 
   const detail = await res.text().catch(() => "");
 
-  // 404 is Calendly's documented response for a slot that is no longer free.
-  if (res.status === 404) {
-    return { ok: false, code: "slot_taken", message: "That time was just taken." };
-  }
   if (res.status === 401 || res.status === 403) {
     return { ok: false, code: "auth", message: `Calendly auth failed (${res.status})` };
   }
   if (res.status >= 500) {
     return { ok: false, code: "transient", message: `Calendly ${res.status}` };
   }
+
+  // A taken slot does NOT come back as a clean 404. Verified against the live
+  // API: booking an already-taken time returns 400 with the title "Internal
+  // Server Error" and no machine-readable reason — indistinguishable by status
+  // code from a genuinely malformed request.
+  //
+  // So don't trust the status: ask whether the slot is still free. If it has
+  // gone, this is a conflict and the patient should simply pick again.
+  if (res.status === 400 || res.status === 404) {
+    try {
+      const stillOpen = (await listAvailableSlots(MAX_WINDOW_DAYS)).some(
+        (s) => new Date(s.startTime).getTime() === new Date(input.startTime).getTime(),
+      );
+      if (!stillOpen) {
+        return {
+          ok: false,
+          code: "slot_taken",
+          message: "That time was just taken.",
+        };
+      }
+    } catch {
+      // Availability unreachable — fall through and report the original error
+      // rather than guessing that it was a conflict.
+    }
+  }
+
   return {
     ok: false,
     code: "invalid",
