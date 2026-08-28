@@ -9,6 +9,7 @@ import {
 } from "@/lib/leads/delivery";
 import { FORM_ACKNOWLEDGMENT_TEXT, SMS_CONSENT_TEXT } from "@/lib/leads/a2p";
 import { createBooking, isCalendlyConfigured } from "@/lib/booking/calendly";
+import { isCaptchaConfigured, verifyBookingPass } from "@/lib/booking/human";
 
 // Native booking: capture the lead, then book the consult, without ever
 // handing the patient off to a Calendly page.
@@ -63,6 +64,7 @@ type BookingPayload = {
   source?: string;
   website?: string;
   elapsedMs?: number;
+  humanPass?: string;
 };
 
 function nonEmpty(v?: string | null): v is string {
@@ -121,6 +123,23 @@ export async function POST(req: NextRequest) {
   if (elapsedMs >= 0 && elapsedMs < 1500) {
     console.warn("[booking-spam-timing]", { elapsedMs });
     return NextResponse.json({ ok: true, consultId: makeConsultId(), startTime: body.startTime });
+  }
+
+  // --- Human verification ---
+  // The pass is issued by /api/booking/verify-human after a real reCAPTCHA
+  // token was checked with Google. It is signed and short-lived, so a stale or
+  // forged one cannot book. Unlike the spam checks above this is a visible
+  // failure: a real person whose pass expired needs to know why.
+  if (isCaptchaConfigured() && !verifyBookingPass(body.humanPass || "")) {
+    console.warn("[booking-human-pass-invalid]");
+    return NextResponse.json(
+      {
+        ok: false,
+        code: "verification_expired",
+        error: "Your verification expired. Please close this and start again.",
+      },
+      { status: 403 },
+    );
   }
 
   // --- Validation ---

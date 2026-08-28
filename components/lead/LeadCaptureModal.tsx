@@ -17,6 +17,9 @@ import {
   useState,
 } from "react";
 import TimeSlotPicker from "@/components/booking/TimeSlotPicker";
+import Recaptcha from "@/components/booking/Recaptcha";
+
+const CAPTCHA_REQUIRED = Boolean(process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY);
 
 type ReasonValue =
   | "menopause-hormones"
@@ -110,6 +113,8 @@ export default function LeadCaptureModal({
   const [startTime, setStartTime] = useState("");
   const [bookedAt, setBookedAt] = useState("");
   const [slotRefresh, setSlotRefresh] = useState(0);
+  // Signed pass issued once the CAPTCHA is solved at the start of the flow.
+  const [humanPass, setHumanPass] = useState("");
 
   useEffect(() => {
     if (!isOpen) return;
@@ -146,7 +151,8 @@ export default function LeadCaptureModal({
     });
   };
 
-  const canContinue = form.reasons.length > 0;
+  const humanVerified = !CAPTCHA_REQUIRED || Boolean(humanPass);
+  const canContinue = form.reasons.length > 0 && humanVerified;
   const detailsComplete =
     form.fullName.trim().length > 1 &&
     form.email.trim().includes("@") &&
@@ -174,8 +180,12 @@ export default function LeadCaptureModal({
     event.preventDefault();
 
     if (step === 0) {
-      if (!canContinue) {
+      if (form.reasons.length === 0) {
         setError("Choose at least one area so we can route your message.");
+        return;
+      }
+      if (!humanVerified) {
+        setError("Please complete the verification below to continue.");
         return;
       }
       setError("");
@@ -223,6 +233,7 @@ export default function LeadCaptureModal({
           note: form.note.trim(),
           formAcknowledgment: form.formAcknowledgment,
           smsConsent: form.smsConsent,
+          humanPass,
           startTime,
           timezone:
             Intl.DateTimeFormat().resolvedOptions().timeZone ||
@@ -380,6 +391,9 @@ export default function LeadCaptureModal({
                         ))}
                       </div>
                     </fieldset>
+                    {/* Reports its own failures inline; duplicating them on
+                        the form's error line just says it twice. */}
+                    <Recaptcha onPass={setHumanPass} />
                   </>
                 ) : step === 1 ? (
                   <>
@@ -532,6 +546,13 @@ export default function LeadCaptureModal({
                         setStartTime(next);
                         setError("");
                         track("booking_slot_selected");
+                      }}
+                      onSelectedSlotGone={() => {
+                        setStartTime("");
+                        setError(
+                          "Someone just booked that time. Please choose another.",
+                        );
+                        track("booking_failed", { reason: "slot_gone_live" });
                       }}
                     />
                   </>

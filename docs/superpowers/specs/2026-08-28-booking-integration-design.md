@@ -124,6 +124,61 @@ the one thing that cannot be undone.
 creation must be gated on the `confirmed` tag, or GHL notifies the patient
 before the booking exists.
 
+## 4.2 Preventing two people booking the same slot
+
+**Calendly is the authority and already enforces this** — it rejects a second
+booking for a taken slot with a 404. The gap was never the guarantee; it was
+that the second person didn't find out until they pressed submit.
+
+Three layers, outermost first:
+
+1. **Live refresh.** `TimeSlotPicker` re-fetches availability every 25s, and
+   immediately whenever the tab regains focus (a backgrounded tab's timers are
+   throttled, so returning to it would otherwise show stale times). A slot taken
+   by anyone — through this form or directly in Calendly — simply disappears.
+   Background refreshes never blank the list or surface an error; only a
+   foreground load does.
+2. **Selected-slot invalidation.** If the slot this patient had selected vanishes
+   in a refresh, the selection is cleared and they are told, instead of being
+   allowed to submit into a guaranteed failure.
+3. **The 404 backstop.** If two people submit within the same second, the loser
+   gets a 409, the picker refreshes, and they re-pick. No booking is lost and
+   nothing is double-booked.
+
+A database-backed hold was considered and rejected for now: it narrows a
+seconds-wide race that layer 3 already handles correctly, while adding a
+failure mode where a stale hold blocks a real booking.
+
+## 4.3 Human verification
+
+reCAPTCHA **v2**, presented at the START of the flow (step 0), per the practice's
+choice. Google receives visitor data from this flow; Cloudflare Turnstile was
+offered as a non-Google alternative and declined.
+
+**The token-expiry problem, and the fix.** v2 tokens expire in ~2 minutes, but a
+patient may spend far longer choosing a time. So the flow does not carry the
+Google token to the booking call. Instead:
+
+```
+step 0   solve CAPTCHA
+         -> POST /api/booking/verify-human
+              verifies token with Google immediately
+              returns an HMAC-signed pass, 30 min TTL
+step 2   POST /api/booking  { humanPass, ... }
+              signature + expiry checked; forged or stale is rejected
+```
+
+Signed with `BOOKING_SESSION_SECRET`, falling back to the reCAPTCHA secret —
+never a hardcoded default. Compared in constant time.
+
+Failure is visible rather than silent: unlike the honeypot/origin/timing checks
+which fake success to waste a bot's time, a real person whose pass expired is
+told so and given the phone number.
+
+**Operational note:** the site key is domain-restricted. `localhost` must be
+added to its allowed domains for local testing, and the production domain must
+be present or every booking fails.
+
 ## 5. Idempotency — Calendly has none
 
 Verified by full-text search of the published OpenAPI spec: no `Idempotency-Key`,

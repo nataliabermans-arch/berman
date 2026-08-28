@@ -1,17 +1,24 @@
 "use client";
 
 import { Loader2, RotateCw } from "lucide-react";
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 
 type Slot = { startTime: string };
 
 type LoadState = "idle" | "loading" | "ready" | "error";
+
+// Availability is re-fetched on this interval, and whenever the tab regains
+// focus, so a slot taken by someone else — here or directly in Calendly —
+// disappears without the patient having to do anything.
+const POLL_MS = 25_000;
 
 export type TimeSlotPickerProps = {
   value: string;
   onChange: (startTime: string) => void;
   /** Bumping this refetches — used when a slot is taken mid-submit. */
   refreshToken?: number;
+  /** Fired when the currently selected slot is no longer available. */
+  onSelectedSlotGone?: () => void;
 };
 
 function dayKey(d: Date): string {
@@ -22,10 +29,17 @@ export default function TimeSlotPicker({
   value,
   onChange,
   refreshToken = 0,
+  onSelectedSlotGone,
 }: TimeSlotPickerProps) {
   const [state, setState] = useState<LoadState>("idle");
   const [slots, setSlots] = useState<Slot[]>([]);
   const [activeDay, setActiveDay] = useState<string>("");
+  // Kept in refs so the polling effect never needs to be torn down and
+  // rebuilt when the selection changes.
+  const valueRef = useRef(value);
+  const goneRef = useRef(onSelectedSlotGone);
+  valueRef.current = value;
+  goneRef.current = onSelectedSlotGone;
 
   // The patient picks in their own timezone; the server books in it too.
   const timezone = useMemo(
@@ -33,8 +47,9 @@ export default function TimeSlotPicker({
     [],
   );
 
-  const load = useCallback(async () => {
-    setState("loading");
+  const load = useCallback(async (background = false) => {
+    // A background refresh must not blank the list the patient is reading.
+    if (!background) setState("loading");
     try {
       const res = await fetch("/api/booking/availability/", {
         headers: { Accept: "application/json" },
@@ -48,14 +63,44 @@ export default function TimeSlotPicker({
       }
       setSlots(data.slots);
       setState("ready");
+
+      // If someone else took the slot this patient had selected, drop it and
+      // tell them — rather than letting them submit into a guaranteed failure.
+      const selected = valueRef.current;
+      if (selected && !data.slots.some((s) => s.startTime === selected)) {
+        goneRef.current?.();
+      }
     } catch {
-      setState("error");
+      // A failed background poll leaves the existing list in place; only a
+      // foreground load surfaces the error state.
+      if (!background) setState("error");
     }
   }, []);
 
   useEffect(() => {
     void load();
   }, [load, refreshToken]);
+
+  // Live updates: poll on an interval, and refresh immediately whenever the
+  // tab becomes visible again (a backgrounded tab's timers are throttled, so
+  // returning to it can otherwise show minutes-old availability).
+  useEffect(() => {
+    const timer = window.setInterval(() => {
+      if (document.visibilityState === "visible") void load(true);
+    }, POLL_MS);
+
+    const onVisible = () => {
+      if (document.visibilityState === "visible") void load(true);
+    };
+    document.addEventListener("visibilitychange", onVisible);
+    window.addEventListener("focus", onVisible);
+
+    return () => {
+      window.clearInterval(timer);
+      document.removeEventListener("visibilitychange", onVisible);
+      window.removeEventListener("focus", onVisible);
+    };
+  }, [load]);
 
   // Group into local days, preserving the server's ordering.
   const days = useMemo(() => {

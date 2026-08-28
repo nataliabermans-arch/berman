@@ -11174,3 +11174,15 @@ main[data-active="E"] .e-hero,
     grid-template-columns: repeat(auto-fill, minmax(88px, 1fr));
   }
 }
+
+.booking-captcha {
+  margin: 4px 0 8px;
+}
+
+.booking-captcha-status {
+  margin: 8px 0 0;
+  color: rgba(255, 245, 241, 0.68);
+  font-family: var(--font-inter), system-ui, sans-serif;
+  font-size: 12px;
+  line-height: 1.5;
+}
