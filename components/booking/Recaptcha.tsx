@@ -66,25 +66,45 @@ function loadScript(): Promise<void> {
   return scriptPromise;
 }
 
+// Mirrors the server's rule in lib/booking/human.ts: verification is skipped on
+// Vercel preview deployments, which are already behind Vercel's own login.
+// Both checks are "disabled only when explicitly preview", so an unset value
+// leaves the CAPTCHA ON — this can never silently weaken production.
+function isPreviewDeployment(): boolean {
+  if (process.env.NEXT_PUBLIC_VERCEL_ENV === "preview") return true;
+  // Fallback for when Vercel's system variables are not exposed to the client.
+  // The production site is bermansexualhealth.com, so it never matches.
+  if (typeof window !== "undefined") {
+    return window.location.hostname.endsWith(".vercel.app");
+  }
+  return false;
+}
+
 export type RecaptchaProps = {
   /** Called with our own signed pass once the token is verified server-side. */
   onPass: (pass: string) => void;
+  /** Fired when verification is deliberately not required in this environment. */
+  onSkipped?: () => void;
   onError?: (message: string) => void;
 };
 
-export default function Recaptcha({ onPass, onError }: RecaptchaProps) {
+export default function Recaptcha({ onPass, onSkipped, onError }: RecaptchaProps) {
   const holder = useRef<HTMLDivElement | null>(null);
   const widgetId = useRef<number | null>(null);
   const [status, setStatus] = useState<
     "loading" | "ready" | "verifying" | "passed" | "error"
   >("loading");
+  const [skipped, setSkipped] = useState(false);
 
   const siteKey = process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY || "";
 
   useEffect(() => {
-    // Not configured (local dev without keys): don't block the flow.
-    if (!siteKey) {
+    // Not configured (local dev without keys), or a preview deployment where
+    // verification is deliberately skipped: don't block the flow.
+    if (!siteKey || isPreviewDeployment()) {
       setStatus("passed");
+      setSkipped(true);
+      onSkipped?.();
       onPass("");
       return;
     }
@@ -155,7 +175,9 @@ export default function Recaptcha({ onPass, onError }: RecaptchaProps) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [siteKey]);
 
-  if (!siteKey) return null;
+  // Hidden only when verification isn't required here. A solved challenge
+  // stays visible, so the patient can see it succeeded.
+  if (!siteKey || skipped) return null;
 
   return (
     <div className="booking-captcha">

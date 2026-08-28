@@ -119,7 +119,11 @@ export default function BookingFlow({
     }));
   };
 
-  const humanVerified = !CAPTCHA_REQUIRED || Boolean(humanPass);
+  // Set when the CAPTCHA reports that verification isn't required in this
+  // environment (a Vercel preview, which is already behind Vercel's login).
+  const [captchaSkipped, setCaptchaSkipped] = useState(false);
+  const humanVerified =
+    !CAPTCHA_REQUIRED || captchaSkipped || Boolean(humanPass);
 
   // Name exactly what is wrong. One message listing every field leaves the
   // patient guessing, and a phone of "test" looks filled in.
@@ -366,7 +370,10 @@ export default function BookingFlow({
             </div>
           </fieldset>
           {/* Reports its own failures inline. */}
-          <Recaptcha onPass={setHumanPass} />
+          <Recaptcha
+            onPass={setHumanPass}
+            onSkipped={() => setCaptchaSkipped(true)}
+          />
         </>
       ) : step === 1 ? (
         <>

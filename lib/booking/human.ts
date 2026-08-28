@@ -35,6 +35,15 @@ function signingKey(): string {
  * agree: either verification is on everywhere, or it is off everywhere.
  */
 export function isCaptchaConfigured(): boolean {
+  // Vercel preview deployments sit behind Vercel's own authentication, so a
+  // CAPTCHA adds nothing there — and Google's domain allowlist makes every
+  // ephemeral preview host a manual step before anything can be tested.
+  //
+  // Deliberately written as "disabled ONLY when explicitly preview": an
+  // unset or unexpected value leaves verification ON. This cannot weaken
+  // production, where VERCEL_ENV is "production".
+  if (process.env.VERCEL_ENV === "preview") return false;
+
   const hasSecret = secret().length > 20;
   const hasSiteKey =
     (process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY || "").trim().length > 20;
