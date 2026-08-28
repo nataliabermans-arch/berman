@@ -16,8 +16,7 @@ import {
   useRef,
   useState,
 } from "react";
-
-const CALENDLY_URL = "https://calendly.com/nataliabermans/30-min-session";
+import TimeSlotPicker from "@/components/booking/TimeSlotPicker";
 
 type ReasonValue =
   | "menopause-hormones"
@@ -107,6 +106,10 @@ export default function LeadCaptureModal({
   const [ticketId, setTicketId] = useState("");
   const [website, setWebsite] = useState(""); // honeypot
   const renderedAtRef = useRef(Date.now());
+  // Step 2 — the consult is booked here, in-page. No redirect.
+  const [startTime, setStartTime] = useState("");
+  const [bookedAt, setBookedAt] = useState("");
+  const [slotRefresh, setSlotRefresh] = useState(0);
 
   useEffect(() => {
     if (!isOpen) return;
@@ -144,16 +147,32 @@ export default function LeadCaptureModal({
   };
 
   const canContinue = form.reasons.length > 0;
-  const canSubmit =
+  const detailsComplete =
     form.fullName.trim().length > 1 &&
     form.email.trim().includes("@") &&
     (form.phone.match(/\d/g) || []).length >= 10 &&
-    form.reasons.length > 0 &&
-    form.formAcknowledgment &&
-    submitState !== "submitting";
+    form.formAcknowledgment;
+  const canSubmit =
+    detailsComplete && Boolean(startTime) && submitState !== "submitting";
+
+  // Analytics: funnel visibility only. Reason-for-visit and any other clinical
+  // detail must never enter the dataLayer — it is readable by every tag on the
+  // page and by anyone with devtools open.
+  const track = (event: string, params: Record<string, unknown> = {}) => {
+    try {
+      const w = window as unknown as {
+        dataLayer?: Array<Record<string, unknown>>;
+      };
+      w.dataLayer = w.dataLayer || [];
+      w.dataLayer.push({ event, lead_source: "website_lead_modal", ...params });
+    } catch {
+      // no-op
+    }
+  };
 
   const submit = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
+
     if (step === 0) {
       if (!canContinue) {
         setError("Choose at least one area so we can route your message.");
@@ -161,89 +180,93 @@ export default function LeadCaptureModal({
       }
       setError("");
       setStep(1);
+      track("booking_step_complete", { step: 1 });
       return;
     }
 
-    if (!canSubmit) {
-      setError("Please add your name, email, phone number, and acknowledgment.");
+    if (step === 1) {
+      if (!detailsComplete) {
+        setError(
+          "Please add your name, email, phone number, and acknowledgment.",
+        );
+        return;
+      }
+      setError("");
+      setStep(2);
+      track("booking_step_complete", { step: 2 });
+      track("booking_availability_shown");
+      return;
+    }
+
+    if (!startTime) {
+      setError("Choose a time for your consult.");
       return;
     }
 
     setSubmitState("submitting");
     setError("");
-    const { firstName, lastName } = splitName(form.fullName);
-    const note = form.note.trim();
-    const message =
-      note ||
-      [
-        "New website call request.",
-        `Area(s): ${form.reasons.join(", ")}.`,
-        `Requested date: ${form.requestedDate || "not specified"}.`,
-        `Requested time window: ${form.requestedTimeWindow || "not specified"}.`,
-      ].join(" ");
+    track("booking_submitted");
 
     try {
-      const response = await fetch("/api/contact", {
+      const response = await fetch("/api/booking/", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          firstName,
-          lastName,
+          fullName: form.fullName.trim(),
           email: form.email.trim(),
           phone: form.phone.trim(),
           website,
           elapsedMs: Date.now() - renderedAtRef.current,
           preferredContact: form.preferredContact,
-          reasons: form.reasons,
           visitType: form.visitType,
-          requestedDate: form.requestedDate,
-          requestedTimeWindow: form.requestedTimeWindow,
-          message,
+          reasons: form.reasons,
+          note: form.note.trim(),
           formAcknowledgment: form.formAcknowledgment,
           smsConsent: form.smsConsent,
+          startTime,
+          timezone:
+            Intl.DateTimeFormat().resolvedOptions().timeZone ||
+            "America/Los_Angeles",
           source: "website_lead_modal",
         }),
       });
 
       const data = (await response.json().catch(() => null)) as {
         ok?: boolean;
-        ticketId?: string;
+        consultId?: string;
+        startTime?: string;
+        code?: string;
         error?: string;
       } | null;
 
+      // Someone else took the slot between render and submit. Refresh the
+      // times and let them pick again rather than failing the whole form.
+      if (response.status === 409 || data?.code === "slot_taken") {
+        setStartTime("");
+        setSlotRefresh((n) => n + 1);
+        setSubmitState("idle");
+        setError("That time was just taken. Please choose another.");
+        track("booking_failed", { reason: "slot_taken" });
+        return;
+      }
+
       if (!response.ok || !data?.ok) {
         throw new Error(
-          data?.error || "We could not send that yet. Please call us.",
+          data?.error || "We could not confirm that booking. Please call us.",
         );
       }
 
-      setTicketId(data.ticketId || "");
+      setTicketId(data.consultId || "");
+      setBookedAt(data.startTime || startTime);
       setSubmitState("success");
-      setForm(INITIAL_FORM);
-      setStep(0);
-      // Lead is captured (data for tracking). Fire the conversion event,
-      // then send them to Calendly to actually book their consult.
-      try {
-        const w = window as unknown as {
-          dataLayer?: Array<Record<string, unknown>>;
-        };
-        w.dataLayer = w.dataLayer || [];
-        w.dataLayer.push({
-          event: "lead_submit",
-          lead_source: "website_lead_modal",
-        });
-      } catch {
-        // no-op
-      }
-      window.setTimeout(() => {
-        window.location.href = CALENDLY_URL;
-      }, 900);
+      track("booking_confirmed", { transaction_id: data.consultId });
     } catch (err) {
       setSubmitState("error");
+      track("booking_failed", { reason: "error" });
       setError(
         err instanceof Error
           ? err.message
-          : "We could not send that yet. Please call us.",
+          : "We could not confirm that booking. Please call us.",
       );
     }
   };
@@ -276,20 +299,27 @@ export default function LeadCaptureModal({
         {submitState === "success" ? (
           <div className="lead-success">
             <CheckCircle2 aria-hidden="true" size={34} />
-            <p className="lead-kicker">You&apos;re all set</p>
+            <p className="lead-kicker">Your consult is booked</p>
             <h2 id="lead-modal-title">
-              Now pick a time for your complimentary 15-minute consult.
+              {bookedAt
+                ? new Date(bookedAt).toLocaleString(undefined, {
+                    weekday: "long",
+                    month: "long",
+                    day: "numeric",
+                    hour: "numeric",
+                    minute: "2-digit",
+                  })
+                : "You're all set."}
             </h2>
-            <p>Taking you to the calendar&hellip;</p>
-            <a
-              className="lead-submit"
-              href={CALENDLY_URL}
-              style={{ textDecoration: "none" }}
-            >
-              Book my 15-min consult &rarr;
-            </a>
             <p>
-              Prefer to talk now? Call{" "}
+              We&apos;ve emailed your confirmation. A patient coordinator will
+              call you at that time for your complimentary 15-minute consult.
+            </p>
+            <button type="button" onClick={onClose}>
+              Done
+            </button>
+            <p>
+              Need to change it? Call{" "}
               <a href={`tel:${phoneNumber}`}>{displayPhone}</a>.
             </p>
             {ticketId ? <small>Reference {ticketId}</small> : null}
@@ -319,11 +349,14 @@ export default function LeadCaptureModal({
                 <h2 id="lead-modal-title">
                   {step === 0
                     ? "Book your complimentary 15-minute consult."
-                    : "How should our team reach you?"}
+                    : step === 1
+                      ? "How should our team reach you?"
+                      : "Pick a time that works for you."}
                 </h2>
                 <div className="lead-progress" aria-hidden="true">
                   <span className={step === 0 ? "active" : ""} />
                   <span className={step === 1 ? "active" : ""} />
+                  <span className={step === 2 ? "active" : ""} />
                 </div>
 
                 {step === 0 ? (
@@ -348,7 +381,7 @@ export default function LeadCaptureModal({
                       </div>
                     </fieldset>
                   </>
-                ) : (
+                ) : step === 1 ? (
                   <>
                     <div className="lead-field-grid">
                       <label>
@@ -478,18 +511,42 @@ export default function LeadCaptureModal({
                       </span>
                     </label>
                   </>
+                ) : (
+                  <>
+                    {startTime ? (
+                      <p className="booking-chosen">
+                        Selected&nbsp;&mdash;{" "}
+                        {new Date(startTime).toLocaleString(undefined, {
+                          weekday: "short",
+                          month: "short",
+                          day: "numeric",
+                          hour: "numeric",
+                          minute: "2-digit",
+                        })}
+                      </p>
+                    ) : null}
+                    <TimeSlotPicker
+                      value={startTime}
+                      refreshToken={slotRefresh}
+                      onChange={(next) => {
+                        setStartTime(next);
+                        setError("");
+                        track("booking_slot_selected");
+                      }}
+                    />
+                  </>
                 )}
 
                 {error ? <p className="lead-error">{error}</p> : null}
 
                 <div className="lead-actions">
-                  {step === 1 ? (
+                  {step > 0 ? (
                     <button
                       type="button"
                       className="lead-back"
                       onClick={() => {
                         setError("");
-                        setStep(0);
+                        setStep(step - 1);
                       }}
                     >
                       <ChevronLeft aria-hidden="true" size={16} />
@@ -504,12 +561,19 @@ export default function LeadCaptureModal({
                   <button
                     type="submit"
                     className="lead-submit"
-                    disabled={submitState === "submitting"}
+                    disabled={
+                      submitState === "submitting" ||
+                      (step === 2 && !startTime)
+                    }
                   >
                     {submitState === "submitting" ? (
                       <Loader2 aria-hidden="true" size={16} />
                     ) : null}
-                    {step === 0 ? "Continue" : "Book my 15-min consult →"}
+                    {step === 0
+                      ? "Continue"
+                      : step === 1
+                        ? "Choose a time →"
+                        : "Confirm my booking →"}
                   </button>
                 </div>
 
