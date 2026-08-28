@@ -161,11 +161,22 @@ export default function LeadCaptureModal({
 
   const humanVerified = !CAPTCHA_REQUIRED || Boolean(humanPass);
   const canContinue = form.reasons.length > 0 && humanVerified;
-  const detailsComplete =
-    form.fullName.trim().length > 1 &&
-    form.email.trim().includes("@") &&
-    (form.phone.match(/\d/g) || []).length >= 10 &&
-    form.formAcknowledgment;
+  // Name exactly what is wrong. A single message listing every field leaves the
+  // patient guessing which one the form objected to — and "test" in the phone
+  // box looks filled in, so "add your phone number" reads as simply untrue.
+  const detailProblems = (): string[] => {
+    const problems: string[] = [];
+    if (form.fullName.trim().length < 2) problems.push("your name");
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(form.email.trim())) {
+      problems.push("a valid email address");
+    }
+    const digits = (form.phone.match(/\d/g) || []).length;
+    if (digits === 0) problems.push("a phone number");
+    else if (digits < 10) problems.push("a phone number with at least 10 digits");
+    if (!form.formAcknowledgment) problems.push("the acknowledgment ticked");
+    return problems;
+  };
+  const detailsComplete = detailProblems().length === 0;
   const canSubmit =
     detailsComplete && Boolean(startTime) && submitState !== "submitting";
 
@@ -203,10 +214,13 @@ export default function LeadCaptureModal({
     }
 
     if (step === 1) {
-      if (!detailsComplete) {
-        setError(
-          "Please add your name, email, phone number, and acknowledgment.",
-        );
+      const problems = detailProblems();
+      if (problems.length) {
+        const list =
+          problems.length === 1
+            ? problems[0]
+            : `${problems.slice(0, -1).join(", ")} and ${problems[problems.length - 1]}`;
+        setError(`Please add ${list}.`);
         return;
       }
       setError("");
@@ -445,6 +459,7 @@ export default function LeadCaptureModal({
                         <span>Phone</span>
                         <input
                           name="phone"
+                          type="tel"
                           value={form.phone}
                           onChange={(event) =>
                             setField("phone", event.target.value)
@@ -459,6 +474,7 @@ export default function LeadCaptureModal({
                       <span>Email</span>
                       <input
                         name="email"
+                        type="email"
                         value={form.email}
                         onChange={(event) =>
                           setField("email", event.target.value)
