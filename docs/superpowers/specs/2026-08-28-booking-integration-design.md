@@ -221,7 +221,7 @@ exposure. That is a decision for the practice's counsel, not for this integratio
 | # | Blocker | Blocks |
 |---|---|---|
 | B1 | **Reason taxonomy mismatch** (§9.1) — resolution requires a **manual Calendly UI edit**, since custom questions are read-only via API (§2.1a) | The booking call itself — Q2 is required |
-| B2 | **GHL custom fields may be silently dropped** — code sends `field_value` + `key`; current docs say `fieldValue` + `id`. Token verified valid; **`GHL_BERMAN_LOCATION_ID` still needed** to run the check | Any data reaching the CRM |
+| ~~B2~~ | ~~GHL custom fields may be silently dropped~~ — **DISPROVEN 2026-08-28.** See §9.2 | — |
 | ~~B3~~ | ~~Live `POST /invitees` smoke test~~ — **RESOLVED 2026-08-28.** Booked, verified, cancelled. Findings in §2.0 | — |
 | B4 | Meta dataset category / restriction tier unknown | Whether the §7 Meta design is permitted at all |
 | B5 | Legal sign-off on identified conversion events | Whether conversions are sent at all |
@@ -263,6 +263,29 @@ table with a documented fallback, because Q2 is required and `not-sure` /
 
 Note: `body-contouring` exists in the site's `ReasonValue` union but is absent
 from the rendered `REASONS` array — dead value; drop it or render it.
+
+### 9.2 The GHL custom-field defect was not real
+
+The contract sheet flagged as its highest-risk item that `delivery.ts` sends
+`{ key, field_value }` while HighLevel's current docs document
+`{ id, key, fieldValue }`, and concluded all 16 `berman_website_*` fields might
+be silently discarded.
+
+**Checked against the live location `xQCmrK9PJ28esCZ9SxzZ` on 2026-08-28:**
+
+- all 16 fields exist in GHL (87 custom fields defined in total)
+- three of the most recent website contacts carry populated values —
+  `berman_website_lead_ticket_id`, `..._submitted_at`,
+  `..._requested_time_window`, `..._requested_date`, `..._visit_type`,
+  `..._user_agent`
+
+GHL accepts the snake_case `field_value` form with `key` alone. **No fix is
+needed and none should be applied** — "correcting" the payload to `fieldValue`
+risks breaking something that demonstrably works.
+
+Lesson worth keeping: the documentation-versus-implementation mismatch was real,
+but the inference drawn from it was wrong. One live call settled what four doc
+lookups could not.
 
 Related: the site collects `visitType` (in-person / telehealth / either), which
 this event type cannot express — it has one fixed physical location.
