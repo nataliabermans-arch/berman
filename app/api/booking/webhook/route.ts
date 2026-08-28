@@ -74,7 +74,15 @@ export async function POST(req: NextRequest) {
   // Every action below must be idempotent: Calendly retries for 24 hours and
   // sends no delivery id to deduplicate on.
   if (event === "invitee.canceled" && email && isGhlConfigured()) {
-    const contactId = await findContactIdByEmail(email);
+    // GHL's contact search is eventually consistent, so a cancellation
+    // arriving moments after the booking can look up a contact that provably
+    // exists and find nothing. Try briefly here...
+    let contactId: string | null = null;
+    for (let attempt = 0; attempt < 3 && !contactId; attempt += 1) {
+      if (attempt) await new Promise((r) => setTimeout(r, 1500));
+      contactId = await findContactIdByEmail(email);
+    }
+
     if (contactId) {
       const ok = await addContactTags(contactId, ["booking-canceled"]);
       // Patient name and email are deliberately absent: these lines land in
@@ -85,8 +93,17 @@ export async function POST(req: NextRequest) {
         tagged: ok,
         canceledBy: p.cancellation?.canceler_type || null,
       });
+      if (!ok) {
+        // Tagging failed outright — ask Calendly to send it again rather than
+        // losing the cancellation.
+        return NextResponse.json({ ok: false, retry: true }, { status: 503 });
+      }
     } else {
-      console.warn("[calendly-webhook-cancel-no-contact]", { consultId });
+      // ...and if it still is not visible, do NOT swallow the event. Returning
+      // 503 makes Calendly redeliver with backoff for up to 24 hours, by which
+      // point the index will have caught up. Re-tagging is harmless.
+      console.warn("[calendly-webhook-cancel-contact-not-found-yet]", { consultId });
+      return NextResponse.json({ ok: false, retry: true }, { status: 503 });
     }
   }
 
