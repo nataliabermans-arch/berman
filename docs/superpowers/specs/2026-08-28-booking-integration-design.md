@@ -26,6 +26,36 @@ Confirmed against the production Calendly account on 2026-08-28 with a PAT.
 | Duration | **15 min** (slug `30-min-session` is a stale rename, not a bug) |
 | Location | `physical`, Beverly Hills — "a patient coordinator will call you" |
 | Availability endpoint | Working; returned 8 slots over 7 days |
+| `POST /invitees` | **201 verified live** — booked, read back, cancelled 2026-08-28 |
+| Paid-plan gate | Satisfied (the 201 proves it) |
+| Cancellation | `POST {event}/cancellation` → 201, status `canceled`, attributed to host |
+
+### 2.0 `POST /invitees` gotchas — learned from a live booking, not from docs
+
+1. **`tracking` requires all six keys present**, nullable: `utm_campaign`,
+   `utm_source`, `utm_medium`, `utm_content`, `utm_term`, `salesforce_uuid`.
+   A partial object returns 400 and books nothing.
+2. **`location` is mandatory** despite being absent from the schema's `required`
+   list, and must match a kind configured on the event type. `physical` also
+   requires the sibling address string. Omitting it returns
+   `invalid_location_choice`.
+3. **`salesforce_uuid` is settable via the API and round-trips**, so the consult
+   ID belongs there — no need to consume `utm_content`. (It is *not* settable via
+   URL param on a scheduling link; API only.)
+4. `answer` is a **string** even for `multi_select`.
+5. `start_time` must be byte-copied from an availability `collection[].start_time`.
+
+### 2.1a Custom questions are READ-ONLY via API
+
+`PATCH /event_types/{uuid}` accepts only `active`, `name`, `color`,
+`description`, `duration`, `duration_options`, `locale`, `locations`.
+`custom_questions` is **not in the schema**, and `required: []` means an empty
+body validates — so a PATCH carrying `custom_questions` returns **200 and
+silently changes nothing**. Verified against the published OpenAPI spec and twice
+against the live account.
+
+Consequence: choice-list changes must be made in the Calendly UI by a human.
+Reading question strings at runtime (§2.1) still works — only writes are blocked.
 
 ### 2.1 Custom questions — must match byte-for-byte
 
@@ -130,7 +160,7 @@ today is generated per POST, never persisted server-side, and never queried.
 |---|---|
 | Supabase | `booking_intents.consult_id` |
 | GHL | custom field + opportunity name |
-| Calendly | `tracking.utm_content` (≤255 chars; only the 5 standard UTM names survive — `gclid` on a Calendly link is dropped) |
+| Calendly | `tracking.salesforce_uuid` — **verified round-trip on the live account**. Send all six `tracking` keys (nulls where unused). Leaves `utm_*` free for real campaign data. |
 | Webhook | returned in `payload.tracking` |
 | Confirmation UI | `Reference {id}` (already rendered today) |
 | GA4 | `transaction_id` |
@@ -190,9 +220,9 @@ exposure. That is a decision for the practice's counsel, not for this integratio
 
 | # | Blocker | Blocks |
 |---|---|---|
-| B1 | **Reason taxonomy mismatch** (§9.1) | The booking call itself — Q2 is required |
-| B2 | **GHL custom fields may be silently dropped** — code sends `field_value` + `key`; current docs say `fieldValue` + `id` | Any data reaching the CRM |
-| B3 | Live `POST /invitees` smoke test not yet run — it creates a real appointment and emails the invitee | Plan gate, `location` requirement, `tracking` acceptance |
+| B1 | **Reason taxonomy mismatch** (§9.1) — resolution requires a **manual Calendly UI edit**, since custom questions are read-only via API (§2.1a) | The booking call itself — Q2 is required |
+| B2 | **GHL custom fields may be silently dropped** — code sends `field_value` + `key`; current docs say `fieldValue` + `id`. Token verified valid; **`GHL_BERMAN_LOCATION_ID` still needed** to run the check | Any data reaching the CRM |
+| ~~B3~~ | ~~Live `POST /invitees` smoke test~~ — **RESOLVED 2026-08-28.** Booked, verified, cancelled. Findings in §2.0 | — |
 | B4 | Meta dataset category / restriction tier unknown | Whether the §7 Meta design is permitted at all |
 | B5 | Legal sign-off on identified conversion events | Whether conversions are sent at all |
 
@@ -206,9 +236,33 @@ different ones, and they do not map cleanly:
 - `sexual-health` and `pelvic-urinary` both collapse to `Sexual & Urinary Tract Health`
 - Calendly's `Skin Tight` and `Weight loss` have no site equivalent
 
-Options: align the site list to Calendly's; rewrite Calendly's choices via the
-`event_types:write` scope to match the site; or maintain an explicit mapping with
-a documented fallback. Unresolved.
+**Decision: union.** The site's 8 labels become canonical (identity mapping, no
+drift), and the Calendly-only services with no site equivalent are preserved so
+nothing disappears from the public booking page. Target list, in order:
+
+```
+Hormone Replacement Therapy
+Sexual health
+Pelvic Floor and Urinary Tract Health
+Vaginal rejuvenation
+Aesthetic and Regenerative Care
+Menopause and Perimenopause Care
+Supplement and Peptide
+Skin Tight
+Weight loss
+Body Sculpting, Fat Melting, Cellulite Treatment
+I am not sure yet
+```
+
+`Anti-Aging Treatments` folds into `Aesthetic and Regenerative Care`.
+
+**This must be entered by hand in the Calendly UI** — custom questions are
+read-only via the API (§2.1a). Until it is done, the middleware needs a mapping
+table with a documented fallback, because Q2 is required and `not-sure` /
+`berman-supplements` have no valid Calendly value today.
+
+Note: `body-contouring` exists in the site's `ReasonValue` union but is absent
+from the rendered `REASONS` array — dead value; drop it or render it.
 
 Related: the site collects `visitType` (in-person / telehealth / either), which
 this event type cannot express — it has one fixed physical location.
