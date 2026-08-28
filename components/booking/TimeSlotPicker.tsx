@@ -34,6 +34,9 @@ export default function TimeSlotPicker({
   const [state, setState] = useState<LoadState>("idle");
   const [slots, setSlots] = useState<Slot[]>([]);
   const [activeDay, setActiveDay] = useState<string>("");
+  // True when the server reported a configuration problem rather than a
+  // transient failure — "Try again" is useless in that case.
+  const [configError, setConfigError] = useState(false);
   // Kept in refs so the polling effect never needs to be torn down and
   // rebuilt when the selection changes.
   const valueRef = useRef(value);
@@ -57,10 +60,15 @@ export default function TimeSlotPicker({
       const data = (await res.json().catch(() => null)) as {
         ok?: boolean;
         slots?: Slot[];
+        error?: string;
       } | null;
       if (!res.ok || !data?.ok || !Array.isArray(data.slots)) {
-        throw new Error("unavailable");
+        // 503 means the server knows it is misconfigured — retrying will never
+        // help, so say something different from a transient network blip.
+        setConfigError(res.status === 503);
+        throw new Error(data?.error || "unavailable");
       }
+      setConfigError(false);
       setSlots(data.slots);
       setState("ready");
 
@@ -169,11 +177,19 @@ export default function TimeSlotPicker({
     return (
       <div className="booking-slots">
         <p className="booking-slots-status">
-          We couldn&apos;t load available times.
+          {configError
+            ? "Online booking is temporarily unavailable. Please call (310) 772-0072 and we'll book it for you."
+            : "We couldn't load available times."}
         </p>
-        <button type="button" className="booking-retry" onClick={() => void load()}>
-          <RotateCw aria-hidden="true" size={14} /> Try again
-        </button>
+        {configError ? null : (
+          <button
+            type="button"
+            className="booking-retry"
+            onClick={() => void load()}
+          >
+            <RotateCw aria-hidden="true" size={14} /> Try again
+          </button>
+        )}
       </div>
     );
   }
