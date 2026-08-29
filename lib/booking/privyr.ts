@@ -1,15 +1,24 @@
 // Sends confirmed bookings to Privyr, the practice's mobile CRM.
 //
-// Privyr's incoming-leads webhook accepts only four structured fields — name,
-// email, phone, display_name — plus an `other_fields` dictionary that it
-// renders into the lead's notes. There is no appointment or calendar
-// primitive on this endpoint; a real dated meeting needs the token-auth
-// timeline-items API, which this account does not have.
+// Privyr renders a lead as ONE flat "Lead Source Details" list. The keys of
+// `other_fields` are flattened into the same list as the top-level `notes` and
+// `source`, each shown as a bold "Key: value" line — verified against a live
+// lead. So there is no nesting to design around: every line competes for the
+// same space, and duplicating a value costs a line and buys nothing.
 //
-// So the appointment time is put into the NAME. It reads slightly oddly as a
-// name, but it is the only field visible in Privyr's lead list, and staff
-// seeing "Thu 10 Sep 11:00am" without opening the record is worth more than
-// tidiness.
+// That rules out the long notes block this used to send, which repeated
+// everything `other_fields` already carried. `notes` is now one human sentence,
+// and the structured detail lives in `other_fields` in reading order — the list
+// is truncated with "View full info" on the lead screen, so the appointment
+// itself goes first.
+//
+// `notes` and `source` are absent from Privyr's published spec but are accepted
+// and render correctly.
+//
+// The appointment time also rides in the NAME, because the name is the only
+// field visible in Privyr's lead LIST. It reads slightly oddly as a name, but
+// staff seeing "Thu, Sep 10, 2:30 PM" without opening the record is worth more
+// than tidiness.
 //
 // This must never affect the patient's booking: Privyr is an alerting layer,
 // and the appointment is already safe in Calendly and GHL by the time we get
@@ -66,11 +75,12 @@ export function buildPrivyrPayload(b: PrivyrBooking) {
 
   const patient = `${b.firstName} ${b.lastName}`.trim();
 
-  // Insertion order is preserved, so this is the order staff read.
+  // Insertion order is the order staff read, and the list truncates — so the
+  // appointment leads and the bookkeeping trails.
   const other: Record<string, string> = {
-    Date: fullDate,
-    Time: to ? `${from} - ${to} Pacific Time` : `${from} Pacific Time`,
-    Consult: "15 minutes, by phone - a coordinator calls the patient",
+    Appointment: fullDate,
+    Time: `${from} - ${to} Pacific Time`,
+    Consult: "15 minutes by phone - a coordinator calls the patient",
   };
   if (b.reasonLabels?.length) other["Interested in"] = b.reasonLabels.join(", ");
   if (b.rescheduleUrl) other["Reschedule (send to patient)"] = b.rescheduleUrl;
@@ -79,29 +89,6 @@ export function buildPrivyrPayload(b: PrivyrBooking) {
   other["Reference"] = b.consultId;
   other["Booked via"] = "bermansexualhealth.com";
 
-  // A readable block for the notes field. `notes` and `source` are absent from
-  // Privyr's published spec but are accepted and render correctly — confirmed
-  // against a live lead. URLs are written bare because notes is plain text, so
-  // the full URL is both the label and what stays tappable on a phone.
-  const notes = [
-    `APPOINTMENT: ${fullDate}`,
-    `${from} - ${to} Pacific Time`,
-    "15-minute phone consult - a coordinator calls the patient.",
-    "",
-    b.reasonLabels?.length ? `Interested in: ${b.reasonLabels.join(", ")}` : "",
-    b.reasonLabels?.length ? "" : "",
-    "TO RESCHEDULE (send to patient):",
-    b.rescheduleUrl || "-",
-    "",
-    "TO CANCEL (send to patient):",
-    b.cancelUrl || "-",
-    "",
-    `Reference ${b.consultId} - booked at bermansexualhealth.com`,
-  ]
-    .filter((line, i, arr) => !(line === "" && arr[i - 1] === ""))
-    .join("\n")
-    .trim();
-
   return {
     // The time rides in the name so it shows in the lead list.
     name: `${patient} - ${shortWhen}`,
@@ -109,7 +96,8 @@ export function buildPrivyrPayload(b: PrivyrBooking) {
     email: b.email,
     phone: b.phone,
     source: "Berman website - online booking",
-    notes,
+    // One sentence. Everything structured is in other_fields, on its own line.
+    notes: `15-minute phone consult on ${fullDate} at ${from} Pacific. A coordinator calls the patient.`,
     other_fields: other,
   };
 }
