@@ -327,7 +327,9 @@ export default function BookingFlow({
     return (
       <div className="lead-success">
         <CheckCircle2 aria-hidden="true" size={34} />
-        <p className="lead-kicker">Your consult is booked</p>
+
+        <p className="lead-kicker">Thank you</p>
+
         <h2 id={titleId}>
           {bookedAt
             ? new Date(bookedAt).toLocaleString(undefined, {
@@ -339,19 +341,27 @@ export default function BookingFlow({
               })
             : "You're all set."}
         </h2>
-        <p>
-          We&apos;ve emailed your confirmation. A patient coordinator will call
-          you at that time for your complimentary 15-minute consult.
+
+        <p className="lead-success-lead">
+          Your complimentary 15-minute consult is booked.
         </p>
+
+        <p className="lead-success-detail">
+          We&apos;ve emailed the details. A patient coordinator will call you at
+          that time.
+        </p>
+
         {variant === "modal" && onDone ? (
           <button type="button" onClick={onDone}>
             Done
           </button>
         ) : null}
-        <p>
+
+        <p className="lead-success-detail">
           Need to change it? Call{" "}
           <a href={`tel:${phoneNumber}`}>{displayPhone}</a>.
         </p>
+
         {consultId ? <small>Reference {consultId}</small> : null}
       </div>
     );
