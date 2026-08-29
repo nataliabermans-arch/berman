@@ -45,7 +45,17 @@ export type CalendlyBookingInput = {
 };
 
 export type CalendlyBookingResult =
-  | { ok: true; eventUri: string; inviteeUri: string; startTime: string }
+  | {
+      ok: true;
+      eventUri: string;
+      inviteeUri: string;
+      startTime: string;
+      endTime?: string;
+      // The patient-facing links Calendly mints for this booking. Passed on to
+      // the CRM so staff can send them without digging through Calendly.
+      cancelUrl?: string;
+      rescheduleUrl?: string;
+    }
   | { ok: false; code: "slot_taken" | "invalid" | "auth" | "transient"; message: string };
 
 function envValue(...names: string[]): string {
@@ -543,13 +553,20 @@ export async function createBooking(
 
   if (res.status === 201) {
     const out = (await res.json().catch(() => null)) as {
-      resource?: { uri?: string; event?: string };
+      resource?: {
+        uri?: string;
+        event?: string;
+        cancel_url?: string;
+        reschedule_url?: string;
+      };
     } | null;
     return {
       ok: true,
       eventUri: out?.resource?.event || "",
       inviteeUri: out?.resource?.uri || "",
       startTime: input.startTime,
+      cancelUrl: out?.resource?.cancel_url,
+      rescheduleUrl: out?.resource?.reschedule_url,
     };
   }
 

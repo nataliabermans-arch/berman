@@ -19,6 +19,7 @@ import {
   verifyBookingPass,
 } from "@/lib/booking/human";
 import { clientIp, rateLimit, refund } from "@/lib/booking/rate-limit";
+import { sendBookingToPrivyr } from "@/lib/booking/privyr";
 import {
   findContactIdByEmail,
   isGhlConfigured,
@@ -436,6 +437,22 @@ export async function POST(req: NextRequest) {
     eventUri: booking.eventUri,
   });
   await tagContact(ghlContactId, body.email.trim(), "booking-confirmed");
+
+  // Privyr is the alerting layer. The appointment is already safe in Calendly
+  // and the CRM, so this is best-effort and can never fail the booking.
+  const privyrOk = await sendBookingToPrivyr({
+    firstName,
+    lastName,
+    email: body.email.trim(),
+    phone: body.phone.trim(),
+    startTime: booking.startTime,
+    endTime: booking.endTime,
+    consultId,
+    reasonLabels: labelLeadReasons(body.reasons),
+    rescheduleUrl: booking.rescheduleUrl,
+    cancelUrl: booking.cancelUrl,
+  });
+  if (!privyrOk) console.warn("[privyr-not-notified]", { consultId });
 
   return NextResponse.json({
     ok: true,

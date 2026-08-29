@@ -8,6 +8,7 @@ import {
 } from "@/lib/booking/calendly";
 import { isGhlConfigured } from "@/lib/booking/ghl";
 import { isCaptchaConfigured } from "@/lib/booking/human";
+import { isPrivyrConfigured } from "@/lib/booking/privyr";
 
 // One URL that says whether booking can actually work in this environment.
 //
@@ -120,6 +121,14 @@ export async function GET() {
     detail: present("BOOKING_SESSION_SECRET")
       ? "set"
       : "not set — falling back to the reCAPTCHA secret for signing",
+  };
+
+  // Not fatal: Privyr is an alerting layer, and a booking is complete without it.
+  checks.privyr = {
+    ok: true,
+    detail: isPrivyrConfigured()
+      ? "configured - confirmed bookings are pushed to Privyr"
+      : "not configured - bookings will not appear in Privyr",
   };
 
   checks.webhook_signing_key = {
