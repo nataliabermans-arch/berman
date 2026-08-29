@@ -170,6 +170,27 @@ export type PassVerdict =
   | { ok: true }
   | { ok: false; reason: "missing" | "signature" | "expired" | "wrong_client" | "already_used" };
 
+/**
+ * Hand a consumed pass back so the patient can legitimately try again.
+ *
+ * The pass is marked used before the booking is attempted, which is right for
+ * replay protection but wrong for the retriable failures the UI actively invites
+ * a retry from — a taken slot, a CRM blip. Without this, the second attempt is
+ * refused with "that booking was already submitted" for a booking that never
+ * happened.
+ */
+export function releaseBookingPass(pass: string): void {
+  if (!pass) return;
+  const [encoded] = pass.split(".");
+  if (!encoded) return;
+  try {
+    const { n } = JSON.parse(Buffer.from(encoded, "base64url").toString());
+    if (typeof n === "string") consumed.delete(n);
+  } catch {
+    // Malformed passes were never consumed in the first place.
+  }
+}
+
 export function verifyBookingPass(
   pass: string,
   ip?: string | null,

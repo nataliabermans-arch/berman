@@ -58,6 +58,10 @@ export interface LeadDeliveryResult {
 }
 
 const GHL_BASE_URL = "https://services.leadconnectorhq.com";
+
+// Every outbound call needs a deadline: without one a slow dependency
+// consumes the whole serverless invocation before the booking is attempted.
+const GHL_TIMEOUT_MS = 10_000;
 const GHL_API_VERSION = "2021-07-28";
 const GHL_OPPORTUNITY_API_VERSION = "2023-02-21";
 const BERMAN_MARKETING_PIPELINE_ID = "eLqGD6YG5VkNOXYqrlux";
@@ -471,6 +475,7 @@ async function findExistingGhlOpportunity({
   });
 
   const response = await fetch(`${GHL_BASE_URL}/opportunities/search?${params}`, {
+    signal: AbortSignal.timeout(GHL_TIMEOUT_MS),
     method: "GET",
     headers,
   });
@@ -505,6 +510,7 @@ async function createGhlOpportunity({
   token: string;
 }): Promise<string> {
   const response = await fetch(`${GHL_BASE_URL}/opportunities/`, {
+    signal: AbortSignal.timeout(GHL_TIMEOUT_MS),
     method: "POST",
     headers: {
       Authorization: `Bearer ${token}`,
@@ -558,6 +564,7 @@ async function sendLeadToGhl(
 
   try {
     const response = await fetch(`${GHL_BASE_URL}/contacts/upsert`, {
+      signal: AbortSignal.timeout(GHL_TIMEOUT_MS),
       method: "POST",
       headers,
       body: JSON.stringify({
@@ -603,30 +610,48 @@ async function sendLeadToGhl(
       }
 
       if (shouldCreateGhlOpportunity(lead)) {
-        const opportunityHeaders = {
-          Authorization: `Bearer ${config.token}`,
-          Version: GHL_OPPORTUNITY_API_VERSION,
-          Accept: "application/json",
-        };
-        const existingOpportunity = await findExistingGhlOpportunity({
-          contactId,
-          locationId: config.locationId,
-          pipelineId: config.pipelineId,
-          headers: opportunityHeaders,
-        });
-
-        if (existingOpportunity) {
-          details.push(`Opportunity ${existingOpportunity.id} already open.`);
-        } else {
-          const opportunityId = await createGhlOpportunity({
-            lead,
+        // The contact is already saved at this point. An opportunity problem —
+        // a renamed pipeline, a deleted stage, a transient 5xx — must not
+        // discard that and report the whole delivery as failed: in production
+        // requireGhl is true, so it would 502 every booking before Calendly is
+        // ever called. This mirrors how the tag-add failure just above is
+        // handled: record it, keep going.
+        try {
+          const opportunityHeaders = {
+            Authorization: `Bearer ${config.token}`,
+            Version: GHL_OPPORTUNITY_API_VERSION,
+            Accept: "application/json",
+          };
+          const existingOpportunity = await findExistingGhlOpportunity({
             contactId,
             locationId: config.locationId,
             pipelineId: config.pipelineId,
-            pipelineStageId: config.pipelineStageId,
-            token: config.token,
+            headers: opportunityHeaders,
           });
-          details.push(`Opportunity ${opportunityId} created.`);
+
+          if (existingOpportunity) {
+            details.push(`Opportunity ${existingOpportunity.id} already open.`);
+          } else {
+            const opportunityId = await createGhlOpportunity({
+              lead,
+              contactId,
+              locationId: config.locationId,
+              pipelineId: config.pipelineId,
+              pipelineStageId: config.pipelineStageId,
+              token: config.token,
+            });
+            details.push(`Opportunity ${opportunityId} created.`);
+          }
+        } catch (err) {
+          // Loud, because a silently missing opportunity means the lead never
+          // reaches the pipeline staff actually work from.
+          console.error("[ghl-opportunity-failed]", {
+            ticketId: lead.ticketId,
+            reason: err instanceof Error ? err.message : "unknown",
+          });
+          details.push(
+            `Opportunity NOT created: ${err instanceof Error ? err.message : "unknown"}.`,
+          );
         }
       }
     }

@@ -125,6 +125,10 @@ export default function BookingFlow({
   // Set when the CAPTCHA reports that verification isn't required in this
   // environment (a Vercel preview, which is already behind Vercel's login).
   const [captchaSkipped, setCaptchaSkipped] = useState(false);
+  // True when the outcome is genuinely unknown — the request may have booked.
+  // Retrying from here is how a patient ends up with two appointments, so the
+  // submit button is withdrawn rather than re-armed.
+  const [terminal, setTerminal] = useState(false);
   const humanVerified =
     !CAPTCHA_REQUIRED || captchaSkipped || Boolean(humanPass);
 
@@ -206,6 +210,11 @@ export default function BookingFlow({
       const response = await fetch("/api/booking/", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
+        // Without a deadline a dropped mobile connection hangs this fetch for
+        // minutes. The modal blocks its own close while submitting, so the
+        // patient would be trapped in a dialog they cannot dismiss, on a page
+        // they cannot scroll, at the moment of conversion.
+        signal: AbortSignal.timeout(45_000),
         body: JSON.stringify({
           firstName: form.firstName.trim(),
           lastName: form.lastName.trim(),
@@ -260,6 +269,20 @@ export default function BookingFlow({
         return;
       }
 
+      // The server could not establish whether the booking landed. Retrying is
+      // exactly how a patient ends up with two appointments, so this is
+      // terminal: no submit button, and clear instructions.
+      if (data?.code === "unverified") {
+        setTerminal(true);
+        setSubmitState("error");
+        setError(
+          data.error ||
+            `We're still confirming your time. Please check your email before booking again, or call ${displayPhone}.`,
+        );
+        track("booking_failed", { reason: "unverified" });
+        return;
+      }
+
       if (!response.ok || !data?.ok) {
         throw new Error(
           data?.error ||
@@ -273,7 +296,22 @@ export default function BookingFlow({
       track("booking_confirmed", { transaction_id: data.consultId });
     } catch (err) {
       setSubmitState("error");
+      // A timeout means the request may well have booked — we simply stopped
+      // listening. Treat it like the server's own "unverified": terminal, with
+      // instructions, never a retry button.
+      const timedOut =
+        err instanceof DOMException && err.name === "TimeoutError";
       const isNetwork = err instanceof TypeError;
+
+      if (timedOut) {
+        setTerminal(true);
+        track("booking_failed", { reason: "client_timeout" });
+        setError(
+          `This is taking longer than expected and your booking may already be confirmed. Please check your email before trying again, or call ${displayPhone}.`,
+        );
+        return;
+      }
+
       track("booking_failed", { reason: isNetwork ? "network" : "error" });
       setError(
         isNetwork
@@ -517,6 +555,11 @@ export default function BookingFlow({
           <TimeSlotPicker
             value={startTime}
             refreshToken={slotRefresh}
+            // The server consumes the slot partway through the request, so a
+            // poll landing mid-submit would see it gone and tell the patient
+            // their booking failed while it is in fact succeeding — and push a
+            // false booking_failed into the analytics for a confirmed consult.
+            frozen={submitState === "submitting"}
             onChange={(next) => {
               setStartTime(next);
               setError("");
@@ -540,6 +583,11 @@ export default function BookingFlow({
             className="lead-back"
             onClick={() => {
               setError("");
+              // Leaving the picker drops the selection. Keeping it meant a
+              // double-click on "Choose a time →" could advance to step 2 and
+              // immediately submit the old slot, booking an appointment the
+              // patient never saw a picker for.
+              if (step === 2) setStartTime("");
               setStep(step - 1);
             }}
           >
@@ -552,20 +600,24 @@ export default function BookingFlow({
             {displayPhone}
           </a>
         )}
-        <button
-          type="submit"
-          className="lead-submit"
-          disabled={submitState === "submitting" || (step === 2 && !startTime)}
-        >
-          {submitState === "submitting" ? (
-            <Loader2 aria-hidden="true" size={16} />
-          ) : null}
-          {step === 0
-            ? "Continue"
-            : step === 1
-              ? "Choose a time →"
-              : "Confirm my booking →"}
-        </button>
+        {/* Withdrawn entirely once the outcome is unknown: a retry from here
+            is how a patient ends up with two appointments. */}
+        {terminal ? null : (
+          <button
+            type="submit"
+            className="lead-submit"
+            disabled={submitState === "submitting" || (step === 2 && !startTime)}
+          >
+            {submitState === "submitting" ? (
+              <Loader2 aria-hidden="true" size={16} />
+            ) : null}
+            {step === 0
+              ? "Continue"
+              : step === 1
+                ? "Choose a time →"
+                : "Confirm my booking →"}
+          </button>
+        )}
       </div>
 
       <p className="lead-fineprint">

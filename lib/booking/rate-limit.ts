@@ -49,6 +49,19 @@ export function rateLimit(
   };
 }
 
+/**
+ * Give back one attempt.
+ *
+ * The limit exists to stop someone consuming the calendar, so only attempts
+ * that could have done so should count. Charging a patient for a Calendly
+ * outage or a CRM blip means three server-side failures lock her out for an
+ * hour from a booking she never got to make.
+ */
+export function refund(key: string): void {
+  const b = buckets.get(key);
+  if (b && b.count > 0) b.count -= 1;
+}
+
 /** First hop in x-forwarded-for, which on Vercel is the real client. */
 export function clientIp(headers: Headers): string {
   return (

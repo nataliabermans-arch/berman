@@ -19,6 +19,14 @@ export type TimeSlotPickerProps = {
   refreshToken?: number;
   /** Fired when the currently selected slot is no longer available. */
   onSelectedSlotGone?: () => void;
+  /**
+   * Stop polling and stop reacting to the selection disappearing.
+   *
+   * Set while a booking is in flight: the server consumes the slot partway
+   * through the request, so a poll landing in that window would report the
+   * patient's own successful booking as someone else taking their time.
+   */
+  frozen?: boolean;
 };
 
 function dayKey(d: Date): string {
@@ -30,6 +38,7 @@ export default function TimeSlotPicker({
   onChange,
   refreshToken = 0,
   onSelectedSlotGone,
+  frozen = false,
 }: TimeSlotPickerProps) {
   const [state, setState] = useState<LoadState>("idle");
   const [slots, setSlots] = useState<Slot[]>([]);
@@ -41,8 +50,10 @@ export default function TimeSlotPicker({
   // rebuilt when the selection changes.
   const valueRef = useRef(value);
   const goneRef = useRef(onSelectedSlotGone);
+  const frozenRef = useRef(frozen);
   valueRef.current = value;
   goneRef.current = onSelectedSlotGone;
+  frozenRef.current = frozen;
 
   // The patient picks in their own timezone; the server books in it too.
   const timezone = useMemo(
@@ -75,7 +86,11 @@ export default function TimeSlotPicker({
       // If someone else took the slot this patient had selected, drop it and
       // tell them — rather than letting them submit into a guaranteed failure.
       const selected = valueRef.current;
-      if (selected && !data.slots.some((s) => s.startTime === selected)) {
+      if (
+        !frozenRef.current &&
+        selected &&
+        !data.slots.some((s) => s.startTime === selected)
+      ) {
         goneRef.current?.();
       }
     } catch {
@@ -94,10 +109,12 @@ export default function TimeSlotPicker({
   // returning to it can otherwise show minutes-old availability).
   useEffect(() => {
     const timer = window.setInterval(() => {
+      if (frozenRef.current) return;
       if (document.visibilityState === "visible") void load(true);
     }, POLL_MS);
 
     const onVisible = () => {
+      if (frozenRef.current) return;
       if (document.visibilityState === "visible") void load(true);
     };
     document.addEventListener("visibilitychange", onVisible);
@@ -198,8 +215,9 @@ export default function TimeSlotPicker({
     return (
       <div className="booking-slots">
         <p className="booking-slots-status">
-          No times are open in the next two weeks. Please call us and we&apos;ll
-          find one for you.
+          No times are open in the next two weeks. Call{" "}
+          <a href="tel:+13107720072">(310)&nbsp;772-0072</a> and we&apos;ll find one
+          for you.
         </p>
       </div>
     );

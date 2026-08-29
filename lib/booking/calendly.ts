@@ -95,10 +95,43 @@ type EventTypeMeta = {
     type: string;
     position: number;
     required: boolean;
+    enabled: boolean;
     answerChoices: string[];
   }>;
   locations: BookingLocation[];
 };
+
+/**
+ * Required questions this code has no answer for.
+ *
+ * Calendly rejects a booking that omits a required answer, so an admin adding
+ * one question in the Calendly UI can stop every booking on the site. This
+ * makes that visible — the health endpoint reports it, rather than patients
+ * discovering it one 502 at a time.
+ */
+export function unansweredRequiredQuestions(meta: EventTypeMeta): string[] {
+  const answerable = new Set(["phone_number", "multi_select", "single_select", "text", "string"]);
+  const covered = new Set<string>();
+  for (const q of meta.questions) {
+    if (!q.enabled) continue;
+    // One answer per kind is produced below, so a second required question of
+    // the same kind is left unanswered.
+    const kind = q.type === "string" ? "text" : q.type;
+    if (!answerable.has(q.type) || covered.has(kind)) continue;
+    covered.add(kind);
+  }
+  const seen = new Set<string>();
+  return meta.questions
+    .filter((q) => {
+      if (!q.enabled || !q.required) return false;
+      const kind = q.type === "string" ? "text" : q.type;
+      if (!answerable.has(q.type)) return true;
+      if (seen.has(kind)) return true;
+      seen.add(kind);
+      return false;
+    })
+    .map((q) => q.name);
+}
 
 let metaCache: { value: EventTypeMeta; expiresAt: number } | null = null;
 const META_TTL_MS = 5 * 60_000;
@@ -120,6 +153,7 @@ export async function getEventTypeMeta(): Promise<EventTypeMeta> {
         type?: string;
         position?: number;
         required?: boolean;
+        enabled?: boolean;
         answer_choices?: string[];
       }>;
       locations?: BookingLocation[];
@@ -132,6 +166,8 @@ export async function getEventTypeMeta(): Promise<EventTypeMeta> {
       type: q.type || "",
       position: typeof q.position === "number" ? q.position : 0,
       required: Boolean(q.required),
+      // A disabled question is not asked and must not be treated as required.
+      enabled: q.enabled !== false,
       answerChoices: q.answer_choices || [],
     })),
     locations: body.resource?.locations || [],
@@ -215,10 +251,15 @@ async function currentUserUri(): Promise<string> {
  * Returns the event URI if so. Used only on the ambiguous path — never to
  * "verify" a response that already returned 201.
  */
-export async function findExistingBooking(
+export type BookingLookup =
+  | { status: "found"; uri: string }
+  | { status: "absent" }
+  | { status: "unknown" };
+
+async function lookupOnce(
   email: string,
   startTime: string,
-): Promise<string | null> {
+): Promise<BookingLookup> {
   try {
     const user = await currentUserUri();
     // A one-minute window either side of the slot: start times are exact, but
@@ -236,7 +277,10 @@ export async function findExistingBooking(
       `&status=active`;
 
     const res = await fetch(url, { headers: headers(), cache: "no-store", signal: AbortSignal.timeout(CALENDLY_TIMEOUT_MS) });
-    if (!res.ok) return null;
+    // A non-2xx means we could not establish the truth — NOT that the booking
+    // is absent. Conflating the two made the caller record "failed" for an
+    // appointment the patient already had a confirmation email for.
+    if (!res.ok) return { status: "unknown" };
 
     const body = (await res.json()) as {
       collection?: Array<{ uri?: string; start_time?: string }>;
@@ -253,12 +297,36 @@ export async function findExistingBooking(
       const got = new Date(e.start_time).getTime();
       return Number.isFinite(got) && got === wanted;
     });
-    return hit?.uri || null;
+    return hit?.uri ? { status: "found", uri: hit.uri } : { status: "absent" };
   } catch {
-    // If we cannot establish the truth, say so rather than guessing. The
-    // caller must not retry on an unknown.
-    return null;
+    return { status: "unknown" };
   }
+}
+
+/**
+ * Did a booking for this invitee at this exact time actually land?
+ *
+ * Three outcomes, deliberately distinguished. The failure that triggers this
+ * lookup (Calendly timing out) is the same failure that can break the lookup,
+ * so "we could not ask" must never be reported as "it did not happen".
+ *
+ * Retried with backoff because Calendly's scheduled-events list is not
+ * instantly consistent with a write that just landed.
+ */
+export async function findExistingBooking(
+  email: string,
+  startTime: string,
+): Promise<BookingLookup> {
+  let last: BookingLookup = { status: "unknown" };
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    if (attempt) await new Promise((r) => setTimeout(r, 1500));
+    last = await lookupOnce(email, startTime);
+    if (last.status === "found") return last;
+    // "absent" from a healthy response is trustworthy on the first read; only
+    // keep retrying while we genuinely could not reach Calendly.
+    if (last.status === "absent" && attempt > 0) return last;
+  }
+  return last;
 }
 
 // ---------------------------------------------------------------------------
@@ -356,11 +424,18 @@ export async function createBooking(
     };
   }
 
-  const phoneQuestion = meta.questions.find((q) => q.type === "phone_number");
-  const selectQuestion = meta.questions.find(
-    (q) => q.type === "multi_select" || q.type === "single_select",
+  const phoneQuestion = meta.questions.find(
+    (q) => q.enabled && q.type === "phone_number",
   );
-  const textQuestion = meta.questions.find((q) => q.type === "text");
+  const selectQuestion = meta.questions.find(
+    (q) => q.enabled && (q.type === "multi_select" || q.type === "single_select"),
+  );
+  // "string" is Calendly's type for a short-answer question and is what the UI
+  // produces by default — it was previously unhandled, so such a question was
+  // never answered and, if required, failed every booking.
+  const textQuestion = meta.questions.find(
+    (q) => q.enabled && (q.type === "text" || q.type === "string"),
+  );
 
   const questions: Array<{ question: string; answer: string; position: number }> =
     [];
@@ -383,9 +458,13 @@ export async function createBooking(
       selectQuestion.answerChoices,
     );
     if (unmapped.length || usedFallback) {
+      // Deliberately COUNTS, not values. `unmapped` holds reason-for-visit —
+      // health information at a sexual-health clinic — and platform logs are a
+      // far wider audience than the CRM. The consult id is enough to look the
+      // real values up in GHL, where they belong.
       console.warn("[booking-reason-unmapped]", {
         consultId: input.consultId,
-        unmapped,
+        unmappedCount: unmapped.length,
         usedFallback,
       });
     }
@@ -479,7 +558,10 @@ export async function createBooking(
   if (res.status === 401 || res.status === 403) {
     return { ok: false, code: "auth", message: `Calendly auth failed (${res.status})` };
   }
-  if (res.status >= 500) {
+  // 429 is rate limiting — the booking may well succeed shortly. Classifying it
+  // as "invalid" told the patient their booking had permanently failed and
+  // tagged the CRM accordingly.
+  if (res.status === 429 || res.status >= 500) {
     return { ok: false, code: "transient", message: `Calendly ${res.status}` };
   }
 

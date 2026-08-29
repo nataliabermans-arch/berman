@@ -4,6 +4,7 @@ import {
   getEventTypeMeta,
   isCalendlyConfigured,
   listAvailableSlots,
+  unansweredRequiredQuestions,
 } from "@/lib/booking/calendly";
 import { isGhlConfigured } from "@/lib/booking/ghl";
 import { isCaptchaConfigured } from "@/lib/booking/human";
@@ -46,11 +47,19 @@ export async function GET() {
       const select = meta.questions.find(
         (q) => q.type === "multi_select" || q.type === "single_select",
       );
+      // A required question this code cannot answer breaks EVERY booking, and
+      // an admin can introduce one from the Calendly UI without touching the
+      // site. Counting questions alone kept this check green through exactly
+      // that outage.
+      const unanswerable = unansweredRequiredQuestions(meta);
       checks.calendly_event_type = {
-        ok: true,
-        detail: `reachable; ${meta.questions.length} custom questions, ${
-          select?.answerChoices.length ?? 0
-        } service choices`,
+        ok: unanswerable.length === 0,
+        detail:
+          unanswerable.length === 0
+            ? `reachable; ${meta.questions.length} custom questions, ${
+                select?.answerChoices.length ?? 0
+              } service choices`
+            : `REQUIRED question(s) this code cannot answer — every booking will fail: ${unanswerable.join("; ")}`,
       };
     } catch (err) {
       checks.calendly_event_type = {

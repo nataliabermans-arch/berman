@@ -77,13 +77,12 @@ function captchaRequiredHere(): boolean {
   if ((process.env.NEXT_PUBLIC_BOOKING_REQUIRE_CAPTCHA || "").trim() !== "true") {
     return false;
   }
-  if (process.env.NEXT_PUBLIC_VERCEL_ENV === "preview") return false;
-  // Fallback for when Vercel's system variables are not exposed to the client.
-  // The production site is bermansexualhealth.com, so it never matches.
-  if (typeof window !== "undefined") {
-    return !window.location.hostname.endsWith(".vercel.app");
-  }
-  return true;
+  // Read from exactly the same signal the server uses (VERCEL_ENV), and nothing
+  // else. A previous hostname fallback skipped the widget on any *.vercel.app
+  // host while the server still demanded a pass — including the production
+  // deployment's own Vercel URL, which would leave a patient with no checkbox
+  // to tick and a booking that could never be authorised.
+  return process.env.NEXT_PUBLIC_VERCEL_ENV !== "preview";
 }
 
 export type RecaptchaProps = {

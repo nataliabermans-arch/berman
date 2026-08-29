@@ -13,9 +13,18 @@ import {
   findExistingBooking,
   isCalendlyConfigured,
 } from "@/lib/booking/calendly";
-import { isCaptchaConfigured, verifyBookingPass } from "@/lib/booking/human";
-import { clientIp, rateLimit } from "@/lib/booking/rate-limit";
-import { addContactTags, findContactIdByEmail, isGhlConfigured } from "@/lib/booking/ghl";
+import {
+  isCaptchaConfigured,
+  releaseBookingPass,
+  verifyBookingPass,
+} from "@/lib/booking/human";
+import { clientIp, rateLimit, refund } from "@/lib/booking/rate-limit";
+import {
+  findContactIdByEmail,
+  isGhlConfigured,
+  setBookingStatus,
+  type BookingStatusTag,
+} from "@/lib/booking/ghl";
 
 // Native booking: capture the lead, then book the consult, without ever
 // handing the patient off to a Calendly page.
@@ -30,6 +39,10 @@ import { addContactTags, findContactIdByEmail, isGhlConfigured } from "@/lib/boo
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
+// This route is a serial chain — CRM write, then Calendly, then on an ambiguous
+// outcome a reconciliation lookup with backoff. The recovery step is structurally
+// last, so it is the first casualty of a killed invocation. Give it room.
+export const maxDuration = 60;
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 const PHONE_DIGIT_RE = /\d/g;
@@ -91,9 +104,14 @@ function makeConsultId(): string {
 function isAllowedOrigin(origin: string): boolean {
   try {
     const host = new URL(origin).hostname;
-    return ALLOWED_HOSTS.some(
-      (allowed) => host === allowed || host.endsWith(`.${allowed}`),
-    ) || host.endsWith(".vercel.app");
+    if (ALLOWED_HOSTS.some((a) => host === a || host.endsWith(`.${a}`))) {
+      return true;
+    }
+    // Our own Vercel previews only. This previously accepted ANY *.vercel.app
+    // host, so a page on someone else's Vercel deployment could drive bookings
+    // from a visitor's browser — each one a different IP, which also defeats
+    // the per-IP rate limit.
+    return /(^|-)berman-s-projects\.vercel\.app$/.test(host);
   } catch {
     return false;
   }
@@ -134,13 +152,13 @@ function requestedTimeLabel(startTime?: string): string | null {
 async function tagContact(
   contactId: string | undefined,
   email: string,
-  tags: string[],
+  status: BookingStatusTag,
 ): Promise<void> {
   if (!isGhlConfigured()) return;
   try {
     const id = contactId || (await findContactIdByEmail(email));
-    if (id) await addContactTags(id, tags);
-    else console.warn("[booking-tag-no-contact-id]", { tags });
+    if (id) await setBookingStatus(id, status);
+    else console.warn("[booking-tag-no-contact-id]", { status });
   } catch {
     // A tagging failure must never turn a good booking into a bad response.
   }
@@ -298,6 +316,7 @@ export async function POST(req: NextRequest) {
       delivery: summarizeLeadDelivery(delivery),
     });
     // Nothing booked, no Calendly email sent, no phantom appointment.
+    refund(`book:${ip}`);
     return NextResponse.json(
       {
         ok: false,
@@ -323,9 +342,30 @@ export async function POST(req: NextRequest) {
   });
 
   if (!booking.ok) {
-    console.error("[booking-calendly-failed]", { consultId, ...booking });
+    // Only the classification is logged. Calendly's error body can echo the
+    // request, which carries reason-for-visit.
+    console.error("[booking-calendly-failed]", { consultId, code: booking.code });
 
     if (booking.code === "slot_taken") {
+      // Before blaming a stranger: this patient may hold the slot themselves,
+      // from a first attempt whose response they never saw. Adopting it stops
+      // them being told to pick another time and ending up double-booked.
+      const own = await findExistingBooking(body.email.trim(), body.startTime);
+      if (own.status === "found") {
+        console.warn("[booking-already-held-by-this-patient]", { consultId });
+        await tagContact(ghlContactId, body.email.trim(), "booking-confirmed");
+        return NextResponse.json({
+          ok: true,
+          consultId,
+          startTime: body.startTime,
+          adopted: true,
+        });
+      }
+      // Genuinely someone else's. The CRM record must not keep asserting a
+      // booking that was never made.
+      await tagContact(ghlContactId, body.email.trim(), "booking-failed");
+      releaseBookingPass(body.humanPass || "");
+      refund(`book:${ip}`);
       return NextResponse.json(
         { ok: false, code: "slot_taken", error: "That time was just taken. Please pick another." },
         { status: 409 },
@@ -340,13 +380,11 @@ export async function POST(req: NextRequest) {
         body.email.trim(),
         body.startTime,
       );
-      if (existing) {
+
+      if (existing.status === "found") {
         // It did land. Adopt it rather than creating a second one.
-        console.warn("[booking-adopted-after-timeout]", {
-          consultId,
-          eventUri: existing,
-        });
-        await tagContact(ghlContactId, body.email.trim(), ["booking-confirmed"]);
+        console.warn("[booking-adopted-after-timeout]", { consultId });
+        await tagContact(ghlContactId, body.email.trim(), "booking-confirmed");
         return NextResponse.json({
           ok: true,
           consultId,
@@ -354,15 +392,38 @@ export async function POST(req: NextRequest) {
           adopted: true,
         });
       }
+
+      if (existing.status === "unknown") {
+        // We could not establish the truth — and the outage that broke the
+        // booking is the same one that broke the lookup. Recording this as
+        // "failed" would have staff rebook a patient who already holds a
+        // Calendly confirmation email.
+        console.error("[booking-unverifiable]", { consultId });
+        await tagContact(ghlContactId, body.email.trim(), "booking-unconfirmed");
+        return NextResponse.json(
+          {
+            ok: false,
+            code: "unverified",
+            error:
+              `We're still confirming your time. Please check your email before booking again — call ${PHONE} if it hasn't arrived. Reference ${consultId}.`,
+          },
+          { status: 502 },
+        );
+      }
+
       console.error("[booking-unresolved-after-timeout]", { consultId });
     }
+
     // The lead is safely in the CRM, so staff can still reach them — but the
     // record must say the booking did not complete, or staff will assume an
     // appointment exists.
-    await tagContact(ghlContactId, body.email.trim(), ["booking-failed"]);
+    await tagContact(ghlContactId, body.email.trim(), "booking-failed");
+    releaseBookingPass(body.humanPass || "");
+    refund(`book:${ip}`);
     return NextResponse.json(
       {
         ok: false,
+        code: "not_booked",
         error: `We saved your details but couldn't confirm the time. We'll call you, or reach us at ${PHONE}.`,
       },
       { status: 502 },
@@ -374,7 +435,7 @@ export async function POST(req: NextRequest) {
     startTime: booking.startTime,
     eventUri: booking.eventUri,
   });
-  await tagContact(ghlContactId, body.email.trim(), ["booking-confirmed"]);
+  await tagContact(ghlContactId, body.email.trim(), "booking-confirmed");
 
   return NextResponse.json({
     ok: true,

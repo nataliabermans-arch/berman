@@ -1,5 +1,9 @@
 import { NextRequest, NextResponse } from "next/server";
-import { addContactTags, findContactIdByEmail, isGhlConfigured } from "@/lib/booking/ghl";
+import {
+  findContactIdByEmail,
+  isGhlConfigured,
+  setBookingStatus,
+} from "@/lib/booking/ghl";
 import { verifyCalendlySignature } from "@/lib/booking/webhook-signature";
 
 // Calendly webhook receiver.
@@ -53,9 +57,13 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ ok: false }, { status: 401 });
   }
 
-  let body: { event?: string; payload?: InviteePayload };
+  let body: { event?: string; created_at?: string; payload?: InviteePayload };
   try {
-    body = JSON.parse(raw) as { event?: string; payload?: InviteePayload };
+    body = JSON.parse(raw) as {
+      event?: string;
+      created_at?: string;
+      payload?: InviteePayload;
+    };
   } catch {
     return NextResponse.json({ ok: false, error: "bad json" }, { status: 400 });
   }
@@ -71,6 +79,20 @@ export async function POST(req: NextRequest) {
     startTime: p.scheduled_event?.start_time || null,
   });
 
+  // How long we are willing to keep asking Calendly to redeliver.
+  //
+  // Retrying is how we survive GHL's eventually-consistent search, but it must
+  // not be unbounded: Calendly disables a subscription that keeps failing, and
+  // one cancellation for a contact that will never appear — a patient who
+  // booked on Calendly directly, or whose record was deleted — would otherwise
+  // take down cancellation sync for everyone.
+  const RETRY_BUDGET_MS = 30 * 60_000;
+  const deliveryAge = body.created_at
+    ? Date.now() - new Date(body.created_at).getTime()
+    : 0;
+  const pastRetryBudget =
+    Number.isFinite(deliveryAge) && deliveryAge > RETRY_BUDGET_MS;
+
   // Every action below must be idempotent: Calendly retries for 24 hours and
   // sends no delivery id to deduplicate on.
   if (event === "invitee.canceled" && email && isGhlConfigured()) {
@@ -84,7 +106,7 @@ export async function POST(req: NextRequest) {
     }
 
     if (contactId) {
-      const ok = await addContactTags(contactId, ["booking-canceled"]);
+      const ok = await setBookingStatus(contactId, "booking-canceled");
       // Patient name and email are deliberately absent: these lines land in
       // platform logs, which are a far wider audience than the CRM.
       console.info("[calendly-webhook-cancel-synced]", {
@@ -93,17 +115,28 @@ export async function POST(req: NextRequest) {
         tagged: ok,
         canceledBy: p.cancellation?.canceler_type || null,
       });
-      if (!ok) {
+      if (!ok && !pastRetryBudget) {
         // Tagging failed outright — ask Calendly to send it again rather than
         // losing the cancellation.
         return NextResponse.json({ ok: false, retry: true }, { status: 503 });
       }
-    } else {
+      if (!ok) {
+        console.error("[calendly-webhook-cancel-tag-abandoned]", { consultId });
+      }
+    } else if (!pastRetryBudget) {
       // ...and if it still is not visible, do NOT swallow the event. Returning
-      // 503 makes Calendly redeliver with backoff for up to 24 hours, by which
-      // point the index will have caught up. Re-tagging is harmless.
+      // 503 makes Calendly redeliver with backoff, by which point the index
+      // will have caught up. Re-tagging is harmless.
       console.warn("[calendly-webhook-cancel-contact-not-found-yet]", { consultId });
       return NextResponse.json({ ok: false, retry: true }, { status: 503 });
+    } else {
+      // Out of budget. Accept the delivery so the subscription survives, and
+      // make the unsynced cancellation loud — this is a real CRM/calendar
+      // divergence someone has to reconcile by hand.
+      console.error("[calendly-webhook-cancel-unsynced]", {
+        consultId,
+        ageMinutes: Math.round(deliveryAge / 60_000),
+      });
     }
   }
 

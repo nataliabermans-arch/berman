@@ -4,6 +4,10 @@
 // This is only what the webhook needs.
 
 const GHL_BASE_URL = "https://services.leadconnectorhq.com";
+
+// Every outbound call needs a deadline: without one a slow dependency
+// consumes the whole serverless invocation before the booking is attempted.
+const GHL_TIMEOUT_MS = 10_000;
 const GHL_API_VERSION = "2021-07-28";
 
 function envValue(...names: string[]): string {
@@ -43,6 +47,7 @@ export async function findContactIdByEmail(
 
   try {
     const res = await fetch(`${GHL_BASE_URL}/contacts/search`, {
+      signal: AbortSignal.timeout(GHL_TIMEOUT_MS),
       method: "POST",
       headers: headers(token),
       body: JSON.stringify({
@@ -60,6 +65,52 @@ export async function findContactIdByEmail(
   }
 }
 
+/** The mutually exclusive lifecycle states a booking can be in. */
+export const BOOKING_STATUS_TAGS = [
+  "booking-confirmed",
+  "booking-failed",
+  "booking-unconfirmed",
+  "booking-canceled",
+] as const;
+
+export type BookingStatusTag = (typeof BOOKING_STATUS_TAGS)[number];
+
+async function removeContactTags(
+  contactId: string,
+  tags: string[],
+): Promise<void> {
+  const { token } = config();
+  if (!token || !contactId || tags.length === 0) return;
+  try {
+    await fetch(`${GHL_BASE_URL}/contacts/${contactId}/tags`, {
+      signal: AbortSignal.timeout(GHL_TIMEOUT_MS),
+      method: "DELETE",
+      headers: headers(token),
+      body: JSON.stringify({ tags }),
+      cache: "no-store",
+    });
+  } catch {
+    // Best effort. A stale tag is untidy; a failed booking is not.
+  }
+}
+
+/**
+ * Set the booking's status as a mutually exclusive tag.
+ *
+ * GHL's tag endpoint only ADDS, so writing statuses directly left contacts
+ * carrying `booking-confirmed` and `booking-failed` and `booking-canceled` at
+ * once — staff had no way to read the current state. This clears the other
+ * three first.
+ */
+export async function setBookingStatus(
+  contactId: string,
+  status: BookingStatusTag,
+): Promise<boolean> {
+  const stale = BOOKING_STATUS_TAGS.filter((t) => t !== status);
+  await removeContactTags(contactId, stale);
+  return addContactTags(contactId, [status]);
+}
+
 /**
  * Adding a tag is idempotent, which matters: Calendly retries webhook
  * deliveries for 24 hours and sends no delivery id to dedupe on.
@@ -73,6 +124,7 @@ export async function addContactTags(
 
   try {
     const res = await fetch(`${GHL_BASE_URL}/contacts/${contactId}/tags`, {
+      signal: AbortSignal.timeout(GHL_TIMEOUT_MS),
       method: "POST",
       headers: headers(token),
       body: JSON.stringify({ tags }),
