@@ -79,12 +79,37 @@ export function buildPrivyrPayload(b: PrivyrBooking) {
   other["Reference"] = b.consultId;
   other["Booked via"] = "bermansexualhealth.com";
 
+  // A readable block for the notes field. `notes` and `source` are absent from
+  // Privyr's published spec but are accepted and render correctly — confirmed
+  // against a live lead. URLs are written bare because notes is plain text, so
+  // the full URL is both the label and what stays tappable on a phone.
+  const notes = [
+    `APPOINTMENT: ${fullDate}`,
+    `${from} - ${to} Pacific Time`,
+    "15-minute phone consult - a coordinator calls the patient.",
+    "",
+    b.reasonLabels?.length ? `Interested in: ${b.reasonLabels.join(", ")}` : "",
+    b.reasonLabels?.length ? "" : "",
+    "TO RESCHEDULE (send to patient):",
+    b.rescheduleUrl || "-",
+    "",
+    "TO CANCEL (send to patient):",
+    b.cancelUrl || "-",
+    "",
+    `Reference ${b.consultId} - booked at bermansexualhealth.com`,
+  ]
+    .filter((line, i, arr) => !(line === "" && arr[i - 1] === ""))
+    .join("\n")
+    .trim();
+
   return {
     // The time rides in the name so it shows in the lead list.
     name: `${patient} - ${shortWhen}`,
     display_name: b.firstName,
     email: b.email,
     phone: b.phone,
+    source: "Berman website - online booking",
+    notes,
     other_fields: other,
   };
 }
