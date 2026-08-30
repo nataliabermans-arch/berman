@@ -14,8 +14,13 @@ const CALENDLY_BASE_URL = "https://api.calendly.com";
 const DEFAULT_EVENT_TYPE_URI =
   "https://api.calendly.com/event_types/af8b9d05-5d98-43e0-98c9-6a348e27f587";
 
-// Calendly rejects an availability window wider than 31 days.
-const MAX_WINDOW_DAYS = 31;
+// Calendly rejects an availability window wider than 31 days — verified: a
+// 32-day range returns 400 "date range can be no greater than 31 days".
+export const MAX_WINDOW_DAYS = 31;
+// How far ahead the picker offers appointments. The account currently opens
+// roughly 8 weeks out, so this covers the whole horizon with room to spare;
+// windows past the last bookable day simply come back empty.
+export const BOOKING_HORIZON_DAYS = 93;
 
 // Without an explicit timeout a hung connection consumes the whole serverless
 // invocation, so the booking request dies before the timeout-recovery path it
@@ -191,40 +196,87 @@ export async function getEventTypeMeta(): Promise<EventTypeMeta> {
 // Availability
 // ---------------------------------------------------------------------------
 
-export async function listAvailableSlots(days = 14): Promise<AvailableSlot[]> {
-  const span = Math.min(days, MAX_WINDOW_DAYS);
+export async function listAvailableSlots(
+  days = BOOKING_HORIZON_DAYS,
+): Promise<AvailableSlot[]> {
   // start_time may not be in the past; a small cushion avoids a race with
   // Calendly's own clock.
   const start = new Date(Date.now() + 60 * 60_000);
-  const end = new Date(start.getTime() + span * 86_400_000);
 
-  const url =
-    `${CALENDLY_BASE_URL}/event_type_available_times` +
-    `?event_type=${encodeURIComponent(eventTypeUri())}` +
-    `&start_time=${toCalendlyTime(start)}` +
-    `&end_time=${toCalendlyTime(end)}`;
-
-  const res = await fetch(url, { headers: headers(), cache: "no-store", signal: AbortSignal.timeout(CALENDLY_TIMEOUT_MS) });
-  if (!res.ok) {
-    throw new Error(`Calendly availability failed: ${res.status}`);
+  // The 31-day cap is a per-REQUEST limit, not a limit on how far the practice
+  // schedules, and this endpoint has no pagination. Covering the real horizon
+  // therefore means several requests. They run concurrently, so the patient
+  // waits for the slowest one rather than the sum — a 93-day view costs the
+  // same wall-clock as the 14-day view it replaces.
+  const windows: Array<{ from: Date; to: Date }> = [];
+  for (let offset = 0; offset < days; offset += MAX_WINDOW_DAYS) {
+    const from = new Date(start.getTime() + offset * 86_400_000);
+    const span = Math.min(MAX_WINDOW_DAYS, days - offset);
+    windows.push({ from, to: new Date(from.getTime() + span * 86_400_000) });
   }
 
-  const body = (await res.json()) as {
-    collection?: Array<{
-      status?: string;
-      start_time?: string;
-      invitees_remaining?: number;
-    }>;
-  };
+  const results = await Promise.allSettled(
+    windows.map(async (w) => {
+      const url =
+        `${CALENDLY_BASE_URL}/event_type_available_times` +
+        `?event_type=${encodeURIComponent(eventTypeUri())}` +
+        `&start_time=${toCalendlyTime(w.from)}` +
+        `&end_time=${toCalendlyTime(w.to)}`;
 
-  return (body.collection || [])
-    .filter((s) => s.status === "available" && s.start_time)
-    .map((s) => ({
-      // Returned verbatim. The booking call must send this string back
-      // byte-for-byte; a locally reconstructed timestamp is rejected.
-      startTime: s.start_time as string,
-      invitees_remaining: s.invitees_remaining ?? 1,
-    }));
+      const res = await fetch(url, {
+        headers: headers(),
+        cache: "no-store",
+        signal: AbortSignal.timeout(CALENDLY_TIMEOUT_MS),
+      });
+      if (!res.ok) throw new Error(`Calendly availability failed: ${res.status}`);
+
+      const body = (await res.json()) as {
+        collection?: Array<{
+          status?: string;
+          start_time?: string;
+          invitees_remaining?: number;
+        }>;
+      };
+      return body.collection || [];
+    }),
+  );
+
+  // One failed window must not blank the picker — a patient can still book the
+  // times we did get. Only a total failure is an error, which the route then
+  // answers from its cache.
+  const failed = results.filter((r) => r.status === "rejected");
+  if (failed.length === results.length) {
+    throw new Error(
+      (failed[0] as PromiseRejectedResult | undefined)?.reason?.message ||
+        "Calendly availability failed",
+    );
+  }
+  if (failed.length) {
+    console.warn("[calendly-availability-partial]", {
+      windows: results.length,
+      failed: failed.length,
+    });
+  }
+
+  // Adjacent windows share a boundary instant, so dedupe by start time.
+  const seen = new Map<string, AvailableSlot>();
+  for (const r of results) {
+    if (r.status !== "fulfilled") continue;
+    for (const s of r.value) {
+      if (s.status !== "available" || !s.start_time) continue;
+      if (seen.has(s.start_time)) continue;
+      seen.set(s.start_time, {
+        // Returned verbatim. The booking call must send this string back
+        // byte-for-byte; a locally reconstructed timestamp is rejected.
+        startTime: s.start_time,
+        invitees_remaining: s.invitees_remaining ?? 1,
+      });
+    }
+  }
+
+  return [...seen.values()].sort(
+    (a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime(),
+  );
 }
 
 // ---------------------------------------------------------------------------
@@ -591,7 +643,7 @@ export async function createBooking(
   // gone, this is a conflict and the patient should simply pick again.
   if (res.status === 400 || res.status === 404) {
     try {
-      const stillOpen = (await listAvailableSlots(MAX_WINDOW_DAYS)).some(
+      const stillOpen = (await listAvailableSlots()).some(
         (s) => new Date(s.startTime).getTime() === new Date(input.startTime).getTime(),
       );
       if (!stillOpen) {

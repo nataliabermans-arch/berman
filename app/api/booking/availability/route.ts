@@ -59,7 +59,7 @@ export async function GET(req: NextRequest) {
   }
 
   try {
-    const slots = (await listAvailableSlots(14)).map((s) => ({
+    const slots = (await listAvailableSlots()).map((s) => ({
       startTime: s.startTime,
     }));
     cache = { at: Date.now(), slots };

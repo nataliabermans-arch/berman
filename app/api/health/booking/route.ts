@@ -72,12 +72,12 @@ export async function GET() {
     }
 
     try {
-      const slots = await listAvailableSlots(14);
+      const slots = await listAvailableSlots();
       checks.calendly_availability = {
         ok: slots.length > 0,
         detail:
           slots.length > 0
-            ? `${slots.length} slots in the next 14 days`
+            ? `${slots.length} slots across the booking horizon`
             : "reachable but NO open slots — the picker will show 'no times available'",
       };
     } catch (err) {

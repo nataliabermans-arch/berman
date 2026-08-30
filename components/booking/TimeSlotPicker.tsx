@@ -215,7 +215,7 @@ export default function TimeSlotPicker({
     return (
       <div className="booking-slots">
         <p className="booking-slots-status">
-          No times are open in the next two weeks. Call{" "}
+          No times are open right now. Call{" "}
           <a href="tel:+13107720072">(310)&nbsp;772-0072</a> and we&apos;ll find one
           for you.
         </p>
