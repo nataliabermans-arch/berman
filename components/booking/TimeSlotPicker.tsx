@@ -61,6 +61,23 @@ export default function TimeSlotPicker({
     [],
   );
 
+  // resolvedOptions() hands back the zone's oldest canonical name, so a patient
+  // in Kyiv is told "Europe/Kiev" and one in Kolkata "Asia/Calcutta". Show the
+  // spoken name instead. "longGeneric" ("Pacific Time"), not "long", which would
+  // print whichever season the page was opened in — wrong for a slot on the far
+  // side of a daylight-saving change.
+  const timezoneLabel = useMemo(() => {
+    try {
+      const part = new Intl.DateTimeFormat(undefined, { timeZoneName: "longGeneric" })
+        .formatToParts(new Date())
+        .find((p) => p.type === "timeZoneName");
+      if (part?.value) return part.value;
+    } catch {
+      // Intl without longGeneric support — fall through.
+    }
+    return timezone.replace(/_/g, " ");
+  }, [timezone]);
+
   const load = useCallback(async (background = false) => {
     // A background refresh must not blank the list the patient is reading.
     if (!background) setState("loading");
@@ -225,6 +242,16 @@ export default function TimeSlotPicker({
 
   return (
     <div className="booking-slots">
+      {/* The strip holds ~1600px of days in a 313px phone column, so four fifths
+          of them sit off-screen behind a scrollbar that auto-hides on touch. A
+          patient who never swipes would assume the two visible days are all
+          there is. Naming the last date is what tells them otherwise. */}
+      {days.length > 3 && (
+        <p className="booking-days-hint">
+          {days.length} days available through {days[days.length - 1].label} —
+          scroll sideways for more.
+        </p>
+      )}
       <div className="booking-days" role="tablist" aria-label="Choose a day">
         {days.map((day) => (
           <button
@@ -269,8 +296,8 @@ export default function TimeSlotPicker({
       </div>
 
       <p className="booking-tz">
-        Times shown in your timezone ({timezone.replace(/_/g, " ")}). Your consult
-        is 15 minutes by phone.
+        Times shown in your timezone ({timezoneLabel}). Your consult is 15
+        minutes by phone.
       </p>
     </div>
   );

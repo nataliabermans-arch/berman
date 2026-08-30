@@ -569,7 +569,14 @@ export default function BookingFlow({
             // poll landing mid-submit would see it gone and tell the patient
             // their booking failed while it is in fact succeeding — and push a
             // false booking_failed into the analytics for a confirmed consult.
-            frozen={submitState === "submitting"}
+            //
+            // `terminal` matters just as much: on the outcome-unknown paths the
+            // booking has most likely gone through, so the slot legitimately
+            // disappears. Un-freezing there would replace "your booking may
+            // already be confirmed — check your email" with "choose another
+            // time" on a screen whose submit button has been withdrawn, which
+            // is how a patient ends up booking twice.
+            frozen={submitState === "submitting" || terminal}
             onChange={(next) => {
               setStartTime(next);
               setError("");

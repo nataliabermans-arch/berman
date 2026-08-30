@@ -11066,6 +11066,14 @@ main[data-active="E"] .e-hero,
   cursor: pointer;
 }
 
+.booking-days-hint {
+  margin: 0 0 8px;
+  color: rgba(255, 245, 241, 0.55);
+  font-family: var(--font-inter), system-ui, sans-serif;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
 .booking-days {
   display: flex;
   gap: 8px;
@@ -11073,10 +11081,14 @@ main[data-active="E"] .e-hero,
   padding-bottom: 10px;
   margin-bottom: 14px;
   scrollbar-width: thin;
+  /* Proximity, not mandatory: a patient dragging across several weeks should
+     not be fought for the last few pixels. */
+  scroll-snap-type: x proximity;
 }
 
 .booking-day {
   flex: 0 0 auto;
+  scroll-snap-align: start;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
