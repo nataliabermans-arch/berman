@@ -163,10 +163,15 @@ const jsonLd = {
       telephone: "+1-310-772-0072",
       email: "info@bermanwomenswellness.com",
       medicalSpecialty: [
-        "Urology",
-        "Gynecology",
-        "Menopause care",
-        "Sexual medicine",
+        "https://schema.org/Urologic",
+        "https://schema.org/Gynecologic",
+      ],
+      knowsAbout: [
+        "Menopause and perimenopause care",
+        "Female sexual medicine",
+        "Bioidentical hormone therapy",
+        "Peptide therapy",
+        "Pelvic and urinary health",
         "Women's wellness",
       ],
       address: {
