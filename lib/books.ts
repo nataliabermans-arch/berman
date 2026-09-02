@@ -57,10 +57,6 @@ export const BOOKS: Book[] = [
         label: "Buy on Amazon",
         href: "https://www.amazon.com/s?k=For+Women+Only+Jennifer+Berman",
       },
-      {
-        label: "Find at your library",
-        href: "https://www.worldcat.org/search?q=For+Women+Only+Jennifer+Berman",
-      },
     ],
   },
   {
@@ -99,10 +95,6 @@ export const BOOKS: Book[] = [
       {
         label: "Buy on Amazon",
         href: "https://www.amazon.com/s?k=Secrets+of+the+Sexually+Satisfied+Woman+Berman",
-      },
-      {
-        label: "Find at your library",
-        href: "https://www.worldcat.org/search?q=Secrets+of+the+Sexually+Satisfied+Woman+Berman",
       },
     ],
   },
