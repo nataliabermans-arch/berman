@@ -162,6 +162,7 @@ const jsonLd = {
       image: `${siteUrl}/images/dr-berman/headshot-portrait.jpg`,
       telephone: "+1-310-772-0072",
       email: "info@bermanwomenswellness.com",
+      priceRange: "$$$",
       medicalSpecialty: [
         "https://schema.org/Urologic",
         "https://schema.org/Gynecologic",
