@@ -195,8 +195,6 @@ export default function TimeSlotPicker({
     );
   }, [days, value]);
 
-  const shown = days.find((d) => d.key === activeDay);
-
   if (state === "loading" || state === "idle") {
     return (
       <div className="booking-slots" aria-busy="true">
@@ -242,55 +240,63 @@ export default function TimeSlotPicker({
 
   return (
     <div className="booking-slots">
-      {/* The strip holds ~1600px of days in a 313px phone column, so four fifths
-          of them sit off-screen behind a scrollbar that auto-hides on touch. A
-          patient who never swipes would assume the two visible days are all
-          there is. Naming the last date is what tells them otherwise. */}
-      {days.length > 3 && (
+      {days.length > 1 && (
         <p className="booking-days-hint">
-          {days.length} days available through {days[days.length - 1].label} —
-          scroll sideways for more.
+          {days.length} days available through {days[days.length - 1].label}.
         </p>
       )}
-      <div className="booking-days" role="tablist" aria-label="Choose a day">
-        {days.map((day) => (
-          <button
-            key={day.key}
-            type="button"
-            role="tab"
-            aria-selected={day.key === activeDay}
-            className={`booking-day${day.key === activeDay ? " is-active" : ""}`}
-            onClick={() => setActiveDay(day.key)}
-          >
-            <span>{day.label}</span>
-            <small>
-              {day.slots.length} {day.slots.length === 1 ? "time" : "times"}
-            </small>
-          </button>
-        ))}
-      </div>
-
-      <div
-        className="booking-times"
-        role="radiogroup"
-        aria-label={`Available times on ${shown?.label ?? ""}`}
-      >
-        {shown?.slots.map((slot) => {
-          const selected = slot.startTime === value;
+      {/* A vertical list, not a sideways strip: the rest of the site scrolls
+          down, and a horizontal row put 12 of these 14 days off-screen on a
+          phone behind a scrollbar that auto-hides on touch. Each day opens its
+          own times in place, so nothing is ever off the edge of the screen. */}
+      <div className="booking-days">
+        {days.map((day) => {
+          const open = day.key === activeDay;
+          const panelId = `booking-times-${day.key}`;
           return (
-            <button
-              key={slot.startTime}
-              type="button"
-              role="radio"
-              aria-checked={selected}
-              className={`booking-time${selected ? " is-selected" : ""}`}
-              onClick={() => onChange(slot.startTime)}
-            >
-              {new Date(slot.startTime).toLocaleTimeString(undefined, {
-                hour: "numeric",
-                minute: "2-digit",
-              })}
-            </button>
+            <div className="booking-day-block" key={day.key}>
+              <button
+                type="button"
+                aria-expanded={open}
+                aria-controls={panelId}
+                className={`booking-day${open ? " is-active" : ""}`}
+                onClick={() => setActiveDay(day.key)}
+              >
+                <span>{day.label}</span>
+                <small>
+                  {day.slots.length} {day.slots.length === 1 ? "time" : "times"}
+                </small>
+                <span className="booking-day-caret" aria-hidden="true" />
+              </button>
+
+              {open && (
+                <div
+                  className="booking-times"
+                  id={panelId}
+                  role="radiogroup"
+                  aria-label={`Available times on ${day.label}`}
+                >
+                  {day.slots.map((slot) => {
+                    const selected = slot.startTime === value;
+                    return (
+                      <button
+                        key={slot.startTime}
+                        type="button"
+                        role="radio"
+                        aria-checked={selected}
+                        className={`booking-time${selected ? " is-selected" : ""}`}
+                        onClick={() => onChange(slot.startTime)}
+                      >
+                        {new Date(slot.startTime).toLocaleTimeString(undefined, {
+                          hour: "numeric",
+                          minute: "2-digit",
+                        })}
+                      </button>
+                    );
+                  })}
+                </div>
+              )}
+            </div>
           );
         })}
       </div>
