@@ -14,6 +14,23 @@ export const dynamic = "force-dynamic";
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 const SOURCES = new Set(["homepage_berman_brief", "footer_berman_brief"]);
 
+// A real browser signup always carries our own Origin; a missing or foreign
+// Origin is a script hitting the endpoint directly.
+function isAllowedOrigin(origin: string): boolean {
+  try {
+    const host = new URL(origin).hostname.toLowerCase();
+    return (
+      host === "bermansexualhealth.com" ||
+      host.endsWith(".bermansexualhealth.com") ||
+      host === "localhost" ||
+      host === "127.0.0.1" ||
+      host.endsWith(".vercel.app")
+    );
+  } catch {
+    return false;
+  }
+}
+
 function ticketId() {
   return `nl_${Date.now().toString(36)}_${Math.random().toString(36).slice(2, 6)}`;
 }
@@ -25,14 +42,31 @@ function sourceLabel(source: string) {
 }
 
 export async function POST(req: NextRequest) {
-  let body: { email?: unknown; source?: unknown };
+  let body: { email?: unknown; source?: unknown; website?: unknown };
   try {
-    body = (await req.json()) as { email?: unknown; source?: unknown };
+    body = (await req.json()) as {
+      email?: unknown;
+      source?: unknown;
+      website?: unknown;
+    };
   } catch {
     return NextResponse.json(
       { ok: false, error: "Invalid JSON body" },
       { status: 400 },
     );
+  }
+
+  // --- Spam / bot protection ---
+  // Honeypot: a hidden field no real user fills. Pretend success and drop.
+  if (typeof body.website === "string" && body.website.trim().length > 0) {
+    console.warn("[newsletter-spam-honeypot]");
+    return NextResponse.json({ ok: true, ticketId: ticketId() });
+  }
+  // Origin: a missing or foreign Origin means a bot POSTing directly. Drop.
+  const requestOrigin = req.headers.get("origin");
+  if (!requestOrigin || !isAllowedOrigin(requestOrigin)) {
+    console.warn("[newsletter-spam-origin]", { origin: requestOrigin });
+    return NextResponse.json({ ok: true, ticketId: ticketId() });
   }
 
   const email = typeof body.email === "string" ? body.email.trim() : "";
