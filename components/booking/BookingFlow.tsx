@@ -45,7 +45,7 @@ const INITIAL_FORM: FormState = {
   lastName: "",
   email: "",
   phone: "",
-  preferredContact: "phone",
+  preferredContact: "either",
   reasons: [],
   note: "",
   formAcknowledgment: false,
@@ -61,12 +61,6 @@ const REASONS: Array<{ value: ReasonValue; label: string }> = [
   { value: "menopause-perimenopause", label: "Menopause and Perimenopause Care" },
   { value: "berman-supplements", label: "Supplement and Peptide" },
   { value: "not-sure", label: "I am not sure yet" },
-];
-
-const CONTACT_METHODS: Array<{ value: PreferredContact; label: string }> = [
-  { value: "phone", label: "Call me" },
-  { value: "email", label: "Email me" },
-  { value: "either", label: "Either" },
 ];
 
 type SubmitState = "idle" | "submitting" | "success" | "error";
@@ -394,7 +388,7 @@ export default function BookingFlow({
         {step === 0
           ? "Book your complimentary 15-minute consult."
           : step === 1
-            ? "How should our team reach you?"
+            ? "Contact Information"
             : "Pick a time that works for you."}
       </h2>
       <div className="lead-progress" aria-hidden="true">
@@ -477,26 +471,8 @@ export default function BookingFlow({
             </label>
           </div>
 
-          <fieldset>
-            <legend>How should we reach you?</legend>
-            <div className="lead-segmented">
-              {CONTACT_METHODS.map((option) => (
-                <button
-                  key={option.value}
-                  type="button"
-                  className={
-                    form.preferredContact === option.value ? "selected" : ""
-                  }
-                  onClick={() => setField("preferredContact", option.value)}
-                >
-                  {option.label}
-                </button>
-              ))}
-            </div>
-          </fieldset>
-
           <label>
-            <span>Anything non-urgent you want us to know?</span>
+            <span>Additional information you want us to know</span>
             <textarea
               name="note"
               value={form.note}
