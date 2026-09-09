@@ -49,6 +49,42 @@ export function isPrivyrConfigured(): boolean {
   return url().startsWith("https://");
 }
 
+/**
+ * Privyr stores the phone only when it arrives in E.164. It accepts anything at
+ * the HTTP level — every format returns {"success":true} — and then silently
+ * drops what it cannot parse, which is why real bookings landed with a name and
+ * an email and no way to call the patient back. Calendly and GHL both keep the
+ * raw string, so the number was never lost, just missing where the practice
+ * actually looks.
+ *
+ * Deliberately NOT applied to the GHL write: GHL upserts on phone, so changing
+ * the format of a number already on file would create a duplicate contact.
+ */
+export function toE164(raw: string): string {
+  const trimmed = raw.trim();
+
+  if (trimmed.startsWith("+")) {
+    const digits = trimmed.slice(1).replace(/D/g, "");
+    return digits ? `+${digits}` : trimmed;
+  }
+
+  const digits = trimmed.replace(/D/g, "");
+
+  // 00 is the international access prefix across most of the world.
+  if (digits.startsWith("00") && digits.length > 10) return `+${digits.slice(2)}`;
+  // A bare 10-digit number is US/Canada without its country code — by far the
+  // most common thing a patient types, and the case that was breaking.
+  if (digits.length === 10) return `+1${digits}`;
+  if (digits.length === 11 && digits.startsWith("1")) return `+${digits}`;
+  // Longer than a US number and typed without a +: assume they omitted it.
+  if (digits.length > 11) return `+${digits}`;
+
+  // Shorter than any bookable number. The route already rejects fewer than 10
+  // digits, so this is unreachable in practice — send it through untouched
+  // rather than inventing a country code.
+  return trimmed;
+}
+
 function fmt(iso: string, opts: Intl.DateTimeFormatOptions): string {
   return new Date(iso).toLocaleString("en-US", { timeZone: PRACTICE_TZ, ...opts });
 }
@@ -94,7 +130,7 @@ export function buildPrivyrPayload(b: PrivyrBooking) {
     name: `${patient} - ${shortWhen}`,
     display_name: b.firstName,
     email: b.email,
-    phone: b.phone,
+    phone: toE164(b.phone),
     source: "Berman website - online booking",
     // One sentence. Everything structured is in other_fields, on its own line.
     notes: `15-minute phone consult on ${fullDate} at ${from} Pacific. A coordinator calls the patient.`,
