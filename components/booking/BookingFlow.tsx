@@ -92,6 +92,7 @@ export default function BookingFlow({
   const [submitState, setSubmitStateRaw] = useState<SubmitState>("idle");
   const [error, setError] = useState("");
   const [consultId, setConsultId] = useState("");
+  const [zoomJoinUrl, setZoomJoinUrl] = useState("");
   const [website, setWebsite] = useState(""); // honeypot
   const renderedAtRef = useRef(Date.now());
   const [startTime, setStartTime] = useState("");
@@ -234,6 +235,7 @@ export default function BookingFlow({
       const data = (await response.json().catch(() => null)) as {
         ok?: boolean;
         consultId?: string;
+        zoomJoinUrl?: string;
         startTime?: string;
         code?: string;
         error?: string;
@@ -285,6 +287,7 @@ export default function BookingFlow({
       }
 
       setConsultId(data.consultId || "");
+      setZoomJoinUrl(data.zoomJoinUrl || "");
       setBookedAt(data.startTime || startTime);
       setSubmitState("success");
       track("booking_confirmed", { transaction_id: data.consultId });
@@ -340,10 +343,24 @@ export default function BookingFlow({
           Your complimentary 15-minute consult is booked.
         </p>
 
-        <p className="lead-success-detail">
-          We&apos;ve emailed the details. A patient coordinator will call you at
-          that time.
-        </p>
+        {zoomJoinUrl ? (
+          <>
+            <p className="lead-success-detail">
+              We&apos;ve emailed the details. Join by Zoom at that time:
+            </p>
+            {/* The full URL is the link text on purpose. A patient reading this
+                on a phone who screenshots or prints it still has something
+                they can type in. */}
+            <a className="lead-success-zoom" href={zoomJoinUrl}>
+              {zoomJoinUrl}
+            </a>
+          </>
+        ) : (
+          <p className="lead-success-detail">
+            We&apos;ve emailed the details. Your Zoom link will follow by email
+            shortly.
+          </p>
+        )}
 
         {variant === "modal" && onDone ? (
           <button type="button" onClick={onDone}>

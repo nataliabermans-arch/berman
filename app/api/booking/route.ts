@@ -20,10 +20,13 @@ import {
 } from "@/lib/booking/human";
 import { clientIp, rateLimit, refund } from "@/lib/booking/rate-limit";
 import { sendBookingToPrivyr } from "@/lib/booking/privyr";
+import { createZoomMeeting } from "@/lib/booking/zoom";
 import {
+  addContactTags,
   findContactIdByEmail,
   isGhlConfigured,
   setBookingStatus,
+  setContactCustomFields,
   type BookingStatusTag,
 } from "@/lib/booking/ghl";
 
@@ -438,6 +441,47 @@ export async function POST(req: NextRequest) {
   });
   await tagContact(ghlContactId, body.email.trim(), "booking-confirmed");
 
+  // --- Step 3: the Zoom meeting the consult happens on. ---
+  //
+  // Deliberately AFTER Calendly. The slot is the scarce thing — two patients
+  // can want the same 11:00 and only one can have it — so it is claimed before
+  // anything slower runs. The cost of that ordering is that Zoom can fail on a
+  // booking that is already confirmed, which is survivable in a way the reverse
+  // is not: the practice sends a link by hand. It must never be silent, so a
+  // failure is tagged where staff will see it.
+  const durationMinutes = booking.endTime
+    ? Math.max(
+        5,
+        Math.round(
+          (new Date(booking.endTime).getTime() -
+            new Date(booking.startTime).getTime()) /
+            60_000,
+        ),
+      )
+    : 15;
+
+  const zoom = await createZoomMeeting({
+    startTime: booking.startTime,
+    durationMinutes,
+    // No patient name and no reason for visit: a Zoom topic is visible to
+    // anyone the meeting is shared with, and to the whole Zoom account.
+    topic: `Consult ${consultId}`,
+    timezone: body.timezone,
+    consultId,
+  });
+
+  if (zoom && ghlContactId) {
+    await setContactCustomFields(ghlContactId, {
+      berman_website_zoom_join_url: zoom.joinUrl,
+      berman_website_zoom_meeting_id: zoom.meetingId,
+    });
+  } else if (!zoom) {
+    console.warn("[zoom-missing-for-booking]", { consultId });
+    // Additive, not a status tag: the booking IS confirmed, and overwriting
+    // booking-confirmed would misreport a consult the patient actually holds.
+    if (ghlContactId) await addContactTags(ghlContactId, ["booking-zoom-failed"]);
+  }
+
   // Privyr is the alerting layer. The appointment is already safe in Calendly
   // and the CRM, so this is best-effort and can never fail the booking.
   const privyrOk = await sendBookingToPrivyr({
@@ -451,6 +495,7 @@ export async function POST(req: NextRequest) {
     reasonLabels: labelLeadReasons(body.reasons),
     rescheduleUrl: booking.rescheduleUrl,
     cancelUrl: booking.cancelUrl,
+    zoomJoinUrl: zoom?.joinUrl,
   });
   if (!privyrOk) console.warn("[privyr-not-notified]", { consultId });
 
@@ -458,5 +503,8 @@ export async function POST(req: NextRequest) {
     ok: true,
     consultId,
     startTime: booking.startTime,
+    // Shown on the confirmation screen. Undefined when Zoom failed, and the
+    // screen says the link is coming by email rather than inventing one.
+    zoomJoinUrl: zoom?.joinUrl,
   });
 }

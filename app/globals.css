@@ -10196,6 +10196,33 @@ main[data-active="E"] .e-hero,
   color: #fff5f1;
 }
 
+/* Qualified with the element so it outranks `.lead-success a` (0,1,1) and
+   matches the (0,2,1) of the paragraph rule above it. A bare class would be
+   silently overridden. */
+.lead-success a.lead-success-zoom {
+  display: inline-block;
+  max-width: 520px;
+  margin: -4px 0 4px;
+  padding: 12px 16px;
+  border-radius: 12px;
+  border: 1px solid rgba(244, 163, 170, 0.45);
+  background: rgba(244, 163, 170, 0.12);
+  color: #fff5f1;
+  font-family: var(--font-dm-mono), ui-monospace, monospace;
+  font-size: 13px;
+  line-height: 1.45;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+  /* A Zoom URL has no spaces and will otherwise push the panel sideways. */
+  overflow-wrap: anywhere;
+}
+
+.lead-success a.lead-success-zoom:hover,
+.lead-success a.lead-success-zoom:focus-visible {
+  border-color: #f4a3aa;
+  background: rgba(244, 163, 170, 0.2);
+}
+
 .lead-success small {
   margin-bottom: 20px;
   color: rgba(255, 245, 241, 0.55);

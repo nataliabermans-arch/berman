@@ -303,7 +303,7 @@ export default function TimeSlotPicker({
 
       <p className="booking-tz">
         Times shown in your timezone ({timezoneLabel}). Your consult is 15
-        minutes by phone.
+        minutes by Zoom video.
       </p>
     </div>
   );

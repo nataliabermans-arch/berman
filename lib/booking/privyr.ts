@@ -39,6 +39,8 @@ export type PrivyrBooking = {
   reasonLabels?: string[];
   rescheduleUrl?: string;
   cancelUrl?: string;
+  /** The consult happens here. Safe to send the patient. */
+  zoomJoinUrl?: string;
 };
 
 function url(): string {
@@ -116,8 +118,10 @@ export function buildPrivyrPayload(b: PrivyrBooking) {
   const other: Record<string, string> = {
     Appointment: fullDate,
     Time: `${from} - ${to} Pacific Time`,
-    Consult: "15 minutes by phone - a coordinator calls the patient",
+    Consult: "15 minutes by Zoom video",
   };
+  // Directly under the time, because it is the thing staff reach for.
+  if (b.zoomJoinUrl) other["Join the Zoom consult"] = b.zoomJoinUrl;
   if (b.reasonLabels?.length) other["Interested in"] = b.reasonLabels.join(", ");
   if (b.rescheduleUrl) other["Reschedule (send to patient)"] = b.rescheduleUrl;
   if (b.cancelUrl) other["Cancel (send to patient)"] = b.cancelUrl;
@@ -133,7 +137,9 @@ export function buildPrivyrPayload(b: PrivyrBooking) {
     phone: toE164(b.phone),
     source: "Berman website - online booking",
     // One sentence. Everything structured is in other_fields, on its own line.
-    notes: `15-minute phone consult on ${fullDate} at ${from} Pacific. A coordinator calls the patient.`,
+    notes: b.zoomJoinUrl
+      ? `15-minute Zoom consult on ${fullDate} at ${from} Pacific. Join: ${b.zoomJoinUrl}`
+      : `15-minute consult on ${fullDate} at ${from} Pacific.`,
     other_fields: other,
   };
 }

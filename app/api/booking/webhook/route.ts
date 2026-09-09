@@ -1,9 +1,11 @@
 import { NextRequest, NextResponse } from "next/server";
 import {
   findContactIdByEmail,
+  getContactCustomField,
   isGhlConfigured,
   setBookingStatus,
 } from "@/lib/booking/ghl";
+import { deleteZoomMeeting } from "@/lib/booking/zoom";
 import { verifyCalendlySignature } from "@/lib/booking/webhook-signature";
 
 // Calendly webhook receiver.
@@ -107,6 +109,31 @@ export async function POST(req: NextRequest) {
 
     if (contactId) {
       const ok = await setBookingStatus(contactId, "booking-canceled");
+
+      // Tear down the Zoom meeting too, or the practice's account fills with
+      // meetings for consults nobody is attending — and a cancelled patient
+      // keeps a live link into the host's account.
+      //
+      // Best-effort by design: a failure here must not make Calendly redeliver
+      // and re-run the tagging. The meeting id is read back from the CRM
+      // because that is the only place it is durable between booking and
+      // cancellation; there is no database.
+      const zoomMeetingId = await getContactCustomField(
+        contactId,
+        "berman_website_zoom_meeting_id",
+      );
+      if (zoomMeetingId) {
+        const gone = await deleteZoomMeeting(zoomMeetingId);
+        console.info("[calendly-webhook-zoom-teardown]", {
+          consultId,
+          deleted: gone,
+        });
+        if (!gone) {
+          // Loud, because it leaves a live meeting on the account that only a
+          // human will now clean up.
+          console.error("[zoom-orphaned-after-cancel]", { consultId, zoomMeetingId });
+        }
+      }
       // Patient name and email are deliberately absent: these lines land in
       // platform logs, which are a far wider audience than the CRM.
       console.info("[calendly-webhook-cancel-synced]", {

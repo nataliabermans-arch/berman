@@ -135,3 +135,80 @@ export async function addContactTags(
     return false;
   }
 }
+
+/**
+ * Writes custom fields onto an existing contact.
+ *
+ * Used for values that only exist AFTER the booking is made — the Zoom link
+ * chief among them — which the initial lead upsert cannot know. Best-effort:
+ * the consult is already held, and a CRM field that failed to write is a
+ * staffing inconvenience, not a patient-facing failure.
+ */
+export async function setContactCustomFields(
+  contactId: string,
+  fields: Record<string, string>,
+): Promise<boolean> {
+  const { token } = config();
+  const entries = Object.entries(fields).filter(([, v]) => v);
+  if (!token || !contactId || entries.length === 0) return false;
+
+  try {
+    const res = await fetch(`${GHL_BASE_URL}/contacts/${contactId}`, {
+      signal: AbortSignal.timeout(GHL_TIMEOUT_MS),
+      method: "PUT",
+      headers: headers(token),
+      body: JSON.stringify({
+        customFields: entries.map(([key, field_value]) => ({ key, field_value })),
+      }),
+      cache: "no-store",
+    });
+    if (!res.ok) console.warn("[ghl-custom-fields-failed]", { status: res.status });
+    return res.ok;
+  } catch {
+    return false;
+  }
+}
+
+/**
+ * Reads one custom field back off a contact. The cancellation webhook needs the
+ * Zoom meeting id, and the id has to live somewhere between booking and cancel.
+ */
+export async function getContactCustomField(
+  contactId: string,
+  fieldKey: string,
+): Promise<string | null> {
+  const { token, locationId } = config();
+  if (!token || !contactId) return null;
+
+  try {
+    const [contactRes, fieldsRes] = await Promise.all([
+      fetch(`${GHL_BASE_URL}/contacts/${contactId}`, {
+        signal: AbortSignal.timeout(GHL_TIMEOUT_MS),
+        headers: headers(token),
+        cache: "no-store",
+      }),
+      fetch(`${GHL_BASE_URL}/locations/${locationId}/customFields`, {
+        signal: AbortSignal.timeout(GHL_TIMEOUT_MS),
+        headers: headers(token),
+        cache: "no-store",
+      }),
+    ]);
+    if (!contactRes.ok || !fieldsRes.ok) return null;
+
+    const defs = (await fieldsRes.json()) as {
+      customFields?: Array<{ id?: string; fieldKey?: string }>;
+    };
+    const id = (defs.customFields || []).find(
+      (f) => String(f.fieldKey || "").replace(/^contact./, "") === fieldKey,
+    )?.id;
+    if (!id) return null;
+
+    const contact = (await contactRes.json()) as {
+      contact?: { customFields?: Array<{ id?: string; value?: unknown }> };
+    };
+    const hit = (contact.contact?.customFields || []).find((f) => f.id === id);
+    return hit?.value ? String(hit.value) : null;
+  } catch {
+    return null;
+  }
+}

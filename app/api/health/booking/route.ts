@@ -9,6 +9,7 @@ import {
 import { isGhlConfigured } from "@/lib/booking/ghl";
 import { isCaptchaConfigured } from "@/lib/booking/human";
 import { isPrivyrConfigured } from "@/lib/booking/privyr";
+import { checkZoomCredentials, isZoomConfigured } from "@/lib/booking/zoom";
 
 // One URL that says whether booking can actually work in this environment.
 //
@@ -130,6 +131,24 @@ export async function GET() {
       ? "configured - confirmed bookings are pushed to Privyr"
       : "not configured - bookings will not appear in Privyr",
   };
+
+  // Not in the fatal list: a Zoom outage does not stop a patient booking, it
+  // just means the consult has no link and somebody has to send one by hand.
+  // But it is reported honestly, because now that every consult is Zoom, a
+  // silently dead credential is the difference between a consult and an empty
+  // room.
+  if (!isZoomConfigured()) {
+    checks.zoom = {
+      ok: false,
+      detail:
+        "ZOOM_ACCOUNT_ID / ZOOM_CLIENT_ID / ZOOM_CLIENT_SECRET missing — bookings will confirm with NO meeting link",
+    };
+  } else {
+    const z = await checkZoomCredentials();
+    checks.zoom = z.ok
+      ? { ok: true, detail: `meetings created on ${z.host}` }
+      : { ok: false, detail: `credentials present but rejected: ${z.reason}` };
+  }
 
   checks.webhook_signing_key = {
     ok: true,
