@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import {
+  conferencingMode,
   eventTypeUri,
   getEventTypeMeta,
   isCalendlyConfigured,
@@ -137,6 +138,19 @@ export async function GET() {
   // But it is reported honestly, because now that every consult is Zoom, a
   // silently dead credential is the difference between a consult and an empty
   // room.
+  // Which side is making the video meeting. This is the single most useful
+  // line when a patient says there was no link: it says whose job it was.
+  const mode = await conferencingMode();
+  checks.conferencing = {
+    ok: mode !== "none",
+    detail:
+      mode === "calendly"
+        ? "Calendly creates the meeting and puts the link in its own confirmation email"
+        : mode === "ours"
+          ? "we create the Zoom meeting and hand Calendly the link for its email"
+          : "NO video meeting — the Calendly event type location is a physical address or phone call, so bookings confirm with no link",
+  };
+
   if (!isZoomConfigured()) {
     checks.zoom = {
       ok: false,

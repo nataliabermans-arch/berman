@@ -9,7 +9,9 @@ import {
 } from "@/lib/leads/delivery";
 import { FORM_ACKNOWLEDGMENT_TEXT, SMS_CONSENT_TEXT } from "@/lib/leads/a2p";
 import {
+  conferencingMode,
   createBooking,
+  eventConferencingUrl,
   findExistingBooking,
   isCalendlyConfigured,
 } from "@/lib/booking/calendly";
@@ -20,7 +22,7 @@ import {
 } from "@/lib/booking/human";
 import { clientIp, rateLimit, refund } from "@/lib/booking/rate-limit";
 import { sendBookingToPrivyr } from "@/lib/booking/privyr";
-import { createZoomMeeting } from "@/lib/booking/zoom";
+import { createZoomMeeting, deleteZoomMeeting } from "@/lib/booking/zoom";
 import {
   addContactTags,
   findContactIdByEmail,
@@ -333,7 +335,40 @@ export async function POST(req: NextRequest) {
   // The upsert hands back the contact id; a later search cannot find it yet.
   const ghlContactId = delivery.ghl?.contactId;
 
-  // --- Step 2: the irreversible act. ---
+  // Whether we need to make the meeting at all, or Calendly is doing it.
+  const mode = await conferencingMode();
+
+  // --- Step 2: the Zoom meeting, BEFORE the slot is claimed. ---
+  //
+  // This deliberately cuts against claiming the scarce thing first. Calendly
+  // copies the location into the invitee confirmation email and the calendar
+  // invite, and that email is the only artefact the patient still has on the
+  // day. To be in it, the link has to exist before the booking is made.
+  //
+  // The cost is roughly a second more exposure to someone else taking the
+  // slot, which is already handled: that path returns a clean 409, and the
+  // meeting made here is deleted on every branch where the booking did not
+  // actually happen.
+  const zoom = mode === "ours" ? await createZoomMeeting({
+    startTime: body.startTime,
+    durationMinutes: 15,
+    // No patient name and no reason for visit: a Zoom topic is visible across
+    // the whole account and is not somewhere clinical detail belongs.
+    topic: `Consult ${consultId}`,
+    timezone: body.timezone,
+    consultId,
+  }) : null;
+
+  if (!zoom && mode === "ours") {
+    console.warn("[zoom-missing-for-booking]", { consultId });
+  }
+
+  /** Undo the meeting when the booking it was made for did not happen. */
+  const discardZoom = async () => {
+    if (zoom) await deleteZoomMeeting(zoom.meetingId);
+  };
+
+  // --- Step 3: the irreversible act. ---
   const booking = await createBooking({
     startTime: body.startTime,
     name: `${firstName} ${lastName}`.trim(),
@@ -343,6 +378,7 @@ export async function POST(req: NextRequest) {
     reasons: body.reasons,
     note: body.note,
     consultId,
+    location: zoom?.joinUrl,
   });
 
   if (!booking.ok) {
@@ -357,6 +393,9 @@ export async function POST(req: NextRequest) {
       const own = await findExistingBooking(body.email.trim(), body.startTime);
       if (own.status === "found") {
         console.warn("[booking-already-held-by-this-patient]", { consultId });
+        // Their earlier attempt already made its own meeting; this one is a
+        // duplicate nobody would ever join.
+        await discardZoom();
         await tagContact(ghlContactId, body.email.trim(), "booking-confirmed");
         return NextResponse.json({
           ok: true,
@@ -367,6 +406,7 @@ export async function POST(req: NextRequest) {
       }
       // Genuinely someone else's. The CRM record must not keep asserting a
       // booking that was never made.
+      await discardZoom();
       await tagContact(ghlContactId, body.email.trim(), "booking-failed");
       releaseBookingPass(body.humanPass || "");
       refund(`book:${ip}`);
@@ -394,6 +434,8 @@ export async function POST(req: NextRequest) {
           consultId,
           startTime: body.startTime,
           adopted: true,
+          // It landed carrying this link, so the patient email has it.
+          zoomJoinUrl: zoom?.joinUrl,
         });
       }
 
@@ -421,6 +463,7 @@ export async function POST(req: NextRequest) {
     // The lead is safely in the CRM, so staff can still reach them — but the
     // record must say the booking did not complete, or staff will assume an
     // appointment exists.
+    await discardZoom();
     await tagContact(ghlContactId, body.email.trim(), "booking-failed");
     releaseBookingPass(body.humanPass || "");
     refund(`book:${ip}`);
@@ -441,45 +484,27 @@ export async function POST(req: NextRequest) {
   });
   await tagContact(ghlContactId, body.email.trim(), "booking-confirmed");
 
-  // --- Step 3: the Zoom meeting the consult happens on. ---
-  //
-  // Deliberately AFTER Calendly. The slot is the scarce thing — two patients
-  // can want the same 11:00 and only one can have it — so it is claimed before
-  // anything slower runs. The cost of that ordering is that Zoom can fail on a
-  // booking that is already confirmed, which is survivable in a way the reverse
-  // is not: the practice sends a link by hand. It must never be silent, so a
-  // failure is tagged where staff will see it.
-  const durationMinutes = booking.endTime
-    ? Math.max(
-        5,
-        Math.round(
-          (new Date(booking.endTime).getTime() -
-            new Date(booking.startTime).getTime()) /
-            60_000,
-        ),
-      )
-    : 15;
+  // When Calendly made the meeting, the link exists only on the booked event.
+  const joinUrl =
+    zoom?.joinUrl ||
+    (mode === "calendly" ? await eventConferencingUrl(booking.eventUri) : null);
 
-  const zoom = await createZoomMeeting({
-    startTime: booking.startTime,
-    durationMinutes,
-    // No patient name and no reason for visit: a Zoom topic is visible to
-    // anyone the meeting is shared with, and to the whole Zoom account.
-    topic: `Consult ${consultId}`,
-    timezone: body.timezone,
-    consultId,
-  });
-
-  if (zoom && ghlContactId) {
-    await setContactCustomFields(ghlContactId, {
-      berman_website_zoom_join_url: zoom.joinUrl,
-      berman_website_zoom_meeting_id: zoom.meetingId,
-    });
-  } else if (!zoom) {
-    console.warn("[zoom-missing-for-booking]", { consultId });
-    // Additive, not a status tag: the booking IS confirmed, and overwriting
-    // booking-confirmed would misreport a consult the patient actually holds.
-    if (ghlContactId) await addContactTags(ghlContactId, ["booking-zoom-failed"]);
+  if (ghlContactId) {
+    if (joinUrl) {
+      await setContactCustomFields(ghlContactId, {
+        berman_website_zoom_join_url: joinUrl,
+        // Recorded only when WE made the meeting, because only then does the
+        // cancellation webhook have anything to tear down. A Calendly-made
+        // meeting is Calendly's to delete, and deleting it ourselves would
+        // race its own cleanup.
+        ...(zoom ? { berman_website_zoom_meeting_id: zoom.meetingId } : {}),
+      });
+    } else if (mode !== "none") {
+      // A meeting was expected and there is no link. Additive, not a status
+      // tag: the booking IS confirmed, and overwriting booking-confirmed would
+      // misreport a consult the patient actually holds.
+      await addContactTags(ghlContactId, ["booking-zoom-failed"]);
+    }
   }
 
   // Privyr is the alerting layer. The appointment is already safe in Calendly
@@ -495,7 +520,7 @@ export async function POST(req: NextRequest) {
     reasonLabels: labelLeadReasons(body.reasons),
     rescheduleUrl: booking.rescheduleUrl,
     cancelUrl: booking.cancelUrl,
-    zoomJoinUrl: zoom?.joinUrl,
+    zoomJoinUrl: joinUrl || undefined,
   });
   if (!privyrOk) console.warn("[privyr-not-notified]", { consultId });
 
@@ -503,8 +528,8 @@ export async function POST(req: NextRequest) {
     ok: true,
     consultId,
     startTime: booking.startTime,
-    // Shown on the confirmation screen. Undefined when Zoom failed, and the
-    // screen says the link is coming by email rather than inventing one.
-    zoomJoinUrl: zoom?.joinUrl,
+    // Shown on the confirmation screen. Undefined when there is no link, and
+    // the screen then says it is coming by email rather than inventing one.
+    zoomJoinUrl: joinUrl || undefined,
   });
 }

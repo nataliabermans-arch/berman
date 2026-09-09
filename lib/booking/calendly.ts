@@ -46,6 +46,17 @@ export type CalendlyBookingInput = {
   reasons: string[];
   note?: string;
   consultId: string;
+  /**
+   * Where the consult happens - the Zoom join URL.
+   *
+   * Calendly copies this into the invitee confirmation email and the calendar
+   * invite, which is the only way the patient still has the link a week later.
+   * Honoured only when the event type lets the booker specify a location;
+   * against any other configuration Calendly rejects the entire booking with
+   * "invalid location choice", so a config change must never be able to break
+   * booking itself.
+   */
+  location?: string;
   utm?: Partial<Record<"campaign" | "source" | "medium" | "term", string>>;
 };
 
@@ -559,8 +570,11 @@ export async function createBooking(
   // `location` is mandatory in practice even though the schema omits it from
   // `required`, and its kind must match one configured on the event type.
   const configured = meta.locations[0];
+  const acceptsOurs = configured?.kind === "ask_invitee" && Boolean(input.location);
   const location: BookingLocation | undefined = configured
-    ? { kind: configured.kind, ...(configured.location ? { location: configured.location } : {}) }
+    ? acceptsOurs
+      ? { kind: configured.kind, location: input.location }
+      : { kind: configured.kind, ...(configured.location ? { location: configured.location } : {}) }
     : undefined;
 
   const body = {
@@ -664,4 +678,88 @@ export async function createBooking(
     code: "invalid",
     message: detail.slice(0, 300) || `Calendly ${res.status}`,
   };
+}
+
+// ---------------------------------------------------------------------------
+// Conferencing
+// ---------------------------------------------------------------------------
+
+/**
+ * Who is responsible for creating the video meeting.
+ *
+ * Calendly can mint the meeting itself when the event type location is set to
+ * one of its conferencing integrations, and it then owns the whole lifecycle:
+ * the link is in the confirmation email, reschedules move it, cancellations
+ * delete it. That is strictly better than doing it ourselves, so it wins when
+ * it is available.
+ *
+ * "ours" is the fallback for an event type set to let the booker name the
+ * location: we create a Zoom meeting and hand Calendly the URL, which lands in
+ * the same email. It also means we own teardown.
+ *
+ * "none" is a location Calendly will not let us put a link into - a physical
+ * address, or a phone call. Booking still works; there is simply no meeting.
+ */
+export type ConferencingMode = "calendly" | "ours" | "none";
+
+/** Location kinds where Calendly creates and manages the meeting. */
+const CALENDLY_MANAGED = new Set([
+  "zoom",
+  "zoom_conference",
+  "google_conference",
+  "microsoft_teams_conference",
+  "webex_conference",
+  "gotomeeting_conference",
+]);
+
+// The event type changes about once a quarter, and this sits on the booking
+// critical path, so a short cache keeps it off the per-booking latency budget
+// without making a config change take effect tomorrow.
+let modeCache: { mode: ConferencingMode; at: number } | null = null;
+const MODE_TTL_MS = 60_000;
+
+export async function conferencingMode(): Promise<ConferencingMode> {
+  if (modeCache && Date.now() - modeCache.at < MODE_TTL_MS) return modeCache.mode;
+
+  let mode: ConferencingMode = "none";
+  try {
+    const meta = await getEventTypeMeta();
+    const kind = String(meta.locations?.[0]?.kind || "");
+    if (CALENDLY_MANAGED.has(kind)) mode = "calendly";
+    else if (kind === "ask_invitee") mode = "ours";
+  } catch {
+    // Unreachable event type: booking is about to fail anyway, and guessing
+    // "ours" here would create a Zoom meeting for a booking that never lands.
+    mode = "none";
+  }
+
+  modeCache = { mode, at: Date.now() };
+  return mode;
+}
+
+/**
+ * Reads the join link off a booked event, for when Calendly created the
+ * meeting. The booking response does not carry it, so this is one extra GET on
+ * the Calendly-managed path only.
+ */
+export async function eventConferencingUrl(eventUri: string): Promise<string | null> {
+  if (!eventUri) return null;
+  try {
+    const res = await fetch(eventUri, {
+      headers: headers(),
+      cache: "no-store",
+      signal: AbortSignal.timeout(CALENDLY_TIMEOUT_MS),
+    });
+    if (!res.ok) return null;
+    const body = (await res.json()) as {
+      resource?: { location?: { join_url?: string; location?: string; type?: string } };
+    };
+    const loc = body.resource?.location;
+    // join_url is what the integrations set. Fall back to the free-text field,
+    // which is where a URL lands when the booker named the location.
+    const url = loc?.join_url || loc?.location || "";
+    return /^https?:\/\//.test(url) ? url : null;
+  } catch {
+    return null;
+  }
 }
