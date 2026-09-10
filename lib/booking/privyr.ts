@@ -118,10 +118,16 @@ export function buildPrivyrPayload(b: PrivyrBooking) {
   const other: Record<string, string> = {
     Appointment: fullDate,
     Time: `${from} - ${to} Pacific Time`,
-    Consult: "15 minutes by Zoom video",
   };
-  // Directly under the time, because it is the thing staff reach for.
-  if (b.zoomJoinUrl) other["Join the Zoom consult"] = b.zoomJoinUrl;
+  // Third line, because Privyr truncates this list behind "View full info" and
+  // the link is the single thing anyone opens the record for.
+  //
+  // A Calendly-managed meeting has ONE url. The doctor opening it while signed
+  // in to the practice Zoom account is made host; the patient lands in the
+  // waiting room. Saying so on the label stops staff hunting for a separate
+  // host link that does not exist.
+  if (b.zoomJoinUrl) other["Zoom link - doctor and patient both use this"] = b.zoomJoinUrl;
+  other["Consult"] = "15 minutes by Zoom video";
   if (b.reasonLabels?.length) other["Interested in"] = b.reasonLabels.join(", ");
   if (b.rescheduleUrl) other["Reschedule (send to patient)"] = b.rescheduleUrl;
   if (b.cancelUrl) other["Cancel (send to patient)"] = b.cancelUrl;
@@ -138,8 +144,12 @@ export function buildPrivyrPayload(b: PrivyrBooking) {
     source: "Berman website - online booking",
     // One sentence. Everything structured is in other_fields, on its own line.
     notes: b.zoomJoinUrl
-      ? `15-minute Zoom consult on ${fullDate} at ${from} Pacific. Join: ${b.zoomJoinUrl}`
-      : `15-minute consult on ${fullDate} at ${from} Pacific.`,
+      ? [
+          `ZOOM: ${b.zoomJoinUrl}`,
+          `15-minute video consult, ${fullDate} at ${from} Pacific.`,
+          "Same link for the doctor and the patient - the doctor is made host on joining.",
+        ].join("\n")
+      : `15-minute consult on ${fullDate} at ${from} Pacific. No Zoom link was captured - check Calendly.`,
     other_fields: other,
   };
 }
