@@ -7,6 +7,8 @@
 // This module must never be imported from a client component: it reads the
 // Calendly token.
 
+import { toE164 } from "@/lib/booking/privyr";
+
 const CALENDLY_BASE_URL = "https://api.calendly.com";
 
 // Verified live: the account has exactly one event type, 15 minutes, whose
@@ -516,7 +518,12 @@ export async function createBooking(
   if (phoneQuestion) {
     questions.push({
       question: phoneQuestion.name,
-      answer: input.phone,
+      // E.164, not the patient's raw typing. Calendly stores the answer as
+      // typed and its RESCHEDULE form re-parses it with libphonenumber-style
+      // country guessing: a bare "3105550533" was read as +31 (Netherlands)
+      // and rejected as invalid, so every reschedule attempt stalled on a
+      // phone error the patient had to fix by hand.
+      answer: toE164(input.phone),
       position: phoneQuestion.position,
     });
   }
