@@ -1,9 +1,11 @@
 import { NextRequest, NextResponse } from "next/server";
+import { eventConferencingUrl } from "@/lib/booking/calendly";
 import {
   findContactIdByEmail,
   getContactCustomField,
   isGhlConfigured,
   setBookingStatus,
+  setContactCustomFields,
 } from "@/lib/booking/ghl";
 import { deleteZoomMeeting } from "@/lib/booking/zoom";
 import { verifyCalendlySignature } from "@/lib/booking/webhook-signature";
@@ -34,6 +36,10 @@ type InviteePayload = {
   first_name?: string | null;
   last_name?: string | null;
   status?: string;
+  /** True on the CANCELED half of a reschedule - the invitee moved, not left. */
+  rescheduled?: boolean;
+  /** Set on the CREATED half of a reschedule: the invitee it replaces. */
+  old_invitee?: string | null;
   tracking?: { salesforce_uuid?: string | null } | null;
   scheduled_event?: { start_time?: string; uri?: string } | null;
   cancellation?: {
@@ -94,6 +100,16 @@ export async function POST(req: NextRequest) {
     : 0;
   const pastRetryBudget =
     Number.isFinite(deliveryAge) && deliveryAge > RETRY_BUDGET_MS;
+
+  // A reschedule arrives as invitee.canceled + invitee.created. The canceled
+  // half carries rescheduled: true, and treating it as a real cancellation
+  // tagged patients booking-canceled while they held a live appointment -
+  // staff would see a cancelled consult that was actually just moved. The
+  // created half below re-affirms the booking and refreshes the details.
+  if (event === "invitee.canceled" && p.rescheduled === true) {
+    console.info("[calendly-webhook-reschedule-cancel-half-skipped]", { consultId });
+    return NextResponse.json({ ok: true });
+  }
 
   // Every action below must be idempotent: Calendly retries for 24 hours and
   // sends no delivery id to deduplicate on.
@@ -165,6 +181,64 @@ export async function POST(req: NextRequest) {
         ageMinutes: Math.round(deliveryAge / 60_000),
       });
     }
+  }
+
+  // The created half of a reschedule. old_invitee is only ever set here, and
+  // gating on it keeps this away from ordinary bookings, which the booking
+  // route has already recorded - re-doing that work here would race it.
+  if (event === "invitee.created" && p.old_invitee && email && isGhlConfigured()) {
+    let contactId: string | null = null;
+    for (let attempt = 0; attempt < 3 && !contactId; attempt += 1) {
+      if (attempt) await new Promise((r) => setTimeout(r, 1500));
+      contactId = await findContactIdByEmail(email);
+    }
+
+    if (contactId) {
+      // Undo the canceled tag if the cancel half was processed first (webhook
+      // order is not guaranteed), and put the NEW time and link on the record
+      // so staff and Privyr-style consumers see where the patient actually is.
+      const ok = await setBookingStatus(contactId, "booking-confirmed");
+      const startTime = p.scheduled_event?.start_time;
+      const when = startTime ? new Date(startTime) : null;
+      const valid = when && !Number.isNaN(when.getTime());
+      const joinUrl = await eventConferencingUrl(p.scheduled_event?.uri || "");
+      await setContactCustomFields(contactId, {
+        ...(joinUrl ? { berman_website_zoom_join_url: joinUrl } : {}),
+        ...(valid
+          ? {
+              berman_website_requested_date: when.toLocaleDateString("en-CA", {
+                timeZone: "America/Los_Angeles",
+              }),
+              berman_website_requested_time_window: `${when.toLocaleString("en-US", {
+                timeZone: "America/Los_Angeles",
+                weekday: "short",
+                month: "short",
+                day: "numeric",
+                hour: "numeric",
+                minute: "2-digit",
+              })} PT`,
+            }
+          : {}),
+      });
+      console.info("[calendly-webhook-reschedule-synced]", {
+        consultId,
+        contactId,
+        tagged: ok,
+        newStart: startTime || null,
+        linkRefreshed: Boolean(joinUrl),
+      });
+    } else if (!pastRetryBudget) {
+      // Same eventual-consistency dance as the cancel path: ask Calendly to
+      // redeliver rather than dropping the new time on the floor.
+      console.warn("[calendly-webhook-reschedule-contact-not-found-yet]", { consultId });
+      return NextResponse.json({ ok: false, retry: true }, { status: 503 });
+    } else {
+      console.error("[calendly-webhook-reschedule-unsynced]", {
+        consultId,
+        ageMinutes: Math.round(deliveryAge / 60_000),
+      });
+    }
+    return NextResponse.json({ ok: true });
   }
 
   if (event === "invitee.created" && !consultId) {
