@@ -737,29 +737,45 @@ export async function conferencingMode(): Promise<ConferencingMode> {
   return mode;
 }
 
+// Calendly provisions the conferencing meeting AFTER the booking call returns.
+// Measured against the live account: the event reads back with type "zoom" and
+// NO join_url at +1.2s, and the link appears by +2.4s. A single read therefore
+// misses it every time, which is exactly how a confirmed consult ends up tagged
+// booking-zoom-failed while a perfectly good link exists a second later.
+const CONFERENCING_BACKOFF_MS = [0, 600, 1000, 1400, 1800];
+
 /**
  * Reads the join link off a booked event, for when Calendly created the
- * meeting. The booking response does not carry it, so this is one extra GET on
- * the Calendly-managed path only.
+ * meeting. Polls briefly, because the link is not there yet when the booking
+ * returns.
+ *
+ * The patient is waiting on this, so it is bounded to a few seconds rather than
+ * retried to exhaustion. Coming back empty is survivable: Calendly still emails
+ * them the link, and the CRM records that we did not capture it.
  */
 export async function eventConferencingUrl(eventUri: string): Promise<string | null> {
   if (!eventUri) return null;
-  try {
-    const res = await fetch(eventUri, {
-      headers: headers(),
-      cache: "no-store",
-      signal: AbortSignal.timeout(CALENDLY_TIMEOUT_MS),
-    });
-    if (!res.ok) return null;
-    const body = (await res.json()) as {
-      resource?: { location?: { join_url?: string; location?: string; type?: string } };
-    };
-    const loc = body.resource?.location;
-    // join_url is what the integrations set. Fall back to the free-text field,
-    // which is where a URL lands when the booker named the location.
-    const url = loc?.join_url || loc?.location || "";
-    return /^https?:\/\//.test(url) ? url : null;
-  } catch {
-    return null;
+
+  for (const wait of CONFERENCING_BACKOFF_MS) {
+    if (wait) await new Promise((r) => setTimeout(r, wait));
+    try {
+      const res = await fetch(eventUri, {
+        headers: headers(),
+        cache: "no-store",
+        signal: AbortSignal.timeout(CALENDLY_TIMEOUT_MS),
+      });
+      if (!res.ok) continue;
+      const body = (await res.json()) as {
+        resource?: { location?: { join_url?: string; location?: string; type?: string } };
+      };
+      const loc = body.resource?.location;
+      // join_url is what the integrations set. Fall back to the free-text
+      // field, which is where a URL lands when the booker named the location.
+      const url = loc?.join_url || loc?.location || "";
+      if (/^https?:\/\//.test(url)) return url;
+    } catch {
+      // Try again; a single slow read should not cost the link.
+    }
   }
+  return null;
 }
