@@ -254,6 +254,54 @@ export async function updateZoomMeeting(
 }
 
 /**
+ * Extracts the numeric meeting id from a join URL, which is the only handle
+ * the Calendly-managed path gives us.
+ */
+export function meetingIdFromJoinUrl(url: string | null | undefined): string | null {
+  const m = String(url || "").match(/zoom\.us\/[js]\/(\d{9,12})/);
+  return m ? m[1] : null;
+}
+
+/**
+ * Strips patient identity off a meeting Calendly created.
+ *
+ * Calendly titles its meetings "{invitee name}: {event type}", which puts a
+ * patient's name — attached to a sexual-health practice — on the Zoom
+ * account's meeting list, in every participant's client during the call, and
+ * in anything the meeting is ever shared with. Zoom is the one system in this
+ * chain that does not need to know who the patient is: the doctor has the
+ * name in Calendly, the CRM and her calendar. So the topic becomes the consult
+ * reference, and the agenda (where Calendly copies event details) is cleared.
+ *
+ * Renaming does not touch the join URL, the passcode, the time, or the
+ * calendar entry Calendly issued — those live elsewhere. Best-effort: a
+ * booking must never fail because a rename did.
+ */
+export async function maskZoomMeetingIdentity(
+  meetingId: string,
+  consultId?: string,
+): Promise<boolean> {
+  if (!isZoomConfigured() || !meetingId) return false;
+  try {
+    const res = await zoomFetch(`/meetings/${encodeURIComponent(meetingId)}`, {
+      method: "PATCH",
+      body: JSON.stringify({
+        topic: consultId ? `Consult ${consultId}` : "15 min video consult",
+        agenda: "",
+      }),
+    });
+    if (!res.ok) console.warn("[zoom-mask-failed]", { status: res.status, meetingId });
+    return res.ok;
+  } catch (err) {
+    console.warn("[zoom-mask-error]", {
+      meetingId,
+      reason: err instanceof Error ? err.message : "unknown",
+    });
+    return false;
+  }
+}
+
+/**
  * Deletes a meeting whose consult was cancelled, so the practice's Zoom account
  * does not silently fill with meetings nobody is attending.
  */

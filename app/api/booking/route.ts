@@ -22,7 +22,12 @@ import {
 } from "@/lib/booking/human";
 import { clientIp, rateLimit, refund } from "@/lib/booking/rate-limit";
 import { sendBookingToPrivyr } from "@/lib/booking/privyr";
-import { createZoomMeeting, deleteZoomMeeting } from "@/lib/booking/zoom";
+import {
+  createZoomMeeting,
+  deleteZoomMeeting,
+  maskZoomMeetingIdentity,
+  meetingIdFromJoinUrl,
+} from "@/lib/booking/zoom";
 import {
   addContactTags,
   findContactIdByEmail,
@@ -488,6 +493,14 @@ export async function POST(req: NextRequest) {
   const joinUrl =
     zoom?.joinUrl ||
     (mode === "calendly" ? await eventConferencingUrl(booking.eventUri) : null);
+
+  // Calendly titles its meeting with the patient's name. Zoom has no need to
+  // know it — rename to the consult reference before anything else sees it.
+  // (Our own meetings are born masked; only Calendly-made ones need this.)
+  if (!zoom && joinUrl) {
+    const calendlyMeetingId = meetingIdFromJoinUrl(joinUrl);
+    if (calendlyMeetingId) await maskZoomMeetingIdentity(calendlyMeetingId, consultId);
+  }
 
   if (ghlContactId) {
     if (joinUrl) {

@@ -7,7 +7,11 @@ import {
   setBookingStatus,
   setContactCustomFields,
 } from "@/lib/booking/ghl";
-import { deleteZoomMeeting } from "@/lib/booking/zoom";
+import {
+  deleteZoomMeeting,
+  maskZoomMeetingIdentity,
+  meetingIdFromJoinUrl,
+} from "@/lib/booking/zoom";
 import { verifyCalendlySignature } from "@/lib/booking/webhook-signature";
 
 // Calendly webhook receiver.
@@ -202,6 +206,10 @@ export async function POST(req: NextRequest) {
       const when = startTime ? new Date(startTime) : null;
       const valid = when && !Number.isNaN(when.getTime());
       const joinUrl = await eventConferencingUrl(p.scheduled_event?.uri || "");
+      // The rescheduled meeting is a fresh Calendly-made one, born with the
+      // patient's name in its topic. Mask it like the original.
+      const newMeetingId = meetingIdFromJoinUrl(joinUrl);
+      if (newMeetingId) await maskZoomMeetingIdentity(newMeetingId, consultId || undefined);
       await setContactCustomFields(contactId, {
         ...(joinUrl ? { berman_website_zoom_join_url: joinUrl } : {}),
         ...(valid
@@ -248,6 +256,16 @@ export async function POST(req: NextRequest) {
     console.info("[calendly-webhook-direct-booking]", {
       startTime: p.scheduled_event?.start_time || null,
     });
+    // This path never touches the booking route, so nothing else would strip
+    // the patient's name off the Zoom meeting Calendly just made. No consult
+    // reference exists for a direct booking; the generic event name is enough.
+    const directMeetingId = meetingIdFromJoinUrl(
+      await eventConferencingUrl(p.scheduled_event?.uri || ""),
+    );
+    if (directMeetingId) {
+      const masked = await maskZoomMeetingIdentity(directMeetingId);
+      console.info("[calendly-webhook-direct-booking-masked]", { masked });
+    }
   }
 
   // Always 200 once authenticated, so a downstream hiccup does not put the
