@@ -63,28 +63,42 @@ export function isPrivyrConfigured(): boolean {
  * the format of a number already on file would create a duplicate contact.
  */
 export function toE164(raw: string): string {
-  const trimmed = raw.trim();
+  if (!raw) return "";
 
-  if (trimmed.startsWith("+")) {
-    const digits = trimmed.slice(1).replace(/D/g, "");
-    return digits ? `+${digits}` : trimmed;
+  // Drop a trailing extension before anything else: "555-0123 ext 42",
+  // "555-0123 x42", "555-0123 #9", "555-0123, ext. 7". The consult phone is a
+  // callback number, and an extension appended to an E.164 string makes the
+  // whole value invalid to Calendly and Privyr alike.
+  const withoutExt = raw
+    .trim()
+    .replace(/\s*(?:ext\.?|extension|x|#|,)\s*\d+\s*$/i, "")
+    .trim();
+
+  const hadPlus = withoutExt.startsWith("+");
+  let digits = withoutExt.replace(/\D/g, "");
+
+  if (hadPlus) {
+    // The patient already gave a country code. Trust it; just clean it up.
+    return digits ? `+${digits}` : withoutExt;
   }
 
-  const digits = trimmed.replace(/D/g, "");
+  // "011" (North America) and "00" (most of the world) are international access
+  // prefixes people dial before a country code. Strip them and treat the rest
+  // as already-international.
+  if (digits.startsWith("011") && digits.length > 11) digits = digits.slice(3);
+  else if (digits.startsWith("00") && digits.length > 10) digits = digits.slice(2);
+  else if (digits.length === 10) return `+1${digits}`;          // bare US/Canada
+  else if (digits.length === 11 && digits.startsWith("1")) return `+${digits}`;
 
-  // 00 is the international access prefix across most of the world.
-  if (digits.startsWith("00") && digits.length > 10) return `+${digits.slice(2)}`;
-  // A bare 10-digit number is US/Canada without its country code — by far the
-  // most common thing a patient types, and the case that was breaking.
+  // Re-check after a prefix strip may have shortened the number.
   if (digits.length === 10) return `+1${digits}`;
   if (digits.length === 11 && digits.startsWith("1")) return `+${digits}`;
-  // Longer than a US number and typed without a +: assume they omitted it.
-  if (digits.length > 11) return `+${digits}`;
-
-  // Shorter than any bookable number. The route already rejects fewer than 10
-  // digits, so this is unreachable in practice — send it through untouched
-  // rather than inventing a country code.
-  return trimmed;
+  // A full international number typed without its leading +.
+  if (digits.length >= 11) return `+${digits}`;
+  // Shorter than any dialable number. The route already rejects fewer than 10
+  // digits, so this is unreachable in practice — return the cleaned input
+  // rather than inventing a "+" and a country code.
+  return withoutExt;
 }
 
 function fmt(iso: string, opts: Intl.DateTimeFormatOptions): string {
