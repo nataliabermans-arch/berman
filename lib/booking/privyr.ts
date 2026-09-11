@@ -133,14 +133,19 @@ export function buildPrivyrPayload(b: PrivyrBooking) {
     Appointment: fullDate,
     Time: `${from} - ${to} Pacific Time`,
   };
-  // Third line, because Privyr truncates this list behind "View full info" and
-  // the link is the single thing anyone opens the record for.
+  // The key is EXACTLY "Zoom link" so Privyr routes it into the custom client
+  // field of that name, where the doctor expects it — Privyr maps an
+  // other_fields entry into a custom field when the key matches the field's
+  // name. It also stays third in reading order for the case where it renders as
+  // a plain line (an account without that custom field): the list truncates
+  // behind "View full info", and the link is the single thing anyone opens the
+  // record for.
   //
-  // A Calendly-managed meeting has ONE url. The doctor opening it while signed
-  // in to the practice Zoom account is made host; the patient lands in the
-  // waiting room. Saying so on the label stops staff hunting for a separate
-  // host link that does not exist.
-  if (b.zoomJoinUrl) other["Zoom link - doctor and patient both use this"] = b.zoomJoinUrl;
+  // The "both use this" guidance a label can't hold here lives in `notes`
+  // below: a Calendly-managed meeting has ONE url — the doctor opening it while
+  // signed in to the practice Zoom account is host, the patient waits in the
+  // waiting room.
+  if (b.zoomJoinUrl) other["Zoom link"] = b.zoomJoinUrl;
   other["Consult"] = "15 minutes by Zoom video";
   if (b.reasonLabels?.length) other["Interested in"] = b.reasonLabels.join(", ");
   if (b.rescheduleUrl) other["Reschedule (send to patient)"] = b.rescheduleUrl;
