@@ -112,9 +112,10 @@ const jsonLd = {
       familyName: "Berman",
       honorificPrefix: "Dr.",
       honorificSuffix: "MD",
-      jobTitle: "Urologist",
+      jobTitle:
+        "Female Urologist & Female Sexual Medicine and Menopause Specialist",
       description:
-        "Internationally recognized urologist, pioneer of female sexual medicine, and founder and director of JRB Medical Wellness in Beverly Hills.",
+        "Internationally recognized female urologist and a pioneer of female sexual medicine, specializing in menopause and hormone therapy, female sexual health, and pelvic and urinary health. Co-founder of UCLA's Female Sexual Medicine Center and founder and director of JRB Medical Wellness in Beverly Hills.",
       knowsAbout: [
         "Menopause",
         "Perimenopause",
