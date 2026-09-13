@@ -155,7 +155,7 @@ const jsonLd = {
       ],
     },
     {
-      "@type": "MedicalBusiness",
+      "@type": ["MedicalBusiness", "MedicalClinic"],
       "@id": `${siteUrl}/#medical-business`,
       name: "JRB Medical Wellness",
       url: siteUrl,
