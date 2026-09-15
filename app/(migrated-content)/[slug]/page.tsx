@@ -2,11 +2,8 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { siteUrl } from "@/lib/site";
 
-import {
-  getAllArticles,
-  getAllSlugs,
-  getArticleBySlug,
-} from "@/lib/journal/articles";
+import { getAllSlugs, getArticleBySlug } from "@/lib/journal/articles";
+import { getRelatedArticles } from "@/lib/journal/related";
 import {
   getLegacyPageAliasByPath,
   LEGACY_SINGLE_SEGMENT_ALIASES,
@@ -145,10 +142,7 @@ export default function MigratedArticlePage({
     return <LegacyAliasPage alias={alias} />;
   }
 
-  const allArticles = getAllArticles();
-  const related = allArticles
-    .filter((a) => a.category === article.category && a.slug !== article.slug)
-    .slice(0, 3);
+  const related = getRelatedArticles(article.slug, 6);
 
   const pageUrl = article.originalUrl || `${SITE}/${article.slug}/`;
   const heroImage = article.featuredImage

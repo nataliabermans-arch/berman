@@ -1950,7 +1950,7 @@ export default function ArticleClient({
                 className="related-grid"
                 style={{
                   display: "grid",
-                  gridTemplateColumns: `repeat(${related.length}, minmax(0, 1fr))`,
+                  gridTemplateColumns: `repeat(${Math.min(related.length, 3)}, minmax(0, 1fr))`,
                   gap: 28,
                 }}
               >
