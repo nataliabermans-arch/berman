@@ -255,7 +255,7 @@ function RelatedCard({
       }}
     >
       <Link
-        href={`/${article.slug}`}
+        href={`/${article.slug}/`}
         aria-label={`Read: ${article.title}`}
         style={{
           position: "absolute",
@@ -758,7 +758,7 @@ function EditorialCallout({ target }: { target: ConversionTarget }) {
         Read next →
       </div>
       <Link
-        href={`/services/${target.serviceSlug}`}
+        href={`/services/${target.serviceSlug}/`}
         style={{
           display: "block",
           fontFamily: SERIF,
