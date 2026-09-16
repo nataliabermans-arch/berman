@@ -1,6 +1,5 @@
 ---
-slug: >-
-  perimenopause-and-weight-gainperimenopause-and-weight-gainperimenopause-and-weight-gain
+slug: perimenopause-and-weight-gain
 title: Perimenopause and Weight Gain
 italicWord: Gain
 excerpt: 'Perimenopause, the years leading up to menopause, is a time of transition for women. It’s a hormonal rollercoaster ride marked by hot flashes, sleep...'
@@ -11,8 +10,7 @@ readTime: 6
 wordCount: 1296
 featuredImage: >-
   https://bermansexualhealth.com/wp-content/uploads/2024/04/gaining-weight-without-reason.jpg
-originalUrl: >-
-  https://bermansexualhealth.com/perimenopause-and-weight-gainperimenopause-and-weight-gainperimenopause-and-weight-gain/
+originalUrl: https://bermansexualhealth.com/perimenopause-and-weight-gain/
 author: "Dr. Jennifer Berman, MD"
 ---
 

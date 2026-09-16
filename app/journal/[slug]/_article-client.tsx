@@ -1566,7 +1566,7 @@ export default function ArticleClient({
                 <img
                   src={imageFor(article)}
           onError={handleImageError}
-                  alt=""
+                  alt={article.title}
                   style={{
                     width: "100%",
                     height: "100%",

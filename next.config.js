@@ -1869,7 +1869,7 @@ const legacyRedirects = [
   {
     source:
       "/perimenopause-and-weight-gainperimenopause-and-weight-gainperimenopause-and-weight-gain/",
-    destination: "/#menopause",
+    destination: "/perimenopause-and-weight-gain/",
     permanent: true,
   },
   {

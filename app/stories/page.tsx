@@ -5,7 +5,7 @@ import { STORIES } from "@/lib/stories";
 import StoriesClient from "./_stories-client";
 
 const seo = {
-  title: "Patient Stories — In Their Own Words | Berman Women's Wellness",
+  title: "Patient Stories — In Their Own Words | JRB Medical Wellness",
   description:
     "Eight women, eight different concerns, one consistent thread — they were finally heard. Patient stories from JRB Medical Wellness, Beverly Hills.",
   url: "/stories",

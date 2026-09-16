@@ -3,6 +3,7 @@ import path from "node:path";
 import type { MetadataRoute } from "next";
 
 import { siteUrl } from "@/lib/site";
+import { SERVICE_SLUGS } from "@/lib/services/content";
 import { SUPPLEMENTS, SUPPLEMENT_BUNDLE } from "@/lib/services/supplements";
 import {
   isRedirectOnlyMigratedSlug,
@@ -107,6 +108,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.9,
     },
+    // The individual service pages are the practice's main conversion pages
+    // (all live and in the top nav) — submit them to Google explicitly rather
+    // than leaving them to be discovered only through on-site links.
+    ...SERVICE_SLUGS.map((slug) => ({
+      url: canonicalUrl(`/services/${slug}/`),
+      lastModified: now,
+      changeFrequency: "monthly" as const,
+      priority: 0.9,
+    })),
     {
       url: canonicalUrl("/biotype"),
       lastModified: now,
