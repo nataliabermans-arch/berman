@@ -69,7 +69,11 @@ export async function generateMetadata({
     : `${SITE}/images/dr-berman/headshot-portrait.webp`;
 
   return {
-    title: `${article.title} — The Berman Brief`,
+    // Keep the browser/SEO title to just the article's own (keyword-rich)
+    // title so it isn't truncated in results — the template would otherwise
+    // append " — The Berman Brief | JRB Medical Wellness" and blow past the
+    // ~60-character display limit. Brand context still lives in the OG title.
+    title: { absolute: article.title },
     description: article.excerpt,
     openGraph: {
       title: `${article.title} — The Berman Brief`,
