@@ -755,25 +755,65 @@ function EditorialCallout({ target }: { target: ConversionTarget }) {
           marginBottom: 10,
         }}
       >
-        Read next →
+        Talk to Dr. Berman
       </div>
-      <Link
-        href={`/services/${target.serviceSlug}/`}
+      <p
         style={{
-          display: "block",
           fontFamily: SERIF,
           fontSize: "clamp(22px, 2vw, 26px)",
           lineHeight: 1.3,
           color: "#4a1c26",
-          textDecoration: "none",
+          margin: "0 0 20px",
         }}
       >
-        Read about Dr. Berman&apos;s{" "}
+        Have questions about{" "}
         <em style={{ color: "#8a3a44", fontStyle: "italic" }}>
           {target.serviceName}
-        </em>{" "}
-        program.
-      </Link>
+        </em>
+        ? Book a consult with Dr. Berman for a plan built around you.
+      </p>
+      <div
+        style={{
+          display: "flex",
+          alignItems: "center",
+          gap: 20,
+          flexWrap: "wrap",
+        }}
+      >
+        <button
+          type="button"
+          onClick={openLeadCapture}
+          style={{
+            ...monoLabel,
+            fontSize: 11,
+            display: "inline-flex",
+            alignItems: "center",
+            gap: 8,
+            padding: "13px 22px",
+            borderRadius: 999,
+            background: "#4a1c26",
+            color: "#fff5f1",
+            border: "none",
+            cursor: "pointer",
+            width: "fit-content",
+          }}
+        >
+          Book a consult →
+        </button>
+        <Link
+          href={`/services/${target.serviceSlug}/`}
+          style={{
+            ...monoLabel,
+            fontSize: 10,
+            color: "#8a3a44",
+            textDecoration: "none",
+            borderBottom: "1px solid rgba(138,58,68,0.4)",
+            paddingBottom: 2,
+          }}
+        >
+          Read about the {target.serviceName} program →
+        </Link>
+      </div>
     </motion.aside>
   );
 }
