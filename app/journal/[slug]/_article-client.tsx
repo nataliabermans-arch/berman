@@ -1871,7 +1871,7 @@ export default function ArticleClient({
               </em>{" "}
               · Urologist &amp; female sexual medicine specialist · Founder of
               JRB Medical Wellness, Beverly Hills, and two-time
-              New York Times best-selling author ·{" "}
+              New York Times bestselling author ·{" "}
               <Link
                 href="/about/"
                 style={{

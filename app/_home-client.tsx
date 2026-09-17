@@ -955,9 +955,9 @@ function HomeClient() {
             body contouring across greater Los Angeles.
           </p>
           <div className="e-hero-foot">
-            <span className="left">since 2007 · 1M+ women cared for</span>
+            <span className="left">clinic since 2007 · 1M+ women cared for</span>
             <span className="scroll">Scroll ↓</span>
-            <span className="right">25 yrs · two NYT bestsellers</span>
+            <span className="right">25 yrs practicing · two NYT bestsellers</span>
           </div>
         </div>
       </div>
@@ -1361,7 +1361,7 @@ function HomeClient() {
           </h3>
           <p>
             Internationally recognized urologist, pioneer of female sexual
-            medicine, and twice-published <em>New York Times</em> best-selling
+            medicine, and twice-published <em>New York Times</em> bestselling
             author. Co-founder of UCLA&apos;s Female Sexual Medicine Center,
             founder &amp; director of JRB Medical Wellness in
             Beverly Hills.
@@ -1401,7 +1401,7 @@ function HomeClient() {
               <ul>
                 <li>Co-founder · UCLA Female Sexual Medicine</li>
                 <li>Director · Berman Wellness Center</li>
-                <li>Pfizer Scholar in Urology (×2)</li>
+                <li>Pfizer Scholar in Urology · 2×</li>
               </ul>
             </div>
             <div>

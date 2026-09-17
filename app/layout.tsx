@@ -126,7 +126,7 @@ const jsonLd = {
         "Pelvic floor and urinary health",
         "Vaginal rejuvenation",
       ],
-      award: "Two-time New York Times best-selling author",
+      award: "Two-time New York Times bestselling author",
       image: `${siteUrl}/images/dr-berman/headshot-portrait.jpg`,
       url: siteUrl,
       worksFor: {
