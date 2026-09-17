@@ -23,7 +23,7 @@ const services = [
   { label: "Hormone Therapy", href: "/hormone-therapy/" },
   { label: "Menopause Care", href: "/services/menopause-hormones/" },
   { label: "Vaginal Rejuvenation", href: "/services/vaginal-rejuvenation/" },
-  { label: "Sexual & Urinary Health", href: "/services/sexual-health/" },
+  { label: "Sexual Health", href: "/services/sexual-health/" },
 ];
 
 function isLeadFooterLink(link: { label: string; href: string }) {
