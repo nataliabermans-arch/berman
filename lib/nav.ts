@@ -16,15 +16,15 @@ const SERVICE_CHILDREN: NavChild[] = [
   },
   {
     label: "Sexual Health & Intimacy",
-    href: "/sexual-urinary-tract-health/",
+    href: "/services/sexual-health/",
   },
   {
     label: "Pelvic Floor & Urinary Health",
-    href: "/emsella-treatment-for-incontinence/",
+    href: "/services/pelvic-urinary/",
   },
   {
     label: "Menopause & Hormone Therapy",
-    href: "/menopause-perimenopause/",
+    href: "/services/menopause-hormones/",
   },
   {
     label: "Vaginal Rejuvenation",
@@ -32,7 +32,7 @@ const SERVICE_CHILDREN: NavChild[] = [
   },
   {
     label: "Body Contouring & Weight Loss",
-    href: "/body-contouring/",
+    href: "/services/body-contouring/",
   },
   {
     label: "Peptide Therapy",

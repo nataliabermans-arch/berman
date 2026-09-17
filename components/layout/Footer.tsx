@@ -21,9 +21,9 @@ const quickLinks = [
 
 const services = [
   { label: "Hormone Therapy", href: "/hormone-therapy/" },
-  { label: "Menopause Care", href: "/menopause-perimenopause/" },
-  { label: "Vaginal Rejuvenation", href: "/vaginal-rejuvenation-expert/" },
-  { label: "Sexual & Urinary Health", href: "/sexual-urinary-tract-health/" },
+  { label: "Menopause Care", href: "/services/menopause-hormones/" },
+  { label: "Vaginal Rejuvenation", href: "/services/vaginal-rejuvenation/" },
+  { label: "Sexual & Urinary Health", href: "/services/sexual-health/" },
 ];
 
 function isLeadFooterLink(link: { label: string; href: string }) {

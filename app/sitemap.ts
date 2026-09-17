@@ -17,12 +17,6 @@ interface JournalSitemapEntry {
   originalUrl?: string;
 }
 
-const LEGACY_SERVICE_URLS = [
-  "/sexual-urinary-tract-health/",
-  "/emsella-treatment-for-incontinence/",
-  "/menopause-perimenopause/",
-  "/body-contouring/",
-];
 
 function loadJournalEntries(): JournalSitemapEntry[] {
   const localEntries = JOURNAL_ARTICLES.map((a) => ({
@@ -135,12 +129,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.7,
     },
-    ...LEGACY_SERVICE_URLS.map((url) => ({
-      url: canonicalUrl(url),
-      lastModified: now,
-      changeFrequency: "monthly" as const,
-      priority: 0.8,
-    })),
     {
       url: canonicalUrl("/services/supplements/"),
       lastModified: now,

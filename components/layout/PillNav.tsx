@@ -56,10 +56,10 @@ const defaultItems: PillNavItem[] = [
     href: "/hormone-therapy/",
     children: [
       { label: "Hormone Therapy", href: "/hormone-therapy/" },
-      { label: "Menopause Care", href: "/menopause-perimenopause/" },
+      { label: "Menopause Care", href: "/services/menopause-hormones/" },
       {
         label: "Sexual & Urinary Health",
-        href: "/sexual-urinary-tract-health/",
+        href: "/services/sexual-health/",
       },
     ],
   },

@@ -45,7 +45,14 @@ function legacyAliasMetadata(alias: LegacyPageAlias): Metadata {
       type: "website",
     },
     alternates: {
-      canonical: alias.path,
+      // A legacy service URL and its /services/<slug>/ twin render the same
+      // page. Point the legacy URL's canonical at the /services/ version so
+      // Google consolidates the duplicates onto one master instead of ranking
+      // both.
+      canonical:
+        alias.type === "service" && alias.serviceSlug
+          ? `/services/${alias.serviceSlug}/`
+          : alias.path,
     },
   };
 }
@@ -98,7 +105,7 @@ function LegacyAliasPage({ alias }: { alias: LegacyPageAlias }) {
     return (
       <ServiceDetailPage
         slug={alias.serviceSlug}
-        canonicalPath={alias.path}
+        canonicalPath={`/services/${alias.serviceSlug}/`}
       />
     );
   }

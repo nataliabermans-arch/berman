@@ -23,11 +23,11 @@ const ABOUT_ORDER = ["About", "Books", "Biotype"] as const;
 const PATIENT_ORDER = ["Stories", "Blog", "Contact"] as const;
 const SERVICE_LINK_ORDER: string[] = [
   "/services/aesthetic-regenerative/",
-  "/sexual-urinary-tract-health/",
-  "/emsella-treatment-for-incontinence/",
-  "/menopause-perimenopause/",
+  "/services/sexual-health/",
+  "/services/pelvic-urinary/",
+  "/services/menopause-hormones/",
   "/services/vaginal-rejuvenation/",
-  "/body-contouring/",
+  "/services/body-contouring/",
   "/services/supplements/",
 ];
 

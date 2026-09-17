@@ -44,11 +44,11 @@ const HOME_ABOUT_ORDER = ["About", "Books", "Biotype"] as const;
 const HOME_PATIENT_ORDER = ["Stories", "Blog", "Contact"] as const;
 const HOME_SERVICE_LINK_ORDER = [
   "/services/aesthetic-regenerative/",
-  "/sexual-urinary-tract-health/",
-  "/emsella-treatment-for-incontinence/",
-  "/menopause-perimenopause/",
+  "/services/sexual-health/",
+  "/services/pelvic-urinary/",
+  "/services/menopause-hormones/",
   "/services/vaginal-rejuvenation/",
-  "/body-contouring/",
+  "/services/body-contouring/",
   "/services/supplements/",
 ] as const;
 const HOME_SERVICE_LINK_HREFS = new Set<string>(HOME_SERVICE_LINK_ORDER);
@@ -1100,7 +1100,7 @@ function HomeClient() {
                   photoSrc: "/images/practice/couch-relax.webp",
                   desc: "Libido · arousal · pain · PRP/PRF",
                   arrow: "Open →",
-                  href: "/sexual-urinary-tract-health/",
+                  href: "/services/sexual-health/",
                 },
                 {
                   className: "c3",
@@ -1113,7 +1113,7 @@ function HomeClient() {
                   photoSrc: "/images/practice/mother-daughter-hug.webp",
                   desc: "Incontinence · urgency · prolapse · Emsella",
                   arrow: "Open →",
-                  href: "/emsella-treatment-for-incontinence/",
+                  href: "/services/pelvic-urinary/",
                 },
                 {
                   className: "c4",
@@ -1126,7 +1126,7 @@ function HomeClient() {
                   photoSrc: "/images/practice/vineyard.webp",
                   desc: "BHRT (bioidentical hormone therapy) · perimenopause workup · hormone panels",
                   arrow: "Open →",
-                  href: "/menopause-perimenopause/",
+                  href: "/services/menopause-hormones/",
                 },
                 {
                   className: "c5",
@@ -1152,7 +1152,7 @@ function HomeClient() {
                   photoSrc: "/images/practice/blonde-laughing.webp",
                   desc: "Emsculpt NEO · Forma · Cellutone · weight loss",
                   arrow: "Open →",
-                  href: "/body-contouring/",
+                  href: "/services/body-contouring/",
                 },
                 {
                   className: "c7",
