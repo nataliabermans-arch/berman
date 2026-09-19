@@ -93,8 +93,8 @@ const TIMELINE: { year: string; title: React.ReactNode; body: string }[] = [
     year: "2015",
     title: (
       <>
-        Pioneered combined <em style={{ color: "#8a3a44" }}>regenerative</em>{" "}
-        protocols
+        Combined <em style={{ color: "#8a3a44" }}>regenerative</em>{" "}
+        protocols early
       </>
     ),
     body: "Among the first U.S. clinicians to combine PRP (platelet-rich plasma), peptide therapy, and energy-based devices for vaginal and pelvic health.",
@@ -250,7 +250,8 @@ const GLANCE: { dt: string; dd: React.ReactNode }[] = [
         Female <em style={{ color: "#8a3a44" }}>urologist</em> and pelvic floor
         reconstructive surgeon
         <br />
-        Menopause and sexual health <em style={{ color: "#8a3a44" }}>expert</em>
+        Focused on <em style={{ color: "#8a3a44" }}>menopause</em> and sexual
+        health
       </>
     ),
   },

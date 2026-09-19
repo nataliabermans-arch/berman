@@ -1386,7 +1386,7 @@ export default function ArticleClient({
       name: "Dr. Jennifer Berman",
       honorificPrefix: "Dr.",
       honorificSuffix: "MD",
-      jobTitle: "Urologist & Female Sexual Medicine Specialist",
+      jobTitle: "Urologist focused on female sexual medicine",
       url: `${siteUrl}/about/`,
       sameAs: [
         "https://en.wikipedia.org/wiki/Jennifer_Berman",
@@ -1909,7 +1909,7 @@ export default function ArticleClient({
               <em style={{ color: "#8a3a44", fontStyle: "italic" }}>
                 Dr. Jennifer Berman, MD
               </em>{" "}
-              · Urologist &amp; female sexual medicine specialist · Founder of
+              · Urologist focused on female sexual medicine · Founder of
               JRB Medical Wellness, Beverly Hills, and two-time
               New York Times bestselling author ·{" "}
               <Link

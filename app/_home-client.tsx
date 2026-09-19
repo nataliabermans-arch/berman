@@ -1360,9 +1360,9 @@ function HomeClient() {
             Dr. Jennifer <em>Berman</em>, MD
           </h3>
           <p>
-            Internationally recognized urologist, pioneer of female sexual
-            medicine, and twice-published <em>New York Times</em> bestselling
-            author. Co-founder of UCLA&apos;s Female Sexual Medicine Center,
+            Internationally recognized urologist and twice-published{" "}
+            <em>New York Times</em> bestselling author. Co-founder of
+            UCLA&apos;s Female Sexual Medicine Center,
             founder &amp; director of JRB Medical Wellness in
             Beverly Hills.
           </p>

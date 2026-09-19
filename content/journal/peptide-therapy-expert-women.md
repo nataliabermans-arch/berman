@@ -1,11 +1,11 @@
 ---
 slug: peptide-therapy-expert-women
-title: An Expert Guide to Peptide Therapy for Women
+title: What I Tell Patients About Peptide Therapy for Women
 italicWord: Women
 excerpt: >-
-  Get answers from a peptide therapy expert. Women can learn how peptide therapy
-  supports hormone balance, skin health, libido, and overall wellness.
-category: Uncategorized
+  What peptide therapy can and can't do for women — how it fits alongside
+  hormones, skin, libido, and overall wellness, and when it's worth considering.
+category: Aesthetic & Regenerative
 publishedAt: "2026-04-21T00:33:56Z"
 updatedAt: "2026-04-21T00:33:56Z"
 readTime: 18

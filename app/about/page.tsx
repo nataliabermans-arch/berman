@@ -6,7 +6,7 @@ import AboutClient from "./_about-client";
 const seo = {
   title: "About Dr. Jennifer Berman — Beverly Hills Urologist & Founder",
   description:
-    "Dr. Jennifer Berman, MD — internationally recognized urologist, pioneer of female sexual medicine, twice NYT bestselling author. Founder of JRB Medical Wellness, Beverly Hills.",
+    "Dr. Jennifer Berman, MD — internationally recognized urologist, co-founder of UCLA's Female Sexual Medicine Center, twice NYT bestselling author. Founder of JRB Medical Wellness, Beverly Hills.",
   url: "/about",
 };
 
