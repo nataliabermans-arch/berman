@@ -153,7 +153,10 @@ export default function MigratedArticlePage({
     return <LegacyAliasPage alias={alias} />;
   }
 
-  const related = getRelatedArticles(article.slug, 6);
+  // Show up to 8: the top-6 by relevance plus any low-traffic articles the
+  // coverage pass adopts into this list (appended at slots 7-8). Displaying
+  // only 6 would hide those adopted links and leave the tail orphaned.
+  const related = getRelatedArticles(article.slug, 8);
 
   const pageUrl = article.originalUrl || `${SITE}/${article.slug}/`;
   const heroImage = article.featuredImage
