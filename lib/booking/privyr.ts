@@ -178,23 +178,43 @@ export function buildPrivyrPayload(b: PrivyrBooking) {
  * failure must not turn a confirmed appointment into an error for the patient.
  */
 export async function sendBookingToPrivyr(b: PrivyrBooking): Promise<boolean> {
-  if (!isPrivyrConfigured()) return false;
+  return (await sendPrivyrLead(buildPrivyrPayload(b))).ok;
+}
+
+export type PrivyrSendResult = { ok: boolean; status: number; leadId?: string };
+
+/**
+ * The one place a lead is posted to Privyr. Both the booking form and the
+ * GHL relay (app/api/privyr/ghl) go through here, so timeout, logging and the
+ * "success:false inside a 200" quirk are handled once.
+ *
+ * Never throws: Privyr is an alerting layer, and nothing upstream may fail
+ * because it did.
+ */
+export async function sendPrivyrLead(
+  payload: Record<string, unknown>,
+): Promise<PrivyrSendResult> {
+  if (!isPrivyrConfigured()) return { ok: false, status: 0 };
   try {
     const res = await fetch(url(), {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(buildPrivyrPayload(b)),
+      body: JSON.stringify(payload),
       signal: AbortSignal.timeout(PRIVYR_TIMEOUT_MS),
       cache: "no-store",
     });
-    const body = (await res.json().catch(() => null)) as { success?: boolean } | null;
-    const ok = res.ok && body?.success !== false;
+    const body = (await res.json().catch(() => null)) as
+      | { success?: boolean | string; lead_id?: string }
+      | null;
+    // Privyr answers 200 with success:false on some rejections, and its
+    // failure envelopes use the string "False".
+    const ok = res.ok && body?.success !== false && body?.success !== "False";
     if (!ok) console.warn("[privyr-send-failed]", { status: res.status });
-    return ok;
+    return { ok, status: res.status, leadId: body?.lead_id };
   } catch (err) {
     console.warn("[privyr-send-error]", {
       reason: err instanceof Error ? err.message : "unknown",
     });
-    return false;
+    return { ok: false, status: 0 };
   }
 }
