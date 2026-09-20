@@ -161,7 +161,10 @@ export function mapGhlToPrivyr(body: Record<string, unknown>) {
   const rest: Array<[string, string]> = [];
   for (const [lk, v] of lookup) {
     if (NOISE.has(lk) || IDENTITY.has(lk) || consentKeys.includes(lk)) continue;
-    if (/^(utm|url|page_url|pageurl|landing_page|referrer|medium|sessionsource|date_created|datecreated|created_at|createdat|timestamp|contact_source|source|lead_source)$/.test(lk)) continue;
+    // Already placed above under their proper labels (any utm* key, in either
+    // snake_case or camelCase), or GHL plumbing that is not a lead attribute.
+    if (/^utm/.test(lk)) continue;
+    if (/^(url|page_url|pageurl|landing_page|referrer|medium|sessionsource|date_created|datecreated|created_at|createdat|timestamp|contact_source|source|lead_source|contact_type|contacttype)$/.test(lk)) continue;
     if (/token|secret|password|api[_-]?key/.test(lk)) continue;
     const s = str(v);
     if (!s) continue;
