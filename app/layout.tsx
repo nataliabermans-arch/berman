@@ -90,7 +90,7 @@ const jsonLd = {
       "@type": "Organization",
       "@id": `${siteUrl}/#organization`,
       name: "JRB Medical Wellness",
-      alternateName: "Berman Women's Wellness",
+      alternateName: "Berman Sexual Health",
       url: siteUrl,
       logo: `${siteUrl}/images/jb-logo.png`,
       image: `${siteUrl}/images/dr-berman/headshot-portrait.jpg`,
@@ -102,6 +102,7 @@ const jsonLd = {
       sameAs: [
         "https://www.facebook.com/people/Berman-Womens-Wellness-Center/61559558050724/",
         "https://twitter.com/jenbermanmd",
+        "https://www.instagram.com/jenbermanmd/",
       ],
     },
     {
@@ -152,6 +153,8 @@ const jsonLd = {
       sameAs: [
         "https://en.wikipedia.org/wiki/Jennifer_Berman",
         "https://twitter.com/jenbermanmd",
+        "https://www.instagram.com/jenbermanmd/",
+        "https://www.facebook.com/people/Berman-Womens-Wellness-Center/61559558050724/",
       ],
     },
     {

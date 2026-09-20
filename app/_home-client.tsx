@@ -1400,7 +1400,7 @@ function HomeClient() {
               <h6>Research &amp; Roles</h6>
               <ul>
                 <li>Co-founder · UCLA Female Sexual Medicine</li>
-                <li>Director · Berman Wellness Center</li>
+                <li>Founder &amp; Director · JRB Medical Wellness</li>
                 <li>Pfizer Scholar in Urology · 2×</li>
               </ul>
             </div>
