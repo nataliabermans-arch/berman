@@ -26,7 +26,7 @@ This article dives into a range of natural ways to boost your libido, empowering
 
 A dip in libido is a common experience for both men and women. Here are some reasons why your desire might be taking a backseat:
 
-- **Hormonal Shifts:** For women, hormonal fluctuations during menstruation, perimenopause, and menopause can significantly impact libido. Similarly, for men, a decrease in testosterone levels as they age can lead to a decline in sexual desire.
+- **Hormonal Shifts:** For women, hormonal fluctuations during menstruation, [perimenopause](/services/menopause-hormones/), and menopause can significantly impact libido. Similarly, for men, a decrease in testosterone levels as they age can lead to a decline in sexual desire.
 - **Stress:** Chronic stress wreaks havoc on our bodies, including our sex drive. When we’re constantly bombarded with deadlines, anxieties, and worries, it’s difficult to relax and be present in the moment, hindering our ability to feel desire.
 - **Relationship Issues:** Unresolved conflicts, communication breakdowns, or a lack of emotional intimacy in a relationship can create a barrier to sexual desire.
 - **Lifestyle Choices:** A diet high in processed foods, excessive alcohol consumption, and lack of sleep can all contribute to a lower libido.

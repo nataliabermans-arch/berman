@@ -43,7 +43,7 @@ Textural Repair: Effectively treating acne scars and enlarged pores by promoting
 
 Intimate Wellness: The Power of Morpheus8-V As a pioneer in female sexual health, I am particularly passionate about the specialized application of this technology for intimate rejuvenation.
 
-Many women navigate menopause or postpartum recovery while struggling with Genitourinary Syndrome of Menopause (GSM)—symptoms like vaginal dryness, laxity, and urinary frequency. Morpheus8-V uses the same RF-microneedling technology to:
+Many women navigate [menopause](/services/menopause-hormones/) or postpartum recovery while struggling with Genitourinary Syndrome of Menopause (GSM)—symptoms like vaginal dryness, laxity, and urinary frequency. Morpheus8-V uses the same RF-microneedling technology to:
 
 Restore Natural Lubrication: Stimulating the vaginal lining to improve moisture and comfort.
 

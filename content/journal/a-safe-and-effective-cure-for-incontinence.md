@@ -22,7 +22,7 @@ Facing urinary incontinence is not only uncomfortable, but it can also feel emba
 - Functional incontinence: occurs when a mental or physical limitation, such as severe arthritis, renders an individual unable to urinate properly.
 - There are also other cases of mixed incontinence where multiple types of urinary incontinence may be experienced simultaneously.
 
-> EMSELLA treatments harness electromagnetic energy to deliver thousands of supramaximal pelvic floor muscle contractions.When the muscles contract at this intensity, they are strengthened to an extent unparalleled to other treatments. EMSELLA allows for the pelvic floor muscles to once again support organs, such as the bladder, in the pelvic region. With renewed support to the bladder, incontinence troubles can be brought to an end.
+> EMSELLA treatments harness electromagnetic energy to deliver thousands of supramaximal [pelvic floor](/services/pelvic-urinary/) muscle contractions.When the muscles contract at this intensity, they are strengthened to an extent unparalleled to other treatments. EMSELLA allows for the pelvic floor muscles to once again support organs, such as the bladder, in the pelvic region. With renewed support to the bladder, incontinence troubles can be brought to an end.
 
 ![](/wp-content/uploads/2023/02/emsella-incontinence-treatment-300x294.png)
 

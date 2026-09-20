@@ -65,7 +65,7 @@ their emotions during this time. Engaging in stress-reducing activities, such as
 Many women experience changes in their sleep patterns during menopause. Insomnia, night sweats, and restless sleep are common complaints. Establishing a bedtime routine, creating a comfortable sleep environment, and practicing relaxation techniques can help improve sleep quality. If sleep disturbances persist, it may be helpful to consult with a healthcare provider for further assistance. Weight gain and changes in body composition are also common symptoms of menopause. Due to hormonal fluctuations and a slowing metabolism, women may notice an increase in belly fat and a decrease in muscle mass. Maintaining a healthy diet, regular exercise routine, and seeking guidance from a nutritionist or personal trainer can help women manage their weight during this time. In addition to these symptoms, menopause can also cause  
 changes in sexual function, such as decreased libido and vaginal dryness. Open communication with a partner and healthcare provider is important in addressing these issues.
 
-Seeking treatment options, such as hormone therapy or lubricants, can help improve sexual satisfaction and intimacy. By being aware of these common symptoms of menopause and taking proactive steps to manage them, women can navigate this stage of life with confidence and grace.
+Seeking treatment options, such as [hormone therapy](/services/menopause-hormones/) or lubricants, can help improve sexual satisfaction and intimacy. By being aware of these common symptoms of menopause and taking proactive steps to manage them, women can navigate this stage of life with confidence and grace.
 
 ## **Hormonal Changes During Menopause**
 

@@ -38,7 +38,7 @@ Non-invasive body sculpting technologies primarily work in two clever ways: by u
 
 ### How It Differs From Surgical Options
 
-While both non-invasive and surgical procedures fall under the umbrella of body contouring, they are fundamentally different in their approach, results, and recovery. Surgical options like liposuction provide more immediate and dramatic results because the fat is physically removed from the body. However, this comes with the realities of surgery: anesthesia, incisions, and a significant recovery period. Non-invasive treatments, on the other hand, offer a gradual, more subtle result as your body naturally clears the treated fat cells. The biggest advantage is the convenience. Most sessions are quick, and you can typically return to your daily activities right away, with minimal side effects like temporary redness or swelling.
+While both non-invasive and surgical procedures fall under the umbrella of [body contouring](/services/body-contouring/), they are fundamentally different in their approach, results, and recovery. Surgical options like liposuction provide more immediate and dramatic results because the fat is physically removed from the body. However, this comes with the realities of surgery: anesthesia, incisions, and a significant recovery period. Non-invasive treatments, on the other hand, offer a gradual, more subtle result as your body naturally clears the treated fat cells. The biggest advantage is the convenience. Most sessions are quick, and you can typically return to your daily activities right away, with minimal side effects like temporary redness or swelling.
 
 ## How Do Body Sculpting Technologies Work?
 
@@ -58,7 +58,7 @@ This technology uses sound to target and destroy fat cells. High-Intensity Focus
 
 ### Electromagnetic Stimulation: Building Muscle and Burning Fat
 
-Unlike methods that only target fat, electromagnetic stimulation works to both build muscle and burn fat. This technology uses high-intensity focused electromagnetic (HIFEM) energy to trigger thousands of powerful muscle contractions in a short period. These intense contractions force the muscle tissue to adapt, leading to muscle growth and strengthening. As a response, your body breaks down nearby fat cells to fuel this activity. This technology is also used in treatments like Emsella Incontinence Therapy to strengthen pelvic floor muscles.
+Unlike methods that only target fat, electromagnetic stimulation works to both build muscle and burn fat. This technology uses high-intensity focused electromagnetic (HIFEM) energy to trigger thousands of powerful muscle contractions in a short period. These intense contractions force the muscle tissue to adapt, leading to muscle growth and strengthening. As a response, your body breaks down nearby fat cells to fuel this activity. This technology is also used in treatments like Emsella Incontinence Therapy to strengthen [pelvic floor](/services/pelvic-urinary/) muscles.
 
 ## What Happens to Fat Cells After Treatment?
 

@@ -30,7 +30,7 @@ Imagine your body as a complex orchestra, with hormones acting as the conductors
 
 Menopause isn’t a single event; it’s more like a multi-act play with three distinct stages:
 
-- **Perimenopause:** This introductory act can last anywhere from four to eight years. Your periods may become irregular, with heavier or lighter bleeding than usual. Mood swings, hot flashes, and sleep disturbances can also appear during this time. Think of it as your body’s way of rehearsing for the main performance.
+- **[Perimenopause](/services/menopause-hormones/):** This introductory act can last anywhere from four to eight years. Your periods may become irregular, with heavier or lighter bleeding than usual. Mood swings, hot flashes, and sleep disturbances can also appear during this time. Think of it as your body’s way of rehearsing for the main performance.
 - **Menopause:** The star of the show arrives! Menopause is officially diagnosed when you haven’t had a menstrual period for 12 consecutive months. Congratulations, you’ve reached the end of your reproductive journey!
 - **Postmenopause:** This is the final act, where you settle into your new hormonal balance. Some symptoms may improve, while others may linger for several years.
 

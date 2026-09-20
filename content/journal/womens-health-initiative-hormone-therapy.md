@@ -100,7 +100,7 @@ It’s also important to remember who the WHI studied: older, postmenopausal wom
 
 The initial WHI findings created a lot of fear around hormone therapy, but a closer look over the years has shown a more complex picture. The type of hormone, the dosage, and when you start therapy all play a huge role in your personal risk profile. The “lowest dose for the shortest time” became the mantra for years, but today, the focus has shifted to a more individualized approach.
 
-This is where a conversation with your doctor becomes essential. They can help you weigh the risks and benefits based on your age, symptoms, and overall health. Modern options like Bioidentical Hormone Replacement Therapy offer customized dosing that can be tailored specifically to your body’s needs, moving far beyond the one-size-fits-all approach of the past.
+This is where a conversation with your doctor becomes essential. They can help you weigh the risks and benefits based on your age, symptoms, and overall health. Modern options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy offer customized dosing that can be tailored specifically to your body’s needs, moving far beyond the one-size-fits-all approach of the past.
 
 ## The Unexpected Benefits of Hormone Therapy
 

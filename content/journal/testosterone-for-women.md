@@ -81,7 +81,7 @@ Bio-identical hormones are natural and identical to the hormones your body produ
 
 ## What are the Potential Benefits of Testosterone Therapy for Women?
 
-Hormone therapy can be required for different reasons as an imbalance of the hormones can cause unpleasant symptoms. Common causes that require hormone treatment can include aging and major life changes like menopause. BHRT reduces these symptoms and allows for a better, healthier lifestyle. BHRT can improve:
+[Hormone therapy](/services/menopause-hormones/) can be required for different reasons as an imbalance of the hormones can cause unpleasant symptoms. Common causes that require hormone treatment can include aging and major life changes like menopause. BHRT reduces these symptoms and allows for a better, healthier lifestyle. BHRT can improve:
 
 - Weight gain
 - Mood swings

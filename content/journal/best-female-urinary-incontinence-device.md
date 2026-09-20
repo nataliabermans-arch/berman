@@ -24,7 +24,7 @@ If your search history is filled with questions about bladder leaks, you are far
 
 - **Proactive solutions offer more than just absorption**: You have options beyond pads, including internal devices that support your bladder and external patches that create a temporary seal to stop leaks before they start.
 - **Your best device depends on your lifestyle and symptoms**: Finding the right fit means matching the solution to your specific needs, whether you experience leaks during exercise or have sudden urges to go.
-- **Devices are a great tool, but professional treatments offer lasting change**: For a more permanent solution, talk to a specialist about options like Emsella therapy, which strengthens your pelvic floor to address the root cause of incontinence.
+- **Devices are a great tool, but professional treatments offer lasting change**: For a more permanent solution, talk to a specialist about options like Emsella therapy, which strengthens your [pelvic floor](/services/pelvic-urinary/) to address the root cause of incontinence.
 
 ## What Is Female Urinary Incontinence?
 
@@ -42,7 +42,7 @@ It’s also possible to experience a mix of these types. Pinpointing your sympto
 
 ### Common Causes and Risk Factors
 
-So, what causes incontinence? It often comes down to the muscles and nerves that help you hold or release urine. Childbirth and aging can weaken the pelvic floor muscles, which act as a support system for your bladder. Hormonal shifts, especially during menopause, can also affect muscle tone and bladder control. Other factors like carrying extra weight can put added pressure on your bladder. Certain medical conditions, including diabetes or neurological disorders, can also play a role. Being aware of these causes helps you understand that this is a medical condition with real, treatable roots, not a personal failing. There are advanced treatments like Emsella Incontinence Therapy designed to address these very issues.
+So, what causes incontinence? It often comes down to the muscles and nerves that help you hold or release urine. Childbirth and aging can weaken the pelvic floor muscles, which act as a support system for your bladder. Hormonal shifts, especially during [menopause](/services/menopause-hormones/), can also affect muscle tone and bladder control. Other factors like carrying extra weight can put added pressure on your bladder. Certain medical conditions, including diabetes or neurological disorders, can also play a role. Being aware of these causes helps you understand that this is a medical condition with real, treatable roots, not a personal failing. There are advanced treatments like Emsella Incontinence Therapy designed to address these very issues.
 
 ## What Kinds of Incontinence Devices Are There?
 
@@ -210,7 +210,7 @@ Trying different devices and exercises at home is a great first step, but you do
 
 ### Creating Your Comprehensive Care Plan
 
-Your journey to managing incontinence is unique, and your treatment plan should be too. A specialist will work with you to create a comprehensive approach that fits your lifestyle. Often, the most effective plans combine several strategies. Behavioral techniques, like bladder training and pelvic floor muscle exercises, are typically a first-line treatment. From there, your specialist might recommend incorporating a device, medication, or advanced procedures. For example, treatments like Votiva can help with vaginal rejuvenation and muscle tone, complementing other therapies. The goal is to build a multi-faceted plan that addresses your specific needs, helping you achieve the best possible outcome and regain control.
+Your journey to managing incontinence is unique, and your treatment plan should be too. A specialist will work with you to create a comprehensive approach that fits your lifestyle. Often, the most effective plans combine several strategies. Behavioral techniques, like bladder training and pelvic floor muscle exercises, are typically a first-line treatment. From there, your specialist might recommend incorporating a device, medication, or advanced procedures. For example, treatments like Votiva can help with [vaginal rejuvenation](/services/vaginal-rejuvenation/) and muscle tone, complementing other therapies. The goal is to build a multi-faceted plan that addresses your specific needs, helping you achieve the best possible outcome and regain control.
 
 
 [SCHEDULE A CONSULTATION](/contact/)

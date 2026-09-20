@@ -28,7 +28,7 @@ Let’s dive into what causes vaginal dryness and how we can help you regain you
 
 ### Hormonal Changes
 
-The most common cause of vaginal dryness is a drop in estrogen levels. This hormone keeps the vaginal tissue healthy, elastic, and lubricated. However, when estrogen levels dip, such as during menopause, after childbirth, or while breastfeeding, dryness can occur.
+The most common cause of vaginal dryness is a drop in estrogen levels. This hormone keeps the vaginal tissue healthy, elastic, and lubricated. However, when estrogen levels dip, such as during [menopause](/services/menopause-hormones/), after childbirth, or while breastfeeding, dryness can occur.
 
 ### Medications
 
@@ -48,13 +48,13 @@ If you’re experiencing vaginal dryness, it’s not something you have to live 
 
 ### V-Tone
 
-V-Tone is a great option if you’re looking to restore vaginal tone and natural lubrication. This treatment uses electrical muscle stimulation (EMS) to strengthen the pelvic floor muscles. It’s particularly helpful if you’ve noticed dryness along with incontinence or vaginal laxity.
+V-Tone is a great option if you’re looking to restore vaginal tone and natural lubrication. This treatment uses electrical muscle stimulation (EMS) to strengthen the [pelvic floor](/services/pelvic-urinary/) muscles. It’s particularly helpful if you’ve noticed dryness along with incontinence or vaginal laxity.
 
 How it works is simple: the gentle electrical pulses stimulate your muscles, improving circulation and encouraging your body to produce natural lubrication. It’s a painless, quick, and easy treatment with no downtime, allowing you to go about your day right after.
 
 ### FormaV
 
-FormaV is another excellent option for vaginal rejuvenation. This treatment uses radiofrequency energy to stimulate collagen production in the vaginal walls. The result? Improved elasticity, moisture, and overall vaginal health.
+FormaV is another excellent option for [vaginal rejuvenation](/services/vaginal-rejuvenation/). This treatment uses radiofrequency energy to stimulate collagen production in the vaginal walls. The result? Improved elasticity, moisture, and overall vaginal health.
 
 The procedure is painless, and many women report noticing improvements in moisture levels after just one session. FormaV can also enhance sexual pleasure and reduce discomfort during intercourse, making it a fantastic all-around treatment.
 

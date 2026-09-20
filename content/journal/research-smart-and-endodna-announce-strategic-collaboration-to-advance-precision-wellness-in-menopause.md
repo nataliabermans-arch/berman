@@ -27,7 +27,7 @@ tags:
 author: "Dr. Jennifer Berman, MD"
 ---
 
-In an innovative move to transform research into menopause, Research Smart, a leader in healthcare research technology, has joined forces with genetic profiling pioneer EndoDNA to develop AI-enabled research tools to help women manage the symptoms of menopause. This strategic partnership marks a significant step, combining advanced genetic insights with real-time user feedback to refine and personalize health solutions for the 47m women around the world who enter menopause each year.
+In an innovative move to transform research into [menopause](/services/menopause-hormones/), Research Smart, a leader in healthcare research technology, has joined forces with genetic profiling pioneer EndoDNA to develop AI-enabled research tools to help women manage the symptoms of menopause. This strategic partnership marks a significant step, combining advanced genetic insights with real-time user feedback to refine and personalize health solutions for the 47m women around the world who enter menopause each year.
 
 Menopause, a process of ovarian aging when hormone production declines and a woman ceases to have periods, is projected to affect over 1.2 billion women by 2030. About 80% of women will experience vasomotor symptoms such as hot flashes, night sweats, anxiety, and sleep disturbances at some point. Despite current research, stigma and misconceptions about menopause are still widespread. Alarmingly, 9 in 10 women have not been educated about menopause, and 60% only start looking for information once their symptoms begin.
 

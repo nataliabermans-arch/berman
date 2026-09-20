@@ -56,7 +56,7 @@ Do you ever feel like you’re walking through a fog, struggling to concentrate 
 
 ### Maintain Stronger Bones and Muscles
 
-Beyond mood and libido, testosterone is a powerhouse for your physical foundation. It’s essential for maintaining strong bones and lean muscle mass, which becomes increasingly important as we age. Low testosterone can contribute to bone density loss, increasing the risk of osteoporosis and fractures down the line. By supporting your testosterone levels through a treatment like Bioidentical Hormone Replacement Therapy, you are proactively investing in your long-term health. This helps you stay strong, active, and resilient, protecting your body so you can continue to live a full and vibrant life for years to come.
+Beyond mood and libido, testosterone is a powerhouse for your physical foundation. It’s essential for maintaining strong bones and lean muscle mass, which becomes increasingly important as we age. Low testosterone can contribute to bone density loss, increasing the risk of osteoporosis and fractures down the line. By supporting your testosterone levels through a treatment like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy, you are proactively investing in your long-term health. This helps you stay strong, active, and resilient, protecting your body so you can continue to live a full and vibrant life for years to come.
 
 ## Understanding the Risks and Side Effects
 

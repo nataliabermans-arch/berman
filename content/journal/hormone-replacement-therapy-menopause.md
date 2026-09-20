@@ -58,7 +58,7 @@ For women who still have their uterus, combination therapy is the standard appro
 
 ### Bioidentical hormone therapy
 
-Bioidentical hormones are a popular option because they are chemically identical to the hormones your body naturally produces. This can lead to better compatibility and fewer side effects for some women. Bioidentical Hormone Replacement Therapy is tailored specifically to your individual needs, based on comprehensive testing of your hormone levels. This personalized approach allows for precise dosing that can significantly improve your quality of life during menopause by addressing everything from mood swings to low energy.
+[Bioidentical hormone](/services/menopause-hormones/)s are a popular option because they are chemically identical to the hormones your body naturally produces. This can lead to better compatibility and fewer side effects for some women. Bioidentical Hormone Replacement Therapy is tailored specifically to your individual needs, based on comprehensive testing of your hormone levels. This personalized approach allows for precise dosing that can significantly improve your quality of life during menopause by addressing everything from mood swings to low energy.
 
 ### How HRT is delivered: pills, patches, gels, and pellets
 

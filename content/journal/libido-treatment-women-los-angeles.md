@@ -23,7 +23,7 @@ You’ve probably heard the standard advice for a low sex drive: plan a date nig
 ## Key Takeaways
 
 - **Understand the root causes of low desire**: A dip in libido is rarely from just one thing; it’s often a combination of hormonal shifts, emotional stress, medical factors, and relationship dynamics. Pinpointing your unique triggers is the first step toward finding a solution.
-- **Explore personalized treatments that work**: You have access to effective, modern solutions beyond lifestyle changes. Options like bioidentical hormone therapy, testosterone for women, and innovative procedures like the O-Shot can address the direct physiological causes of low desire.
+- **Explore personalized treatments that work**: You have access to effective, modern solutions beyond lifestyle changes. Options like [bioidentical hormone](/services/menopause-hormones/) therapy, testosterone for women, and innovative procedures like the O-Shot can address the direct physiological causes of low desire.
 - **Take proactive steps when you feel stuck**: If a lack of desire is causing you personal distress or affecting your relationship, it’s a clear sign to consult a specialist. Seeking professional guidance is an empowering move to reclaim your well-being.
 
 ## What Causes Low Libido in Women?

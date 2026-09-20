@@ -18,7 +18,7 @@ author: "Dr. Jennifer Berman, MD"
 
 ## What is the Menopause Biotype?
 
-Are you experiencing symptoms like hot flashes, mood swings, and low libido as you navigate through menopause? If so, you may have what is known as the Menopause Biotype. Dr.  Jennifer Berman, a renowned expert in **sexual health** and intimacy, explains that the Menopause Biotype is a unique combination of physical, emotional, and hormonal changes that occur during menopause. By understanding your Menopause Biotype, you can better navigate the challenges of this life stage and improve your sexual health and intimacy.
+Are you experiencing symptoms like hot flashes, mood swings, and low libido as you navigate through [menopause](/services/menopause-hormones/)? If so, you may have what is known as the Menopause Biotype. Dr.  Jennifer Berman, a renowned expert in **sexual health** and intimacy, explains that the Menopause Biotype is a unique combination of physical, emotional, and hormonal changes that occur during menopause. By understanding your Menopause Biotype, you can better navigate the challenges of this life stage and improve your sexual health and intimacy.
 
 Dr. Berman emphasizes the importance of recognizing and embracing your Menopause Biotype as a crucial step toward finding solutions and treatments that work best for you. Each woman’s experience with menopause is different, and by identifying your specific Menopause Biotype, you can tailor your approach to managing symptoms and improving your overall well-being. By acknowledging the changes happening in your body and mind, you can take control of your sexual health and intimacy during this transitional phase of life.
 

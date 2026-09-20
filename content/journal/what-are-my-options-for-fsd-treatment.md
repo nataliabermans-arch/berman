@@ -44,7 +44,7 @@ This type of FSD involves a persistent difficulty, delay, or complete inability 
 
 #### Pain Disorders
 
-Sexual activity should be pleasurable, not painful. Pain disorders, such as dyspareunia, involve ongoing genital pain that occurs just before, during, or after intercourse. The discomfort can range from mild to severe and can feel like burning, aching, or sharp pain. This condition can have many causes, including vaginal dryness, skin conditions, or underlying issues with the pelvic floor muscles. Seeking a pelvic pain treatment specialist is essential to diagnose the root cause and find relief.
+Sexual activity should be pleasurable, not painful. Pain disorders, such as dyspareunia, involve ongoing genital pain that occurs just before, during, or after intercourse. The discomfort can range from mild to severe and can feel like burning, aching, or sharp pain. This condition can have many causes, including vaginal dryness, skin conditions, or underlying issues with the [pelvic floor](/services/pelvic-urinary/) muscles. Seeking a pelvic pain treatment specialist is essential to diagnose the root cause and find relief.
 
 ### The Connection Between FSD and Your Overall Health
 
@@ -132,7 +132,7 @@ Hormones are the chemical messengers that regulate countless bodily functions, i
 
 #### Bioidentical Hormone Replacement Therapy (BHRT)
 
-Bioidentical Hormone Replacement Therapy (BHRT) uses hormones that are chemically identical to those your body produces naturally. This therapy can be customized to your specific needs, replenishing estrogen, progesterone, and even testosterone to alleviate symptoms like low libido, vaginal dryness, and fatigue. Treatments like Biote Hormone Therapy use pellets inserted under the skin to deliver a steady, consistent dose of hormones, helping you feel more balanced and revitalized.
+[Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy (BHRT) uses hormones that are chemically identical to those your body produces naturally. This therapy can be customized to your specific needs, replenishing estrogen, progesterone, and even testosterone to alleviate symptoms like low libido, vaginal dryness, and fatigue. Treatments like Biote Hormone Therapy use pellets inserted under the skin to deliver a steady, consistent dose of hormones, helping you feel more balanced and revitalized.
 
 #### A Note on Sildenafil (Viagra) for Women
 
@@ -152,7 +152,7 @@ The O-Shot (Orgasm Shot) and G-Shot (G-Spot Amplification) are innovative treatm
 
 #### Vaginal Rejuvenation with Forma V and Morpheus 8-V
 
-For women experiencing vaginal dryness, laxity, or discomfort, advanced treatments can restore tissue health. Forma V uses gentle radiofrequency energy to tighten tissues and stimulate collagen production, improving lubrication and sensation. Morpheus 8-V combines this with microneedling for deeper tissue remodeling. These non-surgical vaginal rejuvenation procedures can effectively address many of the physical changes associated with childbirth and menopause.
+For women experiencing vaginal dryness, laxity, or discomfort, advanced treatments can restore tissue health. Forma V uses gentle radiofrequency energy to tighten tissues and stimulate collagen production, improving lubrication and sensation. Morpheus 8-V combines this with microneedling for deeper tissue remodeling. These non-surgical [vaginal rejuvenation](/services/vaginal-rejuvenation/) procedures can effectively address many of the physical changes associated with childbirth and menopause.
 
 ## When Is Surgery an Option?
 

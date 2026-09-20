@@ -20,7 +20,7 @@ Dr. Jennifer Berman
 
 When you’re living with pelvic pain it can be a debilitating and disruptive situation that can spread into every facet of your life. I’m Dr. Jennifer Berman and I specialize in women’s sexual health, providing tailor-made pelvic pain treatment that addresses the patient as a whole.
 
-I’m a female urology, gynecology, and urogynecology specialist with a unique expertise to bring to your pelvic pain condition. I also completed post-graduate work in Urology and Pediatric Urology training at the University of Maryland and Johns Hopkins in Baltimore, MD. Beyond this, I also completed a specialized fellowship in Female Urology and Pelvic Floor Reconstructive Surgery at the esteemed David Geffen UCLA Medical Center.
+I’m a female urology, gynecology, and urogynecology specialist with a unique expertise to bring to your pelvic pain condition. I also completed post-graduate work in Urology and Pediatric Urology training at the University of Maryland and Johns Hopkins in Baltimore, MD. Beyond this, I also completed a specialized fellowship in Female Urology and [Pelvic Floor](/services/pelvic-urinary/) Reconstructive Surgery at the esteemed David Geffen UCLA Medical Center.
 
 I founded and created The Berman Women’s Wellness Center in Beverly Hills with the singular vision of providing women in the greater Los Angeles area (and around the world) with a multidisciplinary, state-of-the-art facility dedicated solely to women and wellness. My goal is to continue to provide an extensive suite of women’s health services — all under one roof. I’m active in the media and have frequented shows like Good Morning America, Conan, not to mention co-hosted The Doctors.
 

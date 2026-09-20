@@ -120,7 +120,7 @@ If you’ve made lifestyle adjustments and still feel like your desire is laggin
 
 ### Consider hormone replacement therapy
 
-Hormones are powerful chemical messengers, and when they’re out of balance, it can have a major impact on your sex drive. This is especially true during perimenopause and menopause, when levels of estrogen and testosterone naturally decline. These hormones are crucial for sexual desire, lubrication, and overall energy. If a hormonal imbalance is at the root of your low arousal, Bioidentical Hormone Replacement Therapy (BHRT) can help restore your levels to their optimal state. By rebalancing your system, BHRT can help reignite your desire and make intimacy feel exciting again.
+Hormones are powerful chemical messengers, and when they’re out of balance, it can have a major impact on your sex drive. This is especially true during perimenopause and menopause, when levels of estrogen and testosterone naturally decline. These hormones are crucial for sexual desire, lubrication, and overall energy. If a hormonal imbalance is at the root of your low arousal, [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy (BHRT) can help restore your levels to their optimal state. By rebalancing your system, BHRT can help reignite your desire and make intimacy feel exciting again.
 
 ### Learn about FDA-approved medications like Addyi
 
@@ -166,7 +166,7 @@ It’s nearly impossible to feel aroused when your mind is racing with your to-d
 
 ### Build confidence with self-care
 
-How you feel about yourself has a powerful impact on your desire. When you feel good in your own skin, you’re more likely to feel open to sharing yourself with a partner. Self-care isn’t selfish; it’s a vital part of nurturing your sensuality. This can look like regular exercise, which is proven to improve body image, mood, and hormone balance. It can also be simpler things, like taking a long bath, buying lingerie that makes you feel amazing, or simply spending quiet time with yourself. Nurturing your relationship with your own body helps build a sense of confidence and self-love that is incredibly attractive and is a cornerstone of vaginal rejuvenation. When you feel cared for from the inside out, it’s easier to let go and embrace pleasure.
+How you feel about yourself has a powerful impact on your desire. When you feel good in your own skin, you’re more likely to feel open to sharing yourself with a partner. Self-care isn’t selfish; it’s a vital part of nurturing your sensuality. This can look like regular exercise, which is proven to improve body image, mood, and hormone balance. It can also be simpler things, like taking a long bath, buying lingerie that makes you feel amazing, or simply spending quiet time with yourself. Nurturing your relationship with your own body helps build a sense of confidence and self-love that is incredibly attractive and is a cornerstone of [vaginal rejuvenation](/services/vaginal-rejuvenation/). When you feel cared for from the inside out, it’s easier to let go and embrace pleasure.
 
 ## How Exploring Fantasies Can Spark Desire
 

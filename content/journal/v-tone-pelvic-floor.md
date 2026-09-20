@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/v-tone-pelvic-floor/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-If you’ve ever been told to “just do more Kegels” to fix bladder leaks, you know it’s not that simple. Isolating the right muscles is tricky, and it’s nearly impossible to achieve the intensity needed for real, lasting change on your own. That’s where **v tone therapy** provides a better solution. Think of it as the most effective Kegel workout imaginable, performed perfectly every time. This **v-tone pelvic floor** treatment uses gentle, targeted energy to stimulate deep muscle contractions, restoring strength and function far more effectively than manual exercises alone.
+If you’ve ever been told to “just do more Kegels” to fix bladder leaks, you know it’s not that simple. Isolating the right muscles is tricky, and it’s nearly impossible to achieve the intensity needed for real, lasting change on your own. That’s where **v tone therapy** provides a better solution. Think of it as the most effective Kegel workout imaginable, performed perfectly every time. This **v-tone [pelvic floor](/services/pelvic-urinary/)** treatment uses gentle, targeted energy to stimulate deep muscle contractions, restoring strength and function far more effectively than manual exercises alone.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -61,7 +61,7 @@ If you’ve ever adjusted your plans or held back from a good laugh because of a
 
 #### Understanding the Prevalence of Incontinence
 
-If you’re dealing with bladder leaks, it’s easy to feel isolated, but the reality is you’re in very good company. Up to 55% of all women will experience some amount of leaking pee in their lives, and more than 25 million Americans—mostly women—deal with this issue. It’s not a personal failing; it’s a common physiological change. Weakened pelvic floor muscles, often caused by things like childbirth, getting older, or menopause, are a main reason for urine leakage. These muscles are the foundation of your core, and when they lose strength, they can’t provide the support your bladder needs, leading to those unwelcome leaks.
+If you’re dealing with bladder leaks, it’s easy to feel isolated, but the reality is you’re in very good company. Up to 55% of all women will experience some amount of leaking pee in their lives, and more than 25 million Americans—mostly women—deal with this issue. It’s not a personal failing; it’s a common physiological change. Weakened pelvic floor muscles, often caused by things like childbirth, getting older, or [menopause](/services/menopause-hormones/), are a main reason for urine leakage. These muscles are the foundation of your core, and when they lose strength, they can’t provide the support your bladder needs, leading to those unwelcome leaks.
 
 #### Managing Overactive Bladder Symptoms
 
@@ -109,7 +109,7 @@ Think of your V-Tone treatment plan like a personal training program for your pe
 
 ### What Happens During a V-Tone Session?
 
-Each V-Tone appointment is quick and fits easily into a busy schedule, lasting only about 20 to 30 minutes. When you arrive, you’ll be asked to lie down comfortably, similar to a regular pelvic exam. A small, single-use probe is gently inserted into the vaginal canal. This probe delivers the low-frequency electrical stimulation that causes your muscles to contract and strengthen. The entire process is handled discreetly and professionally in a private treatment room. Because it’s a non-surgical procedure, you can return to your normal activities immediately after your session, making it a convenient option for vaginal rejuvenation.
+Each V-Tone appointment is quick and fits easily into a busy schedule, lasting only about 20 to 30 minutes. When you arrive, you’ll be asked to lie down comfortably, similar to a regular pelvic exam. A small, single-use probe is gently inserted into the vaginal canal. This probe delivers the low-frequency electrical stimulation that causes your muscles to contract and strengthen. The entire process is handled discreetly and professionally in a private treatment room. Because it’s a non-surgical procedure, you can return to your normal activities immediately after your session, making it a convenient option for [vaginal rejuvenation](/services/vaginal-rejuvenation/).
 
 ### What Does V-Tone Treatment Feel Like?
 

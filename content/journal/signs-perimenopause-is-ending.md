@@ -32,7 +32,7 @@ Think of perimenopause and menopause not as the same event, but as two distinct 
 
 ### Understanding the Hormonal Shift
 
-Perimenopause is the lead-up to menopause, often beginning in your mid-to-late 40s. The hallmark of this phase is hormonal unpredictability. Your estrogen levels don’t just decline steadily; they can swing wildly from high to low, creating a rollercoaster effect that contributes to many of the symptoms you might be feeling. Once you reach menopause, these fluctuations end, and your hormones settle into a new, consistently lower baseline. This is where treatments like Bioidentical Hormone Replacement Therapy can help manage the transition by restoring balance and easing symptoms.
+Perimenopause is the lead-up to menopause, often beginning in your mid-to-late 40s. The hallmark of this phase is hormonal unpredictability. Your estrogen levels don’t just decline steadily; they can swing wildly from high to low, creating a rollercoaster effect that contributes to many of the symptoms you might be feeling. Once you reach menopause, these fluctuations end, and your hormones settle into a new, consistently lower baseline. This is where treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can help manage the transition by restoring balance and easing symptoms.
 
 ### The Journey from Perimenopause to Menopause
 
@@ -92,7 +92,7 @@ It’s common for your sex drive to change as you move into menopause. This isn�
 
 ### Managing New Urinary and Incontinence Issues
 
-Have you started leaking a little when you laugh or sneeze? Or maybe you’re getting urinary tract infections (UTIs) more often than ever before. These issues are directly linked to the same hormonal changes affecting your vaginal health. The tissues in your urethra and bladder are also supported by estrogen. When levels drop, these tissues can weaken, leading to problems with bladder control. Symptoms like discomfort, more frequent UTIs, and bladder leaks often persist into menopause. This can manifest as stress incontinence (leaks with physical pressure) or urge incontinence (a sudden, intense need to urinate). While it can feel embarrassing, it’s a medical issue with effective solutions. Non-invasive treatments like Emsella Incontinence Therapy can strengthen your pelvic floor muscles and give you back control.
+Have you started leaking a little when you laugh or sneeze? Or maybe you’re getting urinary tract infections (UTIs) more often than ever before. These issues are directly linked to the same hormonal changes affecting your vaginal health. The tissues in your urethra and bladder are also supported by estrogen. When levels drop, these tissues can weaken, leading to problems with bladder control. Symptoms like discomfort, more frequent UTIs, and bladder leaks often persist into menopause. This can manifest as stress incontinence (leaks with physical pressure) or urge incontinence (a sudden, intense need to urinate). While it can feel embarrassing, it’s a medical issue with effective solutions. Non-invasive treatments like Emsella Incontinence Therapy can strengthen your [pelvic floor](/services/pelvic-urinary/) muscles and give you back control.
 
 ## Why Your Experience Is Unique
 

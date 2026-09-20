@@ -43,7 +43,7 @@ At its core, Forma V is a treatment that uses the power of radiofrequency (RF) e
 
 ### How Forma V Targets and Revitalizes Tissue
 
-So, how does it actually work? During a Forma V session, a small, smooth wand—about the size of a tampon—is used to gently heat the vaginal tissues. This warmth is incredibly productive. The RF energy stimulates your body’s natural healing response, encouraging the production of new collagen and elastin fibers. These are the essential building blocks that give your tissue its firmness and elasticity. This process also increases blood flow to the area, which further contributes to healthier, more responsive tissue. It’s a targeted approach to vaginal rejuvenation that works with your body to create lasting improvements from the inside out.
+So, how does it actually work? During a Forma V session, a small, smooth wand—about the size of a tampon—is used to gently heat the vaginal tissues. This warmth is incredibly productive. The RF energy stimulates your body’s natural healing response, encouraging the production of new collagen and elastin fibers. These are the essential building blocks that give your tissue its firmness and elasticity. This process also increases blood flow to the area, which further contributes to healthier, more responsive tissue. It’s a targeted approach to [vaginal rejuvenation](/services/vaginal-rejuvenation/) that works with your body to create lasting improvements from the inside out.
 
 #### Addressing Genitourinary Syndrome of Menopause (GSM)
 
@@ -189,7 +189,7 @@ Forma V is a gentle, non-surgical treatment that uses radiofrequency energy to r
 
 #### Ideal Age and Health Profile
 
-Forma V is a versatile treatment that isn’t limited to a specific age group. It’s an excellent choice for women in their 30s and 40s who are looking to address post-childbirth changes, such as vaginal laxity or a decrease in sensation. It’s also highly effective for women navigating perimenopause and menopause who are dealing with symptoms like vaginal dryness, painful intercourse, or mild stress incontinence. The ideal candidate is someone in good overall health who is experiencing mild to moderate symptoms and wants to restore function and comfort without undergoing surgery. It’s a proactive step toward maintaining your intimate wellness through different life stages.
+Forma V is a versatile treatment that isn’t limited to a specific age group. It’s an excellent choice for women in their 30s and 40s who are looking to address post-childbirth changes, such as vaginal laxity or a decrease in sensation. It’s also highly effective for women navigating [perimenopause](/services/menopause-hormones/) and menopause who are dealing with symptoms like vaginal dryness, painful intercourse, or mild stress incontinence. The ideal candidate is someone in good overall health who is experiencing mild to moderate symptoms and wants to restore function and comfort without undergoing surgery. It’s a proactive step toward maintaining your intimate wellness through different life stages.
 
 #### A Non-Hormonal Option for Lasting Relief
 

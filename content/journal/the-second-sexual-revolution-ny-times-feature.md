@@ -16,11 +16,11 @@ This New York Times article from Jack Hitt, 2000, highlights Viagra and the grow
 
 Dr. Berman was one of the researchers who conducted early studies to see whether there is a link between Viagra and strong libido. The NYT article and many doctors wonder whether these types of drugs can also be applied to improve the sexual experiences of normally functioning individuals.
 
-In the October 1999 issue of Urology, Dr. Berman and her co-authors defined the four primary types of female sexual dysfunction, which can be treated or will soon be curable. The term “Sexual Arousal Disorder” refers to a basic condition where Sexual thoughts occur, but they are not communicated to the genitals. The other ones are Orgasmic Disorder which includes inorgasmia (inability to have orgasm) and the unnamed condition of ”muffled” orgasms.
+In the October 1999 issue of Urology, Dr. Berman and her co-authors defined the four primary types of [female sexual dysfunction](/services/sexual-health/), which can be treated or will soon be curable. The term “Sexual Arousal Disorder” refers to a basic condition where Sexual thoughts occur, but they are not communicated to the genitals. The other ones are Orgasmic Disorder which includes inorgasmia (inability to have orgasm) and the unnamed condition of ”muffled” orgasms.
 
 In the years since, Dr. Berman has helped thousands of women to overcome their sexual dysfunction and live happier more fulfilled sex lives. As one of the first advocates for women’s sexual health, Dr. Berman has pioneered research and open discussions about such topics. She has also appeared on popular television programs to spread knowledge and information about these topics and their solutions.
 
-Dr. Berman can help women to find answers to such issues as sexual pain, hormonal imbalances, all stages of menopause, vaginal rejuvenation, and many more areas that are very relevant and important to women’s health and wellness.
+Dr. Berman can help women to find answers to such issues as sexual pain, hormonal imbalances, all stages of [menopause](/services/menopause-hormones/), [vaginal rejuvenation](/services/vaginal-rejuvenation/), and many more areas that are very relevant and important to women’s health and wellness.
 
 If you would like to schedule a consultation with Dr. Berman today, contact us today.
 

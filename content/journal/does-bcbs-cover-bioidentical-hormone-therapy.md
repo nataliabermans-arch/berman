@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/does-bcbs-cover-bioidentical-hormon
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Not all bioidentical hormones are created equal, especially in the eyes of an insurance company. This single fact is the key to understanding your potential coverage. While you and your doctor are focused on finding the most effective treatment for your symptoms, your insurer is looking at things like federal approval and clinical data. So when you ask, **does Blue Cross Blue Shield cover bioidentical hormone therapy?**, the answer almost always begins with another question: Is the prescription for an FDA-approved product or a custom-compounded formula? This guide will explain why that distinction matters so much and what it means for your out-of-pocket costs. We’ll clarify the process so you can make the best financial and health decisions for yourself.
+Not all [bioidentical hormone](/services/menopause-hormones/)s are created equal, especially in the eyes of an insurance company. This single fact is the key to understanding your potential coverage. While you and your doctor are focused on finding the most effective treatment for your symptoms, your insurer is looking at things like federal approval and clinical data. So when you ask, **does Blue Cross Blue Shield cover bioidentical hormone therapy?**, the answer almost always begins with another question: Is the prescription for an FDA-approved product or a custom-compounded formula? This guide will explain why that distinction matters so much and what it means for your out-of-pocket costs. We’ll clarify the process so you can make the best financial and health decisions for yourself.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

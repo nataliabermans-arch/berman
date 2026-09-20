@@ -15,7 +15,7 @@ author: "Dr. Jennifer Berman, MD"
 
 ## How to balance Hormones during Menopause? 
 
-Most, if not all, women are at least somewhat familiar with the changes that occur during menopause. But what about taking  Hormones During Perimenopause? Perimenopause is the period of time before menopause when hormonal changes first begin. At what age can perimenopause start? What are the symptoms? And what are some ways symptoms can be eased?
+Most, if not all, women are at least somewhat familiar with the changes that occur during menopause. But what about taking  Hormones During [Perimenopause](/services/menopause-hormones/)? Perimenopause is the period of time before menopause when hormonal changes first begin. At what age can perimenopause start? What are the symptoms? And what are some ways symptoms can be eased?
 
 ## What is the average age of Perimenopause?
 

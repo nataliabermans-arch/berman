@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/breast-cancer-bioidentical-hormone-
 author: "Dr. Jennifer Berman, MD"
 ---
 
-For many women, the term “bioidentical” sounds like the perfect, natural solution for menopause. But as a breast cancer survivor, the word “hormone” itself can be terrifying. So, how do you find relief from debilitating symptoms without compromising your long-term safety? The answer starts with understanding the real story behind **bioidentical hormones and cancer risk**. This isn’t a one-size-fits-all issue. We’ll look at the research to help you figure out if _bioidentical hormones are safe for breast cancer survivors_ like you, and explore effective **non hormonal menopause treatment** options so you can make an informed choice.
+For many women, the term “bioidentical” sounds like the perfect, natural solution for menopause. But as a breast cancer survivor, the word “hormone” itself can be terrifying. So, how do you find relief from debilitating symptoms without compromising your long-term safety? The answer starts with understanding the real story behind **[bioidentical hormone](/services/menopause-hormones/)s and cancer risk**. This isn’t a one-size-fits-all issue. We’ll look at the research to help you figure out if _bioidentical hormones are safe for breast cancer survivors_ like you, and explore effective **non hormonal menopause treatment** options so you can make an informed choice.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -220,7 +220,7 @@ Managing menopause symptoms isn’t just about medication. Mind-body approaches 
 
 ### How to Treat Vaginal Dryness Locally
 
-Vaginal dryness and painful intercourse are common complaints during menopause, but you don’t have to just live with them. There are excellent non-hormonal, localized treatments that restore comfort and moisture without systemic effects. Over-the-counter, hormone-free moisturizers and lubricants are a great place to start. For more advanced care, Dr. Berman offers innovative, non-hormonal vaginal rejuvenation options like Forma V and Morpheus 8-V. These gentle treatments help rebuild collagen and improve tissue health, providing lasting relief from dryness and discomfort so you can feel confident and comfortable again.
+Vaginal dryness and painful intercourse are common complaints during menopause, but you don’t have to just live with them. There are excellent non-hormonal, localized treatments that restore comfort and moisture without systemic effects. Over-the-counter, hormone-free moisturizers and lubricants are a great place to start. For more advanced care, Dr. Berman offers innovative, non-hormonal [vaginal rejuvenation](/services/vaginal-rejuvenation/) options like Forma V and Morpheus 8-V. These gentle treatments help rebuild collagen and improve tissue health, providing lasting relief from dryness and discomfort so you can feel confident and comfortable again.
 
 ## How to Talk to Your Doctor About Hormone Therapy
 

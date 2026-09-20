@@ -18,7 +18,7 @@ originalUrl: >-
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Let’s talk openly about one of the biggest questions surrounding vaginal wellness treatments: the price. It’s a topic that can feel complicated, but it doesn’t have to be. If you’re asking, “how much does non surgical vaginal rejuvenation cost?” you’re already taking an important step toward making an informed decision about your health. The cost is more than just a number; it reflects the provider’s expertise, the safety of the technology, and a treatment plan designed just for you. This guide will provide the clarity you need, breaking down the costs associated with different procedures and explaining why a personalized approach is key to achieving results you can feel confident about.
+Let’s talk openly about one of the biggest questions surrounding vaginal wellness treatments: the price. It’s a topic that can feel complicated, but it doesn’t have to be. If you’re asking, “how much does non surgical [vaginal rejuvenation](/services/vaginal-rejuvenation/) cost?” you’re already taking an important step toward making an informed decision about your health. The cost is more than just a number; it reflects the provider’s expertise, the safety of the technology, and a treatment plan designed just for you. This guide will provide the clarity you need, breaking down the costs associated with different procedures and explaining why a personalized approach is key to achieving results you can feel confident about.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -30,7 +30,7 @@ Let’s talk openly about one of the biggest questions surrounding vaginal welln
 
 ## What is non-surgical vaginal rejuvenation?
 
-Let’s talk about what non-surgical vaginal rejuvenation actually is. The term might sound complex, but the concept is straightforward. It refers to a group of treatments designed to improve vaginal health, comfort, and sexual satisfaction—all without requiring surgery. Life changes like childbirth and menopause can affect vaginal tissues, leading to issues like dryness, laxity, or even mild urinary incontinence. Non-surgical procedures address these concerns by using advanced technologies, like radiofrequency or lasers, to gently heat the tissue.
+Let’s talk about what non-surgical vaginal rejuvenation actually is. The term might sound complex, but the concept is straightforward. It refers to a group of treatments designed to improve vaginal health, comfort, and sexual satisfaction—all without requiring surgery. Life changes like childbirth and [menopause](/services/menopause-hormones/) can affect vaginal tissues, leading to issues like dryness, laxity, or even mild urinary incontinence. Non-surgical procedures address these concerns by using advanced technologies, like radiofrequency or lasers, to gently heat the tissue.
 
 This process encourages your body to produce more collagen, which is the protein responsible for skin’s firmness and elasticity. Think of it as a workout for your internal tissues, helping them become stronger and more resilient. The goal is to restore function and sensation, helping you feel more comfortable and confident. As a vaginal rejuvenation expert, Dr. Berman helps women find the right approach to feel their best, addressing everything from physical discomfort to a renewed sense of sexual wellness. These treatments are all about improving your quality of life with minimal interruption.
 

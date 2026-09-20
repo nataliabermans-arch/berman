@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/emsella-contraindications-safety/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Finding the right treatment for incontinence is a partnership. Your safety and long-term wellness _always_ come first. While Emsella is a powerful, non-invasive tool for strengthening the pelvic floor, it’s not a perfect fit for everyone. That’s why we always start with a thorough health assessment. This guide acts as our safety checklist, breaking down the most important **Emsella contraindications** we review with every patient. Think of it as our first step together—ensuring the path we choose is both effective and completely safe for you.
+Finding the right treatment for incontinence is a partnership. Your safety and long-term wellness _always_ come first. While Emsella is a powerful, non-invasive tool for strengthening the [pelvic floor](/services/pelvic-urinary/), it’s not a perfect fit for everyone. That’s why we always start with a thorough health assessment. This guide acts as our safety checklist, breaking down the most important **Emsella contraindications** we review with every patient. Think of it as our first step together—ensuring the path we choose is both effective and completely safe for you.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

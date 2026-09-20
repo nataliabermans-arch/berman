@@ -22,7 +22,7 @@ The idea of a chair that treats incontinence while you sit and read a book might
 
 ## Key Takeaways
 
-- **Emsella does the Kegels for you**: The treatment uses advanced electromagnetic energy to create thousands of deep muscle contractions, strengthening your entire pelvic floor far more effectively than you could on your own.
+- **Emsella does the Kegels for you**: The treatment uses advanced electromagnetic energy to create thousands of deep muscle contractions, strengthening your entire [pelvic floor](/services/pelvic-urinary/) far more effectively than you could on your own.
 - **Fit treatment into your busy life**: Sessions are quick (about 30 minutes), completely non-invasive, and require zero downtime, so you can get back to your day immediately without any interruptions.
 - **Find out if it’s right for you**: Emsella is an FDA-cleared and effective treatment for many, but it isn’t a fit for everyone. A personal consultation is the best way to confirm you’re a good candidate and create a plan tailored to your health goals.
 
@@ -114,7 +114,7 @@ Let’s be direct: Emsella is not painful. Because the treatment is completely n
 
 ### Who Is (and Isn’t) a Candidate
 
-While Emsella is incredibly popular among women, especially after childbirth or during menopause, it’s not just for us. The treatment is equally effective for men who experience incontinence. The technology works the same way to strengthen the male pelvic floor. However, Emsella isn’t for everyone. It is not recommended for individuals who are pregnant or have certain metal implants, such as pacemakers, copper IUDs, or artificial hips. A thorough consultation with Dr. Berman will determine if you are a good candidate based on your health history.
+While Emsella is incredibly popular among women, especially after childbirth or during [menopause](/services/menopause-hormones/), it’s not just for us. The treatment is equally effective for men who experience incontinence. The technology works the same way to strengthen the male pelvic floor. However, Emsella isn’t for everyone. It is not recommended for individuals who are pregnant or have certain metal implants, such as pacemakers, copper IUDs, or artificial hips. A thorough consultation with Dr. Berman will determine if you are a good candidate based on your health history.
 
 ### The Truth About Recovery Time
 

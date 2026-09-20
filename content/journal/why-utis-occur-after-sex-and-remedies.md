@@ -68,7 +68,7 @@ While sexual activity is a primary trigger for UTIs, it’s often not the only f
 
 #### Hormonal Changes
 
-Hormones, especially estrogen, play a significant role in maintaining the health of your urinary tract. When estrogen levels decline, particularly during perimenopause and menopause, the tissues of the vagina and urethra can become thinner, drier, and more fragile. This condition, known as vaginal atrophy, makes the area more vulnerable to irritation and infection. The natural balance of good bacteria in the vagina can also be disrupted, giving harmful bacteria a better chance to take hold. If you’re in this life stage and notice an uptick in UTIs, it’s worth discussing with a specialist. Treatments like hormone replacement therapy can often address the root cause, improving tissue health and reducing infection risk.
+Hormones, especially estrogen, play a significant role in maintaining the health of your urinary tract. When estrogen levels decline, particularly during [perimenopause](/services/menopause-hormones/) and menopause, the tissues of the vagina and urethra can become thinner, drier, and more fragile. This condition, known as vaginal atrophy, makes the area more vulnerable to irritation and infection. The natural balance of good bacteria in the vagina can also be disrupted, giving harmful bacteria a better chance to take hold. If you’re in this life stage and notice an uptick in UTIs, it’s worth discussing with a specialist. Treatments like hormone replacement therapy can often address the root cause, improving tissue health and reducing infection risk.
 
 #### Certain Sexual Practices
 

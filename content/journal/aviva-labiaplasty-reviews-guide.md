@@ -38,7 +38,7 @@ The size and shape of the labia are unique to every woman, and there isn’t one
 
 #### Genetics, Aging, and Hormonal Changes
 
-For many women, the size and shape of their labia are simply determined by genetics—it’s just the way they were born. For others, changes occur over time. The natural aging process, along with significant hormonal fluctuations during puberty, pregnancy, and menopause, can alter the elasticity and appearance of labial tissue. These changes are a normal part of a woman’s life journey. When they lead to discomfort, seeking a solution is a valid and empowering choice. Understanding your body’s evolution is key to addressing any concerns with confidence and clarity.
+For many women, the size and shape of their labia are simply determined by genetics—it’s just the way they were born. For others, changes occur over time. The natural aging process, along with significant hormonal fluctuations during puberty, pregnancy, and [menopause](/services/menopause-hormones/), can alter the elasticity and appearance of labial tissue. These changes are a normal part of a woman’s life journey. When they lead to discomfort, seeking a solution is a valid and empowering choice. Understanding your body’s evolution is key to addressing any concerns with confidence and clarity.
 
 #### Childbirth and Physical Injury
 
@@ -54,7 +54,7 @@ One of the most common reasons women seek labiaplasty is to relieve chronic phys
 
 #### Emotional and Social Factors
 
-The physical discomfort of enlarged labia is often accompanied by a significant emotional burden. Many women feel self-conscious about their appearance, leading to insecurity in intimate situations or anxiety when wearing swimsuits. Because society has long treated women’s intimate health as a taboo topic, many feel they have to suffer in silence, feeling ashamed or isolated. Choosing to pursue a vaginal rejuvenation treatment is a way to reclaim your confidence and shed that emotional weight. It’s about feeling at home in your body, free from the distraction of self-consciousness and empowered to live fully.
+The physical discomfort of enlarged labia is often accompanied by a significant emotional burden. Many women feel self-conscious about their appearance, leading to insecurity in intimate situations or anxiety when wearing swimsuits. Because society has long treated women’s intimate health as a taboo topic, many feel they have to suffer in silence, feeling ashamed or isolated. Choosing to pursue a [vaginal rejuvenation](/services/vaginal-rejuvenation/) treatment is a way to reclaim your confidence and shed that emotional weight. It’s about feeling at home in your body, free from the distraction of self-consciousness and empowered to live fully.
 
 ## What Is Aviva Non-Surgical Labiaplasty?
 

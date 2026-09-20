@@ -13,7 +13,7 @@ originalUrl: >-
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Professional interest in female sexual dysfunction (FSD) has evolved rapidly with the FDA approval of several landmark treatments. Studies indicate that approximately 43% of American women experience some form of sexual dysfunction, with Hypoactive Sexual Desire Disorder (HSDD) being the most common complaint. The highest proportion occurs in young women between the ages of 18 and 29. (Updated clinical data from the Journal of Women’s Health and the FDA now provides a clearer roadmap for pharmacological intervention in pre- and postmenopausal women.) The lack of desire appears to be the number one, most significant complaint, followed by arousal and lubrication dysfunctions.
+Professional interest in [female sexual dysfunction](/services/sexual-health/) (FSD) has evolved rapidly with the FDA approval of several landmark treatments. Studies indicate that approximately 43% of American women experience some form of sexual dysfunction, with Hypoactive Sexual Desire Disorder (HSDD) being the most common complaint. The highest proportion occurs in young women between the ages of 18 and 29. (Updated clinical data from the Journal of Women’s Health and the FDA now provides a clearer roadmap for pharmacological intervention in pre- and postmenopausal women.) The lack of desire appears to be the number one, most significant complaint, followed by arousal and lubrication dysfunctions.
 
 Twenty-one percent of those surveyed experienced physical pain during sex, while 27 percent reported that intercourse was not enjoyable. Sixteen percent admitted to sexual anxiety. The prevalence of female sexual dysfunction continues to be documented and the topic has generated discussions in both the medical and lay communities (60 Minutes, Larry King, Newsweek, Oprah).
 
@@ -101,9 +101,9 @@ HSDD is the medical term for a persistent or recurrent lack of interest in sex t
 
 **Q: Is there a “Viagra for women”?** While Viagra (Sildenafil) works on blood flow, female treatments like Addyi and Vyleesi work on the brain’s desire pathways. However, Sildenafil is sometimes prescribed “off-label” for certain female arousal disorders.
 
-**Q: Can hormone therapy help with sexual dysfunction?** Yes. For many women, especially during menopause, a drop in estrogen or testosterone leads to dryness and low desire. **Bioidentical Hormone Replacement Therapy (BHRT)** is a key component of a comprehensive treatment plan.
+**Q: Can hormone therapy help with sexual dysfunction?** Yes. For many women, especially during menopause, a drop in estrogen or testosterone leads to dryness and low desire. **[Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy (BHRT)** is a key component of a comprehensive treatment plan.
 
-**Q: How do I know if I need a prescription or a procedure?** During your consultation, we evaluate if your symptoms are best treated with medication (like Addyi) or regenerative procedures such as the **O-Shot®** or **Vaginal Rejuvenation** to improve physical sensation and comfort.
+**Q: How do I know if I need a prescription or a procedure?** During your consultation, we evaluate if your symptoms are best treated with medication (like Addyi) or regenerative procedures such as the **O-Shot®** or **[Vaginal Rejuvenation](/services/vaginal-rejuvenation/)** to improve physical sensation and comfort.
 
 For women experiencing physical discomfort or laxity, we also offer non-surgical **Vaginal Rejuvenation** and **Forma V** treatments to complement your prescription plan.
 

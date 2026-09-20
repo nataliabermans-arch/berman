@@ -22,7 +22,7 @@ It starts small. You cross your legs before you cough. You hesitate before telli
 
 ## Key Takeaways
 
-- **It’s a Physical Issue, Not a Personal Failing**: Leaking when you sneeze or laugh is called stress urinary incontinence, and it’s caused by physical pressure on the bladder when your pelvic floor muscles are weakened from things like childbirth or menopause.
+- **It’s a Physical Issue, Not a Personal Failing**: Leaking when you sneeze or laugh is called stress urinary incontinence, and it’s caused by physical pressure on the bladder when your [pelvic floor](/services/pelvic-urinary/) muscles are weakened from things like childbirth or menopause.
 - **Actionable Steps Start Small**: You can begin regaining control with simple lifestyle adjustments, such as targeted Kegel exercises and mindful diet changes. For more powerful support, non-invasive treatments like Emsella offer a way to effectively rebuild pelvic floor strength without surgery.
 - **Know When to Seek Help**: If you find yourself avoiding activities you love or constantly worrying about leaks, it’s time to talk to a specialist. This is a treatable medical condition, and a personalized plan can help you find lasting relief and get your freedom back.
 
@@ -50,7 +50,7 @@ Pregnancy and childbirth are incredible, but they put immense strain on your bod
 
 ### Hormonal Shifts During Menopause
 
-Menopause brings a whole host of changes, and a dip in estrogen is a big one. This hormone is crucial for keeping the tissues in your bladder and urethra healthy, strong, and elastic. As estrogen levels decline, these tissues can become thinner and weaker, which can interfere with bladder control and lead to leaks. It can also contribute to other issues like vaginal dryness. The good news is that restoring hormonal balance can make a significant difference. Many women find relief through treatments like Bioidentical Hormone Replacement Therapy, which can help improve tissue health and reduce incontinence symptoms.
+Menopause brings a whole host of changes, and a dip in estrogen is a big one. This hormone is crucial for keeping the tissues in your bladder and urethra healthy, strong, and elastic. As estrogen levels decline, these tissues can become thinner and weaker, which can interfere with bladder control and lead to leaks. It can also contribute to other issues like vaginal dryness. The good news is that restoring hormonal balance can make a significant difference. Many women find relief through treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy, which can help improve tissue health and reduce incontinence symptoms.
 
 ### How Age Affects Pelvic Muscles
 

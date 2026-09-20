@@ -26,7 +26,7 @@ Until our newly elected government has the time, energy, and inclination to comp
 Simply put, every disease that afflicts you after the age of 40 is essentially an accelerated form of aging. So wouldn’t it be helpful to know the age of every part of your body? That way you can fix your oldest parts and stop them from pulling the rest of your health down. We have the medical know-how to find illness and reverse it. We just need to get doctors on board with this type of proactive medicine, instead of waiting around for a “surprise” illness to strike.  
 Anti-Aging Medicine Needs to Focus on the Brain
 
-Preventative treatment is exactly what “anti-aging” medicine is all about. In my office I take an integrative approach, which means that I combine the best medical protocols available for each of my patients. Once their oldest parts are identified, I can help them begin the process to reverse aging in these afflicted parts through a combination of lifestyle changes, nutritional supplements, diet modification, bioidentical hormones, and when necessary, medicines.
+Preventative treatment is exactly what “anti-aging” medicine is all about. In my office I take an integrative approach, which means that I combine the best medical protocols available for each of my patients. Once their oldest parts are identified, I can help them begin the process to reverse aging in these afflicted parts through a combination of lifestyle changes, nutritional supplements, diet modification, [bioidentical hormone](/services/menopause-hormones/)s, and when necessary, medicines.
 
 **What Health Care is Missing**
 

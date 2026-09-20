@@ -34,7 +34,7 @@ Traditional hair restoration treatments—like minoxidil, oral medications, or t
 - Improve scalp blood flow
 - Support long-term follicular health
 
-**Why I Offer This to Women—Specifically** Most hair restoration clinics still focus on male-pattern baldness. But women’s hair loss is hormonally and metabolically complex—and demands a different approach. In my practice, we combine bioidentical hormone optimization, nutrient therapy, and now, regenerative injectables (stem cells and exosomes) to offer a truly personalized protocol for hair regrowth. **What to Expect** These are in-office, minimally invasive treatments performed under physician supervision. Sessions typically involve:
+**Why I Offer This to Women—Specifically** Most hair restoration clinics still focus on male-pattern baldness. But women’s hair loss is hormonally and metabolically complex—and demands a different approach. In my practice, we combine [bioidentical hormone](/services/menopause-hormones/) optimization, nutrient therapy, and now, regenerative injectables (stem cells and exosomes) to offer a truly personalized protocol for hair regrowth. **What to Expect** These are in-office, minimally invasive treatments performed under physician supervision. Sessions typically involve:
 
 - Scalp mapping and analysis
 - Topical numbing

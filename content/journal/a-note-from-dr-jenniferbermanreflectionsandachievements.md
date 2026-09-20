@@ -27,7 +27,7 @@ Beginning her journey at the esteemed Boston University School of Medicine, Dr. 
 
 Her pursuit of excellence led her to the University of Maryland Medical Center, where she completed a rigorous post-graduate training in Urology and Pediatric Urology, further enriching her clinical and academic prowess.
 
-Dr. Berman’s ambition and dedication to specialized care propelled her to Johns Hopkins, one of the most renowned medical institutions globally, where she honed her skills in urology. Recognizing the need for specialized female urological care, she undertook a fellowship at the David Geffen UCLA Medical Center, focusing on Female Urology and Pelvic Floor Reconstructive Surgery. This advanced training equipped her with the expertise required to address complex conditions affecting women’s health.
+Dr. Berman’s ambition and dedication to specialized care propelled her to Johns Hopkins, one of the most renowned medical institutions globally, where she honed her skills in urology. Recognizing the need for specialized female urological care, she undertook a fellowship at the David Geffen UCLA Medical Center, focusing on Female Urology and [Pelvic Floor](/services/pelvic-urinary/) Reconstructive Surgery. This advanced training equipped her with the expertise required to address complex conditions affecting women’s health.
 
 Moreover, her academic journey included earning a Master of Science degree from the University of Maryland Medical Center, underscoring her commitment to a robust scientific foundation.
 
@@ -202,7 +202,7 @@ At the heart of Dr. Berman’s practice is a deep commitment to treating the who
 
 ### Specialized Treatments for Menopause
 
-Menopause is a significant life transition that can bring a host of challenging symptoms, from hot flashes and mood swings to vaginal dryness and a decreased libido. Dr. Berman provides expert care and innovative therapies designed to manage these changes effectively. She specializes in hormone replacement therapies that are tailored to your body’s specific needs, helping to restore balance and relieve discomfort. By offering advanced options like Bioidentical Hormone Replacement Therapy, she ensures that you receive a personalized treatment plan. Her goal is to help you feel like yourself again, improving your quality of life so you can continue to thrive through menopause and beyond.
+Menopause is a significant life transition that can bring a host of challenging symptoms, from hot flashes and mood swings to vaginal dryness and a decreased libido. Dr. Berman provides expert care and innovative therapies designed to manage these changes effectively. She specializes in hormone replacement therapies that are tailored to your body’s specific needs, helping to restore balance and relieve discomfort. By offering advanced options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy, she ensures that you receive a personalized treatment plan. Her goal is to help you feel like yourself again, improving your quality of life so you can continue to thrive through menopause and beyond.
 
 ### Advanced Solutions for Sexual and Urinary Health
 
@@ -210,7 +210,7 @@ Issues related to sexual and urinary health are incredibly common, yet many wome
 
 #### Innovative Therapies Offered
 
-Dr. Berman’s collaborations and research have paved the way for a number of innovative treatments that offer real results for sexual and urinary health concerns. She utilizes state-of-the-art, minimally invasive procedures to restore function and confidence. These therapies include the O-Shot, which uses your body’s own growth factors to enhance sexual arousal and treat incontinence, and Forma V, a gentle thermal technology for vaginal rejuvenation. For women struggling with urinary leakage, Emsella Incontinence Therapy provides a non-invasive solution that strengthens the pelvic floor. Each treatment is selected to provide the most effective outcome with minimal downtime, helping you get back to living your life to the fullest.
+Dr. Berman’s collaborations and research have paved the way for a number of innovative treatments that offer real results for sexual and urinary health concerns. She utilizes state-of-the-art, minimally invasive procedures to restore function and confidence. These therapies include the O-Shot, which uses your body’s own growth factors to enhance sexual arousal and treat incontinence, and Forma V, a gentle thermal technology for [vaginal rejuvenation](/services/vaginal-rejuvenation/). For women struggling with urinary leakage, Emsella Incontinence Therapy provides a non-invasive solution that strengthens the pelvic floor. Each treatment is selected to provide the most effective outcome with minimal downtime, helping you get back to living your life to the fullest.
 
 ### Commitment to Cutting-Edge Technology
 

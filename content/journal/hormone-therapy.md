@@ -16,7 +16,7 @@ author: "Dr. Jennifer Berman, MD"
 
 ## Restore your vitality and balance your body with personalized Bioidentical Hormone Replacement Therapy (BHRT).
 
-Dr. Jennifer Berman offers cutting-edge, natural hormone solutions designed to alleviate the symptoms of menopause, perimenopause, and hormonal imbalances. Unlike synthetic options, our bioidentical hormones are molecularly identical to those your body produces, ensuring a safer and more effective path to wellness.
+Dr. Jennifer Berman offers cutting-edge, natural hormone solutions designed to alleviate the symptoms of menopause, perimenopause, and hormonal imbalances. Unlike synthetic options, our [bioidentical hormone](/services/menopause-hormones/)s are molecularly identical to those your body produces, ensuring a safer and more effective path to wellness.
 
 ---
 

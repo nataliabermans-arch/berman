@@ -32,7 +32,7 @@ If you’ve started noticing changes but still get your period, you’re likely 
 
 ### Defining Menopause: A Point in Time
 
-Menopause itself is officially a single day on the calendar. It’s the point when you’ve gone 12 consecutive months without a menstrual period. As Dr. Newson explains, “Menopause is when a woman hasn’t had a period for 12 months. It happens because her ovaries stop making eggs and hormones like estrogen, progesterone, and testosterone go down.” After this milestone, you are considered postmenopausal for the rest of your life. The symptoms you experienced during perimenopause may continue, but the official transition is complete. This hormonal shift is a key reason many women explore options like Bioidentical Hormone Replacement Therapy to help restore balance and alleviate persistent symptoms.
+Menopause itself is officially a single day on the calendar. It’s the point when you’ve gone 12 consecutive months without a menstrual period. As Dr. Newson explains, “Menopause is when a woman hasn’t had a period for 12 months. It happens because her ovaries stop making eggs and hormones like estrogen, progesterone, and testosterone go down.” After this milestone, you are considered postmenopausal for the rest of your life. The symptoms you experienced during perimenopause may continue, but the official transition is complete. This hormonal shift is a key reason many women explore options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy to help restore balance and alleviate persistent symptoms.
 
 ## The Full Picture: Symptoms Beyond Hot Flashes
 

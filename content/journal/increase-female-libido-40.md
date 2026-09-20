@@ -138,7 +138,7 @@ Hormone replacement therapy (HRT) is a common and effective way to manage many o
 
 ### Bioidentical hormones and Biote® therapy
 
-For a more personalized approach, many women turn to bioidentical hormone replacement therapy. Unlike synthetic hormones, bioidentical hormones are chemically identical to the ones your body produces naturally. This allows for a treatment plan that is customized to your specific hormonal needs, based on comprehensive testing. A specialist can create a compound that restores your unique balance, which can improve not only libido but also mood, energy, and overall well-being. Methods like Biote Hormone Therapy use pellets to deliver a steady, consistent dose of hormones, helping you feel balanced day in and day out.
+For a more personalized approach, many women turn to [bioidentical hormone](/services/menopause-hormones/) replacement therapy. Unlike synthetic hormones, bioidentical hormones are chemically identical to the ones your body produces naturally. This allows for a treatment plan that is customized to your specific hormonal needs, based on comprehensive testing. A specialist can create a compound that restores your unique balance, which can improve not only libido but also mood, energy, and overall well-being. Methods like Biote Hormone Therapy use pellets to deliver a steady, consistent dose of hormones, helping you feel balanced day in and day out.
 
 ### FDA-approved medications: Addyi® and PT-141
 
@@ -150,7 +150,7 @@ Testosterone might be known as the male hormone, but it is absolutely essential 
 
 ## Discover Advanced Treatment Options
 
-If lifestyle adjustments and hormonal treatments aren’t giving you the results you want, it might be time to explore more advanced options. Technology in women’s sexual health has come a long way, offering innovative, minimally invasive procedures that can make a significant difference. These treatments are designed to address the physical changes that can affect desire, comfort, and satisfaction. From enhancing sensitivity to restoring tissue health, these modern solutions can help you feel more like yourself again. They target specific concerns like vaginal dryness, laxity, and pelvic floor weakness, which often play a big role in a woman’s libido after 40. Let’s look at a few of the most effective treatments available.
+If lifestyle adjustments and hormonal treatments aren’t giving you the results you want, it might be time to explore more advanced options. Technology in women’s sexual health has come a long way, offering innovative, minimally invasive procedures that can make a significant difference. These treatments are designed to address the physical changes that can affect desire, comfort, and satisfaction. From enhancing sensitivity to restoring tissue health, these modern solutions can help you feel more like yourself again. They target specific concerns like vaginal dryness, laxity, and [pelvic floor](/services/pelvic-urinary/) weakness, which often play a big role in a woman’s libido after 40. Let’s look at a few of the most effective treatments available.
 
 ### The O-Shot® and G-Shot®
 
@@ -166,7 +166,7 @@ Your pelvic floor muscles are essential for both bladder control and sexual func
 
 ### Morpheus8V for intimate wellness
 
-For a comprehensive approach to vaginal rejuvenation, Morpheus8V is an excellent choice. This treatment combines microneedling with radiofrequency energy to remodel vaginal tissue on a deeper level. It addresses a range of concerns, including laxity, dryness, and even surface irregularities. By promoting the growth of new collagen and elastin, Morpheus8V helps restore the tone and texture of the vaginal walls. This can lead to increased natural lubrication, improved tightness, and greater comfort and pleasure during intimacy, helping you feel more confident and connected to your body.
+For a comprehensive approach to [vaginal rejuvenation](/services/vaginal-rejuvenation/), Morpheus8V is an excellent choice. This treatment combines microneedling with radiofrequency energy to remodel vaginal tissue on a deeper level. It addresses a range of concerns, including laxity, dryness, and even surface irregularities. By promoting the growth of new collagen and elastin, Morpheus8V helps restore the tone and texture of the vaginal walls. This can lead to increased natural lubrication, improved tightness, and greater comfort and pleasure during intimacy, helping you feel more confident and connected to your body.
 
 ## What to Consider Before Starting Treatment
 

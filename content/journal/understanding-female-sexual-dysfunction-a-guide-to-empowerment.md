@@ -18,7 +18,7 @@ tags:
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Female sexual dysfunction (FSD) is a topic many women hesitate to discuss, yet it affects a large number of people worldwide. At Berman Women’s Wellness Center, we understand the importance of breaking the stigma surrounding women’s sexual health. Dr. Berman’s passion for empowering female sexual health in Beverly Hills led her to create this center, a space where women can find comprehensive, multidisciplinary care that addresses both their physical and emotional well-being.
+[Female sexual dysfunction](/services/sexual-health/) (FSD) is a topic many women hesitate to discuss, yet it affects a large number of people worldwide. At Berman Women’s Wellness Center, we understand the importance of breaking the stigma surrounding women’s sexual health. Dr. Berman’s passion for empowering female sexual health in Beverly Hills led her to create this center, a space where women can find comprehensive, multidisciplinary care that addresses both their physical and emotional well-being.
 
 Let’s dive into what FSD is and how it impacts women’s lives.
 
@@ -39,7 +39,7 @@ Since FSD affects women in various ways, it’s essential to know that you’re 
 
 **FSD** can stem from a range of causes, often overlapping. These causes include physical issues, such as hormonal imbalances, chronic pain, or medications, and psychological factors, like anxiety, depression, or trauma.
 
-In many cases, life events such as pregnancy, childbirth, or menopause can also lead to changes in sexual function. Hormonal shifts during these periods can affect your libido, making intimacy less appealing or even uncomfortable.
+In many cases, life events such as pregnancy, childbirth, or [menopause](/services/menopause-hormones/) can also lead to changes in sexual function. Hormonal shifts during these periods can affect your libido, making intimacy less appealing or even uncomfortable.
 
 But it’s not just about the physical—stress, fatigue, and relationship issues can all play a role in FSD. The key takeaway? There’s rarely a single cause, and because of this, a holistic approach is often the best solution.
 

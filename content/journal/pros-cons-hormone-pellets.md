@@ -19,7 +19,7 @@ originalUrl: "https://bermansexualhealth.com/pros-cons-hormone-pellets/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-**The Truth About Bioidentical Hormone Pellets for Women And Why the Conversation Needs to Change**
+**The Truth About [Bioidentical Hormone](/services/menopause-hormones/) Pellets for Women And Why the Conversation Needs to Change**
 
 **The Problem With How We Talk About Women’s Hormones**
 

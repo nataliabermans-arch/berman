@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/emsella-chair-reviews-guide/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Doing the equivalent of 11,000 Kegels in under 30 minutes sounds like something from a sci-fi movie. Yet, that’s the core promise of the Emsella chair—a treatment designed to strengthen your pelvic floor while you simply sit and relax. It’s an impressive claim, but does it deliver real results for issues like incontinence? While scrolling through **emsella chair reviews** is a great start, the various _emsella treatment reviews_—including the scary-sounding _emsella negative reviews_—don’t tell the whole story. Here, we’ll break down the science, who makes a good candidate, and what real patients and specialists think.
+Doing the equivalent of 11,000 Kegels in under 30 minutes sounds like something from a sci-fi movie. Yet, that’s the core promise of the Emsella chair—a treatment designed to strengthen your [pelvic floor](/services/pelvic-urinary/) while you simply sit and relax. It’s an impressive claim, but does it deliver real results for issues like incontinence? While scrolling through **emsella chair reviews** is a great start, the various _emsella treatment reviews_—including the scary-sounding _emsella negative reviews_—don’t tell the whole story. Here, we’ll break down the science, who makes a good candidate, and what real patients and specialists think.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

@@ -19,7 +19,7 @@ tags:
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Perimenopause is a phase every woman goes through as she transitions toward menopause. It’s a time when your body starts to experience hormonal changes, but it can be tricky to know what’s really going on. Let’s dive into the age, stages, signs, symptoms, and treatment options for perimenopause.
+[Perimenopause](/services/menopause-hormones/) is a phase every woman goes through as she transitions toward menopause. It’s a time when your body starts to experience hormonal changes, but it can be tricky to know what’s really going on. Let’s dive into the age, stages, signs, symptoms, and treatment options for perimenopause.
 
 ### What Age Does Perimenopause Start?
 

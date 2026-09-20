@@ -23,7 +23,7 @@ There are a plethora of creams and topical lotions that promise to treat celluli
 
 ## These options are not only expensive, but they also harbor many risks.So what is the solution?
 
-Cellutone is a groundbreaking new non-surgical procedure option for cellulite elimination. Cellutone works by producing powerful, targeted vibrations in the affected area. Cellutone destroys cellulite at the source, by increasing microcirculation and oxygen supply. It also works to remove excess interstitial fluid. Cellutone will produce improved blood flow, encourage lymphatic drainage, and maximize results of any other body contouring procedure such as EmSculpt and EmSculpt NEO.
+Cellutone is a groundbreaking new non-surgical procedure option for cellulite elimination. Cellutone works by producing powerful, targeted vibrations in the affected area. Cellutone destroys cellulite at the source, by increasing microcirculation and oxygen supply. It also works to remove excess interstitial fluid. Cellutone will produce improved blood flow, encourage lymphatic drainage, and maximize results of any other [body contouring](/services/body-contouring/) procedure such as EmSculpt and EmSculpt NEO.
 
 > Cellutone is safe for patients of all ages and skin types.The treatment time is usually done in as little as forty-five minutes per area, with no downtime. Patients can return to normal activities immediately after treatment. In addition to this, treatments are pain free and many even find them relaxing!
 

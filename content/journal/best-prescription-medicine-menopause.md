@@ -58,7 +58,7 @@ Hormone Replacement Therapy, often called HRT, is frequently the most effective 
 
 ### Bioidentical Hormone Replacement Therapy
 
-You may have heard about “bioidentical” hormones. These are hormones that are chemically identical to the ones your body produces naturally. Some forms are FDA-approved and commercially available, while others are compounded, meaning they are custom-mixed by a pharmacist based on your doctor’s prescription. While this allows for a highly personalized dose, it’s important to know that compounded formulas are not regulated by the FDA, so their strength can vary. Working with an expert is key to creating a safe and effective Bioidentical Hormone Replacement Therapy plan that is tailored to your unique needs.
+You may have heard about “bioidentical” hormones. These are hormones that are chemically identical to the ones your body produces naturally. Some forms are FDA-approved and commercially available, while others are compounded, meaning they are custom-mixed by a pharmacist based on your doctor’s prescription. While this allows for a highly personalized dose, it’s important to know that compounded formulas are not regulated by the FDA, so their strength can vary. Working with an expert is key to creating a safe and effective [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy plan that is tailored to your unique needs.
 
 ### Combination vs. Estrogen-Only Therapy
 

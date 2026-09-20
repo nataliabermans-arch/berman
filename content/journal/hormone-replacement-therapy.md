@@ -38,7 +38,7 @@ The most common type of hormone replacement therapy is estrogen therapy. Estroge
 
 Another type of hormone replacement therapy is combination therapy, which includes both estrogen and progestin. Progestin is a synthetic form of progesterone that is often prescribed to women who still have their uterus, as estrogen alone can increase the risk of uterine cancer. Combination therapy can help alleviate menopausal symptoms while also protecting the uterus from potential risks.
 
-There is also bioidentical hormone therapy, which uses hormones that are chemically identical to those produced by the body. Bioidentical hormones are typically derived from plants and are often compounded by a pharmacist to create a customized treatment plan for each individual. Some women prefer bioidentical hormone therapy because it is believed to be more natural and have fewer side effects than traditional hormone replacement therapy.
+There is also [bioidentical hormone](/services/menopause-hormones/) therapy, which uses hormones that are chemically identical to those produced by the body. Bioidentical hormones are typically derived from plants and are often compounded by a pharmacist to create a customized treatment plan for each individual. Some women prefer bioidentical hormone therapy because it is believed to be more natural and have fewer side effects than traditional hormone replacement therapy.
 
 Selective estrogen receptor modulators (SERMs) are another type of hormone replacement therapy that can be used to treat menopausal symptoms. SERMs work by mimicking the effects of estrogen in some parts of the body while blocking its effects in others. This can help alleviate symptoms such as hot flashes and vaginal dryness without increasing the risk of uterine cancer.
 

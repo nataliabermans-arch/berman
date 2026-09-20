@@ -74,7 +74,7 @@ For most women, Aviva is a one-and-done procedure that delivers long-lasting, of
 
 ### Understanding Potential Additional Fees
 
-It’s important to have a clear understanding of the total investment. Because Aviva is considered a cosmetic procedure, it is not covered by insurance, so you should plan for the full out-of-pocket cost. When you receive a price quote, ask for a detailed breakdown. Does it include the initial consultation, anesthesia fees, and any follow-up appointments? Knowing exactly what’s covered helps you avoid surprises. Many clinics offer payment plans or financing options to make the procedure more accessible, which is always a great question to ask during your initial visit for any vaginal rejuvenation service.
+It’s important to have a clear understanding of the total investment. Because Aviva is considered a cosmetic procedure, it is not covered by insurance, so you should plan for the full out-of-pocket cost. When you receive a price quote, ask for a detailed breakdown. Does it include the initial consultation, anesthesia fees, and any follow-up appointments? Knowing exactly what’s covered helps you avoid surprises. Many clinics offer payment plans or financing options to make the procedure more accessible, which is always a great question to ask during your initial visit for any [vaginal rejuvenation](/services/vaginal-rejuvenation/) service.
 
 ## Comparing Aviva to Traditional Surgical Labiaplasty
 
@@ -110,7 +110,7 @@ When exploring your options, it’s helpful to understand the broader landscape 
 
 #### Other Non-Surgical Options
 
-Beyond Aviva, there are other effective, non-surgical treatments designed to improve vaginal health. For instance, therapies like Forma V and Morpheus8-V use radiofrequency to address internal and external tissue laxity, while V Tone can help strengthen pelvic floor muscles. Like Aviva, these are considered cosmetic procedures and are paid for out-of-pocket. To make these transformative treatments more accessible, many practices offer flexible payment plans that allow you to manage the investment in a way that fits your budget.
+Beyond Aviva, there are other effective, non-surgical treatments designed to improve vaginal health. For instance, therapies like Forma V and Morpheus8-V use radiofrequency to address internal and external tissue laxity, while V Tone can help strengthen [pelvic floor](/services/pelvic-urinary/) muscles. Like Aviva, these are considered cosmetic procedures and are paid for out-of-pocket. To make these transformative treatments more accessible, many practices offer flexible payment plans that allow you to manage the investment in a way that fits your budget.
 
 #### Combined Surgical Procedures
 

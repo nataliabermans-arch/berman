@@ -14,7 +14,7 @@ author: "Dr. Jennifer Berman, MD"
 
 As we age, there is a decline in the functions of our body systems. Skin sags, memory span shortens, and the list goes on. But thanks to innovative technologies, most of these aging-related conditions are reduced, if not totally prevented. One of these remedies is Hormone Replacement Therapy (HRT). This treatment targets menopausal or near-menopausal women, who experience symptoms such as hot flushes, reduced sex drives, vaginal dryness, and palpitations. And as its name implies, HRT replaces hormones that the body could no longer produce because of old age.
 
-HRT comes in different ways or forms – patches, creams, gels, or pills. In recent years, Bioidentical Hormone Replacement Therapy emerged, introducing the pellets form. And among the key players in this market is BioTE. BioTE is a leading innovator in precision and preventive medicine, whose aim is hormone restoration and optimization for restored vitality.
+HRT comes in different ways or forms – patches, creams, gels, or pills. In recent years, [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy emerged, introducing the pellets form. And among the key players in this market is BioTE. BioTE is a leading innovator in precision and preventive medicine, whose aim is hormone restoration and optimization for restored vitality.
 
 BioTE’s Method of bioidentical hormone replacement therapy (BHRT) uses pellets about the size of a grain of rice. These pellets contain bioidentical hormones compounded in quality-controlled U.S.-based facilities. These supplemental pellets are identical to the ones produced by the body.
 

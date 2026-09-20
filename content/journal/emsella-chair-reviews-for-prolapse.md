@@ -22,7 +22,7 @@ A chair that does thousands of Kegels for you in a single session sounds almost 
 
 ## Key Takeaways
 
-- **Strengthen your pelvic floor without downtime**: Emsella is a non-invasive treatment that uses focused energy to create thousands of deep muscle contractions, rebuilding pelvic support without requiring surgery or recovery time.
+- **Strengthen your [pelvic floor](/services/pelvic-urinary/) without downtime**: Emsella is a non-invasive treatment that uses focused energy to create thousands of deep muscle contractions, rebuilding pelvic support without requiring surgery or recovery time.
 - **Know if it’s the right fit for you**: This treatment is a great option for women with mild to moderate prolapse and related incontinence, but it’s important to know that other treatments may offer more significant correction for advanced cases.
 - **Compare passive vs. active treatments**: Emsella strengthens muscles for you, while physical therapy actively teaches you coordination and control. A professional consultation is the best way to decide which approach will provide the most lasting results for your body.
 
@@ -66,7 +66,7 @@ Much of the existing research on Emsella focuses on its effectiveness for urinar
 
 ### How Emsella Compares to Surgery
 
-It’s important to have realistic expectations when comparing a non-invasive treatment like Emsella to a surgical procedure. One prospective study directly compared Emsella therapy to anterior colporrhaphy, a common surgery for bladder prolapse. The results showed that surgery offered a more significant reduction in prolapse, with 88% of surgical patients achieving a complete correction (stage 0 prolapse). In comparison, 64% of Emsella patients saw their condition improve to stage 1 prolapse. While surgery may produce more dramatic results, Emsella provides a meaningful improvement without any downtime, anesthesia, or surgical risks, making it an excellent option for many women seeking vaginal rejuvenation.
+It’s important to have realistic expectations when comparing a non-invasive treatment like Emsella to a surgical procedure. One prospective study directly compared Emsella therapy to anterior colporrhaphy, a common surgery for bladder prolapse. The results showed that surgery offered a more significant reduction in prolapse, with 88% of surgical patients achieving a complete correction (stage 0 prolapse). In comparison, 64% of Emsella patients saw their condition improve to stage 1 prolapse. While surgery may produce more dramatic results, Emsella provides a meaningful improvement without any downtime, anesthesia, or surgical risks, making it an excellent option for many women seeking [vaginal rejuvenation](/services/vaginal-rejuvenation/).
 
 ### Expert Opinions and Potential Concerns
 

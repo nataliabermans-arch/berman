@@ -34,7 +34,7 @@ The primary reason women consider HRT is to find relief from the challenging sym
 
 ### The Different Types of HRT
 
-When discussing HRT, it’s helpful to know that it’s not a one-size-fits-all treatment. There are two main types, and the right one for you depends on your medical history. The first is Estrogen-Only Therapy, which is typically recommended for women who have had a hysterectomy (their uterus removed). The second is Combination Therapy, which includes both estrogen and a progestin (a synthetic form of progesterone). This is the standard approach for women who still have their uterus, as the progestin helps protect the uterine lining. At our practice, we specialize in options like Bioidentical Hormone Replacement Therapy, which uses hormones that are chemically identical to those your body produces.
+When discussing HRT, it’s helpful to know that it’s not a one-size-fits-all treatment. There are two main types, and the right one for you depends on your medical history. The first is Estrogen-Only Therapy, which is typically recommended for women who have had a hysterectomy (their uterus removed). The second is Combination Therapy, which includes both estrogen and a progestin (a synthetic form of progesterone). This is the standard approach for women who still have their uterus, as the progestin helps protect the uterine lining. At our practice, we specialize in options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy, which uses hormones that are chemically identical to those your body produces.
 
 ### What Conditions Can HRT Help With?
 

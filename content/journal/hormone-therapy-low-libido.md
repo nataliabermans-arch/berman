@@ -33,7 +33,7 @@ If you’ve noticed your sex drive isn’t what it used to be, you’re not alon
 
 ### The Role of Hormonal Imbalances
 
-Hormones are your body’s chemical messengers, and when they’re out of sync, it can impact everything, including your sex drive. For many women, the transition into perimenopause and menopause brings a significant drop in estrogen. This can lead to symptoms like vaginal dryness and painful intercourse, which naturally make sex less appealing. Addressing these hormonal shifts can often restore comfort and desire. While it’s a natural part of aging, you don’t have to just accept the discomfort. Treatments like Bioidentical Hormone Replacement Therapy are designed to help rebalance your body and ease these symptoms.
+Hormones are your body’s chemical messengers, and when they’re out of sync, it can impact everything, including your sex drive. For many women, the transition into perimenopause and menopause brings a significant drop in estrogen. This can lead to symptoms like vaginal dryness and painful intercourse, which naturally make sex less appealing. Addressing these hormonal shifts can often restore comfort and desire. While it’s a natural part of aging, you don’t have to just accept the discomfort. Treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy are designed to help rebalance your body and ease these symptoms.
 
 ### How Stress and Lifestyle Affect Desire
 
@@ -129,7 +129,7 @@ For some women, the source of low libido isn’t hormonal, it’s neurological. 
 
 ### PT-141 Therapy for Sexual Arousal
 
-Another powerful, non-hormonal option is PT-141 therapy. Also known by its generic name, Bremelanotide, this is a peptide therapy designed to directly enhance sexual desire and arousal. Unlike a daily pill, PT-141 is a self-administered injection taken as needed before you plan to be intimate. It works through a different pathway than other treatments by activating receptors in your brain associated with sexual response. Many women find it effective for increasing arousal and making sexual experiences more satisfying. It’s a great alternative for those looking for an on-demand solution rather than a daily medication.
+Another powerful, non-hormonal option is PT-141 therapy. Also known by its generic name, Bremelanotide, this is a [peptide therapy](/services/peptide-therapy/) designed to directly enhance sexual desire and arousal. Unlike a daily pill, PT-141 is a self-administered injection taken as needed before you plan to be intimate. It works through a different pathway than other treatments by activating receptors in your brain associated with sexual response. Many women find it effective for increasing arousal and making sexual experiences more satisfying. It’s a great alternative for those looking for an on-demand solution rather than a daily medication.
 
 ### Other Non-Hormonal Medical Treatments
 

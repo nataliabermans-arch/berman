@@ -195,7 +195,7 @@ This condition can stem from a variety of factors, including hormonal imbalances
 
 The great news is that sexual dysfunction is treatable. Once you connect with a healthcare provider, you can explore a range of effective solutions tailored to your specific needs. Your path forward might involve cognitive behavioral therapy to address any psychological barriers, or it could be as simple as adjusting a current medication that’s interfering with your arousal.
 
-For many women, hormonal shifts are the underlying cause, and treatments like Bioidentical Hormone Replacement Therapy can restore balance and revitalize your body’s natural responses. Other innovative therapies can also directly address physical symptoms. The most important step is starting the conversation with a doctor who specializes in women’s sexual health to find the right approach for you.
+For many women, hormonal shifts are the underlying cause, and treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can restore balance and revitalize your body’s natural responses. Other innovative therapies can also directly address physical symptoms. The most important step is starting the conversation with a doctor who specializes in women’s sexual health to find the right approach for you.
 
 ## Take Control of Your Sexual Health with Dr. Berman
 

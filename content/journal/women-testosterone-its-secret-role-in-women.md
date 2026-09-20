@@ -32,7 +32,7 @@ Produced primarily in the ovaries and adrenal glands, testosterone has various f
 - **Cognitive Function:** Some studies suggest testosterone may play a role in cognitive function and memory.
 - **Bone Health:** Testosterone contributes to bone density and may help prevent osteoporosis.
 
-While estrogen levels naturally decline with age, testosterone levels typically remain relatively stable throughout a woman’s life until menopause, when they may decrease slightly. However, various factors can affect testosterone levels in women at any age.
+While estrogen levels naturally decline with age, testosterone levels typically remain relatively stable throughout a woman’s life until [menopause](/services/menopause-hormones/), when they may decrease slightly. However, various factors can affect testosterone levels in women at any age.
 
 **When the Balance Tips: Factors Affecting Testosterone Levels in Women**
 

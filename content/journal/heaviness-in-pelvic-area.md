@@ -46,7 +46,7 @@ That persistent, dragging feeling in your lower abdomen can be unsettling. It’
 
 ### Pelvic Organ Prolapse
 
-Imagine the muscles and tissues supporting your pelvic organs acting like a hammock. When that hammock weakens, organs like your bladder or uterus can drop down, or prolapse. This can create a distinct feeling of heaviness or pressure in your vagina or lower belly, almost like something is bulging or falling out. It’s more common after childbirth or menopause but can happen for other reasons too. While it sounds alarming, there are many effective ways to manage it, from pelvic floor exercises to specialized pelvic pain treatments.
+Imagine the muscles and tissues supporting your pelvic organs acting like a hammock. When that hammock weakens, organs like your bladder or uterus can drop down, or prolapse. This can create a distinct feeling of heaviness or pressure in your vagina or lower belly, almost like something is bulging or falling out. It’s more common after childbirth or menopause but can happen for other reasons too. While it sounds alarming, there are many effective ways to manage it, from [pelvic floor](/services/pelvic-urinary/) exercises to specialized pelvic pain treatments.
 
 ### Uterine Fibroids and Ovarian Cysts
 
@@ -128,7 +128,7 @@ Working with a healthcare provider who specializes in women’s health ensures y
 
 ### Hormonal and Medical Therapies
 
-Hormonal fluctuations, especially during perimenopause and menopause, can contribute to pelvic discomfort and changes in tissue health. If your symptoms are linked to hormonal shifts, your doctor might suggest treatments to restore balance. Options can include localized estrogen in the form of creams, tablets, or a vaginal ring. For more systemic issues, treatments like Bioidentical Hormone Replacement Therapy can address a wider range of symptoms, including pelvic heaviness, by replenishing the hormones your body is missing. These therapies can improve tissue elasticity and support, offering significant relief.
+Hormonal fluctuations, especially during perimenopause and menopause, can contribute to pelvic discomfort and changes in tissue health. If your symptoms are linked to hormonal shifts, your doctor might suggest treatments to restore balance. Options can include localized estrogen in the form of creams, tablets, or a vaginal ring. For more systemic issues, treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can address a wider range of symptoms, including pelvic heaviness, by replenishing the hormones your body is missing. These therapies can improve tissue elasticity and support, offering significant relief.
 
 ### The Role of Physical Therapy
 
@@ -136,7 +136,7 @@ Think of physical therapy as a targeted workout plan for your pelvic floor. A sp
 
 ### Minimally Invasive Procedures
 
-For many women, minimally invasive procedures offer a powerful solution without the need for traditional surgery. These treatments are designed to address specific issues like uterine fibroids or vaginal laxity, which can both cause a feeling of heaviness. For example, Uterine Fibroid Embolization is a procedure that can shrink fibroids and relieve symptoms. Other modern treatments focus on vaginal rejuvenation, using technologies like radiofrequency to tighten tissues and improve support. These procedures typically involve minimal downtime and can make a huge difference in your daily comfort.
+For many women, minimally invasive procedures offer a powerful solution without the need for traditional surgery. These treatments are designed to address specific issues like uterine fibroids or vaginal laxity, which can both cause a feeling of heaviness. For example, Uterine Fibroid Embolization is a procedure that can shrink fibroids and relieve symptoms. Other modern treatments focus on [vaginal rejuvenation](/services/vaginal-rejuvenation/), using technologies like radiofrequency to tighten tissues and improve support. These procedures typically involve minimal downtime and can make a huge difference in your daily comfort.
 
 ### Surgical Options for Lasting Relief
 

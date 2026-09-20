@@ -14,7 +14,7 @@ originalUrl: "https://bermansexualhealth.com/preparing-for-perimenopause-menopau
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Menopause. The word itself can conjure up a whirlwind of emotions – relief, anxiety, confusion. It’s a natural transition every woman goes through, marking the end of her fertile years. But before menopause arrives, there’s a preparatory phase called perimenopause, and it’s during this time that many women experience a rollercoaster of symptoms.
+Menopause. The word itself can conjure up a whirlwind of emotions – relief, anxiety, confusion. It’s a natural transition every woman goes through, marking the end of her fertile years. But before menopause arrives, there’s a preparatory phase called [perimenopause](/services/menopause-hormones/), and it’s during this time that many women experience a rollercoaster of symptoms.
 
 This article is your guide to navigating the sometimes-bumpy road of perimenopause and menopause. We’ll explore the tell-tale signs of these transitions, the reasons behind them, and equip you with strategies to manage these symptoms and thrive throughout this stage of life.
 

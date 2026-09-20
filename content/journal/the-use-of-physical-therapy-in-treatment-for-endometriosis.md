@@ -13,7 +13,7 @@ originalUrl: >-
 author: "Dr. Jennifer Berman, MD"
 ---
 
-_“I have had severe endometriosis for many years and have had several surgeries. Also started having another type of pain, which was very severe. It felt to me like bladder spasms, and I was having frequency urination of every 20 minutes all day long. I finally went to an excellent urologist who was able to feel my pelvic floor muscles through an internal exam and found that my pelvic floor muscles were in spasm (or hypertonic). He prescribed Ativan for a very short term and physical therapy. . . “_
+_“I have had severe endometriosis for many years and have had several surgeries. Also started having another type of pain, which was very severe. It felt to me like bladder spasms, and I was having frequency urination of every 20 minutes all day long. I finally went to an excellent urologist who was able to feel my [pelvic floor](/services/pelvic-urinary/) muscles through an internal exam and found that my pelvic floor muscles were in spasm (or hypertonic). He prescribed Ativan for a very short term and physical therapy. . . “_
 
 \*There were many days I trudged into NYC feeling awful to get to my physical therapy twice a week in the winter, but I kept going because I was desperate for some relief. It was really my lifeline and I came to look forward to it. It seems that after years of pain in my abdomen I had clenched my abdominal and pelvic floor muscles so much that they were in a constant holding or tightening pattern and they had lost their normal function.? **Dale E, Endometriosis Association member, New Jersey (03/09/2006)\***
 

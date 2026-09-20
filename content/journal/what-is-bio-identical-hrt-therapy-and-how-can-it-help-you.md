@@ -65,6 +65,6 @@ By evaluating your symptoms and conducting thorough hormone testing, Dr. Berman 
 
 ## Why Choose The Berman Women’s Wellness Center?
 
-At The Berman Women’s Wellness Center, you’re not just another patient. You’re part of a community dedicated to women’s wellness. The center offers a holistic, multidisciplinary approach to women’s health, and Dr. Berman has built a reputation for delivering state-of-the-art treatments designed to empower women. Whether you’re new to hormone therapy or have tried other options that haven’t worked, the team here will guide you every step of the way.
+At The Berman Women’s Wellness Center, you’re not just another patient. You’re part of a community dedicated to women’s wellness. The center offers a holistic, multidisciplinary approach to women’s health, and Dr. Berman has built a reputation for delivering state-of-the-art treatments designed to empower women. Whether you’re new to [hormone therapy](/services/menopause-hormones/) or have tried other options that haven’t worked, the team here will guide you every step of the way.
 
 So, if you’ve been wondering whether **Bio-Identical HRT Therapy** is the right choice for you, come talk to the experts at The Berman Women’s Wellness Center. They’ll help you find the best solution to balance your hormones and get you back to feeling your best.

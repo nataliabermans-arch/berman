@@ -29,7 +29,7 @@ Stress management is crucial for menopausal women, as stress can exacerbate symp
 
 Lastly, menopausal women should prioritize getting enough sleep. Hormonal changes during menopause can disrupt sleep patterns, leading to insomnia and fatigue.
 
-Establishing a bedtime routine, creating a comfortable sleep environment, and avoiding caffeine and electronics before bed can help improve sleep quality. If sleep problems persist, consider talking to a healthcare provider about potential solutions such as hormone therapy or sleep aids.
+Establishing a bedtime routine, creating a comfortable sleep environment, and avoiding caffeine and electronics before bed can help improve sleep quality. If sleep problems persist, consider talking to a healthcare provider about potential solutions such as [hormone therapy](/services/menopause-hormones/) or sleep aids.
 
 By making these lifestyle changes, menopausal women can better manage their symptoms, improve their overall health, and enhance their quality of life during this transitional phase. Remember, every woman’s experience with menopause is unique, so it’s important to listen to your body and consult with healthcare providers for personalized recommendations.
 

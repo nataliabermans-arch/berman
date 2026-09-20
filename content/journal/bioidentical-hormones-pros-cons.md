@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/bioidentical-hormones-pros-cons/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-If you’re here, you’re likely searching for real solutions to symptoms that are getting in the way of your life. Feeling tired, irritable, or just not yourself is a common part of major hormonal shifts, but it doesn’t have to be your new normal. **Bioidentical hormone replacement therapy** (BHRT) is a promising treatment that helps many women find relief. However, choosing the right _bioidentical hormone therapy_ is a big decision. Your health journey is unique, and the right choice starts with having all the facts. This guide covers the critical pros and cons to help you determine if this is the right path forward.
+If you’re here, you’re likely searching for real solutions to symptoms that are getting in the way of your life. Feeling tired, irritable, or just not yourself is a common part of major hormonal shifts, but it doesn’t have to be your new normal. **[Bioidentical hormone](/services/menopause-hormones/) replacement therapy** (BHRT) is a promising treatment that helps many women find relief. However, choosing the right _bioidentical hormone therapy_ is a big decision. Your health journey is unique, and the right choice starts with having all the facts. This guide covers the critical pros and cons to help you determine if this is the right path forward.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

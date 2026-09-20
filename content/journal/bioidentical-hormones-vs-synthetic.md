@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/bioidentical-hormones-vs-synthetic/
 author: "Dr. Jennifer Berman, MD"
 ---
 
-The conversation around hormone replacement therapy often feels complicated, but the fundamental difference between your options comes down to simple chemistry. It’s all about molecular structure. Think of it like a key fitting into a lock; some keys are a perfect match, while others are just close enough to work. This is the essential distinction in the bioidentical hormones vs synthetic debate. One is designed to be a perfect molecular copy of what your body makes, while the other is not. This small difference can impact everything from effectiveness to side effects, and understanding it is crucial for making an informed decision about your health.
+The conversation around hormone replacement therapy often feels complicated, but the fundamental difference between your options comes down to simple chemistry. It’s all about molecular structure. Think of it like a key fitting into a lock; some keys are a perfect match, while others are just close enough to work. This is the essential distinction in the [bioidentical hormone](/services/menopause-hormones/)s vs synthetic debate. One is designed to be a perfect molecular copy of what your body makes, while the other is not. This small difference can impact everything from effectiveness to side effects, and understanding it is crucial for making an informed decision about your health.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

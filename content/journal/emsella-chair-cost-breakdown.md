@@ -28,7 +28,7 @@ When you’re looking for a real solution to urinary incontinence, the options c
 
 ## What is the Emsella Chair & How Much Does It Cost?
 
-If you’re looking for a non-invasive way to address urinary incontinence and strengthen your pelvic floor, you’ve likely heard about the Emsella chair. It’s a breakthrough treatment that lets you tackle bladder leaks and improve pelvic health while remaining fully clothed. But one of the first questions that comes to mind is about the cost. While the price can vary based on your location and specific needs, understanding the typical investment can help you decide if it’s the right path for you.
+If you’re looking for a non-invasive way to address urinary incontinence and strengthen your [pelvic floor](/services/pelvic-urinary/), you’ve likely heard about the Emsella chair. It’s a breakthrough treatment that lets you tackle bladder leaks and improve pelvic health while remaining fully clothed. But one of the first questions that comes to mind is about the cost. While the price can vary based on your location and specific needs, understanding the typical investment can help you decide if it’s the right path for you.
 
 Let’s break down what goes into the cost of Emsella Incontinence Therapy. The total price is usually based on a full treatment plan rather than a single visit, as multiple sessions are needed to achieve the best results. Think of it like personal training for your pelvic floor—consistency is key. We’ll explore the cost per session, what a full package looks like, and what factors can influence the final price you pay. This way, you can get a clear picture of the financial commitment and how it fits into your wellness goals.
 

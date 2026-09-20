@@ -28,7 +28,7 @@ If you’re exploring hormone replacement options, you’ve likely come across c
 
 ## What Is Hormone Pellet Therapy?
 
-Hormone pellet therapy is a straightforward way to restore your body’s natural hormone balance. Think of it as a tiny, long-lasting supplement. The therapy uses small pellets, about the size of a grain of rice, that are placed just under your skin. These pellets contain bioidentical hormones, which are designed to be structurally identical to the hormones your body produces on its own. This approach to hormone replacement can help manage the frustrating symptoms that often come with hormonal shifts from perimenopause, menopause, or other health conditions. It’s a popular choice for women seeking a consistent, low-maintenance solution to feel like themselves again.
+Hormone pellet therapy is a straightforward way to restore your body’s natural hormone balance. Think of it as a tiny, long-lasting supplement. The therapy uses small pellets, about the size of a grain of rice, that are placed just under your skin. These pellets contain [bioidentical hormone](/services/menopause-hormones/)s, which are designed to be structurally identical to the hormones your body produces on its own. This approach to hormone replacement can help manage the frustrating symptoms that often come with hormonal shifts from perimenopause, menopause, or other health conditions. It’s a popular choice for women seeking a consistent, low-maintenance solution to feel like themselves again.
 
 ### How Do Hormone Pellets Work?
 

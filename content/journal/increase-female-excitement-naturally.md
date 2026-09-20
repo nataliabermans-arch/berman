@@ -25,7 +25,7 @@ It’s frustrating when you feel like you’re fighting your own body to feel de
 
 - **Excitement begins long before the bedroom**: True arousal is a mind-body experience that relies on emotional safety, mental clarity, and physical well-being. Nurturing your relationship, managing stress, and getting enough sleep are foundational steps to a healthier sex drive.
 - **Small, intentional habits can make a big impact**: You can directly influence your desire by making simple adjustments to your daily life, such as incorporating circulation-friendly foods, creating a relaxing environment, and practicing exercises like yoga or Kegels to improve blood flow.
-- **It’s okay to seek professional support**: If natural methods aren’t enough, physiological factors like hormonal imbalances could be the cause. Consulting a specialist about options like Bioidentical Hormone Replacement Therapy is a proactive step toward addressing the root issue and reclaiming your sexual health.
+- **It’s okay to seek professional support**: If natural methods aren’t enough, physiological factors like hormonal imbalances could be the cause. Consulting a specialist about options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy is a proactive step toward addressing the root issue and reclaiming your sexual health.
 
 ## How Does Female Arousal Actually Work?
 
@@ -147,7 +147,7 @@ Moving your body is one of the most direct ways to connect with your sensuality.
 
 ### Practice Kegels for Enhanced Sensation
 
-You’ve probably heard of Kegels, and they’re popular for a reason. These exercises strengthen your pelvic floor muscles—the same ones that contract during an orgasm. A stronger pelvic floor can lead to more intense sensations and heightened arousal. To do them, just squeeze the muscles you’d use to stop the flow of urine, hold for a few seconds, and release. You can practice them discreetly anytime, whether you’re in a meeting or waiting for coffee. Making them a regular habit is a simple way to invest in your long-term sexual and urinary tract health.
+You’ve probably heard of Kegels, and they’re popular for a reason. These exercises strengthen your [pelvic floor](/services/pelvic-urinary/) muscles—the same ones that contract during an orgasm. A stronger pelvic floor can lead to more intense sensations and heightened arousal. To do them, just squeeze the muscles you’d use to stop the flow of urine, hold for a few seconds, and release. You can practice them discreetly anytime, whether you’re in a meeting or waiting for coffee. Making them a regular habit is a simple way to invest in your long-term sexual and urinary tract health.
 
 ### Try Yoga Poses That Improve Blood Flow
 

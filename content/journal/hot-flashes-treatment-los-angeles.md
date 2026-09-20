@@ -24,7 +24,7 @@ Living in Southern California is wonderful, but the year-round warm climate can 
 ## Key Takeaways
 
 - **Your comfort is reason enough to see a doctor**: If hot flashes disrupt your sleep, work, or overall quality of life, it’s time to seek professional guidance. You don’t have to meet a certain threshold of discomfort to deserve effective, personalized solutions.
-- **A personalized plan is the most effective approach**: The best treatment is one designed specifically for you, considering your unique health profile and goals. A great specialist will explore all options, from Bioidentical Hormone Replacement Therapy to non-hormonal medications, to find your perfect fit.
+- **A personalized plan is the most effective approach**: The best treatment is one designed specifically for you, considering your unique health profile and goals. A great specialist will explore all options, from [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy to non-hormonal medications, to find your perfect fit.
 - **Lifestyle changes support your medical treatment**: While a tailored medical plan is key, simple daily habits can significantly improve your results. Identifying food triggers, staying active to manage stress, and dressing in layers are practical strategies that give you more control.
 
 ## What Are Hot Flashes and When Should You See a Doctor?

@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/bioidentical-hormones-cancer-risk/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-If you’ve ever considered hormone therapy, you’ve likely run into a wall of confusing and often scary information. For years, the conversation has been dominated by fear, causing many women to avoid treatments that could dramatically improve their quality of life. The good news is that the discussion is finally becoming more nuanced. We now understand that the type of hormone used matters immensely. The blanket warnings of the past were based on studies using older, synthetic hormones, not the bioidentical options available today. This article will walk you through what the current science actually says about bioidentical hormones and cancer risk, helping you separate outdated myths from modern facts.
+If you’ve ever considered hormone therapy, you’ve likely run into a wall of confusing and often scary information. For years, the conversation has been dominated by fear, causing many women to avoid treatments that could dramatically improve their quality of life. The good news is that the discussion is finally becoming more nuanced. We now understand that the type of hormone used matters immensely. The blanket warnings of the past were based on studies using older, synthetic hormones, not the bioidentical options available today. This article will walk you through what the current science actually says about [bioidentical hormone](/services/menopause-hormones/)s and cancer risk, helping you separate outdated myths from modern facts.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

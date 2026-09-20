@@ -53,7 +53,7 @@ The best programs often combine medical expertise with personalized lifestyle su
 
 ### Medical Weight Loss and Hormone Therapy
 
-Medical weight loss is a program supervised by a physician who creates a custom plan just for you. Instead of a generic diet, your doctor will look at your overall health, hormone levels, and body composition to identify the underlying reasons for weight gain. This approach is especially helpful if you suspect hormonal imbalances from menopause or other conditions are playing a role. By addressing the root causes, a medical expert can create a targeted plan using treatments like Bioidentical Hormone Replacement Therapy to help restore balance and make weight management feel less like an uphill battle.
+Medical weight loss is a program supervised by a physician who creates a custom plan just for you. Instead of a generic diet, your doctor will look at your overall health, hormone levels, and body composition to identify the underlying reasons for weight gain. This approach is especially helpful if you suspect hormonal imbalances from menopause or other conditions are playing a role. By addressing the root causes, a medical expert can create a targeted plan using treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy to help restore balance and make weight management feel less like an uphill battle.
 
 ### Nutritional Counseling and Personalized Meal Plans
 
@@ -61,7 +61,7 @@ A truly effective weight loss plan includes guidance on what you eat, but it sho
 
 ### Non-Invasive Body Contouring Treatments
 
-Sometimes, even with a consistent diet and exercise routine, you might have stubborn areas of fat that just won’t budge. This is where non-invasive body contouring treatments can make a difference. These procedures are designed to complement your weight loss efforts by targeting and reducing localized fat pockets to help sculpt and tone your physique. While they aren’t a substitute for a healthy lifestyle, treatments like Aviva can be a great final step to help you feel more confident and comfortable in your body after you’ve put in the hard work.
+Sometimes, even with a consistent diet and exercise routine, you might have stubborn areas of fat that just won’t budge. This is where non-invasive [body contouring](/services/body-contouring/) treatments can make a difference. These procedures are designed to complement your weight loss efforts by targeting and reducing localized fat pockets to help sculpt and tone your physique. While they aren’t a substitute for a healthy lifestyle, treatments like Aviva can be a great final step to help you feel more confident and comfortable in your body after you’ve put in the hard work.
 
 ### Comprehensive Sexual and Urinary Health Support
 

@@ -69,7 +69,7 @@ It’s important to see a doctor if you think you might be depressed or have oth
 
 A reduced sex drive is not an inevitable part of aging, but it’s something many women experience as they get older and enter menopause. There can be many reasons for this, including lower levels of sex hormones (estrogen and testosterone) and various age-related health problems, including mobility problems.
 
-There are treatments to increase hormone levels if low levels are causing problems, such as the bioidentical hormone replacement therapy performed by Dr. Jennifer Berman. To learn more about these treatments, ask a question, or schedule your first appointment, [contact Dr. Berman’s office](/contact/) or email her directly.
+There are treatments to increase hormone levels if low levels are causing problems, such as the [bioidentical hormone](/services/menopause-hormones/) replacement therapy performed by Dr. Jennifer Berman. To learn more about these treatments, ask a question, or schedule your first appointment, [contact Dr. Berman’s office](/contact/) or email her directly.
 
 ![book a consultation with dr berman](/contact/)
 

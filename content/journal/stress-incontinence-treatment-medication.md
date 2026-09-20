@@ -23,7 +23,7 @@ The decision to skip a high-impact workout, the hesitation before a belly laugh,
 ## Key Takeaways
 
 - **Medication offers targeted support**: While there’s no magic pill for SUI, certain medications work by strengthening the key muscles that prevent leaks and also relaxing the bladder muscle. For postmenopausal women, topical estrogen is important for restoring tissue health in the vagina, bladder, and urethra, offering better bladder control.
-- **Think beyond the prescription**: Medication works best in combination with lifestyle changes. Pairing it with consistent pelvic floor exercises and simple lifestyle changes addresses SUI (stress urinary incontinence) from all angles for more comprehensive and lasting relief.
+- **Think beyond the prescription**: Medication works best in combination with lifestyle changes. Pairing it with consistent [pelvic floor](/services/pelvic-urinary/) exercises and simple lifestyle changes addresses SUI (stress urinary incontinence) from all angles for more comprehensive and lasting relief.
 - **Your treatment plan should be unique to you**: Medication isn’t a one-size-fits-all solution. A thorough consultation is essential to review your health history and determine if medication, a non-invasive therapy like Emsella, or a combination of treatments is the safest and most effective path for you.
 
 ## What Is Stress Urinary Incontinence (SUI)?
@@ -106,7 +106,7 @@ When you’re looking for solutions for SUI, it’s easy to run into conflicting
 
 ### Myth: Estrogen Is a Cure-All for SUI
 
-It’s a common belief that since SUI can worsen after menopause, when estrogen levels drop, replacing that estrogen should fix the problem. While it seems logical, research shows that systemic estrogen therapy (like pills or patches) doesn’t actually help reduce urine leakage from stress incontinence. For that reason, it isn’t a recommended treatment for SUI itself. However, for postmenopausal women, low-dose topical estrogen can be very helpful for related symptoms like vaginal dryness or irritation, which can contribute to overall pelvic discomfort. Addressing these issues is an important part of a holistic vaginal rejuvenation plan, but it’s not a direct cure for SUI leaks.
+It’s a common belief that since SUI can worsen after menopause, when estrogen levels drop, replacing that estrogen should fix the problem. While it seems logical, research shows that systemic estrogen therapy (like pills or patches) doesn’t actually help reduce urine leakage from stress incontinence. For that reason, it isn’t a recommended treatment for SUI itself. However, for postmenopausal women, low-dose topical estrogen can be very helpful for related symptoms like vaginal dryness or irritation, which can contribute to overall pelvic discomfort. Addressing these issues is an important part of a holistic [vaginal rejuvenation](/services/vaginal-rejuvenation/) plan, but it’s not a direct cure for SUI leaks.
 
 ### Fact: Understanding Off-Label Use
 
@@ -166,7 +166,7 @@ For women seeking a long-lasting solution with minimal disruption to their lives
 
 ### Hormone Replacement Therapy for Holistic Care
 
-Hormonal changes, particularly the drop in estrogen during and after menopause, can significantly affect the health of your pelvic tissues. This can weaken the support structures around the bladder and urethra, contributing to SUI. While not a direct cure for incontinence, hormone therapy is often a vital part of a holistic treatment plan. Using topical estrogen can help restore the health, thickness, and elasticity of vaginal and urethral tissues. When these tissues are healthier, they provide better natural support for your urinary system, which can lead to a noticeable reduction in leakage. Dr. Berman specializes in creating personalized Bioidentical Hormone Replacement Therapy plans to address your unique needs and improve your overall pelvic health.
+Hormonal changes, particularly the drop in estrogen during and after menopause, can significantly affect the health of your pelvic tissues. This can weaken the support structures around the bladder and urethra, contributing to SUI. While not a direct cure for incontinence, hormone therapy is often a vital part of a holistic treatment plan. Using topical estrogen can help restore the health, thickness, and elasticity of vaginal and urethral tissues. When these tissues are healthier, they provide better natural support for your urinary system, which can lead to a noticeable reduction in leakage. Dr. Berman specializes in creating personalized [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy plans to address your unique needs and improve your overall pelvic health.
 
 ## Finding Support on Your Treatment Journey
 

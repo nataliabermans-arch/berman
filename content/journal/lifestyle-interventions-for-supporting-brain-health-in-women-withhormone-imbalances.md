@@ -61,7 +61,7 @@ While your body produces over 50 different hormones, a few key players have an o
 
 ### Estrogen and Progesterone
 
-Estrogen is a true powerhouse when it comes to brain health. It acts as a neuroprotectant, shielding brain cells from damage, and plays a vital role in forming new neural connections. This is why many women feel their sharpest when estrogen levels are optimal. Progesterone, on the other hand, has a calming, soothing effect on the brain. When these hormones decline, particularly during perimenopause and menopause, women often report a noticeable shift in their cognitive function. The “brain fog” and memory lapses that so many experience are directly linked to this drop in estrogen. Fortunately, solutions like Bioidentical Hormone Replacement Therapy (BHRT) can help restore balance, offering a path back to mental clarity.
+Estrogen is a true powerhouse when it comes to brain health. It acts as a neuroprotectant, shielding brain cells from damage, and plays a vital role in forming new neural connections. This is why many women feel their sharpest when estrogen levels are optimal. Progesterone, on the other hand, has a calming, soothing effect on the brain. When these hormones decline, particularly during perimenopause and menopause, women often report a noticeable shift in their cognitive function. The “brain fog” and memory lapses that so many experience are directly linked to this drop in estrogen. Fortunately, solutions like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy (BHRT) can help restore balance, offering a path back to mental clarity.
 
 ### Thyroid Hormones (T3 and T4)
 

@@ -24,7 +24,7 @@ author: "Dr. Jennifer Berman, MD"
 
 - **Know the difference between the journey and the destination**: Perimenopause is the years-long transition defined by fluctuating hormones and a wide range of symptoms, while menopause is the single day you hit 12 months without a period. Understanding this timeline is the first step to getting the right support.
 - **Connect the dots between seemingly random symptoms**: Brain fog, anxiety, joint pain, and digestive issues aren’t just signs of aging; they are often directly linked to the hormonal shifts of perimenopause. Validating your full experience is key to finding solutions.
-- **Create a proactive plan for managing your symptoms**: You don’t have to simply wait for this phase to pass. A combination of lifestyle adjustments, stress management, and personalized medical treatments like Bioidentical Hormone Replacement Therapy can provide significant relief and put you back in control of your well-being.
+- **Create a proactive plan for managing your symptoms**: You don’t have to simply wait for this phase to pass. A combination of lifestyle adjustments, stress management, and personalized medical treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can provide significant relief and put you back in control of your well-being.
 
 ## Perimenopause or Menopause? Here’s How to Tell
 
@@ -90,7 +90,7 @@ You might recognize a few symptoms, or you might see a whole cluster that sudden
 
 ### Your Cycle and Hormones (Symptoms 1-20)
 
-This is the category most people associate with perimenopause, and for good reason. Fluctuating estrogen and progesterone levels directly impact your menstrual cycle and reproductive health. You might notice your predictable monthly cycle becomes anything but. These changes can also affect your intimate life, but know that solutions like vaginal rejuvenation can address concerns like dryness and discomfort.
+This is the category most people associate with perimenopause, and for good reason. Fluctuating estrogen and progesterone levels directly impact your menstrual cycle and reproductive health. You might notice your predictable monthly cycle becomes anything but. These changes can also affect your intimate life, but know that solutions like [vaginal rejuvenation](/services/vaginal-rejuvenation/) can address concerns like dryness and discomfort.
 
 1.  Irregular periods
 2.  Heavier or lighter periods
@@ -115,7 +115,7 @@ This is the category most people associate with perimenopause, and for good reas
 
 ### Changes in Your Body and Metabolism (Symptoms 21-50)
 
-Beyond your cycle, hormonal shifts can trigger a wide range of physical sensations and changes in how your body functions. Hot flashes and night sweats are the most well-known, but the list is much longer. You might notice new aches, digestive troubles, or changes in your body composition. Some women also experience urinary changes, and it’s helpful to know that effective options like Emsella Incontinence Therapy are available to strengthen the pelvic floor.
+Beyond your cycle, hormonal shifts can trigger a wide range of physical sensations and changes in how your body functions. Hot flashes and night sweats are the most well-known, but the list is much longer. You might notice new aches, digestive troubles, or changes in your body composition. Some women also experience urinary changes, and it’s helpful to know that effective options like Emsella Incontinence Therapy are available to strengthen the [pelvic floor](/services/pelvic-urinary/).
 
 21. Hot flashes
 22. Night sweats

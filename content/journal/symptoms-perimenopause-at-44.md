@@ -66,7 +66,7 @@ One of the first things many women notice is a change in their menstrual cycle. 
 
 ### Hot Flashes and Night Sweats
 
-Ah, the infamous hot flash. This sudden, intense feeling of heat spreading through your upper body and face is a hallmark of perimenopause for many women. They can last for just a few seconds or several minutes, and their intensity varies from person to person. When they happen at night, they’re called night sweats and can be powerful enough to wake you up, leaving you and your sheets drenched. These temperature fluctuations are tied to changing hormone levels. If they’re disrupting your life, treatments like Bioidentical Hormone Replacement Therapy can offer significant relief by rebalancing your hormones and easing your symptoms.
+Ah, the infamous hot flash. This sudden, intense feeling of heat spreading through your upper body and face is a hallmark of perimenopause for many women. They can last for just a few seconds or several minutes, and their intensity varies from person to person. When they happen at night, they’re called night sweats and can be powerful enough to wake you up, leaving you and your sheets drenched. These temperature fluctuations are tied to changing hormone levels. If they’re disrupting your life, treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can offer significant relief by rebalancing your hormones and easing your symptoms.
 
 ### Why You Might Feel So Tired
 
@@ -86,7 +86,7 @@ If you’ve noticed your interest in sex has taken a nosedive, you’re not alon
 
 ### Vaginal Dryness and Bladder Issues
 
-One of the most common yet least-discussed symptoms is a change in your vaginal and urinary health. Lower estrogen levels can cause vaginal tissues to become thinner, drier, and less elastic. This can lead to significant discomfort, itching, and pain during sex. You might also notice changes in your bladder habits. Maybe you’re making more trips to the bathroom or experiencing leakage when you cough or exercise. These symptoms are directly linked to hormonal shifts, and you don’t have to just live with them. There are many modern vaginal rejuvenation treatments that can offer lasting relief.
+One of the most common yet least-discussed symptoms is a change in your vaginal and urinary health. Lower estrogen levels can cause vaginal tissues to become thinner, drier, and less elastic. This can lead to significant discomfort, itching, and pain during sex. You might also notice changes in your bladder habits. Maybe you’re making more trips to the bathroom or experiencing leakage when you cough or exercise. These symptoms are directly linked to hormonal shifts, and you don’t have to just live with them. There are many modern [vaginal rejuvenation](/services/vaginal-rejuvenation/) treatments that can offer lasting relief.
 
 ### “Brain Fog” and Trouble Focusing
 
@@ -156,7 +156,7 @@ HRT isn’t the right path for everyone, and thankfully, it’s not the only opt
 
 ### Solutions for Sexual and Urinary Health
 
-Changes in sexual and urinary health are common during perimenopause, but you don’t have to just live with them. For issues like vaginal dryness, itching, or discomfort during intimacy, localized estrogen treatments (which come in creams, tablets, or rings) can make a huge difference. These work directly where you apply them and don’t enter your bloodstream, making them a safe, long-term solution. At the same time, lower estrogen can weaken pelvic floor muscles, leading to frustrating bladder leaks. Fortunately, innovative treatments for incontinence can help strengthen these crucial muscles, giving you back control and confidence without invasive procedures.
+Changes in sexual and urinary health are common during perimenopause, but you don’t have to just live with them. For issues like vaginal dryness, itching, or discomfort during intimacy, localized estrogen treatments (which come in creams, tablets, or rings) can make a huge difference. These work directly where you apply them and don’t enter your bloodstream, making them a safe, long-term solution. At the same time, lower estrogen can weaken [pelvic floor](/services/pelvic-urinary/) muscles, leading to frustrating bladder leaks. Fortunately, innovative treatments for incontinence can help strengthen these crucial muscles, giving you back control and confidence without invasive procedures.
 
 ## When Is It Time to Talk to a Doctor?
 

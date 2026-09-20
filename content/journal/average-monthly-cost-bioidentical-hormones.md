@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/average-monthly-cost-bioidentical-h
 author: "Dr. Jennifer Berman, MD"
 ---
 
-If you’ve tried to research the cost of bioidentical hormone therapy, you’ve probably found that getting a straight answer is tricky. There’s a good reason for that: BHRT is not a one-size-fits-all solution, so its price isn’t either. While the **average monthly cost of bioidentical hormones** is generally between $200 and $500, your personal plan is what truly determines the final figure. This guide is here to clear up the confusion. We’ll explain all the variables—from the type of hormones used and your specific dosage to your doctor’s expertise—that contribute to the cost, giving you a clear and realistic financial picture for your journey back to balance.
+If you’ve tried to research the cost of [bioidentical hormone](/services/menopause-hormones/) therapy, you’ve probably found that getting a straight answer is tricky. There’s a good reason for that: BHRT is not a one-size-fits-all solution, so its price isn’t either. While the **average monthly cost of bioidentical hormones** is generally between $200 and $500, your personal plan is what truly determines the final figure. This guide is here to clear up the confusion. We’ll explain all the variables—from the type of hormones used and your specific dosage to your doctor’s expertise—that contribute to the cost, giving you a clear and realistic financial picture for your journey back to balance.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

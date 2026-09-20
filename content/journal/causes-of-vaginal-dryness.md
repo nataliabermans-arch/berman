@@ -48,7 +48,7 @@ These hormonal shifts are a completely normal part of a woman’s life, occurrin
 
 ### Estrogen Decline During Menopause
 
-Menopause is the most common reason for a significant drop in estrogen. As your body prepares to stop menstruating, your ovaries produce less of this vital hormone. This change, known as genitourinary syndrome of menopause (GSM), directly affects your vaginal health. The once-plush and moist tissues can become thinner, less elastic, and drier, which can lead to discomfort during daily activities, itching, and painful sex. If this sounds familiar, you are far from alone. Many women experience these symptoms, and effective solutions like Bioidentical Hormone Replacement Therapy are available to help replenish your hormone levels and restore vaginal health.
+Menopause is the most common reason for a significant drop in estrogen. As your body prepares to stop menstruating, your ovaries produce less of this vital hormone. This change, known as genitourinary syndrome of menopause (GSM), directly affects your vaginal health. The once-plush and moist tissues can become thinner, less elastic, and drier, which can lead to discomfort during daily activities, itching, and painful sex. If this sounds familiar, you are far from alone. Many women experience these symptoms, and effective solutions like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy are available to help replenish your hormone levels and restore vaginal health.
 
 ### Postpartum and Breastfeeding Hormones
 

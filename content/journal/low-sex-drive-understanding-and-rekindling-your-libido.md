@@ -29,7 +29,7 @@ A healthy libido is a beautiful dance between physical and emotional well-being.
 
 The foundation of sexual desire lies in our physical well-being. Fluctuations in hormones, underlying medical conditions, and even medications we take can all disrupt the intricate hormonal balance that fuels libido. Here, we’ll explore the physical factors that can contribute to low libido in women and understand how addressing them can pave the way for a more fulfilling sex life.
 
-- **Hormonal Fluctuations:** Estrogen, testosterone, and progesterone all play a role in sexual desire. Changes in hormone levels due to pregnancy, breastfeeding, menopause, or certain medications can significantly impact your libido.
+- **Hormonal Fluctuations:** Estrogen, testosterone, and progesterone all play a role in sexual desire. Changes in hormone levels due to pregnancy, breastfeeding, [menopause](/services/menopause-hormones/), or certain medications can significantly impact your libido.
 - **Medical Conditions:** Certain medical conditions like thyroid problems, diabetes, chronic pain, and neurological disorders can affect your sex drive.
 - **Medications:** Some medications, including antidepressants, birth control pills, and certain pain medications, can have libido-dampening side effects.
 

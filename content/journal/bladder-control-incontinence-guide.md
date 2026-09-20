@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/bladder-control-incontinence-guide/
 author: "Dr. Jennifer Berman, MD"
 ---
 
-So many women I speak with believe that struggling with bladder leaks is their new normal after childbirth or during menopause. They’re told it’s just something to accept. Let’s clear this up right now: while common, it is _never_ normal. You do not have to organize your life around your bladder. The truth is, there are so many effective **bladder incontinence solutions**. This guide will give you the facts about why leaks happen and explore your options, from a targeted **female pelvic floor rehab routine** to other choices if pads don’t help. You deserve to feel in control.
+So many women I speak with believe that struggling with bladder leaks is their new normal after childbirth or during menopause. They’re told it’s just something to accept. Let’s clear this up right now: while common, it is _never_ normal. You do not have to organize your life around your bladder. The truth is, there are so many effective **bladder incontinence solutions**. This guide will give you the facts about why leaks happen and explore your options, from a targeted **female [pelvic floor](/services/pelvic-urinary/) rehab routine** to other choices if pads don’t help. You deserve to feel in control.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -74,7 +74,7 @@ If you’re dealing with bladder leaks, you’re far from alone. It’s a common
 
 ### How Hormones and Aging Affect Bladder Control
 
-As we age, our bodies naturally change, and the urinary system is no exception. The muscles in the bladder wall can become less elastic, reducing how much urine they can comfortably hold. At the same time, the pelvic floor muscles that support the bladder can weaken. Hormones, especially estrogen, play a huge role in maintaining the strength and flexibility of these tissues. When estrogen levels decline, particularly during perimenopause and menopause, the lining of the urethra can thin, making it harder to keep leaks at bay. This is why many women first notice issues with bladder control during this phase of life. Addressing these hormonal changes with treatments like Bioidentical Hormone Replacement Therapy can often make a significant difference.
+As we age, our bodies naturally change, and the urinary system is no exception. The muscles in the bladder wall can become less elastic, reducing how much urine they can comfortably hold. At the same time, the pelvic floor muscles that support the bladder can weaken. Hormones, especially estrogen, play a huge role in maintaining the strength and flexibility of these tissues. When estrogen levels decline, particularly during perimenopause and menopause, the lining of the urethra can thin, making it harder to keep leaks at bay. This is why many women first notice issues with bladder control during this phase of life. Addressing these hormonal changes with treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can often make a significant difference.
 
 #### The Role of Estrogen in Bladder Health
 
@@ -86,7 +86,7 @@ It’s common to notice that what started as a small, occasional leak gradually 
 
 ### From Pregnancy to Menopause: How Your Body Changes
 
-Pregnancy and childbirth are incredible feats, but they place immense stress on the pelvic floor. During pregnancy, the weight of the growing baby presses down on the bladder, while hormonal changes relax the surrounding muscles. Vaginal delivery can stretch and sometimes damage the nerves and muscles that are essential for bladder control. For some women, this leads to a condition called pelvic organ prolapse, where the bladder drops from its normal position. These effects can show up years later, often becoming more noticeable during menopause when declining estrogen further weakens the pelvic tissues. Fortunately, there are many effective options for vaginal rejuvenation that can help restore strength and function.
+Pregnancy and childbirth are incredible feats, but they place immense stress on the pelvic floor. During pregnancy, the weight of the growing baby presses down on the bladder, while hormonal changes relax the surrounding muscles. Vaginal delivery can stretch and sometimes damage the nerves and muscles that are essential for bladder control. For some women, this leads to a condition called pelvic organ prolapse, where the bladder drops from its normal position. These effects can show up years later, often becoming more noticeable during menopause when declining estrogen further weakens the pelvic tissues. Fortunately, there are many effective options for [vaginal rejuvenation](/services/vaginal-rejuvenation/) that can help restore strength and function.
 
 ### Could a Health Condition or Medication Be the Cause?
 

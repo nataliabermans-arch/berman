@@ -38,7 +38,7 @@ Your endocrine system is the sophisticated headquarters for hormone production a
 
 ### Major Glands and Their Roles
 
-Several major glands form the core of your endocrine system. The hypothalamus and pituitary gland in your brain act as the command center, signaling other glands to release hormones. The thyroid gland in your neck regulates metabolism, while the adrenal glands on top of your kidneys produce cortisol to manage stress. For women, the ovaries are a primary source of estrogen and progesterone. As you approach menopause, ovarian function declines, leading to the hormonal fluctuations that cause so many challenging symptoms. Understanding these glands helps pinpoint why you might be feeling off and what type of support, like Bioidentical Hormone Replacement Therapy, could help.
+Several major glands form the core of your endocrine system. The hypothalamus and pituitary gland in your brain act as the command center, signaling other glands to release hormones. The thyroid gland in your neck regulates metabolism, while the adrenal glands on top of your kidneys produce cortisol to manage stress. For women, the ovaries are a primary source of estrogen and progesterone. As you approach menopause, ovarian function declines, leading to the hormonal fluctuations that cause so many challenging symptoms. Understanding these glands helps pinpoint why you might be feeling off and what type of support, like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy, could help.
 
 ### Hormones from Other Tissues
 

@@ -24,7 +24,7 @@ Many of us are familiar with the occasional twinge or cramp in our lower abdomen
 
 - **Get a Clear Diagnosis First**: Sharp pelvic pain can stem from many sources, from harmless ovulation to conditions like endometriosis. A professional diagnosis is the only way to identify the root cause and find the right treatment instead of just masking symptoms.
 - **Know When to Seek Immediate Help**: While most pelvic pain isn’t an emergency, sudden and severe pain—especially with a fever or dizziness—requires immediate medical attention. Trust your body’s warning signs and don’t wait to get checked out.
-- **Create a Comprehensive Relief Plan**: Lasting relief often involves more than one solution. A personalized plan may combine medical treatments, specialized pelvic floor therapy, and supportive lifestyle changes to address your specific needs and manage pain effectively.
+- **Create a Comprehensive Relief Plan**: Lasting relief often involves more than one solution. A personalized plan may combine medical treatments, specialized [pelvic floor](/services/pelvic-urinary/) therapy, and supportive lifestyle changes to address your specific needs and manage pain effectively.
 
 ## What’s Causing This Sharp Pelvic Pain?
 
@@ -100,7 +100,7 @@ When home remedies aren’t cutting it, it’s time to explore medical treatment
 
 ### Balancing Hormones with Bioidentical Therapy
 
-Hormones are powerful, and when they’re out of sync, they can contribute to issues like pelvic pain. This is especially common during perimenopause and menopause, when declining estrogen leads to conditions like vaginal atrophy and dryness that cause discomfort. If a hormonal imbalance is a factor, your doctor might suggest hormone treatments. Bioidentical Hormone Replacement Therapy (BHRT) is a fantastic option because it uses hormones structurally identical to the ones your body produces, offering a natural approach to restoring balance and alleviating symptoms.
+Hormones are powerful, and when they’re out of sync, they can contribute to issues like pelvic pain. This is especially common during perimenopause and menopause, when declining estrogen leads to conditions like vaginal atrophy and dryness that cause discomfort. If a hormonal imbalance is a factor, your doctor might suggest hormone treatments. [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy (BHRT) is a fantastic option because it uses hormones structurally identical to the ones your body produces, offering a natural approach to restoring balance and alleviating symptoms.
 
 ### Prescription Medications for Pain Relief
 

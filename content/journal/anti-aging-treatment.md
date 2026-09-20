@@ -55,7 +55,7 @@ Dr. Berman’s foundational education is a testament to her commitment to excell
 
 #### Urology Residency and Fellowship
 
-Following medical school, Dr. Berman completed her specialized training in urology at the University of Maryland, a field historically dominated by men. It was here that she began to focus on the unique urological issues affecting women. To further refine her expertise, she pursued a fellowship at the renowned UCLA Medical Center, concentrating specifically on female urology and pelvic floor surgery. This advanced training was pivotal, allowing her to develop a sophisticated understanding of the anatomical and physiological factors that contribute to conditions like incontinence, pelvic pain, and sexual dysfunction in women.
+Following medical school, Dr. Berman completed her specialized training in urology at the University of Maryland, a field historically dominated by men. It was here that she began to focus on the unique urological issues affecting women. To further refine her expertise, she pursued a fellowship at the renowned UCLA Medical Center, concentrating specifically on female urology and [pelvic floor](/services/pelvic-urinary/) surgery. This advanced training was pivotal, allowing her to develop a sophisticated understanding of the anatomical and physiological factors that contribute to conditions like incontinence, pelvic pain, and sexual dysfunction in women.
 
 ### A Career of Leadership and Innovation
 
@@ -117,7 +117,7 @@ Urological issues like urinary incontinence and pelvic pain can significantly di
 
 #### Menopause and Hormone Balancing Therapies
 
-Menopause is a natural transition, but its symptoms don’t have to control your life. Dr. Berman specializes in helping women manage the hormonal fluctuations that occur during perimenopause and menopause. She offers sophisticated hormone balancing therapies, including Biote Hormone Therapy and Bioidentical Hormone Replacement Therapy (BHRT), which are customized to your body’s specific needs. These treatments can effectively alleviate symptoms like hot flashes, night sweats, vaginal dryness, and mood swings, helping you feel more like yourself again and navigate this life stage with grace and energy.
+Menopause is a natural transition, but its symptoms don’t have to control your life. Dr. Berman specializes in helping women manage the hormonal fluctuations that occur during perimenopause and menopause. She offers sophisticated hormone balancing therapies, including Biote Hormone Therapy and [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy (BHRT), which are customized to your body’s specific needs. These treatments can effectively alleviate symptoms like hot flashes, night sweats, vaginal dryness, and mood swings, helping you feel more like yourself again and navigate this life stage with grace and energy.
 
 #### Medical Weight Loss and Body Sculpting
 
@@ -125,7 +125,7 @@ Feeling good in your own skin is an important part of overall wellness. Dr. Berm
 
 ### Utilizing Advanced, FDA-Approved Technology
 
-Dr. Berman is committed to offering her patients the most effective and safest treatments available. This means staying at the forefront of medical innovation and investing in advanced, FDA-approved technologies that deliver real results with minimal downtime. Her clinic is equipped with state-of-the-art devices for everything from vaginal rejuvenation to incontinence therapy. By leveraging these powerful tools, she can provide targeted, non-surgical solutions for a wide range of concerns. This commitment to technology ensures you receive a level of care that is not only sophisticated but also tailored to a modern woman’s busy lifestyle.
+Dr. Berman is committed to offering her patients the most effective and safest treatments available. This means staying at the forefront of medical innovation and investing in advanced, FDA-approved technologies that deliver real results with minimal downtime. Her clinic is equipped with state-of-the-art devices for everything from [vaginal rejuvenation](/services/vaginal-rejuvenation/) to incontinence therapy. By leveraging these powerful tools, she can provide targeted, non-surgical solutions for a wide range of concerns. This commitment to technology ensures you receive a level of care that is not only sophisticated but also tailored to a modern woman’s busy lifestyle.
 
 ## A Trusted Voice in Women’s Health
 

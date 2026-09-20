@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/bioidentical-hormones-menopause-sym
 author: "Dr. Jennifer Berman, MD"
 ---
 
-You’ve probably seen the claims that “natural” is always safer or that a “custom-made” formula is superior. When it comes to your health, it’s important to separate marketing hype from medical fact. Many of the popular ideas surrounding bioidentical hormones are based on myths, not science. This article is here to set the record straight. We will directly address the most common misconceptions about using **bioidentical hormones for menopause symptoms**, looking at what the research actually says about their safety and effectiveness. You deserve clear, honest information to help you make a choice that is truly right for your body and your long-term wellness.
+You’ve probably seen the claims that “natural” is always safer or that a “custom-made” formula is superior. When it comes to your health, it’s important to separate marketing hype from medical fact. Many of the popular ideas surrounding [bioidentical hormone](/services/menopause-hormones/)s are based on myths, not science. This article is here to set the record straight. We will directly address the most common misconceptions about using **bioidentical hormones for menopause symptoms**, looking at what the research actually says about their safety and effectiveness. You deserve clear, honest information to help you make a choice that is truly right for your body and your long-term wellness.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

@@ -19,7 +19,7 @@ author: "Dr. Jennifer Berman, MD"
 
 ## Embracing Your Body and Mind During Menopause
 
-Menopause is a natural phase in a woman’s life that can bring about changes in both the body and mind. It is important for women over the age of 45 to embrace these changes and take steps to care for their bodies and minds during this time. Embracing your body and mind during menopause means accepting and understanding the changes that are happening and taking proactive steps to support your overall health and well-being.
+[Menopause](/services/menopause-hormones/) is a natural phase in a woman’s life that can bring about changes in both the body and mind. It is important for women over the age of 45 to embrace these changes and take steps to care for their bodies and minds during this time. Embracing your body and mind during menopause means accepting and understanding the changes that are happening and taking proactive steps to support your overall health and well-being.
 
 One key aspect of embracing your body and mind during **menopause** is staying active. Regular exercise can help to alleviate symptoms such as hot flashes, mood swings, and weight gain. It can also help to improve your overall mood and sense of well-being. Finding activities that you enjoy, such as walking, swimming, or yoga, can make it easier to stay motivated and consistent with your exercise routine.
 

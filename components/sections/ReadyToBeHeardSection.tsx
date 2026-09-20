@@ -178,7 +178,7 @@ export default function ReadyToBeHeardSection() {
             <div
               className="photo"
               role="img"
-              aria-label="Dr. Berman ready for a telehealth visit"
+              aria-label="Dr. Berman ready for a virtual consult"
               style={{
                 backgroundImage: "url(/images/ready/telehealth.webp)",
                 backgroundSize: "cover",
@@ -207,7 +207,7 @@ export default function ReadyToBeHeardSection() {
                 colorTo="#d97580"
                 borderWidth={1.5}
               />
-              <span className="relative z-10">Book telehealth →</span>
+              <span className="relative z-10">Book virtual consult →</span>
             </button>
           </motion.div>
         </div>

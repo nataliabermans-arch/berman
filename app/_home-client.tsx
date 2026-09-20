@@ -2095,7 +2095,7 @@ function HomeClient() {
               <div className="photo">
                 <LazyFillImage
                   src="/images/ready/telehealth.webp"
-                  alt="Dr. Berman ready for a telehealth visit"
+                  alt="Dr. Berman ready for a virtual consult"
                 />
               </div>
               <div className="meta">
@@ -2119,7 +2119,7 @@ function HomeClient() {
                   colorTo="#d97580"
                   borderWidth={1.5}
                 />
-                <span className="relative z-10">Book telehealth →</span>
+                <span className="relative z-10">Book virtual consult →</span>
               </button>
             </motion.div>
           </div>
@@ -2246,7 +2246,7 @@ function HomeClient() {
             data-cta="open-form"
             style={footerLeadButtonInline}
           >
-            Book telehealth
+            Book virtual consult
           </button>
           <button
             type="button"

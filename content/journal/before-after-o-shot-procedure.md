@@ -44,7 +44,7 @@ Once injected, the PRP gets to work immediately. The concentrated growth factors
 
 The O-Shot is a versatile treatment that uses your body’s own healing abilities to address several intimate health concerns at once. It works by using platelet-rich plasma (PRP), a concentrated solution of platelets and growth factors derived from your own blood. Think of it as a supercharged healing serum, custom-made by your body. When this PRP is carefully injected into the vaginal and clitoral tissues, it kicks off a natural rejuvenation process, stimulating new cell growth, improving blood flow, and repairing tissue.
 
-This isn’t just a temporary fix; it’s a way to restore function from the inside out. The benefits are both physical and emotional, helping you reclaim a part of yourself that may have changed due to childbirth, menopause, or the natural aging process. From making intimacy more pleasurable to helping you feel more confident and comfortable in your own skin, the O-Shot can truly change your day-to-day life. Let’s look at some of the most significant advantages you can expect.
+This isn’t just a temporary fix; it’s a way to restore function from the inside out. The benefits are both physical and emotional, helping you reclaim a part of yourself that may have changed due to childbirth, [menopause](/services/menopause-hormones/), or the natural aging process. From making intimacy more pleasurable to helping you feel more confident and comfortable in your own skin, the O-Shot can truly change your day-to-day life. Let’s look at some of the most significant advantages you can expect.
 
 ### Enhance Sexual Pleasure and Sensitivity
 
@@ -68,7 +68,7 @@ First things first, let’s talk about what to do before your appointment. The m
 
 ### What to Avoid Before Your Procedure
 
-Just as important as what you do is what you _don’t_ do. To minimize the risk of bruising and bleeding, it’s best to avoid blood-thinning medications for at least one week before your appointment. This includes common over-the-counter pain relievers like aspirin and ibuprofen (Advil, Motrin, Aleve). You should also steer clear of alcohol and smoking for a few days before and after your treatment, as they can slow down your body’s healing process. Finally, please stop using any vaginal creams, gels, or douches three days before your procedure. This helps ensure the treatment area is clean and ready for your vaginal rejuvenation treatment.
+Just as important as what you do is what you _don’t_ do. To minimize the risk of bruising and bleeding, it’s best to avoid blood-thinning medications for at least one week before your appointment. This includes common over-the-counter pain relievers like aspirin and ibuprofen (Advil, Motrin, Aleve). You should also steer clear of alcohol and smoking for a few days before and after your treatment, as they can slow down your body’s healing process. Finally, please stop using any vaginal creams, gels, or douches three days before your procedure. This helps ensure the treatment area is clean and ready for your [vaginal rejuvenation](/services/vaginal-rejuvenation/) treatment.
 
 ## What to Expect During and After the O-Shot
 

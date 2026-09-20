@@ -24,7 +24,7 @@ When you hear the word “testosterone,” what comes to mind? For most of us, i
 
 - **Testosterone is a key hormone for women, not just men**: It plays a vital role in regulating your sex drive, energy, mood, and even bone density, making it crucial for your overall health.
 - **Listen to your body’s signals**: Symptoms like ongoing fatigue, a low sex drive, or mental fog are often signs of low testosterone and shouldn’t be dismissed as just stress or aging.
-- **A tailored approach is key to safe treatment**: Modern testosterone therapy is highly personalized, using methods like bioidentical hormones or pellets to match your body’s specific needs, which minimizes risks and helps you achieve your health goals.
+- **A tailored approach is key to safe treatment**: Modern testosterone therapy is highly personalized, using methods like [bioidentical hormone](/services/menopause-hormones/)s or pellets to match your body’s specific needs, which minimizes risks and helps you achieve your health goals.
 
 ## Testosterone for Women: What’s Its Role?
 

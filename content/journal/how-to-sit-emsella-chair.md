@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/how-to-sit-emsella-chair/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-One of the best parts of Emsella is how simple it feels. You just sit back while the chair does the heavy lifting for your pelvic floor. But don’t let the ease fool you. Think of it like a workout: _form is everything_. A small shift in your posture can be the difference between a good result and a truly life-changing one. That’s why mastering **how to sit on the Emsella chair** is so crucial. It ensures every single contraction counts, maximizing your investment and giving you the powerful results you’re looking for.
+One of the best parts of Emsella is how simple it feels. You just sit back while the chair does the heavy lifting for your [pelvic floor](/services/pelvic-urinary/). But don’t let the ease fool you. Think of it like a workout: _form is everything_. A small shift in your posture can be the difference between a good result and a truly life-changing one. That’s why mastering **how to sit on the Emsella chair** is so crucial. It ensures every single contraction counts, maximizing your investment and giving you the powerful results you’re looking for.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -31,7 +31,7 @@ One of the best parts of Emsella is how simple it feels. You just sit back while
 
 If you’ve ever dealt with urinary leakage—whether it’s a little dribble when you laugh or a more urgent need to go—you know how much it can impact your confidence and daily life. The Emsella chair is a groundbreaking, non-invasive treatment designed to address this exact issue. Think of it as a comfortable throne that does all the hard work of strengthening your pelvic floor for you. You simply sit on the chair, fully clothed, and let the technology take over.
 
-This treatment is a fantastic option for women experiencing incontinence due to childbirth, menopause, or the natural aging process. Instead of surgery or medication, Emsella offers a simple, dignified solution. During a session, which typically lasts about 30 minutes, you can read a book or just relax. The chair uses a special kind of energy to stimulate your pelvic floor muscles, effectively giving them an intense workout without you breaking a sweat. It’s a straightforward way to restore neuromuscular control and reclaim your freedom from bladder leaks.
+This treatment is a fantastic option for women experiencing incontinence due to childbirth, [menopause](/services/menopause-hormones/), or the natural aging process. Instead of surgery or medication, Emsella offers a simple, dignified solution. During a session, which typically lasts about 30 minutes, you can read a book or just relax. The chair uses a special kind of energy to stimulate your pelvic floor muscles, effectively giving them an intense workout without you breaking a sweat. It’s a straightforward way to restore neuromuscular control and reclaim your freedom from bladder leaks.
 
 ### The Scope of Pelvic Health Issues
 

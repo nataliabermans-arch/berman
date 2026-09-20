@@ -23,7 +23,7 @@ At the Berman Women’s Wellness Center, we’re committed to breaking the taboo
 
 ## Understanding Painful Sex: More Common Than You Think
 
-Pain during intercourse is a reality for many women, but it’s rarely talked about openly. It can stem from various causes, including physical conditions, hormonal imbalances, or psychological factors. Whether it’s due to dryness, pelvic floor dysfunction, or past trauma, the discomfort can significantly impact one’s emotional and physical well-being.
+Pain during intercourse is a reality for many women, but it’s rarely talked about openly. It can stem from various causes, including physical conditions, hormonal imbalances, or psychological factors. Whether it’s due to dryness, [pelvic floor](/services/pelvic-urinary/) dysfunction, or past trauma, the discomfort can significantly impact one’s emotional and physical well-being.
 
 Understanding that painful sex is common helps normalize the conversation. It’s not a problem you have to face alone or in silence. Recognizing the prevalence of this issue is the first step towards seeking help and finding relief.
 
@@ -35,7 +35,7 @@ At the Berman Women’s Wellness Center, we believe that open conversations are 
 
 ## Education is Key: Know Your Options
 
-Education plays a crucial role in addressing painful sex. By understanding the underlying causes and available treatments, women can make informed decisions about their health. For instance, pelvic floor therapy can help with muscle-related issues, while hormone therapy might be needed for dryness due to menopause.
+Education plays a crucial role in addressing painful sex. By understanding the underlying causes and available treatments, women can make informed decisions about their health. For instance, pelvic floor therapy can help with muscle-related issues, while [hormone therapy](/services/menopause-hormones/) might be needed for dryness due to menopause.
 
 Our team at the Berman Women’s Wellness Center is dedicated to providing comprehensive **painful sex treatment in Los Angeles**. We offer resources and consultations to help women understand their options. Knowledge empowers you to take control of your sexual health and seek the right treatments.
 

@@ -30,7 +30,7 @@ No matter what level of low sexual desire a person experiences. It only becomes 
 Low sexual desire has many possible causes that include:
 
 - **Age:** As an individual ages many changes occur in the body that affects sexual desire.
-- **Menopause:** In women, the changes of aging start when she is beginning menopause, which is the cessation of ovulation. Her changes include decreased lubrication, lower estrogen levels (the female sex hormone), lower testosterone levels (the hormone believed to be responsible for female sexual arousal), and many other changes in the sexual response cycle.
+- **[Menopause](/services/menopause-hormones/):** In women, the changes of aging start when she is beginning menopause, which is the cessation of ovulation. Her changes include decreased lubrication, lower estrogen levels (the female sex hormone), lower testosterone levels (the hormone believed to be responsible for female sexual arousal), and many other changes in the sexual response cycle.
 - **Hormone deficiency:** Decreased amounts of testosterone in the body are liked with declines in sexual desire for both men and women.
 - **Gender:** Although men and women may experience low sexual desire disorder, it is much more prevalent among women.
 - **Bad experience with sex:** Low sexual desire can result from having painful intercourse (dysparenunia), aversive events in childhood, or unusually high levels of inhibition. For instance, people who were sexually abused in childhood or view sex as a sin often do not have very much sexual desire.

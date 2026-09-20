@@ -52,7 +52,7 @@ The truth is, any form of hormone therapy requires professional oversight to be 
 
 ## What Symptoms Can BHRT Help With?
 
-Hormonal imbalances can affect nearly every aspect of your life, from your mood and energy levels to your physical comfort and sexual health. Many women assume these changes are just an unavoidable part of aging, but you don’t have to simply endure them. Bioidentical Hormone Replacement Therapy (BHRT) is designed to restore your body’s natural hormonal balance, offering relief from a wide range of symptoms. By replenishing the specific hormones your body is missing, BHRT can help you feel more like yourself again. It’s about addressing the root cause of your symptoms, not just masking them, so you can get back to living your life with vitality and confidence.
+Hormonal imbalances can affect nearly every aspect of your life, from your mood and energy levels to your physical comfort and sexual health. Many women assume these changes are just an unavoidable part of aging, but you don’t have to simply endure them. [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy (BHRT) is designed to restore your body’s natural hormonal balance, offering relief from a wide range of symptoms. By replenishing the specific hormones your body is missing, BHRT can help you feel more like yourself again. It’s about addressing the root cause of your symptoms, not just masking them, so you can get back to living your life with vitality and confidence.
 
 ### Relief from Menopause Symptoms
 

@@ -35,7 +35,7 @@ This approach combines the latest in medical science, including FDA-approved GLP
 
 ### A Personalized Focus on Women’s Health
 
-Dr. Berman’s program begins with you. She creates a specialized weight loss treatment plan tailored to your specific needs, taking into account your unique hormonal profile, lifestyle, and health history. This isn’t just a prescription; it’s a holistic strategy. Your plan may include a combination of dietary guidance, exercise, and FDA-approved medications alongside non-invasive body sculpting or bioidentical hormone therapies. This method is designed to address the underlying reasons for weight gain, particularly for women going through hormonal changes like menopause, ensuring the approach is both effective and sustainable for your body.
+Dr. Berman’s program begins with you. She creates a specialized weight loss treatment plan tailored to your specific needs, taking into account your unique hormonal profile, lifestyle, and health history. This isn’t just a prescription; it’s a holistic strategy. Your plan may include a combination of dietary guidance, exercise, and FDA-approved medications alongside non-invasive body sculpting or [bioidentical hormone](/services/menopause-hormones/) therapies. This method is designed to address the underlying reasons for weight gain, particularly for women going through hormonal changes like menopause, ensuring the approach is both effective and sustainable for your body.
 
 ### Integrating Hormonal Balance
 

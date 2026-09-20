@@ -217,7 +217,7 @@ Improving sexual well-being for women experiencing antidepressant-related sexual
 
 **Communication:** Open dialogue with partners about sexual concerns is essential. This can help reduce stress and foster mutual understanding, making it easier to find practical solutions together.
 
-**Medical Consultation:** Seeking advice from healthcare providers can lead to exploring various treatment options, such as adjusting medication or integrating hormone therapy. Medical professionals can also address underlying health problems contributing to sexual side effects.
+**Medical Consultation:** Seeking advice from healthcare providers can lead to exploring various treatment options, such as adjusting medication or integrating [hormone therapy](/services/menopause-hormones/). Medical professionals can also address underlying health problems contributing to sexual side effects.
 
 **Counseling and Lifestyle Changes:** Psychological counseling can be beneficial in managing stress and addressing relationship issues. Additionally, lifestyle adjustments like regular exercise, a balanced diet, and adequate sleep can positively influence sexual well-being.
 

@@ -32,7 +32,7 @@ Many people use the terms “perimenopause” and “menopause” interchangeabl
 
 ### Your Body’s Hormonal Shift, Explained
 
-Perimenopause is the multi-year period leading up to menopause when your hormones start to shift. The main change is that your estrogen levels don’t decline smoothly—they fluctuate unpredictably. One month they might be high, and the next they could be low. This hormonal rollercoaster is what triggers many of the classic symptoms, especially changes in your menstrual cycle. Your periods might become longer, shorter, heavier, or you might skip them altogether. These shifts are your body’s way of signaling that it’s beginning the transition toward menopause. Addressing these hormonal changes with treatments like Bioidentical Hormone Replacement Therapy can help restore balance.
+Perimenopause is the multi-year period leading up to menopause when your hormones start to shift. The main change is that your estrogen levels don’t decline smoothly—they fluctuate unpredictably. One month they might be high, and the next they could be low. This hormonal rollercoaster is what triggers many of the classic symptoms, especially changes in your menstrual cycle. Your periods might become longer, shorter, heavier, or you might skip them altogether. These shifts are your body’s way of signaling that it’s beginning the transition toward menopause. Addressing these hormonal changes with treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can help restore balance.
 
 ### Understanding the Timeline and Diagnosis
 

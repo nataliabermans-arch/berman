@@ -14,7 +14,7 @@ originalUrl: https://bermansexualhealth.com/perimenopause-and-weight-gain/
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Perimenopause, the years leading up to menopause, is a time of transition for women. It’s a hormonal rollercoaster ride marked by hot flashes, sleep disturbances, mood swings, and yes, weight gain. This weight gain can be particularly frustrating because it often happens despite maintaining your usual diet and exercise routine. So, what’s the deal? Why does the body seemingly rebel during this crucial phase?
+[Perimenopause](/services/menopause-hormones/), the years leading up to menopause, is a time of transition for women. It’s a hormonal rollercoaster ride marked by hot flashes, sleep disturbances, mood swings, and yes, weight gain. This weight gain can be particularly frustrating because it often happens despite maintaining your usual diet and exercise routine. So, what’s the deal? Why does the body seemingly rebel during this crucial phase?
 
 This article dives into the complex relationship between perimenopause and weight gain, exploring the hormonal culprits, body composition changes, and practical strategies to manage your weight and maintain a healthy lifestyle throughout this transition.
 

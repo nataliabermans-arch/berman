@@ -23,7 +23,7 @@ If you’ve ever tried to stick with Kegel exercises, you know the frustration. 
 
 ## Key Takeaways
 
-- **Strengthen your pelvic floor without the guesswork**: Emsella uses advanced technology to deliver the equivalent of 11,000 perfect Kegels in one 30-minute session, effectively rebuilding your core foundation while you relax.
+- **Strengthen your [pelvic floor](/services/pelvic-urinary/) without the guesswork**: Emsella uses advanced technology to deliver the equivalent of 11,000 perfect Kegels in one 30-minute session, effectively rebuilding your core foundation while you relax.
 - **Improve more than just bladder control**: A stronger pelvic floor directly contributes to better sexual sensation and satisfaction, giving you the freedom and confidence to enjoy all aspects of your life without worry.
 - **A consultation is your first step to a personalized plan**: Emsella is an FDA-cleared, non-surgical option with no downtime, but a one-on-one consultation is essential to confirm it’s the right and safest choice for your specific goals.
 
@@ -31,7 +31,7 @@ If you’ve ever tried to stick with Kegel exercises, you know the frustration. 
 
 If you’re dealing with bladder leaks or a weak pelvic floor, the idea of a non-invasive solution might sound too good to be true. But that’s exactly what the Emsella chair offers. Think of it as a revolutionary throne for your pelvic health. This unique treatment helps you strengthen your pelvic floor muscles without surgery, medication, or even having to get undressed. You simply sit on the chair for a session that feels like little more than a gentle tingling and vibration, allowing the technology to do all the work for you.
 
-The core issue behind problems like incontinence is often weakened pelvic floor muscles, which can happen after childbirth, during menopause, or simply with age. These muscles form a supportive sling for your bladder, uterus, and bowels, and when they lose strength, you can experience frustrating symptoms. The Emsella chair directly targets these deep muscles, giving them an intense workout that would be impossible to achieve on your own. It’s a straightforward, comfortable, and effective way to address the root cause of bladder leaks and improve your overall pelvic wellness. This treatment is a game-changer for women who want to regain control and confidence in their daily lives.
+The core issue behind problems like incontinence is often weakened pelvic floor muscles, which can happen after childbirth, during [menopause](/services/menopause-hormones/), or simply with age. These muscles form a supportive sling for your bladder, uterus, and bowels, and when they lose strength, you can experience frustrating symptoms. The Emsella chair directly targets these deep muscles, giving them an intense workout that would be impossible to achieve on your own. It’s a straightforward, comfortable, and effective way to address the root cause of bladder leaks and improve your overall pelvic wellness. This treatment is a game-changer for women who want to regain control and confidence in their daily lives.
 
 ### The Tech Behind Emsella: Understanding HIFEM
 
@@ -71,7 +71,7 @@ Let’s be honest: remembering to do Kegels consistently is a challenge, and it�
 
 ### Rediscover Intimacy and Sexual Satisfaction
 
-A strong pelvic floor is directly linked to better sexual health. When these muscles are toned, it can lead to increased blood flow, heightened sensation, and stronger orgasms. For many women, Emsella treatments result in a noticeable improvement in vaginal tightness and responsiveness. By strengthening the very muscles involved in sexual pleasure, you can rediscover a more satisfying and confident intimate life. This is a key component of a holistic approach to vaginal rejuvenation that addresses both function and feeling, helping you feel more connected to your body.
+A strong pelvic floor is directly linked to better sexual health. When these muscles are toned, it can lead to increased blood flow, heightened sensation, and stronger orgasms. For many women, Emsella treatments result in a noticeable improvement in vaginal tightness and responsiveness. By strengthening the very muscles involved in sexual pleasure, you can rediscover a more satisfying and confident intimate life. This is a key component of a holistic approach to [vaginal rejuvenation](/services/vaginal-rejuvenation/) that addresses both function and feeling, helping you feel more connected to your body.
 
 ### Get Your Confidence Back and Live Life on Your Terms
 

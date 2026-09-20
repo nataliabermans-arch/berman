@@ -26,7 +26,7 @@ You’ve probably been told your whole life that weight management comes down to
 
 - **Hormonal shifts are the primary driver of weight gain**: Perimenopause changes your body’s chemistry, leading to a slower metabolism, different fat storage patterns, and increased insulin resistance. This isn’t about effort; it’s about your biology’s new normal.
 - **Adapt your wellness routine with new priorities**: Focus on building muscle through strength training to support your metabolism, eating an anti-inflammatory diet rich in protein and fiber, and managing stress and sleep to keep appetite-regulating hormones in check.
-- **A personalized medical plan offers targeted solutions**: If lifestyle changes aren’t enough, working with a specialist can provide clarity. Treatments like Bioidentical Hormone Replacement Therapy, based on thorough hormone testing, address the root cause of your symptoms for more effective results.
+- **A personalized medical plan offers targeted solutions**: If lifestyle changes aren’t enough, working with a specialist can provide clarity. Treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy, based on thorough hormone testing, address the root cause of your symptoms for more effective results.
 
 ## Why Perimenopause Can Lead to Weight Gain
 

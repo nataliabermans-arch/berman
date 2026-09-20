@@ -47,7 +47,7 @@ The terms “perimenopause” and “menopause” get thrown around a lot, and i
 
 ### Perimenopause: The Transition Period
 
-Perimenopause is the lengthy runway leading up to menopause. This transitional phase can begin eight to ten years before your final period, often starting in your 40s. During this time, your ovaries gradually slow down, causing levels of the hormone estrogen to fluctuate unpredictably. According to UT Southwestern Medical Center, these hormonal ups and downs are what trigger many of the classic symptoms we associate with menopause, like irregular periods, hot flashes, sleep problems, and mood swings. Because your hormones are in flux, this is an ideal time to discuss your symptoms with a specialist who can offer personalized solutions, such as Bioidentical Hormone Replacement Therapy, to help you feel more balanced.
+Perimenopause is the lengthy runway leading up to menopause. This transitional phase can begin eight to ten years before your final period, often starting in your 40s. During this time, your ovaries gradually slow down, causing levels of the hormone estrogen to fluctuate unpredictably. According to UT Southwestern Medical Center, these hormonal ups and downs are what trigger many of the classic symptoms we associate with menopause, like irregular periods, hot flashes, sleep problems, and mood swings. Because your hormones are in flux, this is an ideal time to discuss your symptoms with a specialist who can offer personalized solutions, such as [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy, to help you feel more balanced.
 
 ### The Official Definition of Menopause
 
@@ -127,7 +127,7 @@ If hormone therapy isn’t the right fit for you due to personal preference or a
 
 #### Medications and Professional Therapies
 
-For those seeking non-hormonal options, certain prescription medications can be very effective. For example, some antidepressants (SSRIs and SNRIs) have been shown to reduce the severity of hot flashes and help with mood-related symptoms. Beyond prescriptions, there are innovative in-office treatments that target specific concerns. For instance, therapies like Emsella can strengthen the pelvic floor to address urinary incontinence, while procedures such as Morpheus 8-V can help with vaginal laxity and dryness, all without the use of hormones.
+For those seeking non-hormonal options, certain prescription medications can be very effective. For example, some antidepressants (SSRIs and SNRIs) have been shown to reduce the severity of hot flashes and help with mood-related symptoms. Beyond prescriptions, there are innovative in-office treatments that target specific concerns. For instance, therapies like Emsella can strengthen the [pelvic floor](/services/pelvic-urinary/) to address urinary incontinence, while procedures such as Morpheus 8-V can help with vaginal laxity and dryness, all without the use of hormones.
 
 #### Over-the-Counter and Lifestyle Solutions
 

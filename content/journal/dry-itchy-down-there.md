@@ -18,7 +18,7 @@ originalUrl: "https://bermansexualhealth.com/dry-itchy-down-there/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Your body has a rhythm, and when something suddenly feels off, it’s natural to be concerned. Experiencing unexpected vaginal dryness and itching can throw you for a loop, leaving you with one persistent question: why am i dry and itchy down there all of a sudden? This isn’t just a minor annoyance; it’s a signal from your body that something has changed. The cause might be a simple external irritant, but often, it points to internal shifts. Hormones, especially estrogen, play a huge role in vaginal health, and fluctuations can lead to these uncomfortable symptoms. Whether it’s related to birth control, stress, or the onset of menopause, getting to the bottom of it is essential for finding relief and restoring balance with options like Bioidentical Hormone Replacement Therapy.
+Your body has a rhythm, and when something suddenly feels off, it’s natural to be concerned. Experiencing unexpected vaginal dryness and itching can throw you for a loop, leaving you with one persistent question: why am i dry and itchy down there all of a sudden? This isn’t just a minor annoyance; it’s a signal from your body that something has changed. The cause might be a simple external irritant, but often, it points to internal shifts. Hormones, especially estrogen, play a huge role in vaginal health, and fluctuations can lead to these uncomfortable symptoms. Whether it’s related to birth control, stress, or the onset of menopause, getting to the bottom of it is essential for finding relief and restoring balance with options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -60,7 +60,7 @@ If you’re in your 40s or 50s, perimenopause and menopause are likely the main 
 
 ### Changes During Pregnancy and Postpartum
 
-While pregnancy brings a surge of hormones, the postpartum period, especially if you’re breastfeeding, can feel like the opposite. Prolactin, the hormone that stimulates milk production, also suppresses estrogen production. With lower estrogen levels, you might experience vaginal dryness and discomfort similar to what women feel during menopause. It can be surprising to deal with this while also caring for a new baby, but it’s a temporary phase for most. Once you stop breastfeeding or your cycle returns to normal, your natural lubrication should improve. If symptoms persist, there are vaginal rejuvenation options that can help restore tissue health.
+While pregnancy brings a surge of hormones, the postpartum period, especially if you’re breastfeeding, can feel like the opposite. Prolactin, the hormone that stimulates milk production, also suppresses estrogen production. With lower estrogen levels, you might experience vaginal dryness and discomfort similar to what women feel during menopause. It can be surprising to deal with this while also caring for a new baby, but it’s a temporary phase for most. Once you stop breastfeeding or your cycle returns to normal, your natural lubrication should improve. If symptoms persist, there are [vaginal rejuvenation](/services/vaginal-rejuvenation/) options that can help restore tissue health.
 
 ### The Effects of Birth Control
 

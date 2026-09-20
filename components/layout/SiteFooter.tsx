@@ -96,7 +96,7 @@ export default function SiteFooter() {
             data-lead-open
             data-cta="open-form"
           >
-            Book telehealth
+            Book virtual consult
           </button>
           <button
             type="button"

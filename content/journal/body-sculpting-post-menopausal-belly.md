@@ -33,7 +33,7 @@ If you’ve noticed that fat around your midsection has become more stubborn sin
 
 ### How Hormones Shift During Menopause
 
-During menopause, your body goes through a major hormonal transition. The most significant change is a steep drop in estrogen levels. This hormone plays a big role in directing where your body stores fat. When estrogen decreases, the influence of testosterone (which women have in small amounts) becomes more pronounced. This hormonal imbalance encourages fat to accumulate around your abdomen instead of your hips and thighs. It’s a biological shift that can feel frustrating, but treatments like Bioidentical Hormone Replacement Therapy can help manage these changes and their effects on your body composition.
+During menopause, your body goes through a major hormonal transition. The most significant change is a steep drop in estrogen levels. This hormone plays a big role in directing where your body stores fat. When estrogen decreases, the influence of testosterone (which women have in small amounts) becomes more pronounced. This hormonal imbalance encourages fat to accumulate around your abdomen instead of your hips and thighs. It’s a biological shift that can feel frustrating, but treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can help manage these changes and their effects on your body composition.
 
 ### The Science Behind Stubborn Belly Fat
 
@@ -119,7 +119,7 @@ After menopause, hormonal shifts can change our skin’s healing process. A decr
 
 ### Special Considerations for Mature Skin
 
-Body contouring for women over 50 requires a special level of expertise. Changes in skin tone, muscle mass, and fat distribution are completely normal, and the best results come from a provider who understands this. An expert approach involves carefully assessing your skin’s elasticity and creating a treatment plan that won’t leave you with loose skin. It’s about artistry as much as science. A provider with deep experience in women’s health will know how to tailor the intensity and application of the technology to fit your body, ensuring the outcome looks natural and feels great. This personalized touch makes all the difference in achieving beautiful, refined contours.
+[Body contouring](/services/body-contouring/) for women over 50 requires a special level of expertise. Changes in skin tone, muscle mass, and fat distribution are completely normal, and the best results come from a provider who understands this. An expert approach involves carefully assessing your skin’s elasticity and creating a treatment plan that won’t leave you with loose skin. It’s about artistry as much as science. A provider with deep experience in women’s health will know how to tailor the intensity and application of the technology to fit your body, ensuring the outcome looks natural and feels great. This personalized touch makes all the difference in achieving beautiful, refined contours.
 
 ### How to Ensure Smooth, Natural-Looking Results
 

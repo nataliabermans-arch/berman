@@ -19,7 +19,7 @@ Facing urinary incontinence is not only uncomfortable, but it can also feel emba
 
 ## “What Happened to My Body??” The Symptoms of Menopause
 
-Menopause is a word that can cause so much fear in a woman’s heart; it reads as a neon sign that says, **“You’ve lost your youthfulness”.** While menopause seems extremely daunting, it’s a process that can be easier with the knowledge of basic menopause symptoms and a doctor. Menopause means the point in time where a woman’s ovaries begin to stop producing estrogen hormones.
+[Menopause](/services/menopause-hormones/) is a word that can cause so much fear in a woman’s heart; it reads as a neon sign that says, **“You’ve lost your youthfulness”.** While menopause seems extremely daunting, it’s a process that can be easier with the knowledge of basic menopause symptoms and a doctor. Menopause means the point in time where a woman’s ovaries begin to stop producing estrogen hormones.
 
 The symptoms of menopause vary from woman to woman, but true menopause will be reached once a woman’s period stops for a full year. Some symptoms are dizziness, hot flashes, decreased libido, and even depression in some cases. These symptoms are absolutely normal and no woman should fear the symptoms that come with menopause. There are over 34 different symptoms that can come with menopause, but there are a few that are quite common with every woman.
 

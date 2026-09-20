@@ -14,13 +14,13 @@ originalUrl: "https://bermansexualhealth.com/berman-tv-show-transcripts/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-That little leak when you laugh, sneeze, or exercise is incredibly common, but that doesn’t mean you have to live with it. For too long, women have been told that urinary incontinence is just an unavoidable consequence of aging or childbirth, with Kegels being the only solution offered. The truth is, you don’t have to plan your life around the nearest restroom or give up activities you love. Breakthrough treatments now exist that go far beyond simple exercises to strengthen the pelvic floor and restore bladder control effectively. Dr. Jennifer Berman specializes in these cutting-edge, non-invasive therapies that help women regain their freedom.
+That little leak when you laugh, sneeze, or exercise is incredibly common, but that doesn’t mean you have to live with it. For too long, women have been told that urinary incontinence is just an unavoidable consequence of aging or childbirth, with Kegels being the only solution offered. The truth is, you don’t have to plan your life around the nearest restroom or give up activities you love. Breakthrough treatments now exist that go far beyond simple exercises to strengthen the [pelvic floor](/services/pelvic-urinary/) and restore bladder control effectively. Dr. Jennifer Berman specializes in these cutting-edge, non-invasive therapies that help women regain their freedom.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
 ## Meet Dr. Jennifer Berman
 
-When you’re looking for a doctor to discuss sensitive topics like sexual health or menopause, you want someone who is not only an expert but also someone you can trust. Dr. Jennifer Berman is a leading figure in women’s health, known for her compassionate approach and pioneering work. She has dedicated her career to creating a space where women feel heard, understood, and empowered to take control of their well-being. From her rigorous academic training to her familiar face on national television, Dr. Berman has consistently worked to bring women’s health issues into the mainstream conversation, making complex topics accessible and manageable for everyone.
+When you’re looking for a doctor to discuss sensitive topics like sexual health or [menopause](/services/menopause-hormones/), you want someone who is not only an expert but also someone you can trust. Dr. Jennifer Berman is a leading figure in women’s health, known for her compassionate approach and pioneering work. She has dedicated her career to creating a space where women feel heard, understood, and empowered to take control of their well-being. From her rigorous academic training to her familiar face on national television, Dr. Berman has consistently worked to bring women’s health issues into the mainstream conversation, making complex topics accessible and manageable for everyone.
 
 ### Her Educational Journey
 
@@ -40,7 +40,7 @@ Dr. Berman didn’t just enter the field of women’s health; she helped shape i
 
 #### Pioneering Female Sexual Medicine at UCLA
 
-In 2001, Dr. Berman made history when she became the first-ever director of the Female Sexual Medicine Center at UCLA. This was a landmark achievement, as it was one of the first university-affiliated programs of its kind. In this role, she established a new standard of care, combining clinical practice with research to better understand and treat female sexual dysfunction. Her work at UCLA was pivotal in bringing these often-ignored health issues into the light of academic medicine.
+In 2001, Dr. Berman made history when she became the first-ever director of the Female Sexual Medicine Center at UCLA. This was a landmark achievement, as it was one of the first university-affiliated programs of its kind. In this role, she established a new standard of care, combining clinical practice with research to better understand and treat [female sexual dysfunction](/services/sexual-health/). Her work at UCLA was pivotal in bringing these often-ignored health issues into the light of academic medicine.
 
 #### Founding The Berman Women’s Wellness Center
 

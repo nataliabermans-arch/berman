@@ -20,7 +20,7 @@ author: "Dr. Jennifer Berman, MD"
 
 ## **The** **Connection** **Between** **Menopause** **and** **Heart** **Disease**
 
-Menopause is a natural biological process that every woman goes through as she reaches a certain age, typically around 45 to 55 years old. During this time, the body undergoes hormonal changes that can lead to a variety of symptoms, including hot flashes, mood swings, and changes in libido. However, one lesser-known connection between menopause and overall health is the increased risk of heart disease.
+[Menopause](/services/menopause-hormones/) is a natural biological process that every woman goes through as she reaches a certain age, typically around 45 to 55 years old. During this time, the body undergoes hormonal changes that can lead to a variety of symptoms, including hot flashes, mood swings, and changes in libido. However, one lesser-known connection between menopause and overall health is the increased risk of heart disease.
 
 Research has shown that women who have gone through menopause are at a higher risk of developing heart disease compared to younger women. This is because estrogen, a hormone that plays a key role in maintaining heart health, decreases significantly during menopause. Estrogen helps to protect the cardiovascular system by improving blood vessel function and reducing inflammation.
 

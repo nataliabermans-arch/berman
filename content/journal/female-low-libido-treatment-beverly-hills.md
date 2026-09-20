@@ -32,7 +32,7 @@ If you’ve noticed a dip in your desire for sex, you’re not alone. A woman’
 
 ### Hormonal Shifts and Menopause
 
-Hormones are powerful chemical messengers, and they play a leading role in sexual desire. During perimenopause and menopause, levels of estrogen and testosterone naturally decline. This shift doesn’t just affect your mood and energy; it can directly lower your libido and lead to physical changes like vaginal dryness, which can make intimacy uncomfortable or even painful. These changes are a completely normal part of life, but you don’t have to simply accept them. Effective options like Bioidentical Hormone Replacement Therapy can help rebalance your hormone levels, addressing the root cause of these symptoms and improving your overall well-being.
+Hormones are powerful chemical messengers, and they play a leading role in sexual desire. During perimenopause and menopause, levels of estrogen and testosterone naturally decline. This shift doesn’t just affect your mood and energy; it can directly lower your libido and lead to physical changes like vaginal dryness, which can make intimacy uncomfortable or even painful. These changes are a completely normal part of life, but you don’t have to simply accept them. Effective options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can help rebalance your hormone levels, addressing the root cause of these symptoms and improving your overall well-being.
 
 ### Psychological and Emotional Factors
 
@@ -60,7 +60,7 @@ For many women, low libido is connected to a decrease in physical sensation, mak
 
 ### Targeted Treatments like Morpheus 8-V and Emsella
 
-A comprehensive approach to sexual wellness also considers related physical concerns that can impact desire, like vaginal dryness or pelvic floor weakness. Morpheus 8-V is a cutting-edge treatment that uses radiofrequency microneedling to remodel vaginal tissue, improving lubrication and tightness. If bladder leakage or pelvic floor issues are affecting your confidence, Emsella Incontinence Therapy can help. This non-invasive treatment strengthens the pelvic floor muscles, which not only helps with incontinence but can also improve the quality of orgasms. Addressing these issues can restore comfort and confidence, reigniting your desire.
+A comprehensive approach to sexual wellness also considers related physical concerns that can impact desire, like vaginal dryness or [pelvic floor](/services/pelvic-urinary/) weakness. Morpheus 8-V is a cutting-edge treatment that uses radiofrequency microneedling to remodel vaginal tissue, improving lubrication and tightness. If bladder leakage or pelvic floor issues are affecting your confidence, Emsella Incontinence Therapy can help. This non-invasive treatment strengthens the pelvic floor muscles, which not only helps with incontinence but can also improve the quality of orgasms. Addressing these issues can restore comfort and confidence, reigniting your desire.
 
 ## How to Find the Right Low Libido Specialist
 

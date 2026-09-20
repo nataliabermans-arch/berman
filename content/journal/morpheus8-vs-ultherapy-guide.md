@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/morpheus8-vs-ultherapy-guide/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-The conversation around skin rejuvenation often focuses on the face, but feeling confident in your skin goes beyond that. When comparing `morpheus8 vs ultherapy`, one of the biggest differences is versatility. Ultherapy is a powerhouse for lifting the face, neck, and chest. Morpheus8, however, can be used almost anywhere on the body to improve skin laxity, texture, and tone. Its unique technology is even gentle enough for delicate areas, making it a go-to for comprehensive wellness treatments like Morpheus8-V for vaginal rejuvenation. This makes it an incredibly valuable tool for addressing a wide range of concerns from head to toe.
+The conversation around skin rejuvenation often focuses on the face, but feeling confident in your skin goes beyond that. When comparing `morpheus8 vs ultherapy`, one of the biggest differences is versatility. Ultherapy is a powerhouse for lifting the face, neck, and chest. Morpheus8, however, can be used almost anywhere on the body to improve skin laxity, texture, and tone. Its unique technology is even gentle enough for delicate areas, making it a go-to for comprehensive wellness treatments like Morpheus8-V for [vaginal rejuvenation](/services/vaginal-rejuvenation/). This makes it an incredibly valuable tool for addressing a wide range of concerns from head to toe.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

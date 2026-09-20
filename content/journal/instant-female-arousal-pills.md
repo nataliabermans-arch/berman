@@ -167,7 +167,7 @@ In contrast, prescription medications are FDA-approved and have undergone extens
 
 If you’re experiencing a persistent dip in your desire, it’s a good time to talk to a doctor. It’s completely normal for libido to fluctuate with major life events, stress, and physical changes like menopause. A doctor can help you make sense of these changes. While an OTC pill might promise a quick fix, it can’t diagnose or treat the underlying cause of your concerns. Seeing a professional is the first step toward understanding what’s really going on with your body.
 
-A medical expert can offer a personalized wellness plan that addresses your specific needs, which might include hormone therapy, lifestyle adjustments, or other clinically proven treatments. Instead of dealing with the confusing and unregulated world of supplements, you can get a clear diagnosis and a reliable path forward. If you’re ready to find a lasting solution for low libido, scheduling a consultation is the most empowering step you can take.
+A medical expert can offer a personalized wellness plan that addresses your specific needs, which might include [hormone therapy](/services/menopause-hormones/), lifestyle adjustments, or other clinically proven treatments. Instead of dealing with the confusing and unregulated world of supplements, you can get a clear diagnosis and a reliable path forward. If you’re ready to find a lasting solution for low libido, scheduling a consultation is the most empowering step you can take.
 
 ## Professional Alternatives for Lasting Results
 

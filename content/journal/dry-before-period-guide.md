@@ -114,7 +114,7 @@ Intimacy should be a source of connection and pleasure, not pain. If vaginal dry
 
 ### Learn About Hormone Therapy Options
 
-When over-the-counter products don’t provide enough relief, prescription treatments can be a game-changer. Your doctor might suggest localized, low-dose estrogen, which comes in creams, rings, or tablets that you apply directly to the vagina. These treatments are highly effective at restoring vaginal tissue health and are not the same as systemic hormone therapy. Dr. Berman specializes in creating customized plans, including options like Bioidentical Hormone Replacement Therapy, to balance your hormones safely and effectively. This approach can address dryness while also helping with other menopause-related symptoms you might be experiencing.
+When over-the-counter products don’t provide enough relief, prescription treatments can be a game-changer. Your doctor might suggest localized, low-dose estrogen, which comes in creams, rings, or tablets that you apply directly to the vagina. These treatments are highly effective at restoring vaginal tissue health and are not the same as systemic hormone therapy. Dr. Berman specializes in creating customized plans, including options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy, to balance your hormones safely and effectively. This approach can address dryness while also helping with other menopause-related symptoms you might be experiencing.
 
 ### Discover Advanced Treatments like the O-Shot
 
@@ -122,7 +122,7 @@ Sometimes, the best solution goes beyond creams and hormones. Modern medicine of
 
 ### Get a Personalized Plan with Dr. Jennifer Berman
 
-Every woman’s body is unique, and your treatment plan should be too. The most important step you can take is to have an open conversation with a specialist who truly listens. Dr. Jennifer Berman is an expert in women’s sexual health and provides a compassionate, confidential environment to discuss your concerns. She will work with you to understand your symptoms, health history, and lifestyle to develop a personalized plan. From hormone therapy to advanced vaginal rejuvenation, she offers a full spectrum of solutions to help you feel your best.
+Every woman’s body is unique, and your treatment plan should be too. The most important step you can take is to have an open conversation with a specialist who truly listens. Dr. Jennifer Berman is an expert in women’s sexual health and provides a compassionate, confidential environment to discuss your concerns. She will work with you to understand your symptoms, health history, and lifestyle to develop a personalized plan. From hormone therapy to advanced [vaginal rejuvenation](/services/vaginal-rejuvenation/), she offers a full spectrum of solutions to help you feel your best.
 
 
 [SCHEDULE A CONSULTATION](/contact/)

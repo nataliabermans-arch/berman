@@ -86,7 +86,7 @@ One of the cornerstones of managing menopause is addressing the dramatic hormona
 
 #### Bioidentical Hormone Replacement Therapy (BHRT)
 
-For women seeking a more natural approach to hormonal balance, Dr. Berman often recommends Bioidentical Hormone Replacement Therapy (BHRT). Unlike synthetic hormones, bioidentical hormones are molecularly identical to those produced by your own body. This allows them to function in the same way, helping to restore equilibrium gently and effectively. Dr. Berman uses BHRT to address the full spectrum of menopausal symptoms, creating a customized plan that aligns with your body’s unique chemistry and helps you achieve lasting relief.
+For women seeking a more natural approach to hormonal balance, Dr. Berman often recommends [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy (BHRT). Unlike synthetic hormones, bioidentical hormones are molecularly identical to those produced by your own body. This allows them to function in the same way, helping to restore equilibrium gently and effectively. Dr. Berman uses BHRT to address the full spectrum of menopausal symptoms, creating a customized plan that aligns with your body’s unique chemistry and helps you achieve lasting relief.
 
 #### Testosterone Therapy for Women
 
@@ -98,11 +98,11 @@ Beyond hormone therapy, Dr. Berman offers a suite of innovative treatments desig
 
 #### Vaginal Rejuvenation and Dryness Solutions
 
-Vaginal dryness and thinning tissues are common complaints during menopause, often leading to discomfort and painful intimacy. Dr. Berman offers advanced vaginal rejuvenation treatments that restore moisture and elasticity to the vaginal tissues. Using technologies like Forma V and Morpheus 8-V, she can improve lubrication, reduce pain, and enhance sensation. These non-surgical solutions provide a safe and effective way to reclaim your intimate health and enjoy a more comfortable and satisfying sex life.
+Vaginal dryness and thinning tissues are common complaints during menopause, often leading to discomfort and painful intimacy. Dr. Berman offers advanced [vaginal rejuvenation](/services/vaginal-rejuvenation/) treatments that restore moisture and elasticity to the vaginal tissues. Using technologies like Forma V and Morpheus 8-V, she can improve lubrication, reduce pain, and enhance sensation. These non-surgical solutions provide a safe and effective way to reclaim your intimate health and enjoy a more comfortable and satisfying sex life.
 
 #### Urinary Incontinence and Pelvic Floor Support
 
-Unexpected leaks when you laugh, sneeze, or exercise can be one of the most frustrating symptoms of menopause. Dr. Berman provides effective solutions for urinary incontinence by focusing on strengthening the pelvic floor muscles. She offers state-of-the-art treatments like Emsella, a non-invasive therapy that uses electromagnetic energy to stimulate deep pelvic floor contractions. This helps rebuild muscle strength and support, giving you better bladder control and restoring your confidence to live an active life without worry.
+Unexpected leaks when you laugh, sneeze, or exercise can be one of the most frustrating symptoms of menopause. Dr. Berman provides effective solutions for urinary incontinence by focusing on strengthening the [pelvic floor](/services/pelvic-urinary/) muscles. She offers state-of-the-art treatments like Emsella, a non-invasive therapy that uses electromagnetic energy to stimulate deep pelvic floor contractions. This helps rebuild muscle strength and support, giving you better bladder control and restoring your confidence to live an active life without worry.
 
 #### Libido and Arousal Treatments
 

@@ -24,7 +24,7 @@ If you’ve recently found yourself snapping over minor inconveniences, crying d
 
 - **Your Moods Are Tied to Your Biology**: The emotional shifts you’re feeling are real physical responses to fluctuating hormones, disrupted sleep, and midlife stress. This isn’t just in your head; it’s a biological process you can manage.
 - **Master the Basics for Better Balance**: You can directly influence your emotional stability through daily habits. Prioritizing regular movement, a whole-foods diet, and restorative sleep creates a powerful buffer against hormonal mood swings.
-- **Professional Support Is a Powerful Tool**: When lifestyle changes aren’t enough, working with a specialist is a proactive step. They can offer personalized solutions, from Bioidentical Hormone Replacement Therapy to targeted counseling, to help you feel like yourself again.
+- **Professional Support Is a Powerful Tool**: When lifestyle changes aren’t enough, working with a specialist is a proactive step. They can offer personalized solutions, from [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy to targeted counseling, to help you feel like yourself again.
 
 ## Why Am I So Moody? Understanding Perimenopause Mood Swings
 

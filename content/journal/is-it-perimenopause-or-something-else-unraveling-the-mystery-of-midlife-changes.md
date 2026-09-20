@@ -17,7 +17,7 @@ originalUrl: >-
 author: "Dr. Jennifer Berman, MD"
 ---
 
-The 40s and 50s can be a whirlwind for women. You’re juggling career demands, family dynamics, and maybe even a touch of existential dread. On top of it all, you might start experiencing a constellation of new physical and emotional symptoms – irregular periods, hot flashes, sleep disturbances, and mood swings. The culprit you immediately suspect? Perimenopause, the transitional phase leading up to menopause. But what if it’s something else?
+The 40s and 50s can be a whirlwind for women. You’re juggling career demands, family dynamics, and maybe even a touch of existential dread. On top of it all, you might start experiencing a constellation of new physical and emotional symptoms – irregular periods, hot flashes, sleep disturbances, and mood swings. The culprit you immediately suspect? [Perimenopause](/services/menopause-hormones/), the transitional phase leading up to menopause. But what if it’s something else?
 
 Distinguishing between perimenopause and other underlying health conditions can be tricky. Both can present with similar symptoms, leaving you feeling confused and unsure where to turn. This article will equip you with the knowledge to navigate this period and determine if it’s perimenopause or something else.
 

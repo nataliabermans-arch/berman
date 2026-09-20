@@ -33,7 +33,7 @@ You’ve likely heard the terms “perimenopause” and “menopause” used int
 
 ### Perimenopause: The Transition
 
-Perimenopause, which literally means “around menopause,” is the transitional period before menopause officially begins. This phase can start as early as your mid-30s but more commonly begins in your 40s. During this time, your ovaries gradually produce less estrogen, but it’s not a smooth, steady decline. Instead, your hormone levels can fluctuate unpredictably, causing many of the classic symptoms we associate with this life stage, like irregular periods, hot flashes, and mood swings. This transition can last anywhere from a few years to a decade. Because these symptoms are driven by hormonal imbalance, treatments like Bioidentical Hormone Replacement Therapy can offer significant relief by restoring equilibrium.
+Perimenopause, which literally means “around menopause,” is the transitional period before menopause officially begins. This phase can start as early as your mid-30s but more commonly begins in your 40s. During this time, your ovaries gradually produce less estrogen, but it’s not a smooth, steady decline. Instead, your hormone levels can fluctuate unpredictably, causing many of the classic symptoms we associate with this life stage, like irregular periods, hot flashes, and mood swings. This transition can last anywhere from a few years to a decade. Because these symptoms are driven by hormonal imbalance, treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can offer significant relief by restoring equilibrium.
 
 #### The Stages of Perimenopause
 
@@ -123,7 +123,7 @@ Your gut health is closely linked to your hormones. As estrogen fluctuates, you 
 
 #### Let’s Talk About Bladder and Sexual Health
 
-This is an area where many women notice significant changes, but often hesitate to talk about them. Lower estrogen levels affect the tissues in your vagina and urinary tract, leading to a range of symptoms. It’s important to know that effective solutions, from vaginal rejuvenation to incontinence therapy, are available.
+This is an area where many women notice significant changes, but often hesitate to talk about them. Lower estrogen levels affect the tissues in your vagina and urinary tract, leading to a range of symptoms. It’s important to know that effective solutions, from [vaginal rejuvenation](/services/vaginal-rejuvenation/) to incontinence therapy, are available.
 
 - Vaginal dryness
 - Pain or discomfort during sex
@@ -281,7 +281,7 @@ Your perimenopause journey is entirely your own, so your treatment plan should b
 
 ### Finding Relief for Sexual and Urinary Symptoms
 
-Lower estrogen levels can directly affect vaginal and urinary tissues, making them thinner, drier, and less elastic. This can lead to painful sex, persistent dryness, or unexpected urine leakage. While HRT can help, there are also incredible treatments that target these issues directly. Options for vaginal rejuvenation can restore tissue health and lubrication, while innovative therapies for incontinence can strengthen the pelvic floor and give you back your confidence. You don’t have to accept discomfort or embarrassment as your new normal; there are gentle, effective solutions available.
+Lower estrogen levels can directly affect vaginal and urinary tissues, making them thinner, drier, and less elastic. This can lead to painful sex, persistent dryness, or unexpected urine leakage. While HRT can help, there are also incredible treatments that target these issues directly. Options for vaginal rejuvenation can restore tissue health and lubrication, while innovative therapies for incontinence can strengthen the [pelvic floor](/services/pelvic-urinary/) and give you back your confidence. You don’t have to accept discomfort or embarrassment as your new normal; there are gentle, effective solutions available.
 
 #### Advanced Treatments for Sexual and Urinary Health
 

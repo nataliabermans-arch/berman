@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/emsella-chair-fda-approved/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Let’s be real about the pelvic floor. When these crucial muscles weaken from childbirth or aging, it can lead to frustrating issues like urinary incontinence. And while everyone says to “just do your Kegels,” it’s hard to know if you’re doing them right or consistently enough to make a difference. This is where the **Emsella chair** changes the game. It uses powerful electromagnetic energy to do the work _for you_, inducing thousands of deep muscle contractions in one session. This isn’t a wellness trend; its **Emsella chair FDA approved** status means it’s a proven medical treatment for restoring control and getting you back to life without leaks.
+Let’s be real about the [pelvic floor](/services/pelvic-urinary/). When these crucial muscles weaken from childbirth or aging, it can lead to frustrating issues like urinary incontinence. And while everyone says to “just do your Kegels,” it’s hard to know if you’re doing them right or consistently enough to make a difference. This is where the **Emsella chair** changes the game. It uses powerful electromagnetic energy to do the work _for you_, inducing thousands of deep muscle contractions in one session. This isn’t a wellness trend; its **Emsella chair FDA approved** status means it’s a proven medical treatment for restoring control and getting you back to life without leaks.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -47,7 +47,7 @@ While Kegels are often the first recommendation for strengthening the pelvic flo
 
 ### Could Emsella Be Right for You?
 
-Emsella is an excellent option for a wide range of women. It’s FDA-cleared for women of any age who experience urinary incontinence. This includes both stress incontinence (leaking when you cough, sneeze, laugh, or exercise) and urge incontinence (the sudden, intense need to go to the bathroom). If you’ve noticed these issues after childbirth, during perimenopause, or as you’ve gotten older, Emsella could be a great fit. While many women see fantastic results, its effectiveness can depend on your specific condition. The best way to know for sure is to have a conversation with a specialist who can assess your unique needs and confirm if you’re a good candidate for the treatment.
+Emsella is an excellent option for a wide range of women. It’s FDA-cleared for women of any age who experience urinary incontinence. This includes both stress incontinence (leaking when you cough, sneeze, laugh, or exercise) and urge incontinence (the sudden, intense need to go to the bathroom). If you’ve noticed these issues after childbirth, during [perimenopause](/services/menopause-hormones/), or as you’ve gotten older, Emsella could be a great fit. While many women see fantastic results, its effectiveness can depend on your specific condition. The best way to know for sure is to have a conversation with a specialist who can assess your unique needs and confirm if you’re a good candidate for the treatment.
 
 #### Emsella for Men
 

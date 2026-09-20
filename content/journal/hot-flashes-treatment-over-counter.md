@@ -100,7 +100,7 @@ Before you start a new supplement, make a complete list of every single thing yo
 
 Some herbal supplements have been linked to liver damage, especially when taken for extended periods or at high doses. Your liver is your body’s primary filter, and it works hard to process everything you ingest. Certain compounds found in herbs can put extra strain on it, leading to inflammation or more serious issues over time.
 
-Because of this risk, it’s a good idea to have a conversation with your doctor about any supplement you plan to take long-term. They may recommend periodic blood tests to monitor your liver function. This is another reason why medically supervised treatments, like Bioidentical Hormone Replacement Therapy, offer peace of mind—they include professional monitoring to ensure your body is responding safely.
+Because of this risk, it’s a good idea to have a conversation with your doctor about any supplement you plan to take long-term. They may recommend periodic blood tests to monitor your liver function. This is another reason why medically supervised treatments, like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy, offer peace of mind—they include professional monitoring to ensure your body is responding safely.
 
 ## How Effective Are OTC Treatments, Really?
 

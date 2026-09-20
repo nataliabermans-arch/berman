@@ -75,7 +75,7 @@ Replens is a well-known and doctor-recommended brand for a reason. This estrogen
 
 ### Good Clean Love BioNude Ultra Moisturizing Gel
 
-If you have sensitive skin, this product is an excellent choice. Good Clean Love’s gel is a water-based formula that is completely free of parabens and glycerin, two common irritants found in many personal care products. It’s designed to mimic your body’s natural lubrication and is perfectly pH-balanced to support a healthy vaginal ecosystem. It’s a wonderfully gentle option for both daily moisturizing and for making intimacy more comfortable. For those seeking more comprehensive solutions, vaginal rejuvenation can also address underlying tissue health.
+If you have sensitive skin, this product is an excellent choice. Good Clean Love’s gel is a water-based formula that is completely free of parabens and glycerin, two common irritants found in many personal care products. It’s designed to mimic your body’s natural lubrication and is perfectly pH-balanced to support a healthy vaginal ecosystem. It’s a wonderfully gentle option for both daily moisturizing and for making intimacy more comfortable. For those seeking more comprehensive solutions, [vaginal rejuvenation](/services/vaginal-rejuvenation/) can also address underlying tissue health.
 
 ## Vaginal Moisturizers vs. Personal Lubricants: What’s the Difference?
 
@@ -163,7 +163,7 @@ If you’re using a vaginal moisturizer or lubricant consistently but your sympt
 
 ### Explore Advanced Treatments with Dr. Berman
 
-Once you decide to seek professional care, you open the door to a range of incredibly effective solutions tailored just for you. A specialist can help pinpoint the root cause of your discomfort and create a personalized plan. This might include prescription options like vaginal estrogen therapy, which comes in creams, suppositories, or rings to restore tissue health. For many women, addressing hormonal imbalances with treatments like Bioidentical Hormone Replacement Therapy offers lasting relief. Dr. Berman also provides advanced, in-office procedures like the O-Shot and Votiva, which use your body’s natural healing abilities to rejuvenate vaginal tissue, improve lubrication, and enhance function.
+Once you decide to seek professional care, you open the door to a range of incredibly effective solutions tailored just for you. A specialist can help pinpoint the root cause of your discomfort and create a personalized plan. This might include prescription options like vaginal estrogen therapy, which comes in creams, suppositories, or rings to restore tissue health. For many women, addressing hormonal imbalances with treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy offers lasting relief. Dr. Berman also provides advanced, in-office procedures like the O-Shot and Votiva, which use your body’s natural healing abilities to rejuvenate vaginal tissue, improve lubrication, and enhance function.
 
 ## How to Shop Smart for Vaginal Dryness Products
 

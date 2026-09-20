@@ -142,7 +142,7 @@ identify:
 • Progesterone decline affecting mood, sleep, or cycle irregularity  
 • Poor hormone detoxification linked to fibroids, acne, or PMS
 
-For women with PCOS entering perimenopause or menopause, this test provides clarity and guides targeted treatment—whether it’s bioidentical hormone therapy (BHRT), adrenal  
+For women with PCOS entering perimenopause or menopause, this test provides clarity and guides targeted treatment—whether it’s [bioidentical hormone](/services/menopause-hormones/) therapy (BHRT), adrenal  
 support, or detox strategies. Dr. Berman uses the Menopause Biotype to personalize  
 treatment protocols for her PCOS patients with:  
 • Persistent PCOS symptoms in midlife  

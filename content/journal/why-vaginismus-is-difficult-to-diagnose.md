@@ -29,7 +29,7 @@ Getting answers about your health can feel like a puzzle, especially with a cond
 
 ![Understanding Vaginismus](/wp-content/uploads/2024/08/vaginis-1.jpg)
 
-Vaginismus is a condition characterized by involuntary contractions of the pelvic floor muscles, which can cause notable discomfort and impede sexual intercourse. This condition often falls under the broader category of **sexual pain** disorders and can have profound effects on both physical and emotional well-being.
+Vaginismus is a condition characterized by involuntary contractions of the [pelvic floor](/services/pelvic-urinary/) muscles, which can cause notable discomfort and impede sexual intercourse. This condition often falls under the broader category of **sexual pain** disorders and can have profound effects on both physical and emotional well-being.
 
 Accurate diagnosis of vaginismus involves a thorough evaluation by healthcare professionals, often starting with a detailed medical and sexual history. Gynecological physical therapy plays an essential role in the treatment, utilizing techniques such as biofeedback and dilation exercises to help patients gain control over their pelvic floor muscles. These physical interventions are often complemented by strong emotional support, which is vital for enhancing treatment efficacy and improving patient outcomes.
 
@@ -111,7 +111,7 @@ While the mind-body connection is powerful, vaginismus isn’t always rooted in 
 
 #### Infections and Medical Conditions
 
-Certain medical conditions can make penetration painful, setting the stage for vaginismus. Common culprits include urinary tract infections (UTIs), yeast infections, or sexually transmitted infections (STIs). The discomfort from these issues can create a fear of pain, causing your pelvic floor muscles to tense up automatically as a protective measure. Hormonal changes, particularly those associated with menopause, can also play a role. A decrease in estrogen can lead to vaginal dryness and thinning tissues, making intercourse uncomfortable or painful. When your body repeatedly experiences pain with penetration, it can develop a conditioned response of tensing up, leading to the cycle of vaginismus.
+Certain medical conditions can make penetration painful, setting the stage for vaginismus. Common culprits include urinary tract infections (UTIs), yeast infections, or sexually transmitted infections (STIs). The discomfort from these issues can create a fear of pain, causing your pelvic floor muscles to tense up automatically as a protective measure. Hormonal changes, particularly those associated with [menopause](/services/menopause-hormones/), can also play a role. A decrease in estrogen can lead to vaginal dryness and thinning tissues, making intercourse uncomfortable or painful. When your body repeatedly experiences pain with penetration, it can develop a conditioned response of tensing up, leading to the cycle of vaginismus.
 
 #### Childbirth and Physical Trauma
 

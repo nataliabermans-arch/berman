@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/vtone-before-and-after/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Let’s be honest, that little leak when you laugh, sneeze, or jump on a trampoline is more than just an annoyance; it can dictate what you wear and what you do. For years, the solutions felt limited. But what if you could strengthen your pelvic floor from the inside out, without surgery or endless, often ineffective, Kegels? VTone is a gentle, non-invasive treatment designed to do just that. It rehabilitates your pelvic floor muscles to restore strength and control. The real `vtone before and after` story isn’t just about better bladder control; it’s about regaining the freedom and confidence to live fully. This guide explains how it works.
+Let’s be honest, that little leak when you laugh, sneeze, or jump on a trampoline is more than just an annoyance; it can dictate what you wear and what you do. For years, the solutions felt limited. But what if you could strengthen your [pelvic floor](/services/pelvic-urinary/) from the inside out, without surgery or endless, often ineffective, Kegels? VTone is a gentle, non-invasive treatment designed to do just that. It rehabilitates your pelvic floor muscles to restore strength and control. The real `vtone before and after` story isn’t just about better bladder control; it’s about regaining the freedom and confidence to live fully. This guide explains how it works.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -41,7 +41,7 @@ The entire treatment is gentle and doesn’t involve any needles, anesthesia, or
 
 ### Is VTone a Good Fit for You?
 
-VTone is a fantastic option for many women who are ready to improve their pelvic health. You might be a great candidate if you experience stress incontinence, which is that little leak when you laugh, sneeze, or exercise. It’s also ideal for women dealing with vaginal laxity after childbirth or menopause, or those who simply feel their pelvic floor isn’t as strong as it used to be.
+VTone is a fantastic option for many women who are ready to improve their pelvic health. You might be a great candidate if you experience stress incontinence, which is that little leak when you laugh, sneeze, or exercise. It’s also ideal for women dealing with vaginal laxity after childbirth or [menopause](/services/menopause-hormones/), or those who simply feel their pelvic floor isn’t as strong as it used to be.
 
 Many women find that strengthening these muscles not only improves bladder control but also enhances their overall sexual and urinary tract health. By restoring neuromuscular control, VTone can lead to greater comfort and confidence in your daily life and during intimate moments. If you’re looking for a non-invasive way to reclaim control and feel more like yourself, this treatment is definitely worth exploring.
 
@@ -105,7 +105,7 @@ When you’re exploring a new treatment, it’s easy to get tangled in a web of 
 
 ### Myth: It’s a Surgical Procedure
 
-One of the biggest misconceptions about VTone is that it’s a type of surgery. This couldn’t be further from the truth. VTone is a completely non-surgical and minimally invasive treatment. There are no incisions, no anesthesia, and no lengthy recovery period. Instead, the technology uses gentle electrical muscle stimulation (EMS) to contract and strengthen your pelvic floor muscles, essentially doing the work of thousands of Kegels for you in a single session. This makes it a fantastic option for women who want effective results without the risks and downtime associated with a vaginal rejuvenation surgery.
+One of the biggest misconceptions about VTone is that it’s a type of surgery. This couldn’t be further from the truth. VTone is a completely non-surgical and minimally invasive treatment. There are no incisions, no anesthesia, and no lengthy recovery period. Instead, the technology uses gentle electrical muscle stimulation (EMS) to contract and strengthen your pelvic floor muscles, essentially doing the work of thousands of Kegels for you in a single session. This makes it a fantastic option for women who want effective results without the risks and downtime associated with a [vaginal rejuvenation](/services/vaginal-rejuvenation/) surgery.
 
 ### Myth: Insurance Will Cover It
 

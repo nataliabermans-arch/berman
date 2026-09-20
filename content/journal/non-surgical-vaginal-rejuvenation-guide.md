@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/non-surgical-vaginal-rejuvenation-g
 author: "Dr. Jennifer Berman, MD"
 ---
 
-If you’ve ever been told to “just do more Kegels” to fix issues like laxity or minor leaks, you know it’s not always that simple. While pelvic floor exercises are important, they only work the muscles. They can’t address the underlying tissue changes that happen after childbirth or during menopause. This is where **non-surgical vaginal rejuvenation** comes in. These advanced, _non-invasive_ treatments go beyond muscle work, using targeted energy to help your body rebuild its own collagen. It’s a science-backed path to real results, offering effective **non surgical vaginal tightening** with minimal downtime.
+If you’ve ever been told to “just do more Kegels” to fix issues like laxity or minor leaks, you know it’s not always that simple. While [pelvic floor](/services/pelvic-urinary/) exercises are important, they only work the muscles. They can’t address the underlying tissue changes that happen after childbirth or during [menopause](/services/menopause-hormones/). This is where **non-surgical [vaginal rejuvenation](/services/vaginal-rejuvenation/)** comes in. These advanced, _non-invasive_ treatments go beyond muscle work, using targeted energy to help your body rebuild its own collagen. It’s a science-backed path to real results, offering effective **non surgical vaginal tightening** with minimal downtime.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

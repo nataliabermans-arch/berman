@@ -62,7 +62,7 @@ Think of your desire as a complex ecosystem rather than a simple switch. It’s 
 
 ### Your Hormones and Your Libido
 
-Your hormones are like the conductors of your body’s orchestra, and they play a huge role in your libido. Fluctuations in estrogen, progesterone, and even testosterone can significantly impact your level of desire. For example, many women feel a natural peak in desire around ovulation when estrogen is high. Conversely, major hormonal shifts during postpartum, perimenopause, and menopause can lead to a noticeable drop in libido. It’s important to remember that female desire is naturally more variable than male desire, and that’s completely normal. If you suspect hormonal changes are affecting you, exploring options like Bioidentical Hormone Replacement Therapy can help restore balance and support your sexual wellness.
+Your hormones are like the conductors of your body’s orchestra, and they play a huge role in your libido. Fluctuations in estrogen, progesterone, and even testosterone can significantly impact your level of desire. For example, many women feel a natural peak in desire around ovulation when estrogen is high. Conversely, major hormonal shifts during postpartum, perimenopause, and menopause can lead to a noticeable drop in libido. It’s important to remember that female desire is naturally more variable than male desire, and that’s completely normal. If you suspect hormonal changes are affecting you, exploring options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can help restore balance and support your sexual wellness.
 
 ### How Stress and Health Play a Role
 
@@ -106,7 +106,7 @@ So many women worry they’re broken because they don’t experience the kind of
 
 ### Myth #3: Your Desire Should Look a Certain Way
 
-Your desire is uniquely yours. It’s shaped by your biology, psychology, life experiences, and relationship dynamics. There is no single “normal” when it comes to how often you should want sex or what gets you interested. Comparing your libido to your best friend’s, a character on TV, or even your own past self isn’t helpful. Female sexual desire is incredibly varied, and it’s important to honor what feels right for you. Understanding the different factors that can influence your personal desire is the first step toward nurturing it. If you feel your sexual health needs support, a personalized approach from a vaginal rejuvenation expert can make all the difference.
+Your desire is uniquely yours. It’s shaped by your biology, psychology, life experiences, and relationship dynamics. There is no single “normal” when it comes to how often you should want sex or what gets you interested. Comparing your libido to your best friend’s, a character on TV, or even your own past self isn’t helpful. Female sexual desire is incredibly varied, and it’s important to honor what feels right for you. Understanding the different factors that can influence your personal desire is the first step toward nurturing it. If you feel your sexual health needs support, a personalized approach from a [vaginal rejuvenation](/services/vaginal-rejuvenation/) expert can make all the difference.
 
 ## How Hormones Impact Desire Through Life
 

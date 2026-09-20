@@ -22,7 +22,7 @@ author: "Dr. Jennifer Berman, MD"
 
 As women age, the risk of developing osteoporosis increases, especially during the menopausal transition. Bone health is of utmost importance during this time as the decrease in estrogen levels can lead to a decrease in bone density. It is crucial for menopausal women to prioritize their bone health in order to prevent fractures and maintain overall health and quality of life.
 
-One of the main reasons why bone health is so important for menopausal women is the increased risk of osteoporosis. Osteoporosis is a condition where bones become weak and brittle, making them more prone to fractures. With the decline in estrogen levels during menopause, women are at a higher risk of developing osteoporosis, making it essential to take proactive measures to maintain bone density.
+One of the main reasons why bone health is so important for menopausal women is the increased risk of osteoporosis. Osteoporosis is a condition where bones become weak and brittle, making them more prone to fractures. With the decline in estrogen levels during [menopause](/services/menopause-hormones/), women are at a higher risk of developing osteoporosis, making it essential to take proactive measures to maintain bone density.
 
 Maintaining bone health during menopause can also help prevent other health issues such as back pain, poor posture, and decreased mobility. By incorporating weight-bearing exercises, sufficient calcium and vitamin D intake, and regular screenings for bone density, menopausal women can reduce their risk of developing osteoporosis and its associated complications.
 

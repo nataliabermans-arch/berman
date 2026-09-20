@@ -14,7 +14,7 @@ author: "Dr. Jennifer Berman, MD"
 
 One of the more embarrassing problems a woman can face is urinary incontinence, which involves the loss of bladder control. Female Urinary incontinence can range in severity, whether it’s a small amount of leakage that occurs when you cough or sneeze or whether it’s a full-on urge to use the toilet that is so strong you can’t make it to the bathroom in time.
 
-Did you know as a woman you are twice as likely to experience incontinence than a man? Events like menopause, pregnancy, childbirth, and the general structure of the female body is what makes women more likely to have to go through urinary incontinence or vaginal tract infection.
+Did you know as a woman you are twice as likely to experience incontinence than a man? Events like [menopause](/services/menopause-hormones/), pregnancy, childbirth, and the general structure of the female body is what makes women more likely to have to go through urinary incontinence or vaginal tract infection.
 
 ## Forms of Female Urinary Incontinence
 

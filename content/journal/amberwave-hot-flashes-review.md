@@ -88,7 +88,7 @@ When you’re dealing with hot flashes, you want relief that works for you. The 
 
 ### Embr Wave vs. Hormone Replacement Therapy
 
-The biggest difference between the Embr Wave and hormone replacement therapy (HRT) is how they work. HRT, such as Bioidentical Hormone Replacement Therapy, addresses the hormonal fluctuations that cause hot flashes and other menopause symptoms. It’s a systemic treatment that works to restore balance throughout your body.
+The biggest difference between the Embr Wave and hormone replacement therapy (HRT) is how they work. HRT, such as [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy, addresses the hormonal fluctuations that cause hot flashes and other menopause symptoms. It’s a systemic treatment that works to restore balance throughout your body.
 
 The Embr Wave, on the other hand, is a non-invasive, drug-free tool that provides on-demand symptom relief. It doesn’t change your body’s chemistry. Instead, it uses temperature sensations on your wrist to help your brain and body feel more comfortable during a hot flash or chill. It’s an excellent option for women who are looking for a non-hormonal approach or want something to manage breakthrough symptoms alongside other treatments.
 

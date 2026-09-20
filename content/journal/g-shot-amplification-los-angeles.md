@@ -90,7 +90,7 @@ After your G-Shot appointment, you can typically expect the enhanced sensitivity
 
 ### What Makes the Results Last Longer
 
-While the G-Shot itself is a temporary treatment, your overall sexual health can influence your experience. The injection is designed to physically enhance sensitivity in the G-spot area, but it doesn’t address underlying factors like hormonal imbalances or low desire. For a more holistic approach, it’s helpful to consider your entire wellness picture. If you’re dealing with issues like vaginal dryness or a dip in desire, addressing those can complement the physical effects of the G-Shot. Pairing the treatment with solutions like Bioidentical Hormone Replacement Therapy can create a more comprehensive improvement in your sexual satisfaction.
+While the G-Shot itself is a temporary treatment, your overall sexual health can influence your experience. The injection is designed to physically enhance sensitivity in the G-spot area, but it doesn’t address underlying factors like hormonal imbalances or low desire. For a more holistic approach, it’s helpful to consider your entire wellness picture. If you’re dealing with issues like vaginal dryness or a dip in desire, addressing those can complement the physical effects of the G-Shot. Pairing the treatment with solutions like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can create a more comprehensive improvement in your sexual satisfaction.
 
 ### When to Schedule Your Next Treatment
 

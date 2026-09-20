@@ -22,7 +22,7 @@ Let’s be honest, the last thing you need is another daily task on your to-do l
 
 ## Key Takeaways
 
-- **Experience Consistent Relief**: Hormone pellets deliver a steady, slow release of bioidentical hormones, helping you feel balanced every day without the hormonal peaks and valleys of other methods.
+- **Experience Consistent Relief**: Hormone pellets deliver a steady, slow release of [bioidentical hormone](/services/menopause-hormones/)s, helping you feel balanced every day without the hormonal peaks and valleys of other methods.
 - **Simplify Your Wellness Routine**: With a quick, in-office procedure just a few times per year, you can forget about daily pills or creams and focus on living your life with fewer symptoms.
 - **Work with a Specialist for a Custom Plan**: The safest and most effective treatment is one designed just for you; a qualified hormone specialist will use detailed lab work to create a precise dosage that aligns with your unique health needs.
 

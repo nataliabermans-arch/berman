@@ -40,7 +40,7 @@ So, what causes these shifts? A hormonal imbalance simply means your body is pro
 
 ## Your Hormone Treatment Options in Los Angeles
 
-If you’re dealing with the frustrating symptoms of a hormone imbalance, the good news is you have options. Finding the right treatment isn’t about a one-size-fits-all solution; it’s about discovering a personalized approach that fits your body and your life. In Los Angeles, specialists offer a range of advanced therapies designed to help you feel like yourself again. From bioidentical hormones to cutting-edge sexual wellness treatments, there’s a path forward. Let’s walk through some of the most effective options available so you can feel empowered in your health journey.
+If you’re dealing with the frustrating symptoms of a hormone imbalance, the good news is you have options. Finding the right treatment isn’t about a one-size-fits-all solution; it’s about discovering a personalized approach that fits your body and your life. In Los Angeles, specialists offer a range of advanced therapies designed to help you feel like yourself again. From [bioidentical hormone](/services/menopause-hormones/)s to cutting-edge sexual wellness treatments, there’s a path forward. Let’s walk through some of the most effective options available so you can feel empowered in your health journey.
 
 ### Bioidentical Hormone Replacement Therapy (BHRT)
 
@@ -56,7 +56,7 @@ When we think of testosterone, we often associate it with men, but this hormone 
 
 ### Advanced Sexual Wellness Treatments
 
-Sometimes, hormonal imbalance affects more than just your energy levels or mood; it can also impact your sexual health. Issues like vaginal dryness, discomfort during intercourse, or a dip in libido are incredibly common, but you don’t have to just live with them. Advanced sexual wellness treatments combine hormone therapy with other innovative approaches to restore function and pleasure. These therapies can include pelvic floor treatments and other non-invasive procedures designed to address the root cause of your symptoms. By taking a comprehensive approach, you can improve your sexual health and reclaim your confidence.
+Sometimes, hormonal imbalance affects more than just your energy levels or mood; it can also impact your sexual health. Issues like vaginal dryness, discomfort during intercourse, or a dip in libido are incredibly common, but you don’t have to just live with them. Advanced sexual wellness treatments combine hormone therapy with other innovative approaches to restore function and pleasure. These therapies can include [pelvic floor](/services/pelvic-urinary/) treatments and other non-invasive procedures designed to address the root cause of your symptoms. By taking a comprehensive approach, you can improve your sexual health and reclaim your confidence.
 
 ## How to Choose the Right Hormone Specialist in Los Angeles
 

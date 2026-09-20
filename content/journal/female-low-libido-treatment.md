@@ -71,7 +71,7 @@ Hormones are powerful chemical messengers that influence everything from our moo
 
 ### Bioidentical Hormone Replacement
 
-If the idea of hormone therapy makes you think of a one-size-fits-all approach, it’s time to meet bioidentical hormones. Bioidentical Hormone Replacement Therapy (BHRT) uses hormones derived from plants that are molecularly identical to the ones your body produces naturally. This means your body recognizes and can use them just as it would its own. The treatment is completely customized to your individual needs based on comprehensive testing of your hormone levels. By replenishing key hormones like estrogen, BHRT can directly address frustrating symptoms like vaginal dryness, mood changes, and fatigue, all of which can stand in the way of a healthy sex drive. It’s a personalized path to feeling vibrant and reconnected with your desire.
+If the idea of hormone therapy makes you think of a one-size-fits-all approach, it’s time to meet [bioidentical hormone](/services/menopause-hormones/)s. Bioidentical Hormone Replacement Therapy (BHRT) uses hormones derived from plants that are molecularly identical to the ones your body produces naturally. This means your body recognizes and can use them just as it would its own. The treatment is completely customized to your individual needs based on comprehensive testing of your hormone levels. By replenishing key hormones like estrogen, BHRT can directly address frustrating symptoms like vaginal dryness, mood changes, and fatigue, all of which can stand in the way of a healthy sex drive. It’s a personalized path to feeling vibrant and reconnected with your desire.
 
 ### Testosterone Therapy for Women
 
@@ -95,7 +95,7 @@ If the root of your low desire feels more neurological than physical, PT-141 the
 
 ### Vaginal Rejuvenation with Forma V
 
-Physical discomfort during sex is a significant barrier to desire. As a vaginal rejuvenation expert, Dr. Berman knows that addressing the underlying causes of this discomfort, such as dryness or loss of elasticity, is key. Procedures like Forma V use gentle radiofrequency energy to stimulate collagen production and improve the health of vaginal tissue. This process can restore natural lubrication, improve tightness, and reduce pain, leading to more comfortable and pleasurable sexual experiences. By improving the physical aspects of sexual function, these treatments can help rekindle desire and rebuild confidence in your body, making intimacy something to look forward to again.
+Physical discomfort during sex is a significant barrier to desire. As a [vaginal rejuvenation](/services/vaginal-rejuvenation/) expert, Dr. Berman knows that addressing the underlying causes of this discomfort, such as dryness or loss of elasticity, is key. Procedures like Forma V use gentle radiofrequency energy to stimulate collagen production and improve the health of vaginal tissue. This process can restore natural lubrication, improve tightness, and reduce pain, leading to more comfortable and pleasurable sexual experiences. By improving the physical aspects of sexual function, these treatments can help rekindle desire and rebuild confidence in your body, making intimacy something to look forward to again.
 
 ## How Psychology Affects Your Libido
 

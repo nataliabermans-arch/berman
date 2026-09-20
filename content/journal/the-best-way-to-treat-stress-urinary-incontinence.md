@@ -21,11 +21,11 @@ Urinary incontinence is the involuntary release of urine from the urethra. Stre
 
 ## What are the causes of stress incontinence? 
 
-Stress urinary incontinence happens due to weakening of the pelvic floor muscles and ligaments that support the bladder and urethra. The pelvic floor is similar to a hammock, designed to support your pelvic organs including the bladder, uterus, rectum, and vagina. When the pelvic floor becomes weakened, the loss of support to the bladder leads to stress urinary incontinence. 
+Stress urinary incontinence happens due to weakening of the [pelvic floor](/services/pelvic-urinary/) muscles and ligaments that support the bladder and urethra. The pelvic floor is similar to a hammock, designed to support your pelvic organs including the bladder, uterus, rectum, and vagina. When the pelvic floor becomes weakened, the loss of support to the bladder leads to stress urinary incontinence. 
 
 ## Why is stress incontinence more common in women?
 
-Weakening of the pelvic floor muscles and support tissue typically occurs following childbirth. Carrying a baby to term places a heavy strain on the pelvic floor. Increasing size of the baby, uterus, placenta, and amniotic fluid, followed by labor, takes a serious toll on the pelvic floor. If you have traumatic labor and delivery and/or assistance is needed during childbirth, such as forceps, the damage can be worse. Other common risk factors for stress incontinence include aging and menopause. This is due to decreasing estrogen levels.
+Weakening of the pelvic floor muscles and support tissue typically occurs following childbirth. Carrying a baby to term places a heavy strain on the pelvic floor. Increasing size of the baby, uterus, placenta, and amniotic fluid, followed by labor, takes a serious toll on the pelvic floor. If you have traumatic labor and delivery and/or assistance is needed during childbirth, such as forceps, the damage can be worse. Other common risk factors for stress incontinence include aging and [menopause](/services/menopause-hormones/). This is due to decreasing estrogen levels.
 
 ## What treatment options are available for stress urinary incontinence?
 

@@ -115,11 +115,11 @@ Hormonal fluctuations are one of the most common reasons for a dip in female lib
 
 #### Bioidentical Hormone Replacement Therapy (BHRT)
 
-For women seeking a more natural approach to hormone balance, Bioidentical Hormone Replacement Therapy (BHRT) is an excellent option. Unlike synthetic hormones, bioidentical hormones are derived from plant sources and are designed to be structurally identical to the hormones your body produces naturally. This allows them to function in the same way, potentially leading to fewer side effects. Dr. Berman specializes in creating customized BHRT plans, often using pellet therapy, to deliver a steady, consistent dose of hormones tailored to your unique needs, helping to restore desire and vitality.
+For women seeking a more natural approach to hormone balance, [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy (BHRT) is an excellent option. Unlike synthetic hormones, bioidentical hormones are derived from plant sources and are designed to be structurally identical to the hormones your body produces naturally. This allows them to function in the same way, potentially leading to fewer side effects. Dr. Berman specializes in creating customized BHRT plans, often using pellet therapy, to deliver a steady, consistent dose of hormones tailored to your unique needs, helping to restore desire and vitality.
 
 #### Testosterone for Women
 
-While often thought of as a male hormone, testosterone is crucial for female sexual function, playing a key role in desire, arousal, and satisfaction. As women age, testosterone levels naturally decline, which can lead to a noticeable drop in libido. Though not yet FDA-approved specifically for female sexual dysfunction in the U.S., many experts prescribe testosterone for women off-label because of its proven effectiveness. Under the guidance of a specialist, low-dose testosterone therapy can safely help rekindle your sex drive and improve your overall sexual experience.
+While often thought of as a male hormone, testosterone is crucial for female sexual function, playing a key role in desire, arousal, and satisfaction. As women age, testosterone levels naturally decline, which can lead to a noticeable drop in libido. Though not yet FDA-approved specifically for [female sexual dysfunction](/services/sexual-health/) in the U.S., many experts prescribe testosterone for women off-label because of its proven effectiveness. Under the guidance of a specialist, low-dose testosterone therapy can safely help rekindle your sex drive and improve your overall sexual experience.
 
 ### FDA-Approved Medications
 

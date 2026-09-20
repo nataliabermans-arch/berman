@@ -28,7 +28,7 @@ You’ve seen the incredible _body sculpting before and after_ photos. But what 
 
 ## What Are My Body Sculpting Options?
 
-Body sculpting, also known as body contouring, is a way to reshape and refine specific areas of your body. Think of it as the finishing touch that diet and exercise can’t always provide. These treatments target and reduce stubborn pockets of fat to create a more defined silhouette. The term “body sculpting” covers a wide range of procedures, each with a different approach, level of intensity, and recovery time.
+Body sculpting, also known as [body contouring](/services/body-contouring/), is a way to reshape and refine specific areas of your body. Think of it as the finishing touch that diet and exercise can’t always provide. These treatments target and reduce stubborn pockets of fat to create a more defined silhouette. The term “body sculpting” covers a wide range of procedures, each with a different approach, level of intensity, and recovery time.
 
 Understanding your options is the first step in figuring out what’s right for you. Generally, these treatments fall into three main categories: non-invasive, minimally invasive, and surgical. Each path offers a different experience, especially when it comes to comfort and downtime. Exploring these categories will help you align your personal goals and pain tolerance with the most suitable procedure.
 
@@ -46,7 +46,7 @@ Laser-based treatments offer another way to target fat without surgery. During t
 
 ### High-Intensity Focused Electromagnetic (HIFEM) Energy
 
-Some of the newest body sculpting technologies focus on building muscle in addition to reducing fat. Treatments using High-Intensity Focused Electromagnetic (HIFEM) energy create rapid, powerful muscle contractions in the targeted area—far more than you could achieve in a typical gym session. The sensation feels like a series of strong, involuntary muscle clenches. While it can feel intense, most people find it completely manageable and not painful. This same technology is also used in treatments like Emsella to strengthen the pelvic floor, showcasing its versatility in women’s health. It’s a unique approach that helps you achieve a more toned and defined look by working the muscles from the inside out.
+Some of the newest body sculpting technologies focus on building muscle in addition to reducing fat. Treatments using High-Intensity Focused Electromagnetic (HIFEM) energy create rapid, powerful muscle contractions in the targeted area—far more than you could achieve in a typical gym session. The sensation feels like a series of strong, involuntary muscle clenches. While it can feel intense, most people find it completely manageable and not painful. This same technology is also used in treatments like Emsella to strengthen the [pelvic floor](/services/pelvic-urinary/), showcasing its versatility in women’s health. It’s a unique approach that helps you achieve a more toned and defined look by working the muscles from the inside out.
 
 ### Surgical Body Contouring: What to Know
 

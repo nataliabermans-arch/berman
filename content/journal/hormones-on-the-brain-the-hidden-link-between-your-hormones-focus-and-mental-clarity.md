@@ -43,7 +43,7 @@ Estrogen isn’t just about reproduction. Its a powerful neuromodulator that enh
 
 – Cerebral blood flow, especially in areas like the hippocampus (your brains memory center)
 
-When estrogen levels drop often in perimenopause or due to birth control, PCOS, or surgical menopause women experience:
+When estrogen levels drop often in [perimenopause](/services/menopause-hormones/) or due to birth control, PCOS, or surgical menopause women experience:
 
 – Word retrieval issues (‘tip of the tongue’ moments)
 

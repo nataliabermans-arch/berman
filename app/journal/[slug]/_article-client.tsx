@@ -1123,7 +1123,7 @@ function WhatToDoNext({ target }: { target: ConversionTarget }) {
           >
             <div style={eyebrowStyle}>Real consult</div>
             <h3 style={headStyle}>
-              In-person or <em style={{ color: "#8a3a44" }}>telehealth.</em>
+              In-person or <em style={{ color: "#8a3a44" }}>virtual.</em>
             </h3>
             <p style={bodyStyle}>
               60–90 minute new-patient consult with Dr. Berman — workup, plan,

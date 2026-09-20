@@ -14,7 +14,7 @@ originalUrl: >-
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Perimenopause, the years leading up to menopause, is a time of significant change for women. Hot flashes, mood swings, and irregular periods are just a few of the hallmark symptoms that can disrupt your daily life. But did you know that sleep problems are also a common complaint during this transition? Night sweats, anxiety, and hormonal fluctuations can leave you tossing and turning, yearning for a good night’s rest.
+[Perimenopause](/services/menopause-hormones/), the years leading up to menopause, is a time of significant change for women. Hot flashes, mood swings, and irregular periods are just a few of the hallmark symptoms that can disrupt your daily life. But did you know that sleep problems are also a common complaint during this transition? Night sweats, anxiety, and hormonal fluctuations can leave you tossing and turning, yearning for a good night’s rest.
 
 This article delves into the world of sleep disturbances in perimenopause, exploring the reasons behind these frustrating nighttime struggles and offering practical strategies to help you reclaim restful sleep and wake up feeling refreshed.
 

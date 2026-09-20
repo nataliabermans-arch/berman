@@ -19,7 +19,7 @@ author: "Dr. Jennifer Berman, MD"
 
 ## **Coping with Mood Swings and** **Emotional** **Changes**
 
-Menopause is a natural phase in a woman’s life that brings about many changes, both physical and emotional. One of the most common symptoms experienced during menopause is mood swings and emotional changes. These can range from feeling irritable and anxious to experiencing sudden bouts of sadness or anger. It is important to remember that these changes are a normal part of the menopausal process and can be managed effectively with the right strategies.
+[Menopause](/services/menopause-hormones/) is a natural phase in a woman’s life that brings about many changes, both physical and emotional. One of the most common symptoms experienced during menopause is mood swings and emotional changes. These can range from feeling irritable and anxious to experiencing sudden bouts of sadness or anger. It is important to remember that these changes are a normal part of the menopausal process and can be managed effectively with the right strategies.
 
 One way to cope with mood swings and emotional changes during **menopause** is to practice self-care. This can include engaging in activities that help you relax and unwind, such as yoga, meditation, or spending time in nature. Taking care of your physical health, such as getting regular exercise and eating a balanced diet, can also help regulate your mood and emotions. Additionally, getting enough sleep and staying hydrated are important factors in managing mood swings.
 

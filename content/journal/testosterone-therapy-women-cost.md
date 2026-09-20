@@ -132,7 +132,7 @@ The professional you choose to guide you on this journey matters immensely, and 
 
 ### Compounded vs. FDA-Approved Options
 
-Your prescription can be filled in two ways: through a standard, FDA-approved product or a compounded medication. FDA-approved options are mass-produced and come in standard doses. Compounded medications, on the other hand, are custom-mixed by a specialized pharmacy based on your doctor’s exact specifications. This allows for personalized dosing that isn’t available off the shelf. Because they are made just for you, compounded options can sometimes be more expensive. However, this tailored approach is often a key part of successful bioidentical hormone replacement therapy, as it allows your provider to adjust your formula with incredible precision to match your body’s unique hormonal needs.
+Your prescription can be filled in two ways: through a standard, FDA-approved product or a compounded medication. FDA-approved options are mass-produced and come in standard doses. Compounded medications, on the other hand, are custom-mixed by a specialized pharmacy based on your doctor’s exact specifications. This allows for personalized dosing that isn’t available off the shelf. Because they are made just for you, compounded options can sometimes be more expensive. However, this tailored approach is often a key part of successful [bioidentical hormone](/services/menopause-hormones/) replacement therapy, as it allows your provider to adjust your formula with incredible precision to match your body’s unique hormonal needs.
 
 ## How to Make Your Therapy More Affordable
 

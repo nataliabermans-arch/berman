@@ -14,7 +14,7 @@ originalUrl: >-
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Perimenopause, the years leading up to menopause, can feel like a puzzle with missing pieces. Symptoms like hot flashes, irregular periods, and mood swings can leave you wondering, “How long will this last?” Unfortunately, there’s no one-size-fits-all answer to the question of perimenopause duration. This article delves into the factors that influence the length of perimenopause, explores the average timeline, and offers tips for navigating this transitional phase.
+[Perimenopause](/services/menopause-hormones/), the years leading up to menopause, can feel like a puzzle with missing pieces. Symptoms like hot flashes, irregular periods, and mood swings can leave you wondering, “How long will this last?” Unfortunately, there’s no one-size-fits-all answer to the question of perimenopause duration. This article delves into the factors that influence the length of perimenopause, explores the average timeline, and offers tips for navigating this transitional phase.
 
 **The Hormonal Shift: A Symphony Out of Tune**
 

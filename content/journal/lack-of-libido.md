@@ -30,7 +30,7 @@ Long before she was a familiar face on television, Dr. Berman was building an in
 
 #### From East Coast Training to UCLA
 
-Dr. Berman’s impressive credentials begin with a medical degree from Boston University School of Medicine. She then pursued specialized training in urology at the University of Maryland before completing a fellowship at UCLA Medical Center. It was there that she focused on female urology and pelvic floor surgery, honing the skills that would define her career. This rigorous, coast-to-coast education provided her with a deep understanding of the complex issues affecting women’s health, positioning her as an expert in a highly specialized and essential field of medicine.
+Dr. Berman’s impressive credentials begin with a medical degree from Boston University School of Medicine. She then pursued specialized training in urology at the University of Maryland before completing a fellowship at UCLA Medical Center. It was there that she focused on female urology and [pelvic floor](/services/pelvic-urinary/) surgery, honing the skills that would define her career. This rigorous, coast-to-coast education provided her with a deep understanding of the complex issues affecting women’s health, positioning her as an expert in a highly specialized and essential field of medicine.
 
 #### Founding the Female Sexual Medicine Center
 
@@ -74,7 +74,7 @@ When Esquire or Oprah needs a quote about sex or sexual well-being, they often t
 
 It turns out the brain really is our most important sex organ, and estrogen plays a starring role in keeping it running smoothly. Think of estrogen as a vital messenger that helps maintain the brain’s intricate communication network, supporting the connections for clear thinking and sharp memory. When estrogen levels decline during menopause, it’s not just in your head if you feel like you’re walking through a fog. This hormonal shift can directly lead to frustrating moments of forgetfulness and difficulty concentrating. It’s a real physiological change, and understanding this is the first step toward feeling like yourself again.
 
-This brain fog doesn’t just impact your daily tasks; it has a direct line to your sex drive. The same estrogen decline that affects cognitive function can also dampen sexual desire and arousal. When your brain isn’t getting the hormonal support it needs, it’s much harder to get into the right headspace for intimacy. The good news is you don’t have to accept this as your new normal. Addressing the hormonal imbalance through treatments like Bioidentical Hormone Replacement Therapy can help manage these symptoms, clearing the mental fog and reigniting desire.
+This brain fog doesn’t just impact your daily tasks; it has a direct line to your sex drive. The same estrogen decline that affects cognitive function can also dampen sexual desire and arousal. When your brain isn’t getting the hormonal support it needs, it’s much harder to get into the right headspace for intimacy. The good news is you don’t have to accept this as your new normal. Addressing the hormonal imbalance through treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can help manage these symptoms, clearing the mental fog and reigniting desire.
 
 ## Are Your Antidepressants Affecting Your Sex Drive?
 
@@ -112,7 +112,7 @@ If you’re looking to enhance sexual pleasure and arousal, the O-Shot® (Orgasm
 
 #### Non-Surgical Vaginal Rejuvenation
 
-Vaginal rejuvenation isn’t just about aesthetics; it’s about restoring comfort, function, and confidence. Life events like childbirth and menopause can lead to changes like vaginal laxity, dryness, and decreased sensation, which can impact both sexual satisfaction and daily comfort. Fortunately, you don’t have to resort to invasive surgery to address these issues. Dr. Jennifer Berman offers advanced, non-surgical vaginal rejuvenation techniques that use technologies like radiofrequency to gently heat tissue and stimulate collagen production. This process helps restore elasticity, improve natural lubrication, and enhance sexual function, allowing you to feel more like yourself again without significant downtime.
+[Vaginal rejuvenation](/services/vaginal-rejuvenation/) isn’t just about aesthetics; it’s about restoring comfort, function, and confidence. Life events like childbirth and menopause can lead to changes like vaginal laxity, dryness, and decreased sensation, which can impact both sexual satisfaction and daily comfort. Fortunately, you don’t have to resort to invasive surgery to address these issues. Dr. Jennifer Berman offers advanced, non-surgical vaginal rejuvenation techniques that use technologies like radiofrequency to gently heat tissue and stimulate collagen production. This process helps restore elasticity, improve natural lubrication, and enhance sexual function, allowing you to feel more like yourself again without significant downtime.
 
 ### Addressing Urinary and Pelvic Health
 

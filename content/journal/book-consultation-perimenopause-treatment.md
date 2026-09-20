@@ -55,7 +55,7 @@ Many women find it challenging to connect with doctors who have deep expertise i
 
 ### Dr. Jennifer Berman’s Personalized Approach
 
-Every woman’s journey through perimenopause is different, which is why a one-size-fits-all approach simply doesn’t work. Dr. Jennifer Berman focuses on creating a personalized treatment plan tailored to your specific symptoms, hormone levels, and health goals. Instead of just managing symptoms, her approach aims to restore balance and vitality. This involves a comprehensive look at your health, from hormone replacement therapies like Bioidentical Hormone Replacement Therapy to innovative treatments for related concerns like low libido or vaginal dryness. By offering a wide range of services, she ensures your care addresses all aspects of your well-being during this transition.
+Every woman’s journey through perimenopause is different, which is why a one-size-fits-all approach simply doesn’t work. Dr. Jennifer Berman focuses on creating a personalized treatment plan tailored to your specific symptoms, hormone levels, and health goals. Instead of just managing symptoms, her approach aims to restore balance and vitality. This involves a comprehensive look at your health, from hormone replacement therapies like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy to innovative treatments for related concerns like low libido or vaginal dryness. By offering a wide range of services, she ensures your care addresses all aspects of your well-being during this transition.
 
 ### Understanding Your Insurance Coverage
 

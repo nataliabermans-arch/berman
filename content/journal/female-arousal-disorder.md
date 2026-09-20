@@ -36,7 +36,7 @@ Female Sexual Interest/Arousal Disorder (FSIAD) is the clinical term for a persi
 
 ### How It Differs from Other Sexual Health Concerns
 
-The term FSIAD is specific. It combines what used to be considered two separate issues: low sexual desire and problems with physical arousal. It’s a specific diagnosis under the broader umbrella of Female Sexual Dysfunction (FSD). FSD is a catch-all term for any ongoing sexual problem that causes you distress, including issues with orgasm or pain during sex. Think of it this way: while all cases of FSIAD are a type of FSD, not all FSD is FSIAD. Pinpointing your specific challenge is key to finding the most effective treatment for your unique sexual health concerns.
+The term FSIAD is specific. It combines what used to be considered two separate issues: low sexual desire and problems with physical arousal. It’s a specific diagnosis under the broader umbrella of [Female Sexual Dysfunction](/services/sexual-health/) (FSD). FSD is a catch-all term for any ongoing sexual problem that causes you distress, including issues with orgasm or pain during sex. Think of it this way: while all cases of FSIAD are a type of FSD, not all FSD is FSIAD. Pinpointing your specific challenge is key to finding the most effective treatment for your unique sexual health concerns.
 
 ## What Are the Signs of Female Arousal Disorder?
 
@@ -60,7 +60,7 @@ Figuring out why you’re having trouble with arousal can feel like solving a pu
 
 ### The Role of Hormones and Menopause
 
-Hormones are powerful chemical messengers, and when they fluctuate, you can feel the effects everywhere, including in your sex life. Major life stages like pregnancy, childbirth, and especially menopause can cause significant hormonal shifts. As estrogen levels decline during menopause, you might notice changes in your genital tissues and reduced blood flow to the pelvic area. This can make it physically harder to become aroused and feel sensation. If you suspect hormonal changes are a factor, exploring options like Bioidentical Hormone Replacement Therapy can help restore balance and address these physical symptoms directly.
+Hormones are powerful chemical messengers, and when they fluctuate, you can feel the effects everywhere, including in your sex life. Major life stages like pregnancy, childbirth, and especially menopause can cause significant hormonal shifts. As estrogen levels decline during menopause, you might notice changes in your genital tissues and reduced blood flow to the pelvic area. This can make it physically harder to become aroused and feel sensation. If you suspect hormonal changes are a factor, exploring options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can help restore balance and address these physical symptoms directly.
 
 ### Physical and Medical Conditions
 

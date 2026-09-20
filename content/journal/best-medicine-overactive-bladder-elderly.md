@@ -25,7 +25,7 @@ Do we really need to choose between dementia or dryness? Why are they just now t
 ## Key Takeaways
 
 - **Opt for brain-safe OAB medications**: For older adults, newer drugs like beta-3 agonists are a top choice because they manage bladder symptoms effectively without the cognitive risks, such as confusion or memory issues, associated with older medications.
-- **Pair medication with practical habits**: For the best results, combine your OAB medication with behavioral strategies. This includes making simple dietary changes, practicing bladder training, and strengthening your pelvic floor through exercises or treatments like Emsella.
+- **Pair medication with practical habits**: For the best results, combine your OAB medication with behavioral strategies. This includes making simple dietary changes, practicing bladder training, and strengthening your [pelvic floor](/services/pelvic-urinary/) through exercises or treatments like Emsella.
 - **Partner with your doctor for a tailored approach**: Effective OAB treatment is a process, so work with your doctor to start with a low dose, schedule regular check-ins to monitor your progress, and be open about all your medications to ensure your plan is safe.
 
 ## What is Overactive Bladder in Older Adults?
@@ -42,7 +42,7 @@ The signs of OAB can significantly disrupt your daily routine and confidence. Th
 
 ### Why OAB is More Common with Age
 
-While OAB can happen at any age, it does become more common as we get older. This is because the body goes through natural changes. The muscles in the bladder can weaken, and the nerve signals between the bladder and the brain might not work as efficiently as they used to. Other age-related health conditions and hormonal shifts, particularly after menopause, can also play a role. It’s important to remember that aging itself doesn’t cause OAB, but it can increase your risk. The good news is that modern approaches, like Emsella Incontinence Therapy, offer effective ways to manage symptoms.
+While OAB can happen at any age, it does become more common as we get older. This is because the body goes through natural changes. The muscles in the bladder can weaken, and the nerve signals between the bladder and the brain might not work as efficiently as they used to. Other age-related health conditions and hormonal shifts, particularly after [menopause](/services/menopause-hormones/), can also play a role. It’s important to remember that aging itself doesn’t cause OAB, but it can increase your risk. The good news is that modern approaches, like Emsella Incontinence Therapy, offer effective ways to manage symptoms.
 
 ## Start with Non-Medication Approaches
 

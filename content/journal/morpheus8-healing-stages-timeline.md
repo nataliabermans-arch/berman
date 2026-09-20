@@ -36,7 +36,7 @@ At its core, Morpheus8 is a brilliant combination of microneedling and radiofreq
 
 ### The Results: Skin Rejuvenation and Tightening
 
-So, what can you actually expect from a Morpheus8 treatment? The results are focused on creating significant improvements in skin tightness, texture, and overall tone. While some people notice a subtle tightening effect almost immediately, the real magic happens over the following weeks and months as your body generates new collagen. This process helps to smooth out wrinkles, firm up lax skin, reduce the appearance of scars, and create a more even complexion. Because Morpheus8 penetrates deeper than many other treatments, it provides noticeable and long-lasting results with minimal downtime, which is why it’s become such a popular option for vaginal rejuvenation and facial contouring.
+So, what can you actually expect from a Morpheus8 treatment? The results are focused on creating significant improvements in skin tightness, texture, and overall tone. While some people notice a subtle tightening effect almost immediately, the real magic happens over the following weeks and months as your body generates new collagen. This process helps to smooth out wrinkles, firm up lax skin, reduce the appearance of scars, and create a more even complexion. Because Morpheus8 penetrates deeper than many other treatments, it provides noticeable and long-lasting results with minimal downtime, which is why it’s become such a popular option for [vaginal rejuvenation](/services/vaginal-rejuvenation/) and facial contouring.
 
 ## Your Day-by-Day Morpheus8 Healing Timeline
 

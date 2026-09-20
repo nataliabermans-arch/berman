@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/hormone-pellet-therapy-benefits/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-The idea of a tiny implant handling your hormone balance might sound futuristic, but it’s a simple and effective reality. This method, known as **hormone pellet therapy**, is perfect if you’re tired of the daily hassle of creams or pills. These tiny _pellets for hormones_ are smaller than a grain of rice and use bioidentical hormones—the same kind your body naturally produces. They work by releasing a slow, steady dose over several months, mimicking your body’s natural rhythm. This consistent delivery is the secret behind the incredible **benefits of pellet therapy**. Here, we’ll explain the simple insertion process and what to expect.
+The idea of a tiny implant handling your hormone balance might sound futuristic, but it’s a simple and effective reality. This method, known as **hormone pellet therapy**, is perfect if you’re tired of the daily hassle of creams or pills. These tiny _pellets for hormones_ are smaller than a grain of rice and use [bioidentical hormone](/services/menopause-hormones/)s—the same kind your body naturally produces. They work by releasing a slow, steady dose over several months, mimicking your body’s natural rhythm. This consistent delivery is the secret behind the incredible **benefits of pellet therapy**. Here, we’ll explain the simple insertion process and what to expect.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -185,7 +185,7 @@ Beyond pellets, the world of hormone replacement includes several other effectiv
 
 ### Non-Hormonal Alternatives for Symptom Management
 
-Hormone therapy isn’t the only path to relief. For many women, lifestyle adjustments can make a significant difference in managing mild symptoms. Simple changes like refining your diet, incorporating regular exercise, and practicing stress-reduction techniques like yoga or meditation can have a powerful impact on your overall well-being. Beyond lifestyle shifts, there are also targeted, non-hormonal treatments that address specific concerns. For instance, if you’re dealing with issues like urinary leakage, an innovative treatment like Emsella Incontinence Therapy can strengthen your pelvic floor without hormones. Similarly, procedures like Votiva can address vaginal dryness and discomfort, offering localized relief without systemic effects.
+Hormone therapy isn’t the only path to relief. For many women, lifestyle adjustments can make a significant difference in managing mild symptoms. Simple changes like refining your diet, incorporating regular exercise, and practicing stress-reduction techniques like yoga or meditation can have a powerful impact on your overall well-being. Beyond lifestyle shifts, there are also targeted, non-hormonal treatments that address specific concerns. For instance, if you’re dealing with issues like urinary leakage, an innovative treatment like Emsella Incontinence Therapy can strengthen your [pelvic floor](/services/pelvic-urinary/) without hormones. Similarly, procedures like Votiva can address vaginal dryness and discomfort, offering localized relief without systemic effects.
 
 ### Why You Might Try Other Options First
 

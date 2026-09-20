@@ -138,7 +138,7 @@ While serious complications are uncommon, they are possible. The most significan
 
 ### What to expect during your recovery
 
-Recovery from the O-Shot is typically very quick, with no real downtime required. You can usually return to your daily activities, including work, right away. Some women report a temporary feeling of urinary urgency or a slight pinching sensation, but this generally fades quickly. Your doctor will provide specific aftercare instructions, which often include waiting a few days before engaging in sexual activity to allow the area to heal fully. Following these guidelines helps ensure you get the best possible results from your vaginal rejuvenation treatment and have a smooth, comfortable recovery.
+Recovery from the O-Shot is typically very quick, with no real downtime required. You can usually return to your daily activities, including work, right away. Some women report a temporary feeling of urinary urgency or a slight pinching sensation, but this generally fades quickly. Your doctor will provide specific aftercare instructions, which often include waiting a few days before engaging in sexual activity to allow the area to heal fully. Following these guidelines helps ensure you get the best possible results from your [vaginal rejuvenation](/services/vaginal-rejuvenation/) treatment and have a smooth, comfortable recovery.
 
 ## Red Flags to Watch For in an O-Shot Provider
 

@@ -28,7 +28,7 @@ Hormone weight loss
 
 ##### Could hormone therapy help you lose weight?
 
-Absolutely! Dr. Berman offers many bioidentical hormone replacement therapy (BHRT) treatment options that can help you to balance your hormones with the added benefit of losing the menopausal weight gain. Other benefits of BHRT include alleviating hot flashes and night sweats, mood swings, memory loss or “brain fog”, increased interest in sex, less pain during intercourse, improved sleep, more energy, less vaginal dryness, increase in lean muscle mass.
+Absolutely! Dr. Berman offers many [bioidentical hormone](/services/menopause-hormones/) replacement therapy (BHRT) treatment options that can help you to balance your hormones with the added benefit of losing the menopausal weight gain. Other benefits of BHRT include alleviating hot flashes and night sweats, mood swings, memory loss or “brain fog”, increased interest in sex, less pain during intercourse, improved sleep, more energy, less vaginal dryness, increase in lean muscle mass.
 
 ##### What is bioidentical hormone replacement therapy (BHRT)?
 

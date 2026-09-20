@@ -107,7 +107,7 @@ Your G-Shot appointment is a quick and simple in-office procedure. First, your s
 
 ### Aftercare and Downtime
 
-One of the best parts about the G-Shot is the minimal downtime. Most women can return to their normal daily activities right away. However, to get the best results, it’s important to follow a few simple aftercare guidelines. You should plan to avoid sexual activity and vigorous exercise for about 48 hours after the procedure. It’s also a good idea to skip alcohol and avoid any harsh or irritating personal care products during this time. Following these instructions helps the filler settle properly and ensures a smooth recovery. This quick turnaround makes the G-Shot a convenient option for enhancing your sexual wellness and vaginal rejuvenation.
+One of the best parts about the G-Shot is the minimal downtime. Most women can return to their normal daily activities right away. However, to get the best results, it’s important to follow a few simple aftercare guidelines. You should plan to avoid sexual activity and vigorous exercise for about 48 hours after the procedure. It’s also a good idea to skip alcohol and avoid any harsh or irritating personal care products during this time. Following these instructions helps the filler settle properly and ensures a smooth recovery. This quick turnaround makes the G-Shot a convenient option for enhancing your sexual wellness and [vaginal rejuvenation](/services/vaginal-rejuvenation/).
 
 ## Is the G-Shot Safe and Effective?
 

@@ -27,7 +27,7 @@ Research has shown a strong connection between estrogen levels and brain health 
 
 **Menopausal** women are especially at risk for cognitive decline due to hormonal imbalance. As estrogen levels decrease during this time, women may experience changes in memory, attention, and other cognitive functions. It is important for women to be aware of  these  potential effects and to seek  proper medical care  and support  to address hormonal imbalances and protect their brain health.
 
-One potential treatment for brain shrinkage in women with hormonal imbalances is hormone therapy. By restoring estrogen levels to more optimal levels, hormone therapy may help support brain health and cognitive function in women experiencing hormonal changes. However, it is important for women to discuss the risks and benefits of hormone therapy with their healthcare provider before starting this treatment.
+One potential treatment for brain shrinkage in women with hormonal imbalances is [hormone therapy](/services/menopause-hormones/). By restoring estrogen levels to more optimal levels, hormone therapy may help support brain health and cognitive function in women experiencing hormonal changes. However, it is important for women to discuss the risks and benefits of hormone therapy with their healthcare provider before starting this treatment.
 
 In addition to hormone therapy, lifestyle interventions can also support brain health in women with hormonal imbalances. This may include regular exercise, a healthy diet, stress management techniques, and adequate sleep. By taking a holistic approach to brain health, women can support their cognitive function and overall well-being, even in the face of hormonal changes.
 

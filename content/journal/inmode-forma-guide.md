@@ -22,8 +22,8 @@ Let’s talk about the changes our bodies go through with age. Childbirth and me
 
 ## Key Takeaways
 
-- **Forma V and Emfemme 360 use gentle radio-frequency heat to rebuild and restore vaginal and bladder health naturally**: These treatments stimulate your body’s own collagen and elastin production to restore tissue health and function, offering a non-surgical, painless solution for vaginal rejuvenation.
-- **Find relief for vaginal dryness, urinary incontinence, painful intercourse and changes in the appearance and tightness at once**: These treatments are designed to improve vaginal tightness, enhance sensation, relieve dryness, and reduce mild bladder leaks, offering a comprehensive solution to all your pelvic floor concerns.
+- **Forma V and Emfemme 360 use gentle radio-frequency heat to rebuild and restore vaginal and bladder health naturally**: These treatments stimulate your body’s own collagen and elastin production to restore tissue health and function, offering a non-surgical, painless solution for [vaginal rejuvenation](/services/vaginal-rejuvenation/).
+- **Find relief for vaginal dryness, urinary incontinence, painful intercourse and changes in the appearance and tightness at once**: These treatments are designed to improve vaginal tightness, enhance sensation, relieve dryness, and reduce mild bladder leaks, offering a comprehensive solution to all your [pelvic floor](/services/pelvic-urinary/) concerns.
 - **A personalized plan is key to lasting success**: The most effective results come from a series of three sessions tailored to your specific goals, followed by simple annual maintenance.
 
 ## What Is Forma V and Emfemme 360?(/vaginal-rejuvenation/)?
@@ -112,7 +112,7 @@ Deciding on an intimate wellness treatment is a personal choice. It’s all abou
 
 ### Who Is a Good Candidate for Forma V?
 
-You might be a great candidate for Forma V if you’re looking to address common concerns many women face after childbirth, during perimenopause, or due to aging. This treatment is for women who want to improve vaginal laxity, reduce mild stress incontinence (leaks when you laugh or sneeze), and find relief from vaginal dryness or discomfort during intimacy. If you’re in good health and want a non-surgical way to restore confidence and comfort, Forma V offers a gentle yet effective solution for vaginal rejuvenation. It’s about helping you feel more like yourself again.
+You might be a great candidate for Forma V if you’re looking to address common concerns many women face after childbirth, during [perimenopause](/services/menopause-hormones/), or due to aging. This treatment is for women who want to improve vaginal laxity, reduce mild stress incontinence (leaks when you laugh or sneeze), and find relief from vaginal dryness or discomfort during intimacy. If you’re in good health and want a non-surgical way to restore confidence and comfort, Forma V offers a gentle yet effective solution for vaginal rejuvenation. It’s about helping you feel more like yourself again.
 
 ### Understanding the Safety and Side Effects
 

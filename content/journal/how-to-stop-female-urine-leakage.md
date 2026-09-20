@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/how-to-stop-female-urine-leakage/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Chances are, the first piece of advice you heard for bladder leaks was to “just do more Kegels.” While strengthening your pelvic floor is important, Kegels are not a one-size-fits-all solution, and many women do them incorrectly without seeing results. The truth is, learning how to stop female urine leakage often requires a more personalized approach. For some, the pelvic floor muscles are actually too tight, and more Kegels could make the problem worse. This article moves beyond the basic advice to explore the full range of effective strategies, from simple lifestyle adjustments to advanced, non-invasive treatments that address the root cause of your symptoms, helping you find a plan that truly works for your body.
+Chances are, the first piece of advice you heard for bladder leaks was to “just do more Kegels.” While strengthening your [pelvic floor](/services/pelvic-urinary/) is important, Kegels are not a one-size-fits-all solution, and many women do them incorrectly without seeing results. The truth is, learning how to stop female urine leakage often requires a more personalized approach. For some, the pelvic floor muscles are actually too tight, and more Kegels could make the problem worse. This article moves beyond the basic advice to explore the full range of effective strategies, from simple lifestyle adjustments to advanced, non-invasive treatments that address the root cause of your symptoms, helping you find a plan that truly works for your body.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -100,7 +100,7 @@ If lifestyle adjustments and Kegels aren’t giving you the relief you need, it 
 
 ### Hormone Therapy for Bladder Control
 
-Hormonal shifts, especially the drop in estrogen during menopause, can thin the tissues in your urinary tract and pelvic floor. This can weaken the muscles and lining around your bladder and urethra, making leaks more likely. For many women, low-dose vaginal estrogen therapy can make a significant difference by restoring the health and resilience of these tissues. This isn’t about overhauling your body’s hormones, but rather providing targeted support where it’s needed most. A personalized approach like Bioidentical Hormone Replacement Therapy can help replenish estrogen levels safely, improving bladder control and overall vaginal health.
+Hormonal shifts, especially the drop in estrogen during menopause, can thin the tissues in your urinary tract and pelvic floor. This can weaken the muscles and lining around your bladder and urethra, making leaks more likely. For many women, low-dose vaginal estrogen therapy can make a significant difference by restoring the health and resilience of these tissues. This isn’t about overhauling your body’s hormones, but rather providing targeted support where it’s needed most. A personalized approach like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can help replenish estrogen levels safely, improving bladder control and overall vaginal health.
 
 ### How Prescription Medications Can Help
 

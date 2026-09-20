@@ -55,7 +55,7 @@ You might not immediately connect UTIs with vaginal health, but the two are clos
 
 #### Menopause-Related Symptoms
 
-Menopause brings a wave of hormonal changes that can significantly impact vaginal health, often leading to what’s known as genitourinary syndrome. This can cause symptoms like dryness, itching, and general discomfort, which can affect your quality of life and sexual health. Probiotics can offer some much-needed support during this transition. Specifically, the strain _L. acidophilus_ has been shown to help with these symptoms by restoring moisture and balance. If you’re experiencing these changes, incorporating probiotics could be a gentle, effective way to find relief and complement other vaginal dryness treatments.
+[Menopause](/services/menopause-hormones/) brings a wave of hormonal changes that can significantly impact vaginal health, often leading to what’s known as genitourinary syndrome. This can cause symptoms like dryness, itching, and general discomfort, which can affect your quality of life and sexual health. Probiotics can offer some much-needed support during this transition. Specifically, the strain _L. acidophilus_ has been shown to help with these symptoms by restoring moisture and balance. If you’re experiencing these changes, incorporating probiotics could be a gentle, effective way to find relief and complement other vaginal dryness treatments.
 
 ### Oral vs. Suppositories: Which Type Is Right for You?
 

@@ -13,7 +13,7 @@ originalUrl: >-
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Vaginal dryness is a problem that can affect women of all ages. Thinning of the lining of the vagina resulting in symptoms of dryness is very common as women age and can occur before, during and after menopause. There are several medical prescription treatments to alleviate vaginal dryness that involve topical and oral estrogens. There are also natural home remedies, dietary supplements and lifestyle changes that can help, as well as over-the-counter lubricants that are natural and help to alleviate symptoms of vaginal dryness.
+Vaginal dryness is a problem that can affect women of all ages. Thinning of the lining of the vagina resulting in symptoms of dryness is very common as women age and can occur before, during and after [menopause](/services/menopause-hormones/). There are several medical prescription treatments to alleviate vaginal dryness that involve topical and oral estrogens. There are also natural home remedies, dietary supplements and lifestyle changes that can help, as well as over-the-counter lubricants that are natural and help to alleviate symptoms of vaginal dryness.
 
 These are things that you can try on your own, and experiment with, that do not require a prescription or doctor’s office visit. That said, it is important for you to discuss your symptoms with your doctor to be sure that there aren’t other factors causing dryness or pain with intercourse such as infection; tears; allergic reaction to a soap, lubricant or condom; or other medical issue
 

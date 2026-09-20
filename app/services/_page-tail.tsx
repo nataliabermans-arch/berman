@@ -128,11 +128,11 @@ export default function PageTail() {
               />
               <div className="meta">
                 <span>Where</span>
-                <span>Secure video, when appropriate</span>
+                <span>Secure video · your phone or laptop</span>
                 <span>Length</span>
                 <span>45 min consult</span>
                 <span>Best for</span>
-                <span>Conversation-first planning and follow-up questions</span>
+                <span>Hormones, supplements, follow-ups, second opinions</span>
               </div>
               <button
                 type="button"

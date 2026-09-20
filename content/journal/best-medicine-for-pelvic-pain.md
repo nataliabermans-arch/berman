@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/best-medicine-for-pelvic-pain/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-So, what is the **best medicine for pelvic pain**? The honest answer is: it depends. There isn’t one single pill that works for everyone because the causes of pelvic pain are incredibly varied. Your discomfort could be coming from tense pelvic floor muscles, a hormonal imbalance like endometriosis, an underlying infection, or even over-sensitized nerves. The most effective treatment is always one that targets the specific source of your problem. Instead of guessing, this article will help you understand the different categories of medication, explaining what they do and which conditions they treat, so you can work with your doctor to identify the right approach for you.
+So, what is the **best medicine for pelvic pain**? The honest answer is: it depends. There isn’t one single pill that works for everyone because the causes of pelvic pain are incredibly varied. Your discomfort could be coming from tense [pelvic floor](/services/pelvic-urinary/) muscles, a hormonal imbalance like endometriosis, an underlying infection, or even over-sensitized nerves. The most effective treatment is always one that targets the specific source of your problem. Instead of guessing, this article will help you understand the different categories of medication, explaining what they do and which conditions they treat, so you can work with your doctor to identify the right approach for you.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -94,7 +94,7 @@ By stabilizing your hormones, these treatments can help slow the growth of painf
 
 ### Bioidentical Hormone Replacement Therapy
 
-When your body’s natural hormone levels are out of sync, it can lead to a host of issues, including pelvic pain. Bioidentical Hormone Replacement Therapy (BHRT) offers a way to restore that balance using hormones that are structurally identical to the ones your body produces. This personalized approach can be particularly effective for pain linked to perimenopause or other hormonal shifts. By replenishing estrogen or progesterone to optimal levels, BHRT can help alleviate symptoms tied to conditions like endometriosis, providing a more natural path to feeling better.
+When your body’s natural hormone levels are out of sync, it can lead to a host of issues, including pelvic pain. [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy (BHRT) offers a way to restore that balance using hormones that are structurally identical to the ones your body produces. This personalized approach can be particularly effective for pain linked to perimenopause or other hormonal shifts. By replenishing estrogen or progesterone to optimal levels, BHRT can help alleviate symptoms tied to conditions like endometriosis, providing a more natural path to feeling better.
 
 ### Birth Control for Hormonal Regulation
 

@@ -26,7 +26,7 @@ Painful sex can manifest in different ways, making it a complex and sometimes co
 Here’s a breakdown of some common types of dyspareunia to help you identify your specific experience:
 
 - **Entry dyspareunia:** This type of pain is localized at the vaginal opening and occurs during penetration. It can be caused by a lack of lubrication, irritation from certain products, or even psychological factors like anxiety.
-- **Deep dyspareunia:** This pain is felt deep in the pelvis or vagina during intercourse. It can be caused by underlying medical conditions like endometriosis or fibroids, or by muscle tension in the pelvic floor.
+- **Deep dyspareunia:** This pain is felt deep in the pelvis or vagina during intercourse. It can be caused by underlying medical conditions like endometriosis or fibroids, or by muscle tension in the [pelvic floor](/services/pelvic-urinary/).
 - **Postcoital dyspareunia:** This pain persists after sex and can be a nagging reminder of the discomfort experienced during intercourse. It can have similar causes to deep dyspareunia, and may also be linked to certain positions or activities.
 
 In addition to the pain itself, dyspareunia can be accompanied by other symptoms that can further disrupt sexual intimacy. These may include vaginal dryness, lack of lubrication, difficulty achieving orgasm, muscle tension, or even bleeding after sex. If you are experiencing any of these symptoms, it’s important to seek professional help to identify the underlying cause and explore treatment options.
@@ -41,7 +41,7 @@ The causes of painful sex are numerous and can be physical, psychological, or a 
 
 ![](/wp-content/uploads/2024/03/3-4.png)
 
-- **Vaginal Dryness:** A decrease in natural lubrication, often due to hormonal changes during menopause, breastfeeding, or certain medications.
+- **Vaginal Dryness:** A decrease in natural lubrication, often due to hormonal changes during [menopause](/services/menopause-hormones/), breastfeeding, or certain medications.
 - **Vulvovaginal Atrophy:** Thinning and inflammation of the vaginal lining, also associated with hormonal changes.
 - **Skin Conditions:** Vulvodynia (chronic vulvar pain), eczema, or psoriasis can cause irritation and discomfort.
 - **Infections:** Bacterial vaginosis, yeast infections, or sexually transmitted infections (STIs) can cause inflammation and pain.

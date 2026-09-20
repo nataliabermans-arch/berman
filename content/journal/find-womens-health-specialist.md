@@ -23,7 +23,7 @@ For too long, women have been told that incontinence is just a normal part of ag
 ## Key Takeaways
 
 - **Incontinence is common and treatable, not a life sentence**: Learning the difference between stress and urge incontinence is the first step to realizing you don’t have to just live with bladder leaks.
-- **Find the right specialist for your pelvic health**: Look for a board-certified professional, like a urogynecologist or pelvic floor therapist, who focuses on modern, minimally invasive treatments to ensure you get expert care.
+- **Find the right specialist for your pelvic health**: Look for a board-certified professional, like a urogynecologist or [pelvic floor](/services/pelvic-urinary/) therapist, who focuses on modern, minimally invasive treatments to ensure you get expert care.
 - **Your treatment plan is a partnership**: Work with your doctor to create a personalized plan that starts with conservative options, like lifestyle changes, and is tailored specifically to your symptoms, comfort level, and goals.
 
 ## Understanding Urinary Incontinence: When to Seek Help
@@ -36,7 +36,7 @@ Urinary incontinence is simply the loss of bladder control, ranging from a tiny 
 
 ### Common Causes in Women
 
-So, what causes these frustrating leaks? A number of life events and health factors can weaken the pelvic floor muscles that support your bladder. Pregnancy and childbirth are major contributors, as they put immense strain on this area. Other causes include hormonal shifts during menopause, having a hysterectomy, or even frequent urinary tract infections. Everyday habits can also play a role; things like caffeine, spicy foods, and even constipation can irritate the bladder. As we age, our muscles naturally lose some strength, which can also lead to incontinence. Understanding the cause helps pinpoint the most effective treatment.
+So, what causes these frustrating leaks? A number of life events and health factors can weaken the pelvic floor muscles that support your bladder. Pregnancy and childbirth are major contributors, as they put immense strain on this area. Other causes include hormonal shifts during [menopause](/services/menopause-hormones/), having a hysterectomy, or even frequent urinary tract infections. Everyday habits can also play a role; things like caffeine, spicy foods, and even constipation can irritate the bladder. As we age, our muscles naturally lose some strength, which can also lead to incontinence. Understanding the cause helps pinpoint the most effective treatment.
 
 ### Signs It’s Time to See a Specialist
 

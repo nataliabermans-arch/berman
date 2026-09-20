@@ -68,7 +68,7 @@ The study’s publication led to a sharp, immediate decline in women using hormo
 
 ### Understanding the Widespread Fear and Misconceptions
 
-The fear surrounding hormone therapy stemmed from how the WHI study’s results were presented. The initial warnings were based on data from older women (average age of 63) who were given an outdated formulation of hormones. The study showed a small, statistically insignificant increase in breast cancer risk, but that nuance was lost in the headlines. This created widespread misconceptions that all hormone therapy was dangerous for all women. It’s a very different picture from today’s personalized approaches, like Bioidentical Hormone Replacement Therapy, which are tailored to an individual’s specific needs.
+The fear surrounding hormone therapy stemmed from how the WHI study’s results were presented. The initial warnings were based on data from older women (average age of 63) who were given an outdated formulation of hormones. The study showed a small, statistically insignificant increase in breast cancer risk, but that nuance was lost in the headlines. This created widespread misconceptions that all hormone therapy was dangerous for all women. It’s a very different picture from today’s personalized approaches, like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy, which are tailored to an individual’s specific needs.
 
 ### The Ripple Effect on Women’s Health
 

@@ -23,7 +23,7 @@ Hot flashes, sleepless nights, brain fog, and painful intimacy—these symptoms 
 ## Key Takeaways
 
 - **Recognize the signs of hormonal imbalance**: Symptoms like persistent bloating, mood swings, hot flashes, or painful sex are your body’s way of signaling that your estrogen levels might be off, and understanding these signs is the first step toward feeling better.
-- **A personalized plan is your best path forward**: Managing estrogen-related symptoms is not a one-size-fits-all process; the most effective approach often combines lifestyle changes with tailored medical treatments, like Bioidentical Hormone Replacement Therapy, designed for your specific needs.
+- **A personalized plan is your best path forward**: Managing estrogen-related symptoms is not a one-size-fits-all process; the most effective approach often combines lifestyle changes with tailored medical treatments, like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy, designed for your specific needs.
 - **Partner with a specialist for effective care**: Navigating hormone health can be complex, so you don’t have to do it alone. Consulting with a doctor ensures you get an accurate diagnosis, understand your treatment options, and create a safe plan for your long-term well-being.
 
 ## What Is Estrogen and Why Is It So Important?
@@ -174,7 +174,7 @@ For many women, especially during menopause, Hormone Replacement Therapy (HRT) c
 
 ### Non-Hormonal and Alternative Options
 
-If hormone therapy isn’t the right fit for you, don’t worry. There are plenty of effective non-hormonal options available to manage symptoms of estrogen imbalance. Simple lifestyle adjustments, like modifying your diet, incorporating regular exercise, and managing stress, can have a powerful impact on your hormonal health. For targeted concerns like vaginal dryness or discomfort, innovative treatments like Votiva offer non-hormonal solutions for vaginal rejuvenation. Exploring these alternatives with your doctor can help you build a comprehensive wellness plan that aligns with your comfort level and health goals.
+If hormone therapy isn’t the right fit for you, don’t worry. There are plenty of effective non-hormonal options available to manage symptoms of estrogen imbalance. Simple lifestyle adjustments, like modifying your diet, incorporating regular exercise, and managing stress, can have a powerful impact on your hormonal health. For targeted concerns like vaginal dryness or discomfort, innovative treatments like Votiva offer non-hormonal solutions for [vaginal rejuvenation](/services/vaginal-rejuvenation/). Exploring these alternatives with your doctor can help you build a comprehensive wellness plan that aligns with your comfort level and health goals.
 
 ### Adjusting Your Treatment Plan
 

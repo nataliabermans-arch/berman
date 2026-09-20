@@ -36,7 +36,7 @@ The goal of HRT is to restore your hormonal balance, easing these symptoms and h
 
 When it comes to HRT, there isn’t a one-size-fits-all solution. The type of therapy that’s right for you depends on your specific health needs and medical history. The most common approaches include estrogen-only therapy, which is typically for women who have had a hysterectomy, and combination therapy, which uses both estrogen and progestin to protect the uterine lining.
 
-Another highly personalized option is Bioidentical Hormone Replacement Therapy. This approach uses hormones that are chemically identical to the ones your body produces naturally. Because they are a perfect match, your body can use them just as it would its own hormones, often leading to a smoother experience with fewer side effects. This tailored method allows for a treatment plan that truly fits your unique hormonal profile.
+Another highly personalized option is [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy. This approach uses hormones that are chemically identical to the ones your body produces naturally. Because they are a perfect match, your body can use them just as it would its own hormones, often leading to a smoother experience with fewer side effects. This tailored method allows for a treatment plan that truly fits your unique hormonal profile.
 
 ### How Does HRT Help Restore Your Hormonal Balance?
 

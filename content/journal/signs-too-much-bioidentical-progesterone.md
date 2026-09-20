@@ -28,7 +28,7 @@ Think of hormone therapy like tuning a delicate instrument. The goal is to creat
 
 ## What Is Bioidentical Progesterone?
 
-If you’re exploring hormone therapy, you’ve likely come across the term “bioidentical progesterone.” Let’s start with the basics. Bioidentical hormones are designed to be molecularly identical to the hormones your body produces naturally. Think of it as a perfect key for a lock. Because the structure is the same, your body can recognize and use it just as it would its own progesterone.
+If you’re exploring hormone therapy, you’ve likely come across the term “bioidentical progesterone.” Let’s start with the basics. [Bioidentical hormone](/services/menopause-hormones/)s are designed to be molecularly identical to the hormones your body produces naturally. Think of it as a perfect key for a lock. Because the structure is the same, your body can recognize and use it just as it would its own progesterone.
 
 These hormones are often synthesized from plant sources, like wild yams or soy. The goal of using bioidentical progesterone is to restore your hormone levels to a more optimal state, helping to ease the symptoms that come with hormonal fluctuations, especially during perimenopause and menopause. It’s a way to supplement what your body is missing, which can make a world of difference in how you feel every day. Understanding what it is, and what it isn’t, is the first step toward making an informed decision about your health.
 

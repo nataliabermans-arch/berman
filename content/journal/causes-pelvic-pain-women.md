@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/causes-pelvic-pain-women/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-When you feel pain below your belly button, your mind likely jumps straight to your reproductive system, and for good reason. Conditions like uterine fibroids and endometriosis are frequent culprits. But that’s only part of the story. Your pelvic region is a complex intersection of major body systems, and issues with your bladder, bowels, or even the muscles of your pelvic floor can also be the source of your discomfort. Understanding the full spectrum of the causes of pelvic pain in women is essential for getting an accurate diagnosis. This guide will help you look beyond the obvious to find the true source of your pain.
+When you feel pain below your belly button, your mind likely jumps straight to your reproductive system, and for good reason. Conditions like uterine fibroids and endometriosis are frequent culprits. But that’s only part of the story. Your pelvic region is a complex intersection of major body systems, and issues with your bladder, bowels, or even the muscles of your [pelvic floor](/services/pelvic-urinary/) can also be the source of your discomfort. Understanding the full spectrum of the causes of pelvic pain in women is essential for getting an accurate diagnosis. This guide will help you look beyond the obvious to find the true source of your pain.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

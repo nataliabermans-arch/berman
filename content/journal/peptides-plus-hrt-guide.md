@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/peptides-plus-hrt-guide/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-The conversation around menopause often focuses on declining hormones, and for good reason. But there’s another important story happening at the cellular level. As we age, our cells don’t repair themselves or communicate as efficiently as they once did. This can lead to symptoms like persistent fatigue, brain fog, and changes in body composition that HRT alone may not fully resolve. Peptide therapy works to address this by signaling your cells to function more effectively. When you combine these two treatments, you get a complete solution. A protocol of **Peptides Plus HRT** addresses both hormonal deficiencies and cellular health for more comprehensive and lasting results.
+The conversation around menopause often focuses on declining hormones, and for good reason. But there’s another important story happening at the cellular level. As we age, our cells don’t repair themselves or communicate as efficiently as they once did. This can lead to symptoms like persistent fatigue, brain fog, and changes in body composition that HRT alone may not fully resolve. [Peptide therapy](/services/peptide-therapy/) works to address this by signaling your cells to function more effectively. When you combine these two treatments, you get a complete solution. A protocol of **Peptides Plus HRT** addresses both hormonal deficiencies and cellular health for more comprehensive and lasting results.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -49,7 +49,7 @@ If you’re feeling the effects of hormonal shifts, understanding your treatment
 
 ### The science behind bioidentical HRT
 
-Hormone Replacement Therapy is a way to supplement the hormones your body is no longer making enough of. The goal is to restore balance and relieve uncomfortable symptoms. The “bioidentical” part is key. Unlike synthetic hormones, bioidentical hormones are molecularly identical to the ones your body produces naturally. Think of them as a perfect key for a lock. This structural match allows them to fit seamlessly with your body’s hormone receptors, which can lead to a smoother experience with fewer side effects. It’s a personalized approach to help you feel more like yourself.
+Hormone Replacement Therapy is a way to supplement the hormones your body is no longer making enough of. The goal is to restore balance and relieve uncomfortable symptoms. The “bioidentical” part is key. Unlike synthetic hormones, [bioidentical hormone](/services/menopause-hormones/)s are molecularly identical to the ones your body produces naturally. Think of them as a perfect key for a lock. This structural match allows them to fit seamlessly with your body’s hormone receptors, which can lead to a smoother experience with fewer side effects. It’s a personalized approach to help you feel more like yourself.
 
 ### Which hormones does HRT address?
 

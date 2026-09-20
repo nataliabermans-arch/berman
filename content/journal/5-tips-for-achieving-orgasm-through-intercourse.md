@@ -19,7 +19,7 @@ For women who want to have an orgasm during intercourse, but have either been un
 
 **The woman on top.** This allows the woman to adjust the position of her pelvis so she can better control the friction of the penis as it rubs against her clitoris. This position also allows deep thrusting into the vagina, which can stimulate the cervix and trigger an orgasm. The technique can be carried out with your partner lying down on his back or sitting.
 
-**Strengthen the grip.** During intercourse, many women flex their pelvic floor muscles to give both partners greater pleasure. The stronger the muscles, the better you can contract your vagina and create greater friction against your partner’s penis, leading to more clitoral stimulation. Try squeezing down throughout intercourse.
+**Strengthen the grip.** During intercourse, many women flex their [pelvic floor](/services/pelvic-urinary/) muscles to give both partners greater pleasure. The stronger the muscles, the better you can contract your vagina and create greater friction against your partner’s penis, leading to more clitoral stimulation. Try squeezing down throughout intercourse.
 
 **Keep your legs together.** This can create friction from the penis and lead to a clitoral orgasm. When your partner inserts his penis into your vagina, squeeze your legs closed and have him place his legs outside yours. Your partner can then squeeze your legs further closed with his thighs. It may help if he can shift his pelvis forward to cause pressure and friction on your clitoris.
 

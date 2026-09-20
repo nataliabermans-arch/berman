@@ -22,7 +22,7 @@ author: "Dr. Jennifer Berman, MD"
 
 ## **Exploring Hormone Therapy Options**
 
-In the subchapter Exploring Hormone Therapy Options we will delve into the importance of hormone regulation in maintaining women’s brain health. Estrogen, in particular, plays a crucial role in preserving cognitive functions and protecting neural connections. When estrogen levels decline, as is common during menopause, women may experience a decrease in brain volume, especially in areas related to memory and cognition.
+In the subchapter Exploring [Hormone Therapy](/services/menopause-hormones/) Options we will delve into the importance of hormone regulation in maintaining women’s brain health. Estrogen, in particular, plays a crucial role in preserving cognitive functions and protecting neural connections. When estrogen levels decline, as is common during menopause, women may experience a decrease in brain volume, especially in areas related to memory and cognition.
 
 Research has shown a clear connection between estrogen levels and brain health in women. The reduction in estrogen levels can lead to cognitive decline and an increased risk of neurodegenerative diseases. Understanding the impact of hormonal changes on brain volume is essential for addressing cognitive decline in menopausal women.
 

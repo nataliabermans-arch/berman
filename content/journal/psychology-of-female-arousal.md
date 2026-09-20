@@ -108,7 +108,7 @@ Every woman has a unique set of mental “on” and “off” switches for arous
 
 ### How Hormones Influence Your Libido
 
-Hormones are the chemical messengers that have a huge say in your sex drive. Key players like estrogen and testosterone are essential for arousal, while stress hormones like cortisol can make it much harder to get in the mood. Chronic stress, for example, keeps your body in a “fight or flight” state, which can inhibit blood flow to all areas of the body, including your genitals. A healthy balance of hormones is important for a healthy libido. If you suspect a hormonal imbalance might be affecting your desire, especially during menopause or other life changes, exploring options like Bioidentical Hormone Replacement Therapy can help restore that balance and address the physical side of arousal.
+Hormones are the chemical messengers that have a huge say in your sex drive. Key players like estrogen and testosterone are essential for arousal, while stress hormones like cortisol can make it much harder to get in the mood. Chronic stress, for example, keeps your body in a “fight or flight” state, which can inhibit blood flow to all areas of the body, including your genitals. A healthy balance of hormones is important for a healthy libido. If you suspect a hormonal imbalance might be affecting your desire, especially during menopause or other life changes, exploring options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can help restore that balance and address the physical side of arousal.
 
 ## How Past Experiences Shape Your Arousal Today
 

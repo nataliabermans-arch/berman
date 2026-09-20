@@ -36,7 +36,7 @@ Estradiol (often called E2) is the primary female sex hormone during your reprod
 
 ### How Your Body Makes (and Loses) Estradiol
 
-During your reproductive years, your ovaries are the main production hub for estradiol. Its levels naturally rise and fall in a predictable rhythm with your menstrual cycle. This consistent fluctuation is totally normal. However, as you enter perimenopause and menopause, your ovaries gradually slow down their production, causing estradiol levels to decline and become more erratic before settling at a new, much lower baseline. This drop is what triggers many of the classic menopausal symptoms, from hot flashes and night sweats to vaginal dryness and brain fog. Restoring your levels with treatments like Bioidentical Hormone Replacement Therapy can help you find significant relief and feel like yourself again.
+During your reproductive years, your ovaries are the main production hub for estradiol. Its levels naturally rise and fall in a predictable rhythm with your menstrual cycle. This consistent fluctuation is totally normal. However, as you enter perimenopause and menopause, your ovaries gradually slow down their production, causing estradiol levels to decline and become more erratic before settling at a new, much lower baseline. This drop is what triggers many of the classic menopausal symptoms, from hot flashes and night sweats to vaginal dryness and brain fog. Restoring your levels with treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can help you find significant relief and feel like yourself again.
 
 ## What Does “Bioidentical” Actually Mean?
 

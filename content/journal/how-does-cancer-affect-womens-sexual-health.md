@@ -22,7 +22,7 @@ After a cancer diagnosis, your body can feel like it’s no longer your own. The
 - Hand held vibrators are excellent tools to assist in providing the kind of stimulation necessary for orgasm. A favorite recommendation by many couples is the “pocket rocket.” 
 - Change sexual positions. Positions that increase stimulation to the clitoris can be helpful in obtaining orgasm. Sexual positioning can also be important for comfort and reduction of pain. 
 - Practice both vaginal tightening and relaxing exercises to strengthen and offer control. 
-- Utilize dilation techniques either alone or with a physical therapist who is trained in managing difficulties associated with the vagina and pelvic floor. These techniques can reduce pain and increase the likelihood of comfortable and pleasurable sexual contact.
+- Utilize dilation techniques either alone or with a physical therapist who is trained in managing difficulties associated with the vagina and [pelvic floor](/services/pelvic-urinary/). These techniques can reduce pain and increase the likelihood of comfortable and pleasurable sexual contact.
 - Instruct your partner how to use the “teasing touch.” Most women like the lighter touch and this can be arousing and stimulating. 
 - Use a lot lubrication. There are many water-based lubricants available in pharmacies and grocery stores that can reduce pain and substitute for natural lubrication. Lubrication can make all the difference – don’t hesitate to be generous. 
 - If genital pain is present, consult your physician. 
@@ -151,7 +151,7 @@ When at-home remedies aren’t enough, a specialist in female sexual medicine ca
 
 #### Hormone Replacement Therapies
 
-For women thrown into abrupt menopause, hormonal changes are often at the core of their sexual side effects. A specialist can help determine if you are a candidate for hormone replacement. Depending on your cancer type and health history, options like Bioidentical Hormone Replacement Therapy or Biote Hormone Therapy may be considered to replenish hormones and alleviate symptoms like vaginal dryness, low libido, and hot flashes. These treatments require careful consideration and expert management, ensuring they are both safe and effective for you.
+For women thrown into abrupt menopause, hormonal changes are often at the core of their sexual side effects. A specialist can help determine if you are a candidate for hormone replacement. Depending on your cancer type and health history, options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy or Biote Hormone Therapy may be considered to replenish hormones and alleviate symptoms like vaginal dryness, low libido, and hot flashes. These treatments require careful consideration and expert management, ensuring they are both safe and effective for you.
 
 #### Vaginal Rejuvenation and Health
 
@@ -169,7 +169,7 @@ Modern medicine offers incredible, minimally invasive treatments to restore vagi
 
 **What if I’m not ready for intercourse? How can my partner and I stay intimate?** Intimacy is so much more than just one act. This is a perfect opportunity to redefine what pleasure and connection mean for you and your partner. Focus on touch, exploration, and open communication. Activities that don’t involve penetration, like massage or mutual masturbation, can be incredibly connecting and pleasurable. The goal is to find what feels good for you right now.
 
-**I had a hormone-sensitive cancer. Are treatments like hormone therapy or vaginal rejuvenation safe for me?** This is a critical question, and the answer is highly personal. Your safety is the top priority, and whether a specific treatment is right for you depends entirely on your individual medical history. This is exactly why consulting with a specialist in female sexual medicine is so important. They can assess your unique situation and discuss all the potential options, including many effective non-hormonal therapies that can restore comfort and function.
+**I had a hormone-sensitive cancer. Are treatments like hormone therapy or [vaginal rejuvenation](/services/vaginal-rejuvenation/) safe for me?** This is a critical question, and the answer is highly personal. Your safety is the top priority, and whether a specific treatment is right for you depends entirely on your individual medical history. This is exactly why consulting with a specialist in female sexual medicine is so important. They can assess your unique situation and discuss all the potential options, including many effective non-hormonal therapies that can restore comfort and function.
 
 ## Key Takeaways
 

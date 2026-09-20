@@ -22,7 +22,7 @@ author: "Dr. Jennifer Berman, MD"
 
 Dr. Jennifer Berman, owner and director of Berman’s Women’s Wellness Clinic in Beverly Hills, has worked with BTL Aesthetics to bring new and effective technology to the market. From EmSculpt NEO to Emsella to the newest technology; EmFemme 360, Dr Berman and BTL Aesthetics have made many women and men extremely happy with the results they have provided!
 
-Dr Berman is excited to be a pioneer in women’s wellness, her treatments addressing urinary incontinence, vaginal dryness, vaginal apperance and menopause has made her a trusted voice for womens sexual health. The first treatment addressing these issues offered by Dr. Berman and BTL Aesthetics was Emsella, a 20 minute treatment, with 4-6 sessions, that treats urinary incontinence and strengthens the pelvic floor. EmFemme 360 is the next step for those who love Emselle. 
+Dr Berman is excited to be a pioneer in women’s wellness, her treatments addressing urinary incontinence, vaginal dryness, vaginal apperance and [menopause](/services/menopause-hormones/) has made her a trusted voice for womens sexual health. The first treatment addressing these issues offered by Dr. Berman and BTL Aesthetics was Emsella, a 20 minute treatment, with 4-6 sessions, that treats urinary incontinence and strengthens the [pelvic floor](/services/pelvic-urinary/). EmFemme 360 is the next step for those who love Emselle. 
 
 EmFemme 360 is a new thermal energy treatment that works to tighten, tone and improve the appearance of the vaginal area. The quick, easy-to-perform treatment uses radio frequency heat technology which directly targets tissues to repair and rebuild collagen while increasing local circulation and providing muscle pain relief and relaxation.
 

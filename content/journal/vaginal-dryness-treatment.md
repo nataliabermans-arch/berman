@@ -30,7 +30,7 @@ Hello! I’m Dr. Jennifer Berman and I’ve been a fixture in the women’s sexu
 
 ## Causes of Vaginal Dryness
 
-Vaginal dryness can result from a number of causes, including the onset of menopause. As a matter of fact, close to 1 in 3 will experience vaginal dryness during the menopausal transition. Menopause will also cause the vagina to become thinner and have less elasticity, which is also referred to as vaginal atrophy.
+Vaginal dryness can result from a number of causes, including the onset of [menopause](/services/menopause-hormones/). As a matter of fact, close to 1 in 3 will experience vaginal dryness during the menopausal transition. Menopause will also cause the vagina to become thinner and have less elasticity, which is also referred to as vaginal atrophy.
 
 Your estrogen levels can drop for a number reasons, too, which, as discussed above, can result in vaginal dryness.
 

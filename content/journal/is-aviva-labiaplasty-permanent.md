@@ -28,7 +28,7 @@ Feeling self-conscious or experiencing physical discomfort from the size or shap
 
 ## What Is Aviva and How Does It Work?
 
-If you’re exploring options for labiaplasty, you’ve likely come across both surgical and non-surgical choices. Aviva stands out as a leading non-surgical alternative, offering a way to reshape and reduce the labia without the need for incisions or a lengthy recovery. It’s a minimally invasive procedure designed for women who want to address aesthetic concerns and improve their comfort and confidence. Instead of cutting away tissue, Aviva uses advanced technology to remodel it from within, delivering significant, natural-looking results. This approach is changing the conversation around vaginal rejuvenation, providing a powerful option that fits into a modern, busy lifestyle. Let’s get into how this innovative treatment actually works.
+If you’re exploring options for labiaplasty, you’ve likely come across both surgical and non-surgical choices. Aviva stands out as a leading non-surgical alternative, offering a way to reshape and reduce the labia without the need for incisions or a lengthy recovery. It’s a minimally invasive procedure designed for women who want to address aesthetic concerns and improve their comfort and confidence. Instead of cutting away tissue, Aviva uses advanced technology to remodel it from within, delivering significant, natural-looking results. This approach is changing the conversation around [vaginal rejuvenation](/services/vaginal-rejuvenation/), providing a powerful option that fits into a modern, busy lifestyle. Let’s get into how this innovative treatment actually works.
 
 ### How Radiofrequency Technology Works
 
@@ -72,7 +72,7 @@ Let’s be honest: none of us have found the fountain of youth just yet. Your bo
 
 ### Hormonal Fluctuations
 
-Hormones are powerful messengers that influence everything from our mood to our skin’s texture. Major life events like pregnancy, childbirth, and menopause can cause significant hormonal shifts that affect tissue laxity and health. For example, a drop in estrogen during menopause can lead to changes in vaginal tissue. While these hormonal fluctuations won’t reverse your Aviva results, they can impact the surrounding tissues over time. Prioritizing your hormonal health is a wonderful way to support your overall wellness and, in turn, help maintain the integrity and feel of your results. It’s all connected, and a holistic approach always yields the best outcome.
+Hormones are powerful messengers that influence everything from our mood to our skin’s texture. Major life events like pregnancy, childbirth, and [menopause](/services/menopause-hormones/) can cause significant hormonal shifts that affect tissue laxity and health. For example, a drop in estrogen during menopause can lead to changes in vaginal tissue. While these hormonal fluctuations won’t reverse your Aviva results, they can impact the surrounding tissues over time. Prioritizing your hormonal health is a wonderful way to support your overall wellness and, in turn, help maintain the integrity and feel of your results. It’s all connected, and a holistic approach always yields the best outcome.
 
 ### Lifestyle and Health Factors
 

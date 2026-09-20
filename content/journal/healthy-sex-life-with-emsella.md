@@ -16,7 +16,7 @@ author: "Dr. Jennifer Berman, MD"
 
 Nearly a quarter of menopausal and post-menopausal women said they did not find sex pleasant, and more than half of these women said they were worried about this fact. Not only does sex itself often become difficult, but also the loss of tissue elasticity, muscle tone and blood flow to the area can lead to a reduction or decrease in the sensation of the clitoris and vagina, making sexual pleasure and reaching orgasm increasingly difficult.
 
-Several studies have shown that pelvic floor weakness and imbalance can lead to sexual dysfunction for both men and women. The pelvic floor muscles form the lower part of the pelvis and support the pelvic organs, including the bladder, rectum, and uterus (women), and prostate (men).
+Several studies have shown that [pelvic floor](/services/pelvic-urinary/) weakness and imbalance can lead to sexual dysfunction for both men and women. The pelvic floor muscles form the lower part of the pelvis and support the pelvic organs, including the bladder, rectum, and uterus (women), and prostate (men).
 
 EMSELLA has a proven ability to strengthen the pelvic muscles, which can also enable patients to reach orgasm more easily, experience stronger orgasms and have an increased sensation, which leads to a positive effect on sexual well-being and intimate relationships.
 
@@ -32,7 +32,7 @@ If you would like you join many of the other happy, satisfied couples that have 
 
 It’s estimated that 1 in 10 women have HSDD, which makes the most common sexual dysfunction in females. Women’s low sex drive and related distress can negatively impact a woman’s life, but can be fixed.
 
-Luckily, women who suffer from low sex drive or hormone deficiency don’t have to face their problems alone any longer. Dr. Jennifer Berman is world-renowned as a leading authority in the field of women’s sexual health and has a vast amount of experience in treating women who live with hypoactive sexual desire. Women who go through menopause, experience hormone deficiency, and need compassionate low libido therapy from an experienced urologist, come to The Berman Women’s Wellness Center in Beverly Hills. Here, Dr. Berman offers a wide variety of treatments for women experiencing low libido, and can custom create a solution to bring back your passionate play. She also supports the initiative of the ‘Right To Desire’ movement to raise awareness around this condition.
+Luckily, women who suffer from low sex drive or hormone deficiency don’t have to face their problems alone any longer. Dr. Jennifer Berman is world-renowned as a leading authority in the field of women’s sexual health and has a vast amount of experience in treating women who live with hypoactive sexual desire. Women who go through [menopause](/services/menopause-hormones/), experience hormone deficiency, and need compassionate low libido therapy from an experienced urologist, come to The Berman Women’s Wellness Center in Beverly Hills. Here, Dr. Berman offers a wide variety of treatments for women experiencing low libido, and can custom create a solution to bring back your passionate play. She also supports the initiative of the ‘Right To Desire’ movement to raise awareness around this condition.
 
 ![Right to Desire Movement](/wp-content/uploads/2023/02/right-to-desire-berman.jpg)
 

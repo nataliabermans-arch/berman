@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/incontinence-treatment-options-wome
 author: "Dr. Jennifer Berman, MD"
 ---
 
-If you’ve tried Kegels and still find yourself dealing with frustrating leaks, please don’t feel discouraged. While pelvic floor exercises are a great starting point, they are just one piece of the puzzle. Medical science has advanced far beyond this basic advice, offering a wealth of sophisticated and effective solutions. Your path to relief might involve simple dietary changes, targeted medications, or even breakthrough non-invasive procedures that strengthen your pelvic floor without any effort on your part. This article will guide you through all the available `incontinence treatment options for women`, helping you discover the right combination to restore your body’s strength and your peace of mind.
+If you’ve tried Kegels and still find yourself dealing with frustrating leaks, please don’t feel discouraged. While [pelvic floor](/services/pelvic-urinary/) exercises are a great starting point, they are just one piece of the puzzle. Medical science has advanced far beyond this basic advice, offering a wealth of sophisticated and effective solutions. Your path to relief might involve simple dietary changes, targeted medications, or even breakthrough non-invasive procedures that strengthen your pelvic floor without any effort on your part. This article will guide you through all the available `incontinence treatment options for women`, helping you discover the right combination to restore your body’s strength and your peace of mind.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -37,7 +37,7 @@ To find the right solution, it helps to know what type of incontinence you’re 
 
 ### Common Causes and Risk Factors
 
-So, what causes these leaks? The reasons can be temporary or more long-term. Temporary causes might include a urinary tract infection (UTI), pregnancy, or even constipation. For many women, however, the causes are linked to major life stages and physical changes. Childbirth and menopause are significant risk factors because they can weaken the pelvic floor muscles and affect hormone levels that support bladder control. Other long-term health conditions like diabetes or a past stroke can also play a role. Your overall sexual and urinary tract health is interconnected, and identifying the root cause is a critical part of creating an effective treatment plan.
+So, what causes these leaks? The reasons can be temporary or more long-term. Temporary causes might include a urinary tract infection (UTI), pregnancy, or even constipation. For many women, however, the causes are linked to major life stages and physical changes. Childbirth and [menopause](/services/menopause-hormones/) are significant risk factors because they can weaken the pelvic floor muscles and affect hormone levels that support bladder control. Other long-term health conditions like diabetes or a past stroke can also play a role. Your overall sexual and urinary tract health is interconnected, and identifying the root cause is a critical part of creating an effective treatment plan.
 
 ## Start with Non-Surgical Treatments
 

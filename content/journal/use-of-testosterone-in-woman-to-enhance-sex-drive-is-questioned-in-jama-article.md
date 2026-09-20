@@ -24,7 +24,7 @@ The findings are the product of a new Australian study in which more than 1,000 
 
 Despite these findings — based on my clinical practice, experience, research, and research of others — I still firmly believe that testosterone does play a crucial role in women. When testosterone levels are low, and women are experiencing symptoms of low libido, low energy, moodiness and irritability, and loss of muscle mass, testosterone replacement is beneficial.
 
-A recent evidence-based Position Statement from The North American Menopause Society (NAMS), titled “The role of testosterone in postmenopausal women concurs.” Testosterone therapy has been shown to improve sexual function in many postmenopausal women, primarily the symptoms of sexual desire, arousal, and orgasmic response.?
+A recent evidence-based Position Statement from The North American [Menopause](/services/menopause-hormones/) Society (NAMS), titled “The role of testosterone in postmenopausal women concurs.” Testosterone therapy has been shown to improve sexual function in many postmenopausal women, primarily the symptoms of sexual desire, arousal, and orgasmic response.?
 
 Based on clinical trial evidence, postmenopausal women who report decreased sexual desire may be candidates for testosterone therapy, but they should first be evaluated for other causes of their sexual concerns, more appropriately treated with alternative approaches. Conditions that can decrease sexual desire include psychosocial issues (such as stress, fatigue, or relationship conflict), psychological disorders (including depression or anxiety), medical conditions (such as vaginal atrophy or hypothyroidism), and drug use (including antidepressants and alcohol).
 

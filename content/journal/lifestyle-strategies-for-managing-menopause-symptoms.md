@@ -22,7 +22,7 @@ author: "Dr. Jennifer Berman, MD"
 
 ## The Role of Diet and Nutrition
 
-As women go through menopause, their bodies undergo significant changes that can impact their overall health and well-being. One crucial aspect of managing these changes is understanding the role of diet and nutrition in supporting a healthy transition. Dr. Jennifer Berman emphasizes the importance of maintaining a balanced diet rich in nutrients to help alleviate symptoms of **menopause** and promote overall wellness.
+As women go through [menopause](/services/menopause-hormones/), their bodies undergo significant changes that can impact their overall health and well-being. One crucial aspect of managing these changes is understanding the role of diet and nutrition in supporting a healthy transition. Dr. Jennifer Berman emphasizes the importance of maintaining a balanced diet rich in nutrients to help alleviate symptoms of **menopause** and promote overall wellness.
 
 A diet focused on whole foods, such as fruits, vegetables, whole grains, and lean proteins, can provide essential nutrients that support hormone balance and overall health during menopause. Incorporating foods rich in calcium and vitamin D can also help maintain bone health, which becomes increasingly important as estrogen levels decline. Dr. Berman recommends consulting with a healthcare provider or nutritionist to develop a personalized meal plan that meets individual needs and addresses any specific health concerns.
 

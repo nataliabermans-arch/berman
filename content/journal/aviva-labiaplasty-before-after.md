@@ -38,7 +38,7 @@ The magic behind Aviva really comes down to radiofrequency energy. This technolo
 
 ### Aviva or Labiaplasty: What’s the Difference?
 
-When comparing Aviva to a traditional surgical labiaplasty, the differences are pretty clear. The most significant advantage of Aviva is that it’s a scarless procedure. Because it relies on a tiny puncture point for the probe instead of surgical incisions, you don’t have to worry about visible scars. This also makes it a minimally invasive treatment, which leads to a much faster and easier recovery. While traditional surgery can require weeks of downtime, many women who choose Aviva are able to return to work and most daily activities within a day or two. This makes it a great fit for anyone seeking effective vaginal rejuvenation without a long interruption to their busy life.
+When comparing Aviva to a traditional surgical labiaplasty, the differences are pretty clear. The most significant advantage of Aviva is that it’s a scarless procedure. Because it relies on a tiny puncture point for the probe instead of surgical incisions, you don’t have to worry about visible scars. This also makes it a minimally invasive treatment, which leads to a much faster and easier recovery. While traditional surgery can require weeks of downtime, many women who choose Aviva are able to return to work and most daily activities within a day or two. This makes it a great fit for anyone seeking effective [vaginal rejuvenation](/services/vaginal-rejuvenation/) without a long interruption to their busy life.
 
 ## Comparing Non-Surgical Labiaplasty Options
 

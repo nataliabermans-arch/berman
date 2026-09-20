@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/best-non-invasive-vaginal-rejuvenat
 author: "Dr. Jennifer Berman, MD"
 ---
 
-It’s a conversation many of us have with friends, or maybe just with ourselves: our bodies feel different after childbirth or as we approach menopause. Things like vaginal dryness, mild urinary leakage when you laugh, or a general loss of tightness are incredibly common, yet we often feel like we just have to accept them. The great news is, you don’t. Modern medicine offers effective, non-surgical solutions that help restore comfort and confidence from the inside out. These treatments work with your body’s natural healing processes to rejuvenate tissue. This guide will walk you through the best non invasive vaginal rejuvenation options available, so you can feel empowered to reclaim your comfort and feel like yourself again.
+It’s a conversation many of us have with friends, or maybe just with ourselves: our bodies feel different after childbirth or as we approach [menopause](/services/menopause-hormones/). Things like vaginal dryness, mild urinary leakage when you laugh, or a general loss of tightness are incredibly common, yet we often feel like we just have to accept them. The great news is, you don’t. Modern medicine offers effective, non-surgical solutions that help restore comfort and confidence from the inside out. These treatments work with your body’s natural healing processes to rejuvenate tissue. This guide will walk you through the best non invasive [vaginal rejuvenation](/services/vaginal-rejuvenation/) options available, so you can feel empowered to reclaim your comfort and feel like yourself again.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -83,7 +83,7 @@ A healthy and fulfilling sex life is a vital part of overall well-being. Vaginal
 
 ### Reduce symptoms of urinary incontinence
 
-Do you find yourself leaking a little when you laugh, sneeze, or jump? You’re not alone. This is known as stress urinary incontinence, and it happens when the pelvic floor muscles and tissues supporting the urethra weaken. Non-invasive vaginal treatments can offer a powerful solution. By tightening and strengthening the tissues of the vaginal wall, these procedures provide better support for the urethra and bladder neck. This reinforcement helps prevent accidental leaks during moments of physical stress. It’s a discreet and effective way to manage mild to moderate incontinence, allowing you to go about your day with more freedom and less worry.
+Do you find yourself leaking a little when you laugh, sneeze, or jump? You’re not alone. This is known as stress urinary incontinence, and it happens when the [pelvic floor](/services/pelvic-urinary/) muscles and tissues supporting the urethra weaken. Non-invasive vaginal treatments can offer a powerful solution. By tightening and strengthening the tissues of the vaginal wall, these procedures provide better support for the urethra and bladder neck. This reinforcement helps prevent accidental leaks during moments of physical stress. It’s a discreet and effective way to manage mild to moderate incontinence, allowing you to go about your day with more freedom and less worry.
 
 ### Find relief from vaginal dryness and irritation
 

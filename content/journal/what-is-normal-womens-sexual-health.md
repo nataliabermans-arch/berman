@@ -54,13 +54,13 @@ The ability to reach orgasm is a key part of sexual satisfaction for many women,
 
 #### Sexual Pain Conditions
 
-Sex should be a pleasurable experience, not a painful one. If you experience pain during or after intercourse, it’s a clear sign that something is wrong. This issue, known as dyspareunia, can be caused by a number of factors, including vaginal dryness (especially common during menopause), infections, skin disorders, or conditions like endometriosis. Pain can also be related to involuntary muscle spasms in the pelvic floor. Ignoring the pain won’t make it go away, and it can create a cycle of anxiety around intimacy. Seeking pelvic pain treatment is essential for addressing the root cause and restoring comfort.
+Sex should be a pleasurable experience, not a painful one. If you experience pain during or after intercourse, it’s a clear sign that something is wrong. This issue, known as dyspareunia, can be caused by a number of factors, including vaginal dryness (especially common during menopause), infections, skin disorders, or conditions like endometriosis. Pain can also be related to involuntary muscle spasms in the [pelvic floor](/services/pelvic-urinary/). Ignoring the pain won’t make it go away, and it can create a cycle of anxiety around intimacy. Seeking pelvic pain treatment is essential for addressing the root cause and restoring comfort.
 
 ## How Your Body Affects Your Sex Life
 
 Your body goes through a lot of changes over the years, and this includes female sexual health. From your first period to menopause, each stage of life brings its own set of shifts. During menopause, for example, many women notice vaginal dryness, which can make sex uncomfortable. But guess what? This is completely normal.
 
-It’s important to understand that physical changes don’t mean something’s wrong. Aging, childbirth, and even certain medications can cause shifts in your sexual response. If anything feels off or uncomfortable, don’t be afraid to seek advice. There are plenty of treatments available, like lubricants or hormone therapy, that can help you feel more comfortable.
+It’s important to understand that physical changes don’t mean something’s wrong. Aging, childbirth, and even certain medications can cause shifts in your sexual response. If anything feels off or uncomfortable, don’t be afraid to seek advice. There are plenty of treatments available, like lubricants or [hormone therapy](/services/menopause-hormones/), that can help you feel more comfortable.
 
 ### Underlying Medical Conditions
 
@@ -138,7 +138,7 @@ For some women, medication can be a helpful part of the solution. For premenopau
 
 #### Hormone Therapy Options
 
-Hormones are powerful drivers of sexual function, and imbalances can significantly impact desire and comfort. Hormone therapy can be an incredibly effective treatment, especially for women experiencing changes related to menopause. Estrogen therapy, for example, can improve vaginal elasticity and lubrication, making sex more comfortable and, in turn, increasing desire. Some women also benefit from testosterone therapy to address low libido. While testosterone is not FDA-approved for female sexual dysfunction in the U.S., it is often used off-label by experts who specialize in women’s hormonal health to help restore sexual drive and overall vitality.
+Hormones are powerful drivers of sexual function, and imbalances can significantly impact desire and comfort. Hormone therapy can be an incredibly effective treatment, especially for women experiencing changes related to menopause. Estrogen therapy, for example, can improve vaginal elasticity and lubrication, making sex more comfortable and, in turn, increasing desire. Some women also benefit from testosterone therapy to address low libido. While testosterone is not FDA-approved for [female sexual dysfunction](/services/sexual-health/) in the U.S., it is often used off-label by experts who specialize in women’s hormonal health to help restore sexual drive and overall vitality.
 
 #### The Role of Counseling and Sex Therapy
 

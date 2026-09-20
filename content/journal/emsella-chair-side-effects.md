@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/emsella-chair-side-effects/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Think of the Emsella chair as a personal trainer for your pelvic floor, but _way_ more efficient. A single session guides your muscles through the equivalent of 11,000 Kegels—a workout you simply can’t replicate on your own. And just like any effective fitness routine, your body will respond. The most common **Emsella chair side effects** are actually just signs that it’s working, similar to muscle soreness after a great gym session. This guide breaks down all the potential _Emsella side effects_, explaining what’s normal and why these feelings are a positive step toward a stronger you.
+Think of the Emsella chair as a personal trainer for your [pelvic floor](/services/pelvic-urinary/), but _way_ more efficient. A single session guides your muscles through the equivalent of 11,000 Kegels—a workout you simply can’t replicate on your own. And just like any effective fitness routine, your body will respond. The most common **Emsella chair side effects** are actually just signs that it’s working, similar to muscle soreness after a great gym session. This guide breaks down all the potential _Emsella side effects_, explaining what’s normal and why these feelings are a positive step toward a stronger you.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

@@ -36,7 +36,7 @@ Changes in vaginal moisture can occur in response to hormonal cycles, for exampl
 
 Some cancer treatment medications, such as tamoxifen (Nolvadex) and – aromatase inhibitors such as Arimidex, designed to interfere with the aromatization of androgens to estrogens, may produce vaginal dryness. (8) Allergy medications and antihistamines can also dry out the body’s mucous membranes, causing dryness in the vaginal wall. Certain ulcer, antidepressant and high blood pressure medications can contribute to vaginal dryness.
 
-Estrogen causes the vagina to thicken and moisten. When estrogen levels become depleted, hormone therapy (HT) with estrogen is the most-often prescribed treatment for vaginal dryness; but it may also slightly increase a woman’s risk for breast and/or uterine cancer. (9) Understandably, many women are opting to try other means of relief.
+Estrogen causes the vagina to thicken and moisten. When estrogen levels become depleted, [hormone therapy](/services/menopause-hormones/) (HT) with estrogen is the most-often prescribed treatment for vaginal dryness; but it may also slightly increase a woman’s risk for breast and/or uterine cancer. (9) Understandably, many women are opting to try other means of relief.
 
 Step 1: A good medical history during the physical exam
 
@@ -267,7 +267,7 @@ Follow-up treatment
 
 References
 
-1.  _The Gallup Target Market Report on Vaginal Dryness_, (2004)., and *Gallup Study of Female Sexual Dysfunction*. (2002).
+1.  _The Gallup Target Market Report on Vaginal Dryness_, (2004)., and *Gallup Study of [Female Sexual Dysfunction](/services/sexual-health/)*. (2002).
 2.  _The Gallup Target Market Report on Vaginal Dryness_, (2004).
 3.  Sobel, J. D. (2000). Bacterial vaginosis. *Annu Rev Med*, 51, 349-56.
 4.  Matovina, M., Husnjka, K., Milutin, N., & Ciglar Srecko, G. M., (2004). Possible role of bacterial and viral infections in miscarriages. *Fertil Steril*, 81, 662-69.

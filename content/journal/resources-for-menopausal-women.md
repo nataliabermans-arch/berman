@@ -102,7 +102,7 @@ After your provider reviews your health survey, you’ll schedule a virtual cons
 
 #### Step 3: Your Personalized Treatment Plan
 
-Based on your survey and consultation, your provider will develop a personalized treatment plan. This isn’t a one-size-fits-all solution; it’s tailored specifically to your body and your symptoms. Your plan might include prescriptions for treatments like Bioidentical Hormone Replacement Therapy (BHRT), recommendations for lifestyle adjustments like diet and exercise, or suggestions for supplements. The goal is to address your symptoms effectively and improve your overall quality of life, helping you feel more like yourself again.
+Based on your survey and consultation, your provider will develop a personalized treatment plan. This isn’t a one-size-fits-all solution; it’s tailored specifically to your body and your symptoms. Your plan might include prescriptions for treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy (BHRT), recommendations for lifestyle adjustments like diet and exercise, or suggestions for supplements. The goal is to address your symptoms effectively and improve your overall quality of life, helping you feel more like yourself again.
 
 #### Step 4: Ongoing Support and Follow-Ups
 

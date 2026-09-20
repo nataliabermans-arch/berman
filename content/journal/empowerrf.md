@@ -18,7 +18,7 @@ Jennifer Berman MD is excited to offer the multi-functional platform delivering 
 
 # What is EMPOWERRF?
 
-EmpowerRF is a multi-functional platform delivering life-changing women’s wellness therapies. It is the most advanced solution leveraging multiple technologies, including fractional coagulation, sub-necrotic heating, and muscle stimulation, to treat a broad range of conditions, such as blood circulation, pain relief, stress, urge, and mixed urinary incontinence (SUI) and pelvic floor weakness.
+EmpowerRF is a multi-functional platform delivering life-changing women’s wellness therapies. It is the most advanced solution leveraging multiple technologies, including fractional coagulation, sub-necrotic heating, and muscle stimulation, to treat a broad range of conditions, such as blood circulation, pain relief, stress, urge, and mixed urinary incontinence (SUI) and [pelvic floor](/services/pelvic-urinary/) weakness.
 
 ### KEY BENEFITS:
 

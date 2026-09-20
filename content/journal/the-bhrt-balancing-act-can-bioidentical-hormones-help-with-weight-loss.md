@@ -15,7 +15,7 @@ originalUrl: >-
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Shedding pounds can feel like an uphill battle, especially as we age. Fluctuating hormones can add another layer of complexity to the weight loss journey. Bioidentical hormone replacement therapy (BHRT) has emerged as a popular option for managing menopausal symptoms, and some claim it can also aid in weight loss. But is this a magic bullet, or is there more to the story?
+Shedding pounds can feel like an uphill battle, especially as we age. Fluctuating hormones can add another layer of complexity to the weight loss journey. [Bioidentical hormone](/services/menopause-hormones/) replacement therapy (BHRT) has emerged as a popular option for managing menopausal symptoms, and some claim it can also aid in weight loss. But is this a magic bullet, or is there more to the story?
 
 This article delves into the world of BHRT for weight loss, exploring the potential benefits, drawbacks, and considerations to help you make informed decisions about your health and well-being.
 

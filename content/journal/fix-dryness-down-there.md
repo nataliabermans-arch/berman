@@ -32,7 +32,7 @@ If you’re dealing with vaginal dryness, the first thing to know is that you’
 
 ### How Hormonal Shifts Can Cause Dryness
 
-Hormones, particularly estrogen, are the primary conductors of your vaginal health. Estrogen is responsible for keeping the vaginal lining thick, elastic, and naturally lubricated. When estrogen levels decline—a hallmark of menopause and perimenopause—the tissue can become thin, dry, and easily irritated, a condition known as vaginal atrophy. But menopause isn’t the only time hormones fluctuate. Childbirth, breastfeeding, and even certain types of birth control can also cause a temporary drop in estrogen, leading to dryness. Restoring balance through treatments like Bioidentical Hormone Replacement Therapy can often address the issue at its source.
+Hormones, particularly estrogen, are the primary conductors of your vaginal health. Estrogen is responsible for keeping the vaginal lining thick, elastic, and naturally lubricated. When estrogen levels decline—a hallmark of menopause and perimenopause—the tissue can become thin, dry, and easily irritated, a condition known as vaginal atrophy. But menopause isn’t the only time hormones fluctuate. Childbirth, breastfeeding, and even certain types of birth control can also cause a temporary drop in estrogen, leading to dryness. Restoring balance through treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can often address the issue at its source.
 
 ### Medications and Health Conditions to Consider
 
@@ -70,7 +70,7 @@ The physical and relational challenges of vaginal dryness often carry a heavy em
 
 Vaginal dryness goes beyond discomfort during intimacy; it can directly affect your overall health. The natural moisture in the vagina helps maintain a healthy, acidic pH balance, which keeps harmful bacteria in check. When this moisture decreases, the environment changes, making you more susceptible to infections. This is why many women with persistent dryness also experience a frustrating increase in urinary tract infections (UTIs) or vaginal infections like bacterial vaginosis or yeast infections. Addressing the dryness is a key step in protecting your complete sexual and urinary tract health and breaking the cycle of recurring infections.
 
-The lack of estrogen also causes the vaginal tissues to become thinner and more fragile, a condition known as vaginal atrophy. This fragility means the tissue is more prone to tiny tears, not just during sex but sometimes from everyday activities. These micro-abrasions can cause spotting or bleeding and create another pathway for bacteria to enter, further increasing infection risk. This constant state of irritation can disrupt your sleep, affect your mood, and impact your overall quality of life. Fortunately, treatments like vaginal rejuvenation can help restore tissue health, addressing the problem at its source rather than just managing the symptoms.
+The lack of estrogen also causes the vaginal tissues to become thinner and more fragile, a condition known as vaginal atrophy. This fragility means the tissue is more prone to tiny tears, not just during sex but sometimes from everyday activities. These micro-abrasions can cause spotting or bleeding and create another pathway for bacteria to enter, further increasing infection risk. This constant state of irritation can disrupt your sleep, affect your mood, and impact your overall quality of life. Fortunately, treatments like [vaginal rejuvenation](/services/vaginal-rejuvenation/) can help restore tissue health, addressing the problem at its source rather than just managing the symptoms.
 
 ## How to Fix Dryness: At-Home Solutions
 
@@ -106,7 +106,7 @@ Beyond moisturizers and lubricants, there are proactive tools and exercises that
 
 #### Pelvic Floor Exercises
 
-You’ve probably heard of Kegels, but they’re more than just a buzzword. Pelvic floor exercises are a powerful way to strengthen weak vaginal muscles, which can lose tone due to hormonal shifts like menopause. When estrogen levels drop, these supportive muscles can weaken, contributing to issues beyond just dryness. Consistently practicing these exercises increases blood flow to the pelvic region, which can improve natural lubrication and tissue health. Research has shown that a regular routine can lead to a noticeable reduction in vaginal dryness and pain during intercourse, making it a simple yet effective way to support your body’s function and improve your overall quality of life.
+You’ve probably heard of Kegels, but they’re more than just a buzzword. [Pelvic floor](/services/pelvic-urinary/) exercises are a powerful way to strengthen weak vaginal muscles, which can lose tone due to hormonal shifts like menopause. When estrogen levels drop, these supportive muscles can weaken, contributing to issues beyond just dryness. Consistently practicing these exercises increases blood flow to the pelvic region, which can improve natural lubrication and tissue health. Research has shown that a regular routine can lead to a noticeable reduction in vaginal dryness and pain during intercourse, making it a simple yet effective way to support your body’s function and improve your overall quality of life.
 
 #### Vaginal Dilators
 

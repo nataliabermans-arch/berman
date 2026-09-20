@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/menopause-expert-guide/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Let’s be honest: menopause can affect everything from your sleep quality to your confidence in the bedroom. Symptoms like vaginal dryness, low libido, and mood swings are incredibly common, yet they often go unaddressed. You deserve a doctor who makes it comfortable to talk about these intimate concerns and has effective, modern solutions. A true menopause expert understands that your quality of life is the top priority. They move beyond generic advice to offer personalized treatments, from bioidentical hormone therapy to innovative procedures that restore comfort and pleasure. This guide will help you find a specialist who can provide that comprehensive, compassionate care.
+Let’s be honest: menopause can affect everything from your sleep quality to your confidence in the bedroom. Symptoms like vaginal dryness, low libido, and mood swings are incredibly common, yet they often go unaddressed. You deserve a doctor who makes it comfortable to talk about these intimate concerns and has effective, modern solutions. A true menopause expert understands that your quality of life is the top priority. They move beyond generic advice to offer personalized treatments, from [bioidentical hormone](/services/menopause-hormones/) therapy to innovative procedures that restore comfort and pleasure. This guide will help you find a specialist who can provide that comprehensive, compassionate care.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -58,7 +58,7 @@ If you’ve been feeling more anxious, irritable, or foggy lately, you’re not 
 
 ### Addressing Sexual Health and Intimacy Concerns
 
-Changes in sexual health are one of the most common, yet least discussed, aspects of menopause. Issues like vaginal dryness, discomfort during sex, and a decreased libido can be frustrating and impact your relationship. A menopause expert specializes in creating a comfortable environment to discuss these intimate topics. They can introduce you to a range of modern solutions, from hormonal creams and moisturizers to innovative treatments like the O-Shot or vaginal rejuvenation. They listen to your concerns and provide effective, personalized options to help you reclaim pleasure, comfort, and confidence in your intimate life.
+Changes in sexual health are one of the most common, yet least discussed, aspects of menopause. Issues like vaginal dryness, discomfort during sex, and a decreased libido can be frustrating and impact your relationship. A menopause expert specializes in creating a comfortable environment to discuss these intimate topics. They can introduce you to a range of modern solutions, from hormonal creams and moisturizers to innovative treatments like the O-Shot or [vaginal rejuvenation](/services/vaginal-rejuvenation/). They listen to your concerns and provide effective, personalized options to help you reclaim pleasure, comfort, and confidence in your intimate life.
 
 ## Finding the Right Menopause Expert for You
 

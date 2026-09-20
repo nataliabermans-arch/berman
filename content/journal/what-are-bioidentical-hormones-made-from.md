@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/what-are-bioidentical-hormones-made
 author: "Dr. Jennifer Berman, MD"
 ---
 
-When you start researching hormone replacement, it’s easy to get lost in a sea of myths and half-truths. One of the biggest misconceptions is that bioidentical hormones are simply “yam cream” or a raw plant product. This couldn’t be further from the truth and overlooks the science that makes them so effective. The reality is far more precise. To clear up the confusion, we need to answer the core question: **what are bioidentical hormones made from?** While the foundational molecules are extracted from plants like wild yams and soy, they undergo a sophisticated synthesis in a lab to become identical to human hormones. This guide will break down the facts, separating myth from reality so you can understand how these treatments truly work.
+When you start researching hormone replacement, it’s easy to get lost in a sea of myths and half-truths. One of the biggest misconceptions is that [bioidentical hormone](/services/menopause-hormones/)s are simply “yam cream” or a raw plant product. This couldn’t be further from the truth and overlooks the science that makes them so effective. The reality is far more precise. To clear up the confusion, we need to answer the core question: **what are bioidentical hormones made from?** While the foundational molecules are extracted from plants like wild yams and soy, they undergo a sophisticated synthesis in a lab to become identical to human hormones. This guide will break down the facts, separating myth from reality so you can understand how these treatments truly work.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

@@ -36,7 +36,7 @@ So, what’s happening behind the scenes? PT-141 is a synthetic peptide that tar
 
 ### How PT-141 Differs From Hormone Therapy
 
-One of the most significant distinctions of PT-141 is that it is not a hormone-based treatment. It doesn’t change your estrogen or testosterone levels at all. This makes it an excellent alternative for women who either cannot use or prefer to avoid hormonal treatments due to medical history or personal choice. While Bioidentical Hormone Replacement Therapy can be a fantastic solution for many, it’s not a one-size-fits-all answer. PT-141 offers an “as-needed” option that can be used on its own or even combined with other treatments to create a comprehensive plan for improving your sexual health and overall well-being.
+One of the most significant distinctions of PT-141 is that it is not a hormone-based treatment. It doesn’t change your estrogen or testosterone levels at all. This makes it an excellent alternative for women who either cannot use or prefer to avoid hormonal treatments due to medical history or personal choice. While [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can be a fantastic solution for many, it’s not a one-size-fits-all answer. PT-141 offers an “as-needed” option that can be used on its own or even combined with other treatments to create a comprehensive plan for improving your sexual health and overall well-being.
 
 ## Are You a Good Candidate for PT-141?
 

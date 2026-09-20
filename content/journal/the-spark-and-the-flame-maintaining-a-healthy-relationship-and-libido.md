@@ -24,7 +24,7 @@ This article explores the complex interplay between relationships and libido, de
 
 Libido, simply put, is your desire for sexual activity. But unlike flipping a light switch, it’s not an on/off phenomenon. Libido is influenced by a complex interplay of biological, psychological, and social factors. Here’s a breakdown of some key contributors:
 
-- **Hormones:** Estrogen, testosterone, and progesterone all play a crucial role in sexual desire. Fluctuations in these hormones, such as those that occur during perimenopause, pregnancy, or after childbirth, can significantly impact libido.
+- **Hormones:** Estrogen, testosterone, and progesterone all play a crucial role in sexual desire. Fluctuations in these hormones, such as those that occur during [perimenopause](/services/menopause-hormones/), pregnancy, or after childbirth, can significantly impact libido.
 - **Stress:** Chronic stress can wreak havoc on your desire. When you’re constantly on edge, it’s hard to be in the mood for intimacy. Stress can also affect hormone levels, further dampening libido.
 - **Mental Health:** Depression, anxiety, and other mental health conditions can significantly impact your sex drive. These conditions can affect your mood, energy levels, and self-esteem, making sex feel less appealing.
 - **Relationship Issues:** Unresolved conflicts, communication problems, and a lack of emotional intimacy can all contribute to a decline in libido. Feeling disconnected from your partner can make sex feel less meaningful.

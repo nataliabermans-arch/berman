@@ -49,7 +49,7 @@ So, how does estrogen actually send its messages to the brain? It works through 
 
 ### Supporting Cellular Health and Energy
 
-Beyond communication, estrogen plays a fundamental role in keeping your brain cells healthy and energized. Estradiol helps brain cells efficiently use glucose—their primary fuel source. When E2 levels decline, the brain can struggle to get the energy it needs, which can contribute significantly to brain fog and mental fatigue. Furthermore, estrogen has natural anti-inflammatory properties. After menopause, inflammation can increase throughout the body and brain, potentially affecting cognitive function. Addressing the root cause of these changes through treatments like Bioidentical Hormone Replacement Therapy can help restore cellular energy and protect the brain, allowing you to feel clearer and more vibrant.
+Beyond communication, estrogen plays a fundamental role in keeping your brain cells healthy and energized. Estradiol helps brain cells efficiently use glucose—their primary fuel source. When E2 levels decline, the brain can struggle to get the energy it needs, which can contribute significantly to brain fog and mental fatigue. Furthermore, estrogen has natural anti-inflammatory properties. After menopause, inflammation can increase throughout the body and brain, potentially affecting cognitive function. Addressing the root cause of these changes through treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can help restore cellular energy and protect the brain, allowing you to feel clearer and more vibrant.
 
 ## **Estrogen’s Role in Protecting Neural Connections**
 

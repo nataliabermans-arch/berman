@@ -24,7 +24,7 @@ That sudden, intense wave of heat that takes over your body isn’t just an inco
 
 - **Look beyond hot flash relief**: While hormone therapy is the most effective treatment for hot flashes, it also supports better sleep, stable moods, and long-term bone and heart health.
 - **Modern research clarifies the risks**: For healthy women who start hormone therapy early in menopause (before age 60), the benefits typically outweigh the risks. A personalized consultation is essential to determine if it’s a safe option for you.
-- **Personalization is key to success**: Your treatment plan should be tailored to you, with options ranging from bioidentical hormones to various delivery methods like patches or pellets. If hormones aren’t a good fit, effective non-hormonal alternatives are also available.
+- **Personalization is key to success**: Your treatment plan should be tailored to you, with options ranging from [bioidentical hormone](/services/menopause-hormones/)s to various delivery methods like patches or pellets. If hormones aren’t a good fit, effective non-hormonal alternatives are also available.
 
 ## What Is Hormone Therapy for Hot Flashes?
 

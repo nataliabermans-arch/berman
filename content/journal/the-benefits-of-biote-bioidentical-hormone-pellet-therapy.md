@@ -23,7 +23,7 @@ Fertility technically begins to decline in our late twenties. Hormone imbalance,
 
 ### The Scope of Menopause in the U.S.
 
-If you’re feeling the effects of hormonal changes, you’re far from alone. In the United States, about 1 million women enter menopause each year, making it a shared and significant life transition. As we approach this stage, our bodies naturally produce less estrogen and progesterone, which can throw our systems out of whack. This hormonal shift is behind many of the frustrating symptoms that can disrupt daily life, from mood swings and anxiety to sleep disturbances and a decreased libido. Thankfully, you don’t have to simply endure the discomfort. Treatments like Biote Hormone Therapy use bioidentical hormones to gently restore your natural balance, helping to alleviate the symptoms tied to menopause and get you back to feeling like yourself.
+If you’re feeling the effects of hormonal changes, you’re far from alone. In the United States, about 1 million women enter menopause each year, making it a shared and significant life transition. As we approach this stage, our bodies naturally produce less estrogen and progesterone, which can throw our systems out of whack. This hormonal shift is behind many of the frustrating symptoms that can disrupt daily life, from mood swings and anxiety to sleep disturbances and a decreased libido. Thankfully, you don’t have to simply endure the discomfort. Treatments like Biote Hormone Therapy use [bioidentical hormone](/services/menopause-hormones/)s to gently restore your natural balance, helping to alleviate the symptoms tied to menopause and get you back to feeling like yourself.
 
 ## What Are the Signs of a Hormone Imbalance?
 

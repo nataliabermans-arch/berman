@@ -18,7 +18,7 @@ author: "Dr. Jennifer Berman, MD"
 
 What if you could get the results of 20,000 squats or crunches in a single 30-minute session, all while relaxing? It’s not science fiction; it’s the proven technology behind Emsculpt Neo. This treatment uses a unique combination of two powerful energies to remodel your body from the inside out. Radiofrequency gently heats and eliminates fat cells, while high-intensity focused electromagnetic energy (HIFEM+) creates deep, powerful muscle contractions you could never achieve on your own. This efficient, dual-action approach doesn’t just reshape your body; it’s designed to enhance health with Emsculpt by improving muscle density and function in a way that was never before possible.
 
-Achieve a 25% increase in muscle and a 30% reduction in fat with **Emsculpt Neo** in Beverly Hills. Dr. Jennifer Berman offers this “Hollywood secret” to help women sculpt a toned physique without the downtime of surgery. Each 30-minute session delivers the equivalent of 20,000 crunches or squats, making it the most efficient body contouring treatment available today.
+Achieve a 25% increase in muscle and a 30% reduction in fat with **Emsculpt Neo** in Beverly Hills. Dr. Jennifer Berman offers this “Hollywood secret” to help women sculpt a toned physique without the downtime of surgery. Each 30-minute session delivers the equivalent of 20,000 crunches or squats, making it the most efficient [body contouring](/services/body-contouring/) treatment available today.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -120,7 +120,7 @@ Building a stronger core is about so much more than achieving a “six-pack.” 
 
 #### “Core to Floor” Therapy for Pelvic Health
 
-One of the most significant, yet often overlooked, benefits of a strong core is its direct impact on pelvic floor health. Strengthening your abdominal muscles provides crucial support for the pelvic floor, which can help with issues like bladder control. This “core to floor” approach is especially beneficial for women post-childbirth or as they age. At our practice, we understand the deep connection between core strength and pelvic wellness, which is why we see Emsculpt Neo as a powerful complement to treatments like Emsella Incontinence Therapy, helping you build comprehensive strength from the inside out.
+One of the most significant, yet often overlooked, benefits of a strong core is its direct impact on [pelvic floor](/services/pelvic-urinary/) health. Strengthening your abdominal muscles provides crucial support for the pelvic floor, which can help with issues like bladder control. This “core to floor” approach is especially beneficial for women post-childbirth or as they age. At our practice, we understand the deep connection between core strength and pelvic wellness, which is why we see Emsculpt Neo as a powerful complement to treatments like Emsella Incontinence Therapy, helping you build comprehensive strength from the inside out.
 
 #### Proven Gains in Strength and Mobility
 
@@ -219,7 +219,7 @@ Your body and your goals are entirely your own, and your treatment plan should r
 
 ### Fitting Emsculpt into Your Total Wellness Plan
 
-At our practice, we see body contouring as one piece of your total wellness puzzle. Dr. Berman believes that feeling good on the outside is deeply connected to your health on the inside. An Emsculpt Neo treatment plan, which is most effective as a series of sessions, can be a fantastic complement to a healthy lifestyle and other wellness therapies. For many women, strengthening the core can improve posture and reduce back pain, while for others, feeling stronger physically supports their mental and emotional well-being. Dr. Berman can help you understand how Emsculpt Neo fits into your broader health journey, which might include things like hormone therapy or pelvic floor treatments.
+At our practice, we see body contouring as one piece of your total wellness puzzle. Dr. Berman believes that feeling good on the outside is deeply connected to your health on the inside. An Emsculpt Neo treatment plan, which is most effective as a series of sessions, can be a fantastic complement to a healthy lifestyle and other wellness therapies. For many women, strengthening the core can improve posture and reduce back pain, while for others, feeling stronger physically supports their mental and emotional well-being. Dr. Berman can help you understand how Emsculpt Neo fits into your broader health journey, which might include things like [hormone therapy](/services/menopause-hormones/) or pelvic floor treatments.
 
 ### Your Safety and Comfort Come First
 

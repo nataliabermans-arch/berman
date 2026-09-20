@@ -70,7 +70,7 @@ Topical testosterone remains one of the most commonly used approaches. Creams an
 
 ### Testosterone Pellets and Injections
 
-**Testosterone pellet therapy for perimenopausal and menopausal women** is another option. Pellets are small bioidentical hormone implants inserted under the skin during a brief in-office procedure. They release testosterone gradually over several months, offering consistent hormone delivery without the need for daily application.
+**Testosterone pellet therapy for perimenopausal and menopausal women** is another option. Pellets are small [bioidentical hormone](/services/menopause-hormones/) implants inserted under the skin during a brief in-office procedure. They release testosterone gradually over several months, offering consistent hormone delivery without the need for daily application.
 
 Pellets can be a good choice for women who prefer convenience and stable hormone exposure. Because the dose cannot be adjusted once inserted, careful patient selection and experienced clinical oversight are important to avoid over- or under-dosing.
 

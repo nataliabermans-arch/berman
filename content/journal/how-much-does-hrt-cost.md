@@ -38,7 +38,7 @@ Deciding if HRT is the right path for you is a personal decision that deserves a
 
 ### Understanding Your HRT Options
 
-One of the best things about modern HRT is that it’s not a one-size-fits-all treatment. There are many different ways to receive hormone therapy, and the best one for you depends on your symptoms, lifestyle, and personal preferences. HRT can be administered as pills, patches, gels, injections, or even tiny pellets placed under the skin. For instance, Bioidentical Hormone Replacement Therapy (BHRT) uses hormones that are chemically identical to those your body produces. Working with a specialist like Dr. Berman ensures you can explore all the possibilities and choose the delivery method that fits seamlessly into your life.
+One of the best things about modern HRT is that it’s not a one-size-fits-all treatment. There are many different ways to receive hormone therapy, and the best one for you depends on your symptoms, lifestyle, and personal preferences. HRT can be administered as pills, patches, gels, injections, or even tiny pellets placed under the skin. For instance, [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy (BHRT) uses hormones that are chemically identical to those your body produces. Working with a specialist like Dr. Berman ensures you can explore all the possibilities and choose the delivery method that fits seamlessly into your life.
 
 ## What’s the Monthly Cost of HRT?
 

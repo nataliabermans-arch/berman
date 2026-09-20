@@ -12,7 +12,7 @@ originalUrl: "https://bermansexualhealth.com/hot-topics-in-sexual-health/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-With more than 50 million (some say a conservative number) women suffering from what is termed Female Sexual dysfunction, this list will lead to articles to provide information to help and support.
+With more than 50 million (some say a conservative number) women suffering from what is termed [Female Sexual dysfunction](/services/sexual-health/), this list will lead to articles to provide information to help and support.
 
 UNLEASHING APHRODITE: FEMALE ECSTASY VIA HER PRIMAL NATURE  
 Female sexual dysfunction  

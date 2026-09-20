@@ -39,7 +39,7 @@ When we hear ‘testosterone,’ many of us think of men, but this hormone is es
 
 ### How cancer treatment impacts your hormones
 
-Life-saving cancer treatments like chemotherapy and radiation are powerful, but they can be tough on your body. A common side effect is their impact on your hormones. These treatments can disrupt your body’s ability to produce testosterone, leading to a significant imbalance. This drop is often the reason for lingering fatigue, mood swings, and other changes you might be experiencing post-treatment. Understanding this is a direct result of your treatment is the first step. It’s not just in your head, and there are effective ways, like bioidentical hormone replacement therapy, to help you feel better.
+Life-saving cancer treatments like chemotherapy and radiation are powerful, but they can be tough on your body. A common side effect is their impact on your hormones. These treatments can disrupt your body’s ability to produce testosterone, leading to a significant imbalance. This drop is often the reason for lingering fatigue, mood swings, and other changes you might be experiencing post-treatment. Understanding this is a direct result of your treatment is the first step. It’s not just in your head, and there are effective ways, like [bioidentical hormone](/services/menopause-hormones/) replacement therapy, to help you feel better.
 
 ### The link between testosterone and recovery
 

@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/bioidentical-hormone-pellets-vs-cre
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Once you decide that bioidentical hormones are right for you, the conversation shifts from “what” to “how.” This is where the debate over **bioidentical hormone pellets vs creams** comes into play. Do you prefer a “set it and forget it” approach that frees you from daily tasks, or do you value the flexibility of a daily application that can be easily adjusted? Each method has its own set of benefits and considerations that can impact your daily life. Understanding these differences is key to choosing a therapy that not only works for your body but also fits seamlessly into your routine.
+Once you decide that [bioidentical hormone](/services/menopause-hormones/)s are right for you, the conversation shifts from “what” to “how.” This is where the debate over **bioidentical hormone pellets vs creams** comes into play. Do you prefer a “set it and forget it” approach that frees you from daily tasks, or do you value the flexibility of a daily application that can be easily adjusted? Each method has its own set of benefits and considerations that can impact your daily life. Understanding these differences is key to choosing a therapy that not only works for your body but also fits seamlessly into your routine.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

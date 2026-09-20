@@ -25,7 +25,7 @@ ACOG further stated that HRT for the treatment of acute menopausal symptoms, whe
 
 Androgen replacement therapy: Androgens are known to have a variety of physiologic and behavioral functions with beneficial effects on sexual desire. Some researchers of sexual dysfunction have shown that androgen deficiency syndrome can be alleviated with androgen replacement therapy. Randomized controlled trials studying the efficacy of combined estrogen-androgen preparations on sexual function in postmenopausal women have concluded that these agents induced a greater sense of energy and well-being with fewer adverse effects compared with estrogen alone.
 
-A potential indication for combined estrogen-androgen treatment would be decreased libido occurring during perimenopause or postmenopause, specifically in woman who reports being previously satisfied with her level of libido.
+A potential indication for combined estrogen-androgen treatment would be decreased libido occurring during [perimenopause](/services/menopause-hormones/) or postmenopause, specifically in woman who reports being previously satisfied with her level of libido.
 
 Transdermal testosterone (Testoderm, Androderm) has also been tested in w omen with impaired sexual functioning. In a recent trial, 75 women who had undergone oophorectomy were randomized to receive oral estrogen therapy plus placebo or low- (150 microgram/d) or high-dose (300 microgram/d) transdermal testosterone. Sexual function and psychological well-being were significantly improved in the higher-dose group compared with the placebo group. A critical question that should be explored involved the appropriate levels of serum androgens required for adequate symptomatic improvement.
 
@@ -65,7 +65,7 @@ Bupropion HCl (Wellbutrin): This antidepressant is a weak blocker of the neurona
 
 Apomorphine Hcl is a short-acting dopamine agonist that facilitates erectile responses. In addition to developing a nasally administered apomorphine for treatment of ED in men, a phase 2 clinical trial is being conducted in women with sexual dysfunction to assess the safety and efficacy of nasally administered apomorphine in increasing their sexual satisfaction.
 
-Alpha-Melanocyte-stimulating hormone: This is an endogenous regulatory hormone with diverse physiologic functions, including the regulation of body weight, pigmentation, adrenal function, energy homeostasis, and immune and sexual function. Studies of a nasally administered synthetic peptide analogue of alpha-melanocyte-stimulating hormone (PT-141) for the treatment of female sexual dysfunction are underway.
+Alpha-Melanocyte-stimulating hormone: This is an endogenous regulatory hormone with diverse physiologic functions, including the regulation of body weight, pigmentation, adrenal function, energy homeostasis, and immune and sexual function. Studies of a nasally administered synthetic peptide analogue of alpha-melanocyte-stimulating hormone (PT-141) for the treatment of [female sexual dysfunction](/services/sexual-health/) are underway.
 
 Herbals: Several herbal remedies (such as Zestra, Avlimil and ArginMax) are currently available and recommended by some sexual health professionals for enhancement of sexual function. Like androgenic dietary supplements, they require no regulatory review.
 

@@ -64,7 +64,7 @@ Bladder suspension refers to surgery that helps place a sagging bladder back int
 
 **_Do Kegels work for men?_**
 
-Kegel exercises, much like lifting weights, help you strengthen muscles. The exercises target the muscles of the pelvic floor, which are medically termed the pubococcygeus. Both men and women have these muscles, which provide support to pelvic organs. With that being said, some research does suggest that Kegels may help restore bladder control after prostate surgery, improve erectile dysfunction, delay premature ejaculation, and perhaps even boost libido in men.
+Kegel exercises, much like lifting weights, help you strengthen muscles. The exercises target the muscles of the [pelvic floor](/services/pelvic-urinary/), which are medically termed the pubococcygeus. Both men and women have these muscles, which provide support to pelvic organs. With that being said, some research does suggest that Kegels may help restore bladder control after prostate surgery, improve erectile dysfunction, delay premature ejaculation, and perhaps even boost libido in men.
 
 Schedule an appointment with Dr. Berman, Sexual Health Exper, and Urologist
 

@@ -114,7 +114,7 @@ Before you even book a consultation, it’s helpful to know who typically benefi
 
 ### What to Expect From Your Consultation and Testing
 
-Your journey will begin with a comprehensive consultation to discuss your symptoms, health history, and goals. To get a clear picture of your hormonal landscape, your doctor will order a blood test. It’s important to know that hormone levels can fluctuate naturally, so this test is just one part of a larger diagnostic puzzle. If you and your doctor decide to move forward with therapy, you won’t be left on your own. Follow-up is key. Your testosterone levels will be checked again about four to six weeks after you start treatment and then typically every six months to ensure your dosage is just right and your levels remain in a safe, effective range. This careful monitoring is a standard part of Bioidentical Hormone Replacement Therapy.
+Your journey will begin with a comprehensive consultation to discuss your symptoms, health history, and goals. To get a clear picture of your hormonal landscape, your doctor will order a blood test. It’s important to know that hormone levels can fluctuate naturally, so this test is just one part of a larger diagnostic puzzle. If you and your doctor decide to move forward with therapy, you won’t be left on your own. Follow-up is key. Your testosterone levels will be checked again about four to six weeks after you start treatment and then typically every six months to ensure your dosage is just right and your levels remain in a safe, effective range. This careful monitoring is a standard part of [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy.
 
 ### Why to Work With a Women’s Hormone Specialist
 

@@ -34,7 +34,7 @@ Beginning her journey at the esteemed Boston University School of Medicine, **Dr
 
 Her pursuit of excellence led her to the University of Maryland Medical Center, where she completed a rigorous post-graduate training in Urology and Pediatric Urology, further enriching her clinical and academic prowess.
 
-Dr. Berman’s ambition and dedication to specialized care propelled her to Johns Hopkins, one of the most renowned medical institutions globally, where she honed her skills in urology. Recognizing the need for specialized female urological care, she undertook a fellowship at the David Geffen UCLA Medical Center, focusing on Female Urology and Pelvic Floor Reconstructive Surgery. This advanced training equipped her with the expertise required to address complex conditions affecting women’s health.
+Dr. Berman’s ambition and dedication to specialized care propelled her to Johns Hopkins, one of the most renowned medical institutions globally, where she honed her skills in urology. Recognizing the need for specialized female urological care, she undertook a fellowship at the David Geffen UCLA Medical Center, focusing on Female Urology and [Pelvic Floor](/services/pelvic-urinary/) Reconstructive Surgery. This advanced training equipped her with the expertise required to address complex conditions affecting women’s health.
 
 Moreover, her academic journey included earning a Master of Science degree from the University of Maryland Medical Center, underscoring her commitment to a robust scientific foundation.
 
@@ -48,7 +48,7 @@ Recognizing a critical gap in care for women, Dr. Berman pursued a highly specia
 
 ## Pioneering Female Health at UCLA
 
-Dr. Jennifer Berman’s establishment of the Female Sexual Medicine Center at UCLA in 2001 marked a pivotal advancement in the specialized care of women’s sexual health. Under her leadership, the center quickly became a beacon for addressing female sexual dysfunction, a field long overlooked in medical research and practice. Berman’s expertise attracted significant recognition from pharmaceutical companies keen to develop treatments for female sexual health issues.
+Dr. Jennifer Berman’s establishment of the Female Sexual Medicine Center at UCLA in 2001 marked a pivotal advancement in the specialized care of women’s sexual health. Under her leadership, the center quickly became a beacon for addressing [female sexual dysfunction](/services/sexual-health/), a field long overlooked in medical research and practice. Berman’s expertise attracted significant recognition from pharmaceutical companies keen to develop treatments for female sexual health issues.
 
 ### Leadership at the Female Sexual Medicine Center
 
@@ -76,7 +76,7 @@ Berman’s private practice embodies her commitment to female sexual health and 
 
 **Sexual Health:** Addressing various aspects of female sexual dysfunction, ensuring that women receive thorough and empathetic care.  
 **Body Sculpting:** Offering advanced techniques to help women achieve their aesthetic goals, enhancing their confidence and well-being.  
-**Menopause Treatment:** Providing expert care and innovative therapies to manage the symptoms of menopause, improving quality of life.  
+**[Menopause](/services/menopause-hormones/) Treatment:** Providing expert care and innovative therapies to manage the symptoms of menopause, improving quality of life.  
 **Health and Wellness:** A holistic approach to health, focusing on preventive care and overall well-being.
 
 ## Partnering with the Pharmaceutical Industry

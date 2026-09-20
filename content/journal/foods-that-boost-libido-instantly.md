@@ -64,7 +64,7 @@ Healthy blood flow is essential for sexual arousal. For physical excitement to b
 
 ### Supporting Hormone Production
 
-Hormones are the chemical messengers that regulate countless bodily functions, including your sex drive. When your hormones are out of balance, your libido is often one of the first things to suffer. For women, testosterone plays a crucial role in desire, and certain nutrients are vital for its production. Zinc, for instance, is a key mineral for creating testosterone. This is why oysters, which are packed with zinc, have such a strong reputation as an aphrodisiac. By eating foods that support healthy hormone levels, you can help maintain a steady and healthy interest in sex. If you suspect a deeper imbalance, exploring options like bioidentical hormone replacement therapy can provide targeted support.
+Hormones are the chemical messengers that regulate countless bodily functions, including your sex drive. When your hormones are out of balance, your libido is often one of the first things to suffer. For women, testosterone plays a crucial role in desire, and certain nutrients are vital for its production. Zinc, for instance, is a key mineral for creating testosterone. This is why oysters, which are packed with zinc, have such a strong reputation as an aphrodisiac. By eating foods that support healthy hormone levels, you can help maintain a steady and healthy interest in sex. If you suspect a deeper imbalance, exploring options like [bioidentical hormone](/services/menopause-hormones/) replacement therapy can provide targeted support.
 
 ### Activating Key Neurotransmitters
 

@@ -17,7 +17,7 @@ originalUrl: >-
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Perimenopause, the years leading up to menopause, is a time of significant change for women. This transition is often associated with physical symptoms like hot flashes and night sweats, but the emotional rollercoaster of mood swings can be just as disruptive. Feeling irritable one minute and tearful the next can leave you feeling confused, frustrated, and out of control.
+[Perimenopause](/services/menopause-hormones/), the years leading up to menopause, is a time of significant change for women. This transition is often associated with physical symptoms like hot flashes and night sweats, but the emotional rollercoaster of mood swings can be just as disruptive. Feeling irritable one minute and tearful the next can leave you feeling confused, frustrated, and out of control.
 
 This article delves into the world of perimenopausal mood swings, exploring the hormonal culprits, emotional triggers, and practical strategies to navigate this emotional upheaval and reclaim emotional balance.
 

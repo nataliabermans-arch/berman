@@ -138,7 +138,7 @@ Your journey begins with a conversation. A comprehensive evaluation is essential
 
 ### Combining Addyi with Complementary Therapies
 
-For many women, Addyi works best as part of a holistic approach. Think of it as one piece of the puzzle. Depending on your evaluation, your personalized plan might include other therapies to support your overall well-being. This could involve counseling to address psychological factors or exploring other medical treatments. If a hormonal imbalance is also at play, we might discuss options like Bioidentical Hormone Replacement Therapy. The goal is to create a multi-faceted strategy that addresses every angle, giving you the best chance to restore your desire.
+For many women, Addyi works best as part of a holistic approach. Think of it as one piece of the puzzle. Depending on your evaluation, your personalized plan might include other therapies to support your overall well-being. This could involve counseling to address psychological factors or exploring other medical treatments. If a hormonal imbalance is also at play, we might discuss options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy. The goal is to create a multi-faceted strategy that addresses every angle, giving you the best chance to restore your desire.
 
 ### Take the Next Step to Reclaim Your Sexual Health
 

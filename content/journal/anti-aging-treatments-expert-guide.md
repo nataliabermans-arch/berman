@@ -35,7 +35,7 @@ Dr. Berman’s academic journey is nothing short of impressive. After graduating
 
 #### Specialized Training in Female Urology
 
-After medical school, Dr. Berman chose a path that would define her career: female urology. She completed her urology training at the University of Maryland and then pursued a highly specialized fellowship at the UCLA Medical Center, focusing on female urology and pelvic floor reconstructive surgery. This intensive training gave her a deep understanding of the intricate issues many women face, from frustrating urinary incontinence to chronic pelvic pain. It’s this specialized expertise that forms the backbone of the innovative treatments offered at her practice, providing real, effective solutions for conditions that can significantly impact a woman’s confidence and quality of life.
+After medical school, Dr. Berman chose a path that would define her career: female urology. She completed her urology training at the University of Maryland and then pursued a highly specialized fellowship at the UCLA Medical Center, focusing on female urology and [pelvic floor](/services/pelvic-urinary/) reconstructive surgery. This intensive training gave her a deep understanding of the intricate issues many women face, from frustrating urinary incontinence to chronic pelvic pain. It’s this specialized expertise that forms the backbone of the innovative treatments offered at her practice, providing real, effective solutions for conditions that can significantly impact a woman’s confidence and quality of life.
 
 ### A Distinguished Career in Medicine and Media
 
@@ -43,7 +43,7 @@ Dr. Berman didn’t just limit her expertise to the clinic. She has dedicated a 
 
 #### Founding the Female Sexual Medicine Center at UCLA
 
-A true trailblazer, Dr. Berman co-founded the Female Sexual Medicine Center at UCLA in 2001 and served as its first director. In this role, and as an assistant professor of urology, she created a space dedicated to addressing female sexual health with the seriousness and scientific rigor it deserves. This was a groundbreaking step in a field that had long been neglected by the medical community. Her work at the center helped legitimize the study and treatment of female sexual dysfunction, paving the way for many of the advanced therapies we have today for concerns like a persistent low libido and other forms of sexual discomfort.
+A true trailblazer, Dr. Berman co-founded the Female Sexual Medicine Center at UCLA in 2001 and served as its first director. In this role, and as an assistant professor of urology, she created a space dedicated to addressing female sexual health with the seriousness and scientific rigor it deserves. This was a groundbreaking step in a field that had long been neglected by the medical community. Her work at the center helped legitimize the study and treatment of [female sexual dysfunction](/services/sexual-health/), paving the way for many of the advanced therapies we have today for concerns like a persistent low libido and other forms of sexual discomfort.
 
 #### Bringing Women’s Health to the Forefront on Television
 

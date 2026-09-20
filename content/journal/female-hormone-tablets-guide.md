@@ -42,7 +42,7 @@ While managing hot flashes is a major benefit, balancing your hormones contribut
 
 ## Your Guide to Hormone Therapy Options
 
-When you start looking into hormone therapy, you’ll see there isn’t a one-size-fits-all solution. That’s a good thing. It means your treatment can be tailored to your body, symptoms, and health history. The goal is to find the right balance to help you feel your best. The main options involve different hormones, like estrogen and progestin, and different formulations, such as bioidentical hormones. Understanding the basics of each type is the first step in having an informed conversation with your doctor about what’s right for you.
+When you start looking into hormone therapy, you’ll see there isn’t a one-size-fits-all solution. That’s a good thing. It means your treatment can be tailored to your body, symptoms, and health history. The goal is to find the right balance to help you feel your best. The main options involve different hormones, like estrogen and progestin, and different formulations, such as [bioidentical hormone](/services/menopause-hormones/)s. Understanding the basics of each type is the first step in having an informed conversation with your doctor about what’s right for you.
 
 ### Estrogen-Only Therapy
 

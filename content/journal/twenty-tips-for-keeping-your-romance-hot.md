@@ -69,7 +69,7 @@ While fictional romances often revolve around grand gestures and intense passion
 
 ### Why One Size Doesn’t Fit All
 
-Every individual has a unique “romantic language,” and what works for a character in a book might not translate to your own relationship. True intimacy comes from understanding your partner’s needs and your own. This includes being in tune with your body and what brings you pleasure and confidence. Sometimes, physical changes can affect how we experience intimacy, impacting everything from comfort to desire. Addressing these changes through treatments like vaginal rejuvenation can help you feel more connected to your body and enhance your physical relationship. Ultimately, the best romance is one that is co-created, tailored specifically to the people in it, and built on a foundation of mutual understanding and care.
+Every individual has a unique “romantic language,” and what works for a character in a book might not translate to your own relationship. True intimacy comes from understanding your partner’s needs and your own. This includes being in tune with your body and what brings you pleasure and confidence. Sometimes, physical changes can affect how we experience intimacy, impacting everything from comfort to desire. Addressing these changes through treatments like [vaginal rejuvenation](/services/vaginal-rejuvenation/) can help you feel more connected to your body and enhance your physical relationship. Ultimately, the best romance is one that is co-created, tailored specifically to the people in it, and built on a foundation of mutual understanding and care.
 
 ## Dr. Jennifer Berman’s Tips for a Hotter Romance
 
@@ -104,7 +104,7 @@ Your desire for intimacy doesn’t exist in a vacuum; it’s deeply connected to
 
 #### How Health Impacts Libido and Intimacy
 
-Sometimes, a dip in desire has a clear physical cause that wellness habits alone can’t fix. Hormonal fluctuations, especially during perimenopause and menopause, can significantly impact libido, cause vaginal dryness, or lead to discomfort during sex. Conditions like chronic pelvic pain can also create barriers to intimacy. Understanding that these are medical issues—not personal failings—is the first step. Seeking expert guidance can help you find effective solutions, from hormone replacement therapy to targeted treatments that restore comfort and pleasure. Addressing the root cause is crucial for reclaiming your sexual health and enjoying a fulfilling romantic life.
+Sometimes, a dip in desire has a clear physical cause that wellness habits alone can’t fix. Hormonal fluctuations, especially during [perimenopause](/services/menopause-hormones/) and menopause, can significantly impact libido, cause vaginal dryness, or lead to discomfort during sex. Conditions like chronic pelvic pain can also create barriers to intimacy. Understanding that these are medical issues—not personal failings—is the first step. Seeking expert guidance can help you find effective solutions, from hormone replacement therapy to targeted treatments that restore comfort and pleasure. Addressing the root cause is crucial for reclaiming your sexual health and enjoying a fulfilling romantic life.
 
 ### Explore New Ways to Connect
 

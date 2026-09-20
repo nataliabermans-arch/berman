@@ -22,4 +22,4 @@ author: "Dr. Jennifer Berman, MD"
 
 \*original article generated on Poise.com
 
-As women reach their 40s and 50s, they enter a time in their lives referred to as “perimenopause.”  During this period, before the menopause, hormone levels start to fluctuate up and down. Lower estrogen levels, as well as fluctuating levels of estrogen, during perimenopause, is what causes the symptoms of PMS (premenstrual syndrome), missed periods, mood swings, fatigue, and weight gain.
+As women reach their 40s and 50s, they enter a time in their lives referred to as “[perimenopause](/services/menopause-hormones/).”  During this period, before the menopause, hormone levels start to fluctuate up and down. Lower estrogen levels, as well as fluctuating levels of estrogen, during perimenopause, is what causes the symptoms of PMS (premenstrual syndrome), missed periods, mood swings, fatigue, and weight gain.

@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/female-urinary-incontinence-night/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-It’s a common myth that losing bladder control is just an inevitable part of getting older for women. The truth is that modern medicine offers incredible, effective solutions that can restore your body’s function and your peace of mind. The issue of female urinary incontinence at night is often tied to specific, treatable causes like weakened pelvic floor muscles or the hormonal changes associated with menopause. Instead of just accepting it, you can address the problem at its source. This guide will explain the science behind why leaks happen and introduce you to a range of options, from foundational exercises to innovative, non-surgical therapies that rebuild strength from within.
+It’s a common myth that losing bladder control is just an inevitable part of getting older for women. The truth is that modern medicine offers incredible, effective solutions that can restore your body’s function and your peace of mind. The issue of female urinary incontinence at night is often tied to specific, treatable causes like weakened [pelvic floor](/services/pelvic-urinary/) muscles or the hormonal changes associated with menopause. Instead of just accepting it, you can address the problem at its source. This guide will explain the science behind why leaks happen and introduce you to a range of options, from foundational exercises to innovative, non-surgical therapies that rebuild strength from within.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -24,7 +24,7 @@ It’s a common myth that losing bladder control is just an inevitable part of g
 
 - **Understand the hormonal connection**: Menopause is a primary driver of nighttime leaks because declining estrogen levels affect the strength and flexibility of your bladder tissues.
 - **Take control with daily habits**: Simple adjustments like limiting fluids before bed, identifying personal food triggers, and strengthening your pelvic floor with exercises can significantly reduce nighttime leaks.
-- **Explore professional treatments for lasting relief**: When lifestyle changes aren’t enough, medical options like hormone therapy or non-invasive procedures can address the underlying cause of incontinence, helping you achieve long-term control.
+- **Explore professional treatments for lasting relief**: When lifestyle changes aren’t enough, medical options like [hormone therapy](/services/menopause-hormones/) or non-invasive procedures can address the underlying cause of incontinence, helping you achieve long-term control.
 
 ## What Is Nighttime Urinary Incontinence?
 

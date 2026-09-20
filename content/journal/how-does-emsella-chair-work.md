@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/how-does-emsella-chair-work/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Let’s talk about your pelvic floor. It’s about so much more than just preventing leaks—it’s central to your sexual wellness and overall confidence. When life events like childbirth or menopause weaken these crucial muscles, it can affect everything from your daily comfort to your intimate moments. So, you might be wondering, **does Emsella really work?** The **Emsella chair** is a revolutionary, non-invasive treatment that strengthens your entire pelvic floor. It restores bladder control _and_ enhances sexual response. We’ll explore the key **Emsella chair benefits** and how it helps you feel strong and confident again.
+Let’s talk about your [pelvic floor](/services/pelvic-urinary/). It’s about so much more than just preventing leaks—it’s central to your sexual wellness and overall confidence. When life events like childbirth or [menopause](/services/menopause-hormones/) weaken these crucial muscles, it can affect everything from your daily comfort to your intimate moments. So, you might be wondering, **does Emsella really work?** The **Emsella chair** is a revolutionary, non-invasive treatment that strengthens your entire pelvic floor. It restores bladder control _and_ enhances sexual response. We’ll explore the key **Emsella chair benefits** and how it helps you feel strong and confident again.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

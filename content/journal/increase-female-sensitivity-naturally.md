@@ -25,7 +25,7 @@ Conversations about female pleasure can feel complicated, often leaving us to fi
 
 - **Sensitivity is a whole-body experience**: Your sexual response is directly connected to your mental state, hormonal health, and physical wellness. Understanding how stress, circulation, and hormones work together is the first step to feeling more in tune with your body.
 - **Your daily habits directly influence desire**: You can build a strong foundation for better sensitivity with intentional, everyday choices. Prioritize regular movement to improve blood flow, find effective ways to manage stress, and fuel your body with a nutrient-rich diet.
-- **Take an active role in your sexual wellness**: You have the power to improve your intimate experiences through practical steps like pelvic floor exercises and open communication. When lifestyle changes aren’t enough, seeking professional medical guidance is a smart, effective way to get personalized solutions.
+- **Take an active role in your sexual wellness**: You have the power to improve your intimate experiences through practical steps like [pelvic floor](/services/pelvic-urinary/) exercises and open communication. When lifestyle changes aren’t enough, seeking professional medical guidance is a smart, effective way to get personalized solutions.
 
 ## How Common is Low Female Libido?
 
@@ -65,7 +65,7 @@ Life is full of significant events—from childbirth and career changes to grief
 
 ### Your Hormones and How They Affect You
 
-Hormones are the chemical messengers that regulate countless functions in your body, including your sex drive. Estrogen, in particular, plays a major role in desire, arousal, and vaginal lubrication. As you go through different life stages, especially perimenopause and menopause, your estrogen levels naturally decline. This shift can lead to a lower libido and physical changes like vaginal dryness, which can make intimacy uncomfortable. Addressing these hormonal changes is key. Solutions can range from using high-quality lubricants to exploring options like Bioidentical Hormone Replacement Therapy to restore balance and vitality.
+Hormones are the chemical messengers that regulate countless functions in your body, including your sex drive. Estrogen, in particular, plays a major role in desire, arousal, and vaginal lubrication. As you go through different life stages, especially perimenopause and menopause, your estrogen levels naturally decline. This shift can lead to a lower libido and physical changes like vaginal dryness, which can make intimacy uncomfortable. Addressing these hormonal changes is key. Solutions can range from using high-quality lubricants to exploring options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy to restore balance and vitality.
 
 ## Lifestyle Tweaks to Naturally Increase Sensitivity
 
@@ -289,7 +289,7 @@ When estrogen levels drop during menopause, the vaginal tissues can become thinn
 
 #### Testosterone Therapy for Postmenopausal Women
 
-While often thought of as a male hormone, testosterone plays a vital role in female sexual desire, arousal, and orgasm. Levels of testosterone for women naturally decline with age, and this drop can contribute significantly to a lagging libido after menopause. Although not yet FDA-approved specifically for female sexual dysfunction in the United States, testosterone therapy is often prescribed “off-label” by knowledgeable specialists. When administered in careful, appropriate doses, it can be very effective at restoring sexual interest and responsiveness. A doctor specializing in hormone therapy can determine if you are a good candidate and will monitor your levels to ensure safe and optimal results.
+While often thought of as a male hormone, testosterone plays a vital role in female sexual desire, arousal, and orgasm. Levels of testosterone for women naturally decline with age, and this drop can contribute significantly to a lagging libido after menopause. Although not yet FDA-approved specifically for [female sexual dysfunction](/services/sexual-health/) in the United States, testosterone therapy is often prescribed “off-label” by knowledgeable specialists. When administered in careful, appropriate doses, it can be very effective at restoring sexual interest and responsiveness. A doctor specializing in hormone therapy can determine if you are a good candidate and will monitor your levels to ensure safe and optimal results.
 
 ### Other Prescription Treatments for Painful Sex
 

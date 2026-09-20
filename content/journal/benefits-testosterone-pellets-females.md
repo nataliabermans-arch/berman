@@ -36,7 +36,7 @@ The key here is “bioidentical.” This means the hormones are structurally ide
 
 Let’s clear up a common misconception: testosterone isn’t just for men. It’s a critical hormone for women’s health, playing a huge role in everything from maintaining muscle mass and bone density to regulating your mood and sex drive. When your levels are low, you feel it. You might experience persistent fatigue, brain fog, unexplained weight gain, or a noticeable drop in your desire for intimacy.
 
-Testosterone pellets work by rebalancing your hormone levels from the inside out. The bioidentical hormones they release are derived from plant sources and are designed to mimic your body’s natural hormones perfectly. As the pellet dissolves over three to five months, it delivers a consistent dose directly into your bloodstream, helping to alleviate those frustrating symptoms and restore your sense of well-being.
+Testosterone pellets work by rebalancing your hormone levels from the inside out. The [bioidentical hormone](/services/menopause-hormones/)s they release are derived from plant sources and are designed to mimic your body’s natural hormones perfectly. As the pellet dissolves over three to five months, it delivers a consistent dose directly into your bloodstream, helping to alleviate those frustrating symptoms and restore your sense of well-being.
 
 ### A Brief History of Pellet Therapy
 

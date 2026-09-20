@@ -89,7 +89,7 @@ The G-spot has been a topic of debate for years, but many experts now believe it
 
 ### Health Benefits Beyond Pleasure
 
-Orgasms aren't just for fun; they come with some real health benefits. When you climax, your body releases a rush of endorphins, which are natural pain relievers and mood elevators. This hormonal cocktail can help reduce stress, improve sleep, and even alleviate menstrual cramps. The muscle contractions during orgasm can also help strengthen pelvic floor muscles. Embracing your sexuality and prioritizing pleasure is a form of self-care that contributes to both your mental and physical health, making it an important part of a holistic wellness routine.
+Orgasms aren't just for fun; they come with some real health benefits. When you climax, your body releases a rush of endorphins, which are natural pain relievers and mood elevators. This hormonal cocktail can help reduce stress, improve sleep, and even alleviate menstrual cramps. The muscle contractions during orgasm can also help strengthen [pelvic floor](/services/pelvic-urinary/) muscles. Embracing your sexuality and prioritizing pleasure is a form of self-care that contributes to both your mental and physical health, making it an important part of a holistic wellness routine.
 
 ## Practical Advice for Clitoral Stimulation
 
@@ -143,7 +143,7 @@ Clitoral priapism is an extremely rare but serious condition involving a prolong
 
 ### Hormonal Influences on the Clitoris
 
-Hormones play a significant role in sexual health and can directly influence the clitoris. For example, androgens like testosterone are crucial for libido and clitoral sensitivity. During menopause, declining estrogen and testosterone levels can lead to vaginal atrophy and reduced clitoral sensation. Conversely, the use of anabolic steroids can cause the clitoris to enlarge, a condition known as clitoromegaly. Understanding your hormonal landscape is key to managing your sexual health, and treatments like Bioidentical Hormone Replacement Therapy can often help restore balance and improve function for women experiencing hormonal changes.
+Hormones play a significant role in sexual health and can directly influence the clitoris. For example, androgens like testosterone are crucial for libido and clitoral sensitivity. During menopause, declining estrogen and testosterone levels can lead to vaginal atrophy and reduced clitoral sensation. Conversely, the use of anabolic steroids can cause the clitoris to enlarge, a condition known as clitoromegaly. Understanding your hormonal landscape is key to managing your sexual health, and treatments like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can often help restore balance and improve function for women experiencing hormonal changes.
 
 ### How a Sexual Health Specialist Can Help
 

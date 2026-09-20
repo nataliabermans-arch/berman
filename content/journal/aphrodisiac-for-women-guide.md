@@ -111,11 +111,11 @@ If you’re premenopausal and struggling with a low sex drive, Addyi might be an
 
 ### PT-141 Therapy
 
-For a more spontaneous approach, PT-141 therapy offers an on-demand solution for low libido. This peptide therapy works directly on your nervous system to activate pathways in the brain that help generate sexual desire. It’s administered as a simple injection or nasal spray about 45 minutes before you plan to be intimate, making it a great option if you prefer not to take a daily medication. PT-141 is effective for both premenopausal and postmenopausal women, providing a versatile treatment for enhancing arousal and sexual satisfaction when the moment feels right.
+For a more spontaneous approach, PT-141 therapy offers an on-demand solution for low libido. This [peptide therapy](/services/peptide-therapy/) works directly on your nervous system to activate pathways in the brain that help generate sexual desire. It’s administered as a simple injection or nasal spray about 45 minutes before you plan to be intimate, making it a great option if you prefer not to take a daily medication. PT-141 is effective for both premenopausal and postmenopausal women, providing a versatile treatment for enhancing arousal and sexual satisfaction when the moment feels right.
 
 ### Hormone Replacement Therapy
 
-Hormones are powerful communicators in our bodies, and when they’re out of balance, our sex drive can take a major hit. This is especially common during perimenopause and menopause when estrogen and testosterone levels fluctuate and decline. Personalized hormone replacement therapy can help restore your body’s natural equilibrium. By tailoring treatments like bioidentical hormones or Biote pellet therapy to your specific needs, we can address not just low libido but also other related symptoms like fatigue and mood swings. Restoring hormonal balance can be a key step in feeling more energized, vibrant, and like yourself again.
+Hormones are powerful communicators in our bodies, and when they’re out of balance, our sex drive can take a major hit. This is especially common during perimenopause and menopause when estrogen and testosterone levels fluctuate and decline. Personalized hormone replacement therapy can help restore your body’s natural equilibrium. By tailoring treatments like [bioidentical hormone](/services/menopause-hormones/)s or Biote pellet therapy to your specific needs, we can address not just low libido but also other related symptoms like fatigue and mood swings. Restoring hormonal balance can be a key step in feeling more energized, vibrant, and like yourself again.
 
 ### O-Shot and G-Shot Procedures
 
