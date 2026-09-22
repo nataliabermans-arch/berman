@@ -22,6 +22,10 @@ const SITE = siteUrl;
 export async function generateStaticParams() {
   const slugs = new Set(getAllSlugs());
   for (const alias of LEGACY_SINGLE_SEGMENT_ALIASES) {
+    // Service aliases are handled as permanent redirects at request time, so
+    // they must NOT be prerendered — a prerendered page can't emit a redirect
+    // Location header. Leaving them dynamic lets permanentRedirect() work.
+    if (alias.type === "service") continue;
     slugs.add(legacyAliasPathToSlug(alias));
   }
 
