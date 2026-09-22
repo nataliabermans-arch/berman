@@ -116,6 +116,8 @@ const jsonLd = {
       jobTitle: "Urologist",
       description:
         "Urologist whose practice focuses on menopause and hormone therapy, female sexual medicine, and pelvic and urinary health. Co-founded UCLA's Female Sexual Medicine Center in 2001; founder and director of JRB Medical Wellness in Beverly Hills.",
+      disambiguatingDescription:
+        "Dr. Jennifer Berman is a urologist and co-founder of UCLA's Female Sexual Medicine Center, and co-author of the books For Women Only and Secrets of the Sexually Satisfied Woman. She is a distinct individual from Dr. Laura Berman, a relationship therapist and television personality.",
       knowsAbout: [
         "Menopause",
         "Perimenopause",
