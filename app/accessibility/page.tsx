@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import AccessibilityClient from "./_accessibility-client";
 
 const seo = {
-  title: "Accessibility — JRB Medical Wellness",
+  title: "Accessibility — Berman Women's Wellness",
   description: "Our commitment to making this website accessible to everyone.",
   url: "/accessibility",
 };

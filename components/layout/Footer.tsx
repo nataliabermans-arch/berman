@@ -164,7 +164,7 @@ export function Footer({ className }: FooterProps) {
         </form>
 
         <div className="mt-8 flex flex-col gap-3 border-t border-line pt-6 font-dm-mono text-[0.64rem] uppercase leading-5 tracking-[0.16em] text-text-tertiary md:flex-row md:items-center md:justify-between">
-          <p>© {new Date().getFullYear()} JRB Medical Wellness</p>
+          <p>© {new Date().getFullYear()} Berman Women&apos;s Wellness</p>
           <div className="flex flex-wrap gap-x-5 gap-y-2">
             <a href="/privacy/" className="hover:text-rose-700">
               Privacy

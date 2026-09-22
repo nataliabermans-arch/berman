@@ -6,7 +6,7 @@ import ContactClient from "./_contact-client";
 const seo = {
   title: "Contact — Dr. Jennifer Berman",
   description:
-    "Reach JRB Medical Wellness in Beverly Hills, with virtual consults available when appropriate. New patient consultations are by appointment; the patient coordinator follows up within one business day.",
+    "Reach Berman Women's Wellness in Beverly Hills, with virtual consults available when appropriate. New patient consultations are by appointment; the patient coordinator follows up within one business day.",
   url: "/contact",
 };
 
@@ -24,7 +24,7 @@ export async function generateMetadata(): Promise<Metadata> {
           url: "/images/dr-berman/headshot-portrait.webp",
           width: 1200,
           height: 1500,
-          alt: "Contact JRB Medical Wellness — Beverly Hills",
+          alt: "Contact Berman Women's Wellness — Beverly Hills",
         },
       ],
     },
@@ -55,7 +55,7 @@ export default function ContactPage() {
 
   const medicalBusiness = {
     "@type": "MedicalBusiness",
-    name: "JRB Medical Wellness",
+    name: "Berman Women's Wellness",
     physician: { "@type": "Physician", name: "Dr. Jennifer Berman, MD" },
     address: {
       "@type": "PostalAddress",

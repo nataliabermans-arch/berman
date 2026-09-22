@@ -33,11 +33,11 @@ export default function SiteFooter() {
       <div className="a-footer">
         <div className="col">
           <div className="logo-mark" style={footerLogoInline}>
-            Berman Sexual Health
+            Berman Women&apos;s Wellness
             <span style={footerLogoDotInline}>.</span>
           </div>
           <p style={footerAddrInline}>
-            JRB Medical Wellness
+            Berman Women&apos;s Wellness
             <br />
             415 N. Crescent Drive, Suite 355
             <br />
@@ -118,7 +118,7 @@ export default function SiteFooter() {
       </div>
       <div className="footer-tail">
         <span className="footer-tail__copy">
-          © {new Date().getFullYear()} JRB Medical Wellness
+          © {new Date().getFullYear()} Berman Women&apos;s Wellness
         </span>
         <a
           className="legitscript-seal"
@@ -126,7 +126,7 @@ export default function SiteFooter() {
           target="_blank"
           rel="noopener noreferrer"
           title={LEGITSCRIPT_SEAL.title}
-          aria-label="Verify LegitScript Approval for Berman Sexual Health"
+          aria-label="Verify LegitScript Approval for Berman Women's Wellness"
         >
           <img
             src={LEGITSCRIPT_SEAL.imageSrc}

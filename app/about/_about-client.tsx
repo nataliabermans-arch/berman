@@ -87,7 +87,7 @@ const TIMELINE: { year: string; title: React.ReactNode; body: string }[] = [
         <em style={{ color: "#8a3a44" }}>Beverly Hills</em>
       </>
     ),
-    body: "Opened JRB Medical Wellness as a concierge medical practice on Wilshire Boulevard.",
+    body: "Opened Berman Women's Wellness as a concierge medical practice on Wilshire Boulevard.",
   },
   {
     year: "2015",
@@ -259,7 +259,7 @@ const GLANCE: { dt: string; dd: React.ReactNode }[] = [
     dt: "Founded",
     dd: (
       <>
-        JRB Medical Wellness,{" "}
+        Berman Women's Wellness,{" "}
         <em style={{ color: "#8a3a44" }}>Beverly Hills</em>, 2007
       </>
     ),

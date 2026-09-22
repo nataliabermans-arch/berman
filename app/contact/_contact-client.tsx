@@ -596,7 +596,7 @@ export default function ContactClient() {
                   marginBottom: 10,
                 }}
               >
-                JRB Medical Wellness
+                Berman Women's Wellness
               </div>
               <div
                 style={{

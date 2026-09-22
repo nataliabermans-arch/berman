@@ -831,7 +831,7 @@ function HomeClient() {
             </button>
           </div>
           <div className="center">
-            <a href="/" aria-label="Berman Sexual Health — go to homepage">
+            <a href="/" aria-label="Berman Women's Wellness — go to homepage">
               <img
                 src="/images/jb-logo.webp"
                 alt="Jennifer Berman MD"
@@ -1363,7 +1363,7 @@ function HomeClient() {
             Internationally recognized urologist and twice-published{" "}
             <em>New York Times</em> bestselling author. Co-founder of
             UCLA&apos;s Female Sexual Medicine Center,
-            founder &amp; director of JRB Medical Wellness in
+            founder &amp; director of Berman Women&apos;s Wellness in
             Beverly Hills.
           </p>
           <p>
@@ -1400,7 +1400,7 @@ function HomeClient() {
               <h6>Research &amp; Roles</h6>
               <ul>
                 <li>Co-founder · UCLA Female Sexual Medicine</li>
-                <li>Founder &amp; Director · JRB Medical Wellness</li>
+                <li>Founder &amp; Director · Berman Women&apos;s Wellness</li>
                 <li>Pfizer Scholar in Urology · 2×</li>
               </ul>
             </div>
@@ -2052,7 +2052,7 @@ function HomeClient() {
               <div className="meta">
                 <span>Where</span>
                 <span>
-                  JRB Medical Wellness, Beverly Hills
+                  Berman Women&apos;s Wellness, Beverly Hills
                 </span>
                 <span>Length</span>
                 <span>60–90 min new-patient consult</span>
@@ -2157,10 +2157,10 @@ function HomeClient() {
       <div className="a-footer">
         <div className="col">
           <div className="logo-mark" style={footerLogoInline}>
-            Berman Sexual Health<span style={footerLogoDotInline}>.</span>
+            Berman Women&apos;s Wellness<span style={footerLogoDotInline}>.</span>
           </div>
           <p style={footerAddrInline}>
-            JRB Medical Wellness
+            Berman Women&apos;s Wellness
             <br />
             415 N. Crescent Drive, Suite 355
             <br />
@@ -2283,14 +2283,14 @@ function HomeClient() {
         }}
       >
         <span>
-          © {new Date().getFullYear()} JRB Medical Wellness
+          © {new Date().getFullYear()} Berman Women&apos;s Wellness
         </span>
         <a
           href="https://www.legitscript.com/websites/?checker_keywords=bermansexualhealth.com"
           target="_blank"
           rel="noopener noreferrer"
           title="Verify LegitScript Approval for www.bermansexualhealth.com"
-          aria-label="Verify LegitScript Approval for Berman Sexual Health"
+          aria-label="Verify LegitScript Approval for Berman Women's Wellness"
           style={{ display: "inline-flex", flex: "0 0 auto", alignItems: "center" }}
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}

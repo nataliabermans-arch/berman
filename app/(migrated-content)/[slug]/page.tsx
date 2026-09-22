@@ -78,7 +78,7 @@ export async function generateMetadata({
   return {
     // Keep the browser/SEO title to just the article's own (keyword-rich)
     // title so it isn't truncated in results — the template would otherwise
-    // append " — The Berman Brief | JRB Medical Wellness" and blow past the
+    // append " — The Berman Brief | Berman Women's Wellness" and blow past the
     // ~60-character display limit. Brand context still lives in the OG title.
     title: { absolute: article.title },
     description: article.excerpt,
@@ -133,7 +133,7 @@ function LegacyAliasPage({ alias }: { alias: LegacyPageAlias }) {
       eyebrow={
         alias.type === "media"
           ? "Media"
-          : "JRB Medical Wellness"
+          : "Berman Women's Wellness"
       }
       ctaHref={alias.type === "thank-you" ? "/" : "/contact/"}
       ctaLabel={alias.type === "thank-you" ? "Return home" : "Request a consult"}
@@ -206,7 +206,7 @@ export default function MigratedArticlePage({
     },
     publisher: {
       "@type": "Organization",
-      name: "JRB Medical Wellness",
+      name: "Berman Women's Wellness",
       url: SITE,
     },
     image: heroImage,

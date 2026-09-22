@@ -152,7 +152,7 @@ export default function SiteNav({
           </button>
         </div>
         <div className="center">
-          <a href="/" aria-label="Berman Sexual Health — go to homepage">
+          <a href="/" aria-label="Berman Women's Wellness — go to homepage">
             <img
               src="/images/jb-logo.webp"
               alt="Jennifer Berman MD"

@@ -13,7 +13,7 @@ const DISPLAY_PHONE = "(310) 772-0072";
 export default function AppointmentRequestForm() {
   return (
     <main className="booking-page">
-      <a href="/" aria-label="JRB Medical Wellness — home">
+      <a href="/" aria-label="Berman Women's Wellness — home">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src="/images/jb-logo.webp"

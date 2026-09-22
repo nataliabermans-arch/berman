@@ -75,7 +75,7 @@ const jsonLd = {
       "@type": "WebSite",
       "@id": `${siteUrl}/#website`,
       url: siteUrl,
-      name: "JRB Medical Wellness",
+      name: "Berman Women's Wellness",
       description: defaultDescription,
       publisher: {
         "@id": `${siteUrl}/#organization`,
@@ -89,7 +89,7 @@ const jsonLd = {
     {
       "@type": "Organization",
       "@id": `${siteUrl}/#organization`,
-      name: "JRB Medical Wellness",
+      name: "Berman Women's Wellness",
       alternateName: "Berman Sexual Health",
       url: siteUrl,
       logo: `${siteUrl}/images/jb-logo.png`,
@@ -115,7 +115,7 @@ const jsonLd = {
       honorificSuffix: "MD",
       jobTitle: "Urologist",
       description:
-        "Urologist whose practice focuses on menopause and hormone therapy, female sexual medicine, and pelvic and urinary health. Co-founded UCLA's Female Sexual Medicine Center in 2001; founder and director of JRB Medical Wellness in Beverly Hills.",
+        "Urologist whose practice focuses on menopause and hormone therapy, female sexual medicine, and pelvic and urinary health. Co-founded UCLA's Female Sexual Medicine Center in 2001; founder and director of Berman Women's Wellness in Beverly Hills.",
       disambiguatingDescription:
         "Dr. Jennifer Berman is a urologist and co-founder of UCLA's Female Sexual Medicine Center, and co-author of the books For Women Only and Secrets of the Sexually Satisfied Woman. She is a distinct individual from Dr. Laura Berman, a relationship therapist and television personality.",
       knowsAbout: [
@@ -162,7 +162,7 @@ const jsonLd = {
     {
       "@type": ["MedicalBusiness", "MedicalClinic"],
       "@id": `${siteUrl}/#medical-business`,
-      name: "JRB Medical Wellness",
+      name: "Berman Women's Wellness",
       url: siteUrl,
       image: `${siteUrl}/images/dr-berman/headshot-portrait.jpg`,
       telephone: "+1-310-772-0072",
