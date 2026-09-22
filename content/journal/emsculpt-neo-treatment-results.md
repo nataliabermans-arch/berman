@@ -18,7 +18,7 @@ author: "Dr. Jennifer Berman, MD"
 
 What if you could get the results of 20,000 squats or crunches in a single 30-minute session, all while relaxing? It’s not science fiction; it’s the proven technology behind Emsculpt Neo. This treatment uses a unique combination of two powerful energies to remodel your body from the inside out. Radiofrequency gently heats and eliminates fat cells, while high-intensity focused electromagnetic energy (HIFEM+) creates deep, powerful muscle contractions you could never achieve on your own. This efficient, dual-action approach doesn’t just reshape your body; it’s designed to enhance health with Emsculpt by improving muscle density and function in a way that was never before possible.
 
-Achieve a 25% increase in muscle and a 30% reduction in fat with **Emsculpt Neo** in Beverly Hills. Dr. Jennifer Berman offers this “Hollywood secret” to help women sculpt a toned physique without the downtime of surgery. Each 30-minute session delivers the equivalent of 20,000 crunches or squats, making it the most efficient [body contouring](/services/body-contouring/) treatment available today.
+Achieve a 25% increase in muscle and a 30% reduction in fat with **Emsculpt Neo** in Beverly Hills. Dr. Jennifer Berman offers this “Hollywood secret” to help women sculpt a toned physique without the downtime of surgery. Each 30-minute session delivers the equivalent of 20,000 crunches or squats, making it the most efficient body contouring treatment available today.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

@@ -28,7 +28,7 @@ You’ve seen the incredible _body sculpting before and after_ photos. But what 
 
 ## What Are My Body Sculpting Options?
 
-Body sculpting, also known as [body contouring](/services/body-contouring/), is a way to reshape and refine specific areas of your body. Think of it as the finishing touch that diet and exercise can’t always provide. These treatments target and reduce stubborn pockets of fat to create a more defined silhouette. The term “body sculpting” covers a wide range of procedures, each with a different approach, level of intensity, and recovery time.
+Body sculpting, also known as body contouring, is a way to reshape and refine specific areas of your body. Think of it as the finishing touch that diet and exercise can’t always provide. These treatments target and reduce stubborn pockets of fat to create a more defined silhouette. The term “body sculpting” covers a wide range of procedures, each with a different approach, level of intensity, and recovery time.
 
 Understanding your options is the first step in figuring out what’s right for you. Generally, these treatments fall into three main categories: non-invasive, minimally invasive, and surgical. Each path offers a different experience, especially when it comes to comfort and downtime. Exploring these categories will help you align your personal goals and pain tolerance with the most suitable procedure.
 

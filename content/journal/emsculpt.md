@@ -12,7 +12,7 @@ originalUrl: "https://bermansexualhealth.com/emsculpt/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Jennifer Berman MD is proud to offer the revolutionary [body contouring](/services/body-contouring/) technology EMSculpt. Dr. Berman is the best EmSculpt doctor and expert in Los Angeles. This non-invasive procedure simultaneously breaks down fat cells and strengthens muscles in the abdomen and buttocks.
+Jennifer Berman MD is proud to offer the revolutionary body contouring technology EMSculpt. Dr. Berman is the best EmSculpt doctor and expert in Los Angeles. This non-invasive procedure simultaneously breaks down fat cells and strengthens muscles in the abdomen and buttocks.
 
 ## Non-Invasive Body Sculpting
 

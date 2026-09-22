@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/body-sculpting-non-invasive/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-Treatments that promise to reduce fat without surgery can sound a bit like science fiction. But the reality is grounded in biology. So, **how does [body contouring](/services/body-contouring/) work?** It’s not magic. These procedures simply work with your body’s own natural processes to achieve a slimmer, more sculpted look. Using controlled energy like cold or heat, _noninvasive body sculpting_ methods signal specific fat cells to break down. Your body’s lymphatic system then takes over, gradually clearing away these cells over time. This guide will demystify the science and show you how this approach delivers subtle, natural-looking results.
+Treatments that promise to reduce fat without surgery can sound a bit like science fiction. But the reality is grounded in biology. So, **how does body contouring work?** It’s not magic. These procedures simply work with your body’s own natural processes to achieve a slimmer, more sculpted look. Using controlled energy like cold or heat, _noninvasive body sculpting_ methods signal specific fat cells to break down. Your body’s lymphatic system then takes over, gradually clearing away these cells over time. This guide will demystify the science and show you how this approach delivers subtle, natural-looking results.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

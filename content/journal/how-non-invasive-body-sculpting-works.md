@@ -38,7 +38,7 @@ Non-invasive body sculpting technologies primarily work in two clever ways: by u
 
 ### How It Differs From Surgical Options
 
-While both non-invasive and surgical procedures fall under the umbrella of [body contouring](/services/body-contouring/), they are fundamentally different in their approach, results, and recovery. Surgical options like liposuction provide more immediate and dramatic results because the fat is physically removed from the body. However, this comes with the realities of surgery: anesthesia, incisions, and a significant recovery period. Non-invasive treatments, on the other hand, offer a gradual, more subtle result as your body naturally clears the treated fat cells. The biggest advantage is the convenience. Most sessions are quick, and you can typically return to your daily activities right away, with minimal side effects like temporary redness or swelling.
+While both non-invasive and surgical procedures fall under the umbrella of body contouring, they are fundamentally different in their approach, results, and recovery. Surgical options like liposuction provide more immediate and dramatic results because the fat is physically removed from the body. However, this comes with the realities of surgery: anesthesia, incisions, and a significant recovery period. Non-invasive treatments, on the other hand, offer a gradual, more subtle result as your body naturally clears the treated fat cells. The biggest advantage is the convenience. Most sessions are quick, and you can typically return to your daily activities right away, with minimal side effects like temporary redness or swelling.
 
 ## How Do Body Sculpting Technologies Work?
 

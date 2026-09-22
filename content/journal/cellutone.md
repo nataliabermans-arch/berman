@@ -50,7 +50,7 @@ One of the best things about Cellutone is its versatility. The treatment can be 
 
 ## What Happens During a Cellutone Treatment?
 
-When used as a standalone procedure for cellulite or to complement a [body contouring](/services/body-contouring/) procedure, all Cellutone patients noticed enhanced results. Most patients begin to see visible improvements after the first treatment. Factors that will influence ongoing results include age, lifestyle, nutrition, genetics, etc.
+When used as a standalone procedure for cellulite or to complement a body contouring procedure, all Cellutone patients noticed enhanced results. Most patients begin to see visible improvements after the first treatment. Factors that will influence ongoing results include age, lifestyle, nutrition, genetics, etc.
 
 > ## Common Cellulite Myths
 

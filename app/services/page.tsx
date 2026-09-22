@@ -1,13 +1,13 @@
 import type { Metadata } from "next";
 
 import ServicesOverviewClient from "./_services-client";
-import { SERVICES } from "@/lib/services/content";
+import { SERVICES, VISIBLE_SERVICES } from "@/lib/services/content";
 import { siteUrl } from "@/lib/site";
 
 const seo = {
   title: "Women's Wellness Treatments Beverly Hills | Dr. Jennifer Berman",
   description:
-    "Explore menopause and hormone therapy, sexual health, pelvic and urinary care, vaginal rejuvenation, aesthetic regenerative medicine, and body contouring in Beverly Hills.",
+    "Explore menopause and hormone therapy, sexual health, pelvic and urinary care, vaginal rejuvenation, aesthetic regenerative medicine in Beverly Hills.",
   url: "/services",
 };
 
@@ -63,7 +63,7 @@ export default function ServicesPage() {
       "Urologic",
       "PlasticSurgery",
     ],
-    availableService: SERVICES.map((s) => ({
+    availableService: VISIBLE_SERVICES.map((s) => ({
       "@type": s.procedureType,
       name: s.name,
       url: `${siteUrl}/services/${s.slug}`,

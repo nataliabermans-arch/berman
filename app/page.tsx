@@ -6,7 +6,7 @@ import styles from "./page.module.css";
 const seo = {
   title: "Beverly Hills Women's Wellness Clinic | Dr. Jennifer Berman, MD",
   description:
-    "Physician-led women's wellness care in Beverly Hills for menopause, hormone therapy, sexual health, pelvic and urinary concerns, vaginal rejuvenation, and body contouring.",
+    "Physician-led women's wellness care in Beverly Hills for menopause, hormone therapy, sexual health, pelvic and urinary concerns and vaginal rejuvenation.",
 };
 
 export async function generateMetadata(): Promise<Metadata> {

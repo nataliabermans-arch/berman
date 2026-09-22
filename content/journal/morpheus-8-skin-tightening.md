@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/morpheus-8-skin-tightening/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-We put so much focus on our faces, but what about the skin on our bodies? That loose skin on your abdomen, arms, or above the knees deserves the same love. So, **what is Morpheus 8**? It’s a powerful, versatile treatment for skin laxity almost anywhere. Here in _Santa Monica_, it’s one of the most effective non-surgical options for comprehensive rejuvenation. The treatment uses RF microneedling to remodel tissue and stimulate collagen, restoring a smoother, firmer texture. This guide covers how it works for facial renewal, [body contouring](/services/body-contouring/), and intimate wellness, helping you feel confident from head to toe.
+We put so much focus on our faces, but what about the skin on our bodies? That loose skin on your abdomen, arms, or above the knees deserves the same love. So, **what is Morpheus 8**? It’s a powerful, versatile treatment for skin laxity almost anywhere. Here in _Santa Monica_, it’s one of the most effective non-surgical options for comprehensive rejuvenation. The treatment uses RF microneedling to remodel tissue and stimulate collagen, restoring a smoother, firmer texture. This guide covers how it works for facial renewal, body contouring, and intimate wellness, helping you feel confident from head to toe.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

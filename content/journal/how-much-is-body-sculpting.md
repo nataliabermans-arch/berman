@@ -16,7 +16,7 @@ originalUrl: "https://bermansexualhealth.com/how-much-is-body-sculpting/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-You’ve been consistent with your workouts and eating well, but some stubborn spots just won’t budge. _[Body contouring](/services/body-contouring/)_ can feel like the perfect final step. As you get serious about it, one big question comes up: what’s the real **body contouring cost**? The price is as personalized as your goals, shaped by the specific approach you need. To help you plan your investment, we’re breaking down all the elements that contribute to the final number. This guide includes a comprehensive **body contouring price list** to give you a clear financial picture before you commit.
+You’ve been consistent with your workouts and eating well, but some stubborn spots just won’t budge. _Body contouring_ can feel like the perfect final step. As you get serious about it, one big question comes up: what’s the real **body contouring cost**? The price is as personalized as your goals, shaped by the specific approach you need. To help you plan your investment, we’re breaking down all the elements that contribute to the final number. This guide includes a comprehensive **body contouring price list** to give you a clear financial picture before you commit.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

@@ -61,7 +61,7 @@ A truly effective weight loss plan includes guidance on what you eat, but it sho
 
 ### Non-Invasive Body Contouring Treatments
 
-Sometimes, even with a consistent diet and exercise routine, you might have stubborn areas of fat that just won’t budge. This is where non-invasive [body contouring](/services/body-contouring/) treatments can make a difference. These procedures are designed to complement your weight loss efforts by targeting and reducing localized fat pockets to help sculpt and tone your physique. While they aren’t a substitute for a healthy lifestyle, treatments like Aviva can be a great final step to help you feel more confident and comfortable in your body after you’ve put in the hard work.
+Sometimes, even with a consistent diet and exercise routine, you might have stubborn areas of fat that just won’t budge. This is where non-invasive body contouring treatments can make a difference. These procedures are designed to complement your weight loss efforts by targeting and reducing localized fat pockets to help sculpt and tone your physique. While they aren’t a substitute for a healthy lifestyle, treatments like Aviva can be a great final step to help you feel more confident and comfortable in your body after you’ve put in the hard work.
 
 ### Comprehensive Sexual and Urinary Health Support
 

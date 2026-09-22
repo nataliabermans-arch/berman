@@ -119,7 +119,7 @@ After menopause, hormonal shifts can change our skin’s healing process. A decr
 
 ### Special Considerations for Mature Skin
 
-[Body contouring](/services/body-contouring/) for women over 50 requires a special level of expertise. Changes in skin tone, muscle mass, and fat distribution are completely normal, and the best results come from a provider who understands this. An expert approach involves carefully assessing your skin’s elasticity and creating a treatment plan that won’t leave you with loose skin. It’s about artistry as much as science. A provider with deep experience in women’s health will know how to tailor the intensity and application of the technology to fit your body, ensuring the outcome looks natural and feels great. This personalized touch makes all the difference in achieving beautiful, refined contours.
+Body contouring for women over 50 requires a special level of expertise. Changes in skin tone, muscle mass, and fat distribution are completely normal, and the best results come from a provider who understands this. An expert approach involves carefully assessing your skin’s elasticity and creating a treatment plan that won’t leave you with loose skin. It’s about artistry as much as science. A provider with deep experience in women’s health will know how to tailor the intensity and application of the technology to fit your body, ensuring the outcome looks natural and feels great. This personalized touch makes all the difference in achieving beautiful, refined contours.
 
 ### How to Ensure Smooth, Natural-Looking Results
 

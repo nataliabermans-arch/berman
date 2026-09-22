@@ -10,6 +10,7 @@ import {
 import { BorderBeam } from "@/components/ui/border-beam";
 import {
   SERVICES,
+  VISIBLE_SERVICES,
   OVERVIEW_HERO,
   OVERVIEW_INTRO,
   OVERVIEW_APPROACH,
@@ -350,7 +351,7 @@ function ServicesOverviewClient() {
               borderTop: "1px solid rgba(74,28,38,0.18)",
             }}
           >
-            {SERVICES.map((s, i) => (
+            {VISIBLE_SERVICES.map((s, i) => (
               <motion.li
                 className="services-index-row"
                 key={s.slug}
@@ -570,7 +571,7 @@ function ServicesOverviewClient() {
       </div>
 
       {/* 4. SPREADS — alternating editorial bands, one per specialty */}
-      {SERVICES.map((s, i) => {
+      {VISIBLE_SERVICES.map((s, i) => {
         const isOdd = i % 2 === 1;
         return (
           <div

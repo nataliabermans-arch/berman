@@ -17,7 +17,7 @@ originalUrl: "https://bermansexualhealth.com/how-long-body-contouring/"
 author: "Dr. Jennifer Berman, MD"
 ---
 
-You eat well and stay active, but certain areas just won’t budge. It’s a common frustration, especially as our bodies change with age and hormones. **[Body contouring](/services/body-contouring/)** offers a powerful solution, but you’re right to wonder about the results. So, **how long does body contouring last?** And _how long does body sculpting last_ when you factor in real life? While many treatments permanently remove fat cells, the longevity of your new shape isn’t just about the procedure. Your daily habits and your body’s natural aging process are key. Here, we’ll break down what you can realistically expect and how to protect your results.
+You eat well and stay active, but certain areas just won’t budge. It’s a common frustration, especially as our bodies change with age and hormones. **Body contouring** offers a powerful solution, but you’re right to wonder about the results. So, **how long does body contouring last?** And _how long does body sculpting last_ when you factor in real life? While many treatments permanently remove fat cells, the longevity of your new shape isn’t just about the procedure. Your daily habits and your body’s natural aging process are key. Here, we’ll break down what you can realistically expect and how to protect your results.
 
 [SCHEDULE A CONSULTATION](/contact/)
 

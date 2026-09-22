@@ -49,6 +49,9 @@ export interface FaqItem {
 
 export interface SpecialtyContent {
   slug: ServiceSlug;
+  /** When true, the service is retired: hidden from nav, carousel, hub, and
+   *  sitemap, and its /services/<slug>/ route is not generated (redirected). */
+  hidden?: boolean;
   /** Display name used in nav, footer, breadcrumbs, and the overview index. */
   name: string;
   /** Order number (01–06) for index + breadcrumb. */
@@ -972,6 +975,7 @@ export const SERVICES: SpecialtyContent[] = [
   },
   {
     slug: "body-contouring",
+    hidden: true, // retired — Dr. Berman no longer offers body contouring
     name: "Body Contouring & Weight Loss",
     num: "06",
     eyebrowTag: "Body Contouring · 06 of 07",
@@ -1322,7 +1326,11 @@ export const SERVICE_BY_SLUG: Record<ServiceSlug, SpecialtyContent> =
     {} as Record<ServiceSlug, SpecialtyContent>,
   );
 
-export const SERVICE_SLUGS: ServiceSlug[] = SERVICES.map((s) => s.slug);
+export const VISIBLE_SERVICES: SpecialtyContent[] = SERVICES.filter(
+  (s) => !s.hidden,
+);
+
+export const SERVICE_SLUGS: ServiceSlug[] = VISIBLE_SERVICES.map((s) => s.slug);
 
 /** Overview-page intro/lede content. */
 export const OVERVIEW_HERO = {

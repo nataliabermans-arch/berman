@@ -31,7 +31,7 @@ What if you could address two aesthetic goals in a single procedure? Many of us 
 
 _Dr. Jennifer Berman_
 
-BeautiFill laser-assisted liposuction is a revolutionary procedure that combines the benefits of traditional liposuction with the added advantage of laser technology. This innovative technique offers several benefits to patients seeking [body contouring](/services/body-contouring/) and fat reduction. One of the key advantages of BeautiFill is its ability to effectively target specific areas of the body with precision, allowing for enhanced sculpting and improved overall body shape.
+BeautiFill laser-assisted liposuction is a revolutionary procedure that combines the benefits of traditional liposuction with the added advantage of laser technology. This innovative technique offers several benefits to patients seeking body contouring and fat reduction. One of the key advantages of BeautiFill is its ability to effectively target specific areas of the body with precision, allowing for enhanced sculpting and improved overall body shape.
 
 The laser energy used in BeautiFill not only helps to liquefy the fat cells, making them easier to remove, but it also stimulates collagen production, leading to skin tightening and improved skin texture. This makes BeautiFill particularly advantageous for individuals who may have concerns about loose or sagging skin after traditional liposuction procedures. The result is a smoother, more contoured appearance with minimal scarring.
 

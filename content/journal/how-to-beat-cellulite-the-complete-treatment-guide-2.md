@@ -38,7 +38,7 @@ When you want to take cellulite head-on, Emtone is the way to go. This treatment
 
 #### 3\. Beautifill
 
-Want to say goodbye to unwanted fat and cellulite in one go? Beautifill could be your answer. This fat-transfer technology removes fat from areas like the abdomen or thighs and repurposes it to add volume where needed. The result? Smoother, firmer skin with the added bonus of [body contouring](/services/body-contouring/). It’s a win-win for those looking to slim down and beat cellulite in one shot.
+Want to say goodbye to unwanted fat and cellulite in one go? Beautifill could be your answer. This fat-transfer technology removes fat from areas like the abdomen or thighs and repurposes it to add volume where needed. The result? Smoother, firmer skin with the added bonus of body contouring. It’s a win-win for those looking to slim down and beat cellulite in one shot.
 
 #### 4\. Evolve
 

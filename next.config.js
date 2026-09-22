@@ -2711,7 +2711,21 @@ const nextConfig = {
     domains: [],
   },
   async redirects() {
-    return getLaunchRedirects();
+    return [
+      // Body contouring is retired (no longer offered). Its /services/ route is
+      // no longer generated, so send the old URL to the services overview.
+      {
+        source: "/services/body-contouring/",
+        destination: "/services/",
+        permanent: true,
+      },
+      {
+        source: "/body-contouring/",
+        destination: "/services/",
+        permanent: true,
+      },
+      ...getLaunchRedirects(),
+    ];
   },
   async headers() {
     return [

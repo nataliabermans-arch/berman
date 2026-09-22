@@ -28,7 +28,7 @@ Feeling truly comfortable and confident in your own skin is a powerful thing. Fo
 
 ## What Is Full Body Sculpting?
 
-You’ve probably heard the term “body sculpting,” but what does it actually mean? Think of it as a way to refine and shape your body, targeting those stubborn pockets of fat that don’t seem to budge, no matter how consistent you are with diet and exercise. Also called [body contouring](/services/body-contouring/), these treatments help create a leaner, more toned appearance in specific areas. Common spots people choose to treat include the abdomen, thighs, upper arms, back, and the area under the chin.
+You’ve probably heard the term “body sculpting,” but what does it actually mean? Think of it as a way to refine and shape your body, targeting those stubborn pockets of fat that don’t seem to budge, no matter how consistent you are with diet and exercise. Also called body contouring, these treatments help create a leaner, more toned appearance in specific areas. Common spots people choose to treat include the abdomen, thighs, upper arms, back, and the area under the chin.
 
 It’s important to know that body sculpting is not a weight loss solution. Instead, it’s designed for people who are already close to their ideal weight but want to address specific areas for a more contoured silhouette. The goal is to fine-tune your shape, helping you feel more confident and comfortable in your own skin. Whether you’re looking to smooth out your stomach or define your jawline, there’s likely a body sculpting treatment that can help you achieve your aesthetic goals.
 

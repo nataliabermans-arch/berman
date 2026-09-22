@@ -48,7 +48,6 @@ const HOME_SERVICE_LINK_ORDER = [
   "/services/pelvic-urinary/",
   "/services/menopause-hormones/",
   "/services/vaginal-rejuvenation/",
-  "/services/body-contouring/",
   "/services/supplements/",
 ] as const;
 const HOME_SERVICE_LINK_HREFS = new Set<string>(HOME_SERVICE_LINK_ORDER);
@@ -967,8 +966,8 @@ function HomeClient() {
             style={{ animationDelay: "0.26s" }}
           >
             Beverly Hills women&apos;s wellness care for menopause, hormone
-            therapy, sexual health, pelvic health, vaginal rejuvenation, and
-            body contouring across greater Los Angeles.
+            therapy, sexual health, pelvic health, and vaginal rejuvenation
+            across greater Los Angeles.
           </p>
           <div className="e-hero-foot">
             <span className="left">clinic since 2007 · 1M+ women cared for</span>
@@ -1085,7 +1084,7 @@ function HomeClient() {
                 Care that <em>connects</em>, not silos.
               </div>
               <div className="indicator-tag">
-                7 specialties · one Dr. Berman · one plan
+                6 specialties · one Dr. Berman · one plan
               </div>
             </div>
           </div>
@@ -1160,19 +1159,6 @@ function HomeClient() {
                 {
                   className: "c6",
                   num: "N° 06",
-                  title: (
-                    <>
-                      Body <em>Contouring</em> &amp; Weight Loss
-                    </>
-                  ),
-                  photoSrc: "/images/practice/blonde-laughing.webp",
-                  desc: "Emsculpt NEO · Forma · Cellutone · weight loss",
-                  arrow: "Open →",
-                  href: "/services/body-contouring/",
-                },
-                {
-                  className: "c7",
-                  num: "N° 07",
                   title: (
                     <>
                       Peptide <em>Therapy</em>

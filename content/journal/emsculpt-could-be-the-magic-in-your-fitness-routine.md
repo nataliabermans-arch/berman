@@ -16,7 +16,7 @@ tags:
 author: "Dr. Jennifer Berman, MD"
 ---
 
-We’re all about keeping it real with our patients. That ideal body that so many people want? It’s nearly impossible to achieve while still living a normal life. If you’ve got a job and a family and a social life and still want time for rest, getting that flat, firm stomach or curvy backside you’ve envisioned can become a frustrating endeavor. It doesn’t have to. Dr. Berman has evaluated all of the [body contouring](/services/body-contouring/) modalities currently available and has selected particular devices to include in our menu of services. Until **EMSCULPT**, no device had been able to achieve such dramatic results.
+We’re all about keeping it real with our patients. That ideal body that so many people want? It’s nearly impossible to achieve while still living a normal life. If you’ve got a job and a family and a social life and still want time for rest, getting that flat, firm stomach or curvy backside you’ve envisioned can become a frustrating endeavor. It doesn’t have to. Dr. Berman has evaluated all of the body contouring modalities currently available and has selected particular devices to include in our menu of services. Until **EMSCULPT**, no device had been able to achieve such dramatic results.
 
 ## Why EMSCULPT is Not Your Average Body Contouring Treatment
 

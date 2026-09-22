@@ -31,10 +31,6 @@ const SERVICE_CHILDREN: NavChild[] = [
     href: "/services/vaginal-rejuvenation/",
   },
   {
-    label: "Body Contouring & Weight Loss",
-    href: "/services/body-contouring/",
-  },
-  {
     label: "Peptide Therapy",
     href: "/services/peptide-therapy/",
   },
