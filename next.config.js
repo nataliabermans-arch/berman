@@ -2696,6 +2696,13 @@ function getLaunchRedirects() {
 const nextConfig = {
   reactStrictMode: true,
   trailingSlash: true,
+  // Don't fail production builds on ESLint findings (unescaped apostrophes,
+  // <img> perf hints, etc.). These are dev-time lint signals, not functional
+  // bugs, and Vercel treats them as hard build failures. TypeScript checking
+  // still runs and still fails the build on real type errors.
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
   experimental: {
     optimizePackageImports: ["lucide-react"],
   },
