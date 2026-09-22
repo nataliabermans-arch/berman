@@ -945,6 +945,22 @@ function HomeClient() {
                 better.
               </span>
             </em>
+            <span
+              className="e-hero-rise"
+              style={{
+                display: "block",
+                marginTop: "0.3em",
+                fontFamily: "var(--font-cormorant), 'Cormorant Garamond', serif",
+                fontStyle: "italic",
+                fontWeight: 400,
+                fontSize: "clamp(17px, 2.3vw, 30px)",
+                lineHeight: 1.2,
+                opacity: 0.9,
+                animationDelay: "0.24s",
+              }}
+            >
+              Menopause, Hormone &amp; Sexual Health Care in Beverly Hills
+            </span>
           </h1>
           <p
             className="e-hero-seo e-hero-rise"
