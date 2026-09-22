@@ -1,6 +1,7 @@
-import { notFound } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
 import type { Metadata } from "next";
 import { siteUrl } from "@/lib/site";
+import { SERVICE_BY_SLUG } from "@/lib/services/content";
 
 import { getAllSlugs, getArticleBySlug } from "@/lib/journal/articles";
 import { getRelatedArticles } from "@/lib/journal/related";
@@ -102,11 +103,14 @@ export async function generateMetadata({
 
 function LegacyAliasPage({ alias }: { alias: LegacyPageAlias }) {
   if (alias.type === "service" && alias.serviceSlug) {
-    return (
-      <ServiceDetailPage
-        slug={alias.serviceSlug}
-        canonicalPath={`/services/${alias.serviceSlug}/`}
-      />
+    // Legacy service URLs are duplicates of the canonical /services/<slug>/
+    // page. Permanently redirect them there (308) so search engines consolidate
+    // onto one URL per service. Retired services go to the services overview.
+    const service = SERVICE_BY_SLUG[alias.serviceSlug];
+    permanentRedirect(
+      service && !service.hidden
+        ? `/services/${alias.serviceSlug}/`
+        : "/services/",
     );
   }
 
