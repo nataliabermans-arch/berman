@@ -17,7 +17,9 @@ export function generateServiceDetailMetadata(
   const s = SERVICE_BY_SLUG[slug];
   const url = canonicalPath;
   return {
-    title: s.seo.title,
+    // Absolute so the site-name suffix isn't appended — the service SEO titles
+    // are already ~55-65 chars and were being pushed past the display limit.
+    title: { absolute: s.seo.title },
     description: s.seo.description,
     openGraph: {
       title: s.seo.title,

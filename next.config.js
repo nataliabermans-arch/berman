@@ -2724,6 +2724,19 @@ const nextConfig = {
         destination: "/services/",
         permanent: true,
       },
+      // Thin legacy WordPress page → send to the blog.
+      {
+        source: "/media-tip-of-the-day/",
+        destination: "/womens-health-blog/",
+        permanent: true,
+      },
+      // Old WordPress post-ID URLs (/?p=123) → homepage.
+      {
+        source: "/",
+        has: [{ type: "query", key: "p" }],
+        destination: "/",
+        permanent: true,
+      },
       ...getLaunchRedirects(),
     ];
   },

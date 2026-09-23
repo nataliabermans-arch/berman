@@ -21,7 +21,11 @@ const CONTENT_DIR = path.join(process.cwd(), "content", "journal");
 
 let _cache: JournalArticle[] | null = null;
 
-const REDIRECT_ONLY_MIGRATED_SLUGS = new Set<string>();
+const REDIRECT_ONLY_MIGRATED_SLUGS = new Set<string>([
+  // Thin legacy WordPress page — excluded from the journal so its URL can be
+  // redirected (see next.config.js).
+  "media-tip-of-the-day",
+]);
 
 export function isRedirectOnlyMigratedSlug(slug: string) {
   return REDIRECT_ONLY_MIGRATED_SLUGS.has(slug);

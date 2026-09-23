@@ -37,7 +37,7 @@ BPC-157 sits on the FDA's list of substances with safety concerns for compoundin
 
 First, the blood panel. Before any peptide conversation, I run a full hormone panel alongside thyroid, metabolic markers, inflammatory markers, ferritin, and vitamin D. Most of what women bring me as a skin complaint turns out to be a hormone finding, a thyroid finding, or an iron finding.
 
-Second, hormones. Estrogen drives collagen synthesis. Women lose 30 percent of skin collagen in the first five years after menopause. If estrogen is low and unaddressed, a peptide is working against a headwind. [Hormone therapy](/services/menopause-hormones/) comes first where it is appropriate. For many women it is the only intervention needed.
+Second, hormones. Estrogen drives collagen synthesis. Women lose 30 percent of skin collagen in the first five years after menopause. If estrogen is low and unaddressed, a peptide is working against a headwind. Hormone therapy comes first where it is appropriate. For many women it is the only intervention needed.
 
 Third, the genomic layer where it helps. DNA-based testing can tell us how a given woman metabolizes hormones and which pathways are worth attention. It narrows the guesswork before anything gets prescribed.
 

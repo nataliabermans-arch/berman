@@ -541,7 +541,7 @@ function DrawerFooter({
         Tax + shipping calculated at checkout
       </p>
       <a
-        href="/checkout"
+        href="/checkout/"
         onClick={onClose}
         style={{
           position: "relative",
