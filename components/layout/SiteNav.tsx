@@ -9,9 +9,7 @@ import { NAV_ITEMS } from "@/lib/nav";
 const CartIcon = dynamic(() => import("@/components/commerce/CartIcon"), {
   ssr: false,
 });
-const CartDrawer = dynamic(() => import("@/components/commerce/CartDrawer"), {
-  ssr: false,
-});
+// The cart drawer is Snipcart's overlay now; no drawer of our own.
 
 type SiteNavProps = {
   showCart?: boolean;
@@ -233,7 +231,6 @@ export default function SiteNav({
           </button>
         </div>
       </div>
-      {showCart ? <CartDrawer /> : null}
     </>
   );
 }

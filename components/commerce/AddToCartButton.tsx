@@ -1,49 +1,56 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
 import { BorderBeam } from "@/components/ui/border-beam";
-import { useCartStore } from "@/lib/commerce/cart-store";
+import { siteUrl } from "@/lib/site";
 
 interface AddToCartButtonProps {
   productSlug: string;
   name: string;
   price: number;
   image: string;
+  /**
+   * The page Snipcart crawls to validate this product's price and definition.
+   * Defaults to the supplement's detail page, which renders this same button —
+   * so the definition Snipcart validates against always exists. Override only
+   * for a product whose canonical page lives elsewhere.
+   */
+  url?: string;
+  description?: string;
   className?: string;
 }
 
+/**
+ * Add-to-cart button, powered by Snipcart.
+ *
+ * Snipcart binds to the `snipcart-add-item` class and reads the `data-item-*`
+ * attributes — no cart state of our own. On click it validates the product by
+ * fetching `data-item-url` server-side and matching the id + price, then opens
+ * the cart. That anti-tampering crawl is why the detail page must carry this
+ * button; every call site therefore points `data-item-url` at the detail page.
+ */
 export default function AddToCartButton({
   productSlug,
   name,
   price,
   image,
+  url,
+  description,
   className,
 }: AddToCartButtonProps) {
-  const addLine = useCartStore((s) => s.addLine);
-  const open = useCartStore((s) => s.open);
-  const [added, setAdded] = useState(false);
-  const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
-
-  useEffect(() => {
-    return () => {
-      if (timeoutRef.current) clearTimeout(timeoutRef.current);
-    };
-  }, []);
-
-  const handleClick = () => {
-    addLine({ productSlug, name, price, image, quantity: 1 });
-    open();
-    setAdded(true);
-    if (timeoutRef.current) clearTimeout(timeoutRef.current);
-    timeoutRef.current = setTimeout(() => setAdded(false), 1500);
-  };
+  const itemUrl = url ?? `/services/supplements/${productSlug}`;
+  const itemImage = image.startsWith("http") ? image : `${siteUrl}${image}`;
 
   return (
     <button
       type="button"
-      onClick={handleClick}
-      className={className}
+      className={`snipcart-add-item${className ? ` ${className}` : ""}`}
       aria-label={`Add ${name} to cart`}
+      data-item-id={productSlug}
+      data-item-name={name}
+      data-item-price={price}
+      data-item-url={itemUrl}
+      data-item-image={itemImage}
+      {...(description ? { "data-item-description": description } : {})}
       style={{
         position: "relative",
         display: "inline-flex",
@@ -70,9 +77,7 @@ export default function AddToCartButton({
         e.currentTarget.style.transform = "translateY(0)";
       }}
     >
-      <span style={{ position: "relative", zIndex: 2 }}>
-        {added ? "Added ✓" : "Add to cart"}
-      </span>
+      <span style={{ position: "relative", zIndex: 2 }}>Add to cart</span>
       <BorderBeam
         size={80}
         duration={8}

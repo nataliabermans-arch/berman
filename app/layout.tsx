@@ -13,6 +13,10 @@ const gaMeasurementId = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID?.trim();
 const googleSiteVerification =
   process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION?.trim();
 const gtmId = process.env.NEXT_PUBLIC_GTM_ID?.trim() || "GTM-WT38TW7";
+// Snipcart powers the on-site cart + checkout. Public key by design (it is
+// safe in the browser); the whole integration stays inert until it is set.
+const snipcartApiKey = process.env.NEXT_PUBLIC_SNIPCART_API_KEY?.trim();
+const SNIPCART_VERSION = "3.7.1";
 
 const cormorant = Cormorant_Garamond({
   subsets: ["latin"],
@@ -261,6 +265,16 @@ export default function RootLayout({
           type="font/woff2"
           crossOrigin="anonymous"
         />
+        {snipcartApiKey ? (
+          <>
+            <link rel="preconnect" href="https://app.snipcart.com" />
+            <link rel="preconnect" href="https://cdn.snipcart.com" />
+            <link
+              rel="stylesheet"
+              href={`https://cdn.snipcart.com/themes/v${SNIPCART_VERSION}/default/snipcart.css`}
+            />
+          </>
+        ) : null}
       </head>
       <body
         className="min-h-screen font-inter antialiased"
@@ -305,6 +319,20 @@ export default function RootLayout({
           </>
         ) : null}
         <LeadCaptureProvider>{children}</LeadCaptureProvider>
+        {snipcartApiKey ? (
+          <>
+            <div
+              hidden
+              id="snipcart"
+              data-api-key={snipcartApiKey}
+              data-config-modal-style="side"
+            />
+            <Script
+              src={`https://cdn.snipcart.com/themes/v${SNIPCART_VERSION}/default/snipcart.js`}
+              strategy="afterInteractive"
+            />
+          </>
+        ) : null}
       </body>
     </html>
   );

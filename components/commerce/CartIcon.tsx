@@ -1,21 +1,49 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { useCartStore, totalItems } from "@/lib/commerce/cart-store";
 
+type SnipcartStore = {
+  getState: () => { cart?: { items?: { count?: number } } };
+  subscribe: (cb: () => void) => () => void;
+};
+type SnipcartGlobal = { store?: SnipcartStore };
+
+/**
+ * Cart button in the nav. Snipcart binds the open-cart behaviour to the
+ * `snipcart-checkout` class, so there is no click handler of ours; the count
+ * is read reactively from Snipcart's own store and the badge hides at zero.
+ */
 export default function CartIcon() {
-  const [mounted, setMounted] = useState(false);
-  useEffect(() => setMounted(true), []);
+  const [count, setCount] = useState(0);
 
-  const open = useCartStore((s) => s.open);
-  const count = useCartStore(totalItems);
-  const displayCount = mounted ? count : 0;
+  useEffect(() => {
+    let unsubscribe: (() => void) | undefined;
+
+    const bind = () => {
+      const snipcart = (window as unknown as { Snipcart?: SnipcartGlobal })
+        .Snipcart;
+      const store = snipcart?.store;
+      if (!store) return;
+      const read = () =>
+        setCount(store.getState().cart?.items?.count ?? 0);
+      read();
+      unsubscribe = store.subscribe(read);
+    };
+
+    if ((window as unknown as { Snipcart?: SnipcartGlobal }).Snipcart) bind();
+    else document.addEventListener("snipcart.ready", bind, { once: true });
+
+    return () => {
+      unsubscribe?.();
+      document.removeEventListener("snipcart.ready", bind);
+    };
+  }, []);
 
   return (
     <button
       type="button"
-      onClick={open}
-      aria-label={`Open cart${displayCount > 0 ? ` (${displayCount} items)` : ""}`}
+      className="snipcart-checkout"
+      aria-label={`Open cart${count > 0 ? ` (${count} items)` : ""}`}
       style={{
         position: "relative",
         width: 44,
@@ -53,7 +81,7 @@ export default function CartIcon() {
         <path d="M2 6h14l-1.2 11.4a1.6 1.6 0 0 1-1.6 1.4H4.8a1.6 1.6 0 0 1-1.6-1.4L2 6Z" />
         <path d="M6 6V4.5a3 3 0 0 1 6 0V6" />
       </svg>
-      {displayCount > 0 && (
+      {count > 0 && (
         <span
           aria-hidden="true"
           style={{
@@ -77,7 +105,7 @@ export default function CartIcon() {
             boxShadow: "0 0 0 2px rgba(26,10,16,0.6)",
           }}
         >
-          {displayCount > 99 ? "99+" : displayCount}
+          {count > 99 ? "99+" : count}
         </span>
       )}
     </button>
