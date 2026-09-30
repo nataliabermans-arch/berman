@@ -61,6 +61,10 @@ export default function PressPage() {
         jobTitle: "Urologist",
         url: `${siteUrl}/`,
         image: `${siteUrl}/images/dr-berman/headshot-portrait.jpg`,
+        sameAs: [
+          "https://en.wikipedia.org/wiki/Jennifer_Berman",
+          "https://www.wikidata.org/wiki/Q16004031",
+        ],
       },
       ...booksLd,
     ],

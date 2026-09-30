@@ -5,6 +5,7 @@ import type { ReactNode } from "react";
 
 import LeadCaptureProvider from "@/components/lead/LeadCapture";
 import { defaultDescription, siteName, siteUrl } from "@/lib/site";
+import { VISIBLE_SERVICES } from "@/lib/services/content";
 
 import "./globals.css";
 import { cn } from "@/lib/utils";
@@ -143,10 +144,6 @@ const jsonLd = {
           "@type": "CollegeOrUniversity",
           name: "University of Maryland",
         },
-        {
-          "@type": "CollegeOrUniversity",
-          name: "UCLA",
-        },
       ],
       hasCredential: {
         "@type": "EducationalOccupationalCredential",
@@ -154,6 +151,7 @@ const jsonLd = {
       },
       sameAs: [
         "https://en.wikipedia.org/wiki/Jennifer_Berman",
+        "https://www.wikidata.org/wiki/Q16004031",
         "https://twitter.com/jenbermanmd",
         "https://www.instagram.com/jenbermanmd/",
         "https://www.facebook.com/people/Berman-Womens-Wellness-Center/61559558050724/",
@@ -180,6 +178,11 @@ const jsonLd = {
         "Pelvic and urinary health",
         "Women's wellness",
       ],
+      availableService: VISIBLE_SERVICES.map((s) => ({
+        "@type": "MedicalTherapy",
+        name: s.name,
+        url: `${siteUrl}/services/${s.slug}/`,
+      })),
       address: {
         "@type": "PostalAddress",
         streetAddress: "415 N. Crescent Drive, Suite 355",

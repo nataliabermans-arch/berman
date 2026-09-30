@@ -2527,11 +2527,6 @@ const launchRedirects = [
     permanent: true,
   },
   {
-    source: "/press/",
-    destination: "/#press",
-    permanent: true,
-  },
-  {
     source: "/conan/",
     destination: "/#press",
     permanent: true,

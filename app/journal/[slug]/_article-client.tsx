@@ -1564,6 +1564,24 @@ export default function ArticleClient({
             </motion.div>
 
             <motion.p
+              {...fadeUp(0.34, 14)}
+              className="article-reviewer-statement"
+              style={{
+                fontFamily: "var(--font-inter), system-ui, sans-serif",
+                fontSize: 13,
+                lineHeight: 1.55,
+                color: "#6b4a50",
+                maxWidth: 640,
+                margin: "14px auto 0",
+              }}
+            >
+              This article was medically reviewed for accuracy by Dr. Jennifer
+              Berman, MD, urologist, on{" "}
+              {formatDate(article.updatedAt || article.publishedAt)}. It is for
+              general education and is not a substitute for a consultation.
+            </motion.p>
+
+            <motion.p
               {...fadeUp(0.4, 18)}
               className="article-hero-excerpt"
               style={{
