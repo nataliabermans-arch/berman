@@ -176,7 +176,7 @@ function SuccessBody() {
             >
               Questions?{" "}
               <a
-                href="mailto:concierge@bermanwomenswellness.com"
+                href="mailto:office@drjennberman.com"
                 style={{
                   color: ROSE_LIGHT,
                   textDecoration: "none",
@@ -184,7 +184,7 @@ function SuccessBody() {
                   paddingBottom: 2,
                 }}
               >
-                concierge@bermanwomenswellness.com
+                office@drjennberman.com
               </a>
             </div>
           </motion.div>

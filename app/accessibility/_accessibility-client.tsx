@@ -281,10 +281,10 @@ export default function AccessibilityClient() {
               can&apos;t reach with the keyboard, contrast that fails for you,
               anything &mdash; please tell us. Email{" "}
               <a
-                href="mailto:accessibility@bermanwomenswellness.com"
+                href="mailto:office@drjennberman.com"
                 style={{ color: "#8a3a44", textDecoration: "underline" }}
               >
-                accessibility@bermanwomenswellness.com
+                office@drjennberman.com
               </a>{" "}
               with the page URL, what you were trying to do, and what happened.
               We respond to accessibility reports within five business days and

@@ -354,10 +354,10 @@ export default function TermsClient() {
               may be returned for a refund within fourteen days of delivery,
               with the buyer paying return shipping. To start a return, email{" "}
               <a
-                href="mailto:orders@bermanwomenswellness.com"
+                href="mailto:office@drjennberman.com"
                 style={{ color: "#8a3a44", textDecoration: "underline" }}
               >
-                orders@bermanwomenswellness.com
+                office@drjennberman.com
               </a>
               .
             </p>
@@ -435,10 +435,10 @@ export default function TermsClient() {
             <p style={P}>
               Questions about these terms can be sent to{" "}
               <a
-                href="mailto:terms@bermanwomenswellness.com"
+                href="mailto:office@drjennberman.com"
                 style={{ color: "#8a3a44", textDecoration: "underline" }}
               >
-                terms@bermanwomenswellness.com
+                office@drjennberman.com
               </a>
               .
             </p>

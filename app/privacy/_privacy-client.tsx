@@ -338,10 +338,10 @@ export default function PrivacyClient() {
             <p style={P}>
               To exercise any of these rights, email us at{" "}
               <a
-                href="mailto:privacy@bermanwomenswellness.com"
+                href="mailto:office@drjennberman.com"
                 style={{ color: "#8a3a44", textDecoration: "underline" }}
               >
-                privacy@bermanwomenswellness.com
+                office@drjennberman.com
               </a>
               . We respond to verified requests within thirty days.
             </p>
@@ -400,10 +400,10 @@ export default function PrivacyClient() {
               Questions about this policy or about the personal information we
               hold on you can be sent to{" "}
               <a
-                href="mailto:privacy@bermanwomenswellness.com"
+                href="mailto:office@drjennberman.com"
                 style={{ color: "#8a3a44", textDecoration: "underline" }}
               >
-                privacy@bermanwomenswellness.com
+                office@drjennberman.com
               </a>
               .
             </p>

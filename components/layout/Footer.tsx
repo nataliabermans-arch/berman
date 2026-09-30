@@ -92,7 +92,7 @@ export function Footer({ className }: FooterProps) {
                 },
                 {
                   label: "Email",
-                  href: "mailto:info@bermanwomenswellness.com",
+                  href: "mailto:office@drjennberman.com",
                   icon: Mail,
                 },
               ].map(({ label, href, icon: Icon }) => (

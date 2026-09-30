@@ -96,7 +96,7 @@ const jsonLd = {
       logo: `${siteUrl}/images/jb-logo.png`,
       image: `${siteUrl}/images/dr-berman/headshot-portrait.jpg`,
       telephone: "+1-310-772-0072",
-      email: "info@bermanwomenswellness.com",
+      email: "office@drjennberman.com",
       founder: {
         "@id": `${siteUrl}/#dr-jennifer-berman`,
       },
@@ -164,7 +164,7 @@ const jsonLd = {
       url: siteUrl,
       image: `${siteUrl}/images/dr-berman/headshot-portrait.jpg`,
       telephone: "+1-310-772-0072",
-      email: "info@bermanwomenswellness.com",
+      email: "office@drjennberman.com",
       priceRange: "$$$",
       medicalSpecialty: [
         "https://schema.org/Urologic",
