@@ -19,10 +19,9 @@ const DEFAULT_EVENT_TYPE_URI =
 // Calendly rejects an availability window wider than 31 days — verified: a
 // 32-day range returns 400 "date range can be no greater than 31 days".
 export const MAX_WINDOW_DAYS = 31;
-// How far ahead the picker offers appointments. The account currently opens
-// roughly 8 weeks out, so this covers the whole horizon with room to spare;
-// windows past the last bookable day simply come back empty.
-export const BOOKING_HORIZON_DAYS = 93;
+// How far ahead the picker offers appointments. Capped to two weeks so the
+// schedule stays manageable; a patient can book up to 14 days out, no further.
+export const BOOKING_HORIZON_DAYS = 14;
 
 // Without an explicit timeout a hung connection consumes the whole serverless
 // invocation, so the booking request dies before the timeout-recovery path it
