@@ -100,6 +100,14 @@ const jsonLd = {
       image: `${siteUrl}/images/dr-berman/headshot-portrait.jpg`,
       telephone: "+1-310-772-0072",
       email: "office@drjennberman.com",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "415 N. Crescent Drive, Suite 355",
+        addressLocality: "Beverly Hills",
+        addressRegion: "CA",
+        postalCode: "90210",
+        addressCountry: "US",
+      },
       founder: {
         "@id": `${siteUrl}/#dr-jennifer-berman`,
       },
