@@ -74,7 +74,7 @@ const WINE_GLASS_BG =
   "linear-gradient(135deg, rgba(74,28,38,0.92) 0%, rgba(58,20,29,0.92) 100%)";
 
 const floatingSupplementImage = (src: string) =>
-  src.replace("/images/supplements/", "/images/supplements/floating/");
+  src.replace("/images/supplements/", "/images/supplements/tiles/");
 
 const CATEGORY_TONES: Record<
   Supplement["category"],
