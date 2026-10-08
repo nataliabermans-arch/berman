@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { createPortal } from "react-dom";
 import { AnimatePresence, motion } from "motion/react";
 import { GrainGradient } from "@/components/ambient/shaders";
 import { BorderBeam } from "@/components/ui/border-beam";
@@ -46,7 +47,10 @@ export default function CartDrawer() {
 
   if (!mounted) return null;
 
-  return (
+  // Portal to <body>: the nav can sit inside an animated section whose
+  // will-change/transform turns position:fixed into "relative to that
+  // section", which rendered the drawer off-screen on some pages.
+  return createPortal(
     <AnimatePresence>
       {isOpen && (
         <>
@@ -131,7 +135,8 @@ export default function CartDrawer() {
           </motion.aside>
         </>
       )}
-    </AnimatePresence>
+    </AnimatePresence>,
+    document.body,
   );
 }
 

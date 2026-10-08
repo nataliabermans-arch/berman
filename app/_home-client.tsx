@@ -957,6 +957,10 @@ function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
                 fontStyle: "italic",
                 fontWeight: 400,
                 fontSize: "clamp(17px, 2.3vw, 30px)",
+                // The h1's letter-spacing (-0.045em at 260px ≈ -12px) is
+                // inherited as an absolute length — reset it for this line.
+                letterSpacing: "0.01em",
+                wordSpacing: "normal",
                 lineHeight: 1.2,
                 opacity: 0.9,
                 animationDelay: "0.24s",
