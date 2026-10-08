@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 
 import HomeClient from "./_home-client";
+import LocalTrust from "@/components/local/LocalTrust";
 import styles from "./page.module.css";
 
 const seo = {
@@ -36,7 +37,7 @@ export async function generateMetadata(): Promise<Metadata> {
 export default function Home() {
   return (
     <main className={styles.page} data-active="E">
-      <HomeClient />
+      <HomeClient bottomSlot={<LocalTrust />} />
     </main>
   );
 }

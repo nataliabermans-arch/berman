@@ -13,6 +13,7 @@ import PageTail from "../../services/_page-tail";
 import { BorderBeam } from "@/components/ui/border-beam";
 import { openLeadCapture } from "@/components/lead/LeadCapture";
 import AddToCartButton from "@/components/commerce/AddToCartButton";
+import ArticleByline from "@/components/journal/ArticleByline";
 import {
   getConversionTargetForCategory,
   type ConversionTarget,
@@ -1534,33 +1535,12 @@ export default function ArticleClient({
               />
             </motion.h1>
 
-            <motion.div
-              {...fadeUp(0.28, 16)}
-              className="article-hero-meta"
-              style={{
-                ...monoLabel,
-                fontSize: 11,
-                color: "#8a3a44",
-                marginTop: 36,
-                display: "flex",
-                gap: 18,
-                justifyContent: "center",
-                alignItems: "center",
-                flexWrap: "wrap",
-              }}
-            >
-              <span>{formatDate(article.publishedAt)}</span>
-              <span style={{ opacity: 0.5 }}>·</span>
-              <span>{article.readTime} min read</span>
-              <span style={{ opacity: 0.5 }}>·</span>
-              <span>{article.category}</span>
-              <span style={{ opacity: 0.5 }}>·</span>
-              <span>
-                Medically reviewed by{" "}
-                <strong style={{ fontWeight: 600, color: "#4a1c26" }}>
-                  Dr. Jennifer Berman, MD
-                </strong>
-              </span>
+            <motion.div {...fadeUp(0.28, 16)} className="article-hero-meta">
+              <ArticleByline
+                publishedAt={article.publishedAt}
+                dateLabel={formatDate(article.publishedAt)}
+                readTime={article.readTime}
+              />
             </motion.div>
 
             <motion.p
@@ -1775,6 +1755,10 @@ export default function ArticleClient({
                     margin-top: 22px !important;
                     font-size: 10px !important;
                     letter-spacing: 0.14em !important;
+                  }
+                  .article-byline {
+                    margin-top: 0 !important;
+                    gap: 8px !important;
                   }
                   .article-hero-excerpt {
                     font-size: 19px !important;

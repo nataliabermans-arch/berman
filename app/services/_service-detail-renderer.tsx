@@ -7,6 +7,7 @@ import {
 import { siteUrl } from "@/lib/site";
 
 import ServiceDetailClient from "./[slug]/_service-client";
+import LocalTrust from "@/components/local/LocalTrust";
 
 const SITE = siteUrl;
 
@@ -103,7 +104,7 @@ export default function ServiceDetailPage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <ServiceDetailClient slug={slug} />
+      <ServiceDetailClient slug={slug} bottomSlot={<LocalTrust />} />
     </main>
   );
 }

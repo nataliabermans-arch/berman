@@ -67,7 +67,13 @@ function HeadlineLines({
   );
 }
 
-function ServiceDetailClient({ slug }: { slug: ServiceSlug }) {
+function ServiceDetailClient({
+  slug,
+  bottomSlot,
+}: {
+  slug: ServiceSlug;
+  bottomSlot?: React.ReactNode;
+}) {
   const s = SERVICE_BY_SLUG[slug];
 
   return (
@@ -526,6 +532,9 @@ function ServiceDetailClient({ slug }: { slug: ServiceSlug }) {
 
       {/* 6 + 7. PAGE TAIL — appointment CTA, then Berman Brief email capture */}
       <PageTail />
+
+      {/* Live Google reviews + Google Map (server-rendered slot) */}
+      {bottomSlot}
 
       {/* 8. FOOTER */}
       <SiteFooter />

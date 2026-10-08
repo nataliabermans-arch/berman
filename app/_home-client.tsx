@@ -1,7 +1,11 @@
 "use client";
 
 import React from "react";
-import type { CSSProperties, PointerEvent as ReactPointerEvent } from "react";
+import type {
+  CSSProperties,
+  PointerEvent as ReactPointerEvent,
+  ReactNode,
+} from "react";
 import { useCallback, useEffect, useRef, useState } from "react";
 import {
   motion,
@@ -513,7 +517,7 @@ function ManifestoCopy() {
   );
 }
 
-function HomeClient() {
+function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
   const heroRef = useRef<HTMLDivElement | null>(null);
   const manifestoRef = useRef<HTMLDivElement | null>(null);
   const quoteDarkRef = useRef<HTMLDivElement | null>(null);
@@ -2154,6 +2158,9 @@ function HomeClient() {
           </motion.div>
         </div>
       </div>
+
+      {/* Live Google reviews + Google Map (server-rendered slot from page.tsx) */}
+      {bottomSlot}
 
       {/* FOOTER (reuse A&apos;s) */}
       <div className="a-footer">

@@ -13,6 +13,7 @@ import {
   REQUESTED_TIME_WINDOWS,
 } from "@/lib/leads/a2p";
 import PageTail from "../services/_page-tail";
+import { LocationMapEmbed } from "@/components/local/LocationMap";
 
 const EASE = [0.2, 0.7, 0.2, 1] as [number, number, number, number];
 const VIEWPORT = { once: true, margin: "-80px" } as const;
@@ -635,48 +636,15 @@ export default function ContactClient() {
               </div>
 
               <div
-                role="img"
-                aria-label="Map placeholder showing 415 N. Crescent Drive, Beverly Hills"
                 style={{
                   marginTop: 18,
                   aspectRatio: "16 / 10",
                   borderRadius: 14,
                   border: `1px solid ${ROSE}`,
-                  background:
-                    "linear-gradient(165deg, rgba(255,234,224,0.6), rgba(244,212,212,0.6))",
-                  display: "flex",
-                  alignItems: "center",
-                  justifyContent: "center",
-                  gap: 10,
-                  color: DEEP,
+                  overflow: "hidden",
                 }}
               >
-                <span
-                  aria-hidden="true"
-                  style={{
-                    width: 22,
-                    height: 22,
-                    borderRadius: 999,
-                    border: `1px solid ${DEEP}`,
-                    display: "inline-flex",
-                    alignItems: "center",
-                    justifyContent: "center",
-                    fontSize: 12,
-                    color: DEEP,
-                  }}
-                >
-                  ◉
-                </span>
-                <span
-                  style={{
-                    fontFamily: MONO,
-                    fontSize: 11,
-                    letterSpacing: "0.22em",
-                    textTransform: "uppercase",
-                  }}
-                >
-                  Map · Beverly Hills
-                </span>
+                <LocationMapEmbed style={{ borderRadius: 0, minHeight: 0 }} />
               </div>
             </InfoCard>
 
