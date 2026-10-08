@@ -1652,27 +1652,6 @@ export default function ArticleClient({
             }}
             className="article-prose"
           >
-            <div
-              style={{
-                display: "inline-flex",
-                alignItems: "center",
-                gap: 8,
-                padding: "8px 16px",
-                marginBottom: 32,
-                borderRadius: 999,
-                background: "rgba(255,245,241,0.7)",
-                backdropFilter: "blur(12px)",
-                WebkitBackdropFilter: "blur(12px)",
-                border: "1px solid rgba(217,155,161,0.5)",
-                color: "#8a3a44",
-                ...monoLabel,
-                fontSize: 11,
-              }}
-            >
-              <ClockIcon />
-              <span>{article.readTime} min read</span>
-            </div>
-
             {segments[0] !== undefined && (
               <ReactMarkdown
                 remarkPlugins={[remarkGfm]}
