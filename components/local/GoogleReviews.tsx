@@ -9,11 +9,11 @@
 // Without a key (or if Google errors) it renders a plain link to the reviews on
 // Google — never placeholder ratings.
 
+import { GBP_PLACE_ID, GBP_PROFILE_HREF } from "./LocationMap";
+
 const SEARCH_QUERY =
   "Jennifer R. Berman, MD, 415 N Crescent Dr #355, Beverly Hills, CA 90210";
-const REVIEWS_FALLBACK_HREF = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-  SEARCH_QUERY,
-)}`;
+const REVIEWS_FALLBACK_HREF = GBP_PROFILE_HREF;
 const REVALIDATE_SECONDS = 6 * 60 * 60;
 
 const SERIF = "var(--font-cormorant), 'Cormorant Garamond', Georgia, serif";
@@ -39,7 +39,7 @@ interface PlaceDetails {
 }
 
 async function resolvePlaceId(key: string): Promise<string | null> {
-  const fromEnv = process.env.GOOGLE_PLACE_ID?.trim();
+  const fromEnv = process.env.GOOGLE_PLACE_ID?.trim() || GBP_PLACE_ID;
   if (fromEnv) return fromEnv;
   const res = await fetch("https://places.googleapis.com/v1/places:searchText", {
     method: "POST",

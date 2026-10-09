@@ -1,21 +1,18 @@
 import type { CSSProperties, ReactNode } from "react";
 
-// The practice's Google Business listing, as Google knows it. Querying by the
-// listing name + address makes the embed drop the pin on her actual profile.
-const PLACE_QUERY =
-  "Jennifer R. Berman, MD, 415 N Crescent Dr #355, Beverly Hills, CA 90210";
+// Her main Google Business Profile ("Jennifer R. Berman, MD", 4.8 / 58 reviews).
+// Pinning by CID + place ID opens that exact profile instead of a bare address
+// or one of the other, smaller listings at the same building.
+export const GBP_CID = "15160392148829136646";
+export const GBP_PLACE_ID = "ChIJtQ5fueO7woARBueUDlaIZNI";
 
-// The embed centers on the street address so the pin always lands mid-map;
-// "Get directions" uses the listing name so Maps opens her business profile.
-const ADDRESS_QUERY = "415 N Crescent Dr, Beverly Hills, CA 90210";
+export const GBP_PROFILE_HREF = `https://maps.google.com/?cid=${GBP_CID}`;
 
-export const MAP_EMBED_SRC = `https://maps.google.com/maps?q=${encodeURIComponent(
-  ADDRESS_QUERY,
-)}&z=16&output=embed`;
+export const MAP_EMBED_SRC = `https://maps.google.com/maps?cid=${GBP_CID}&z=16&hl=en&output=embed`;
 
 export const MAP_DIRECTIONS_HREF = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(
-  PLACE_QUERY,
-)}`;
+  "Jennifer R. Berman, MD",
+)}&destination_place_id=${GBP_PLACE_ID}`;
 
 const SERIF = "var(--font-cormorant), 'Cormorant Garamond', Georgia, serif";
 const MONO = "var(--font-dm-mono), ui-monospace, monospace";
@@ -165,6 +162,14 @@ export default function LocationMap() {
               style={{ ...pillBase, background: CREAM, color: WINE }}
             >
               Get directions →
+            </a>
+            <a
+              href={GBP_PROFILE_HREF}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ ...pillBase, border: "1px solid rgba(255,245,241,0.45)", color: CREAM }}
+            >
+              View on Google
             </a>
             <a
               href="tel:+13107720072"
