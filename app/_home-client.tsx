@@ -917,7 +917,7 @@ function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
         <div className="e-hero-body">
           <div className="eyebrow e-hero-rise">
             <span className="dot" />
-            Beverly Hills · Women&apos;s Wellness
+            Beverly Hills · Los Angeles
           </div>
           <h1>
             {["Women", "deserve"].map((word, i) => (
@@ -966,7 +966,7 @@ function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
                 animationDelay: "0.24s",
               }}
             >
-              Menopause, Hormone &amp; Sexual Health Care in Beverly Hills
+              Menopause, Hormone &amp; Sexual Health Care in Beverly Hills &amp; Los Angeles
             </span>
           </h1>
           <p
