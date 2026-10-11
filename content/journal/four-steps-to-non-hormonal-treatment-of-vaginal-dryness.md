@@ -178,7 +178,7 @@ As you can see, the best approach to treating vaginal dryness is a holistic one,
 
 Some Helpful Websites:
 
-MayoClinic.com. (2004). Vaginal Dryness. Retrieved 03-22-05 from http://www.mayoclinic.com/invoke.cfm?id=DS00550  
+MayoClinic.com. (2004). Vaginal Dryness. https://www.mayoclinic.org/symptoms/vaginal-dryness/basics/causes/sym-20151520   
 MedicineNet.com. (2004). Vaginal Dryness. Retrieved 03-22-05 from https://www.medicinenet.com/vaginal_dryness_and_vaginal_atrophy/article.htm  
 DiscoveryHealth.com. (2004). Vaginal Dryness. Retrieved 03-22-05 from http://health.discovery.com/encyclopedias/2111.html  
 CancerConsultants.com. (2004). Managing side effects, treatment and prevention. Retrieved 03-22-05 from http://patient.cancerconsultants.com/supportive_treatment.aspx?id=23166  
