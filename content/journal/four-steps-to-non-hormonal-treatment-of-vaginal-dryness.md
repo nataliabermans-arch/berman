@@ -50,7 +50,7 @@ Without knowing the patient’s situation, stage of life, circumstantial influen
 
 The physical exam is a very important aspect of evaluation. The vulvar area may show signs of irritation or redness. Scratching and irritation may make the vulva swollen and red which is often seen with yeast infections. Women with vaginal dryness are often less sexually active and as such are more sensitive in the vaginal area. For this reason, ask your doctor to use the narrowest speculum that allows for vision. It’s important to get vaginal cultures for both sexually transmitted infections and bacterial vaginosis and to have the discharge looked at under the microscope in the doctor’s office.
 
-An odor, particularly one that is fishy, that is most typical of BV and is present in about half the cases. (Table x) The confusion occurs because the symptoms often overlap for the three most frequent diagnoses BV, yeast (candidiasis) and Trichomonas. Atrophic vaginitis caused by low estrogen levels is another common cause. The use of pH paper, a whiff of the wet prep slide and a microscope make the office diagnosis an easy one to make. Any other diagnosis will be uncovered by the culture.
+An odor, particularly one that is fishy, is most typical of BV and is present in about half of the cases. (Table x) The confusion occurs because the symptoms often overlap for the three most frequent diagnoses BV, yeast (candidiasis) and Trichomonas. Atrophic vaginitis caused by low estrogen levels is another common cause. The use of pH paper, a whiff of the wet prep slide and a microscope make the office diagnosis an easy one to make. Any other diagnosis will be uncovered by the culture.
 
 **Table x**
 
