@@ -137,7 +137,7 @@ export default function NotFoundClient() {
             margin: "0 auto",
             padding: "20px clamp(16px, 4vw, 40px) 100px",
             display: "grid",
-            gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",
+            gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 420px), 1fr))",
             gap: "clamp(20px, 3vw, 32px)",
           }}
         >
