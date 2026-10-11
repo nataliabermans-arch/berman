@@ -180,9 +180,9 @@ Some Helpful Websites:
 
 MayoClinic.com. (2004). Vaginal Dryness. https://www.mayoclinic.org/symptoms/vaginal-dryness/basics/causes/sym-20151520   
 MedicineNet.com. (2004). Vaginal Dryness. Retrieved 03-22-05 from https://www.medicinenet.com/vaginal_dryness_and_vaginal_atrophy/article.htm  
-DiscoveryHealth.com. (2004). Vaginal Dryness. Retrieved 03-22-05 from http://health.discovery.com/encyclopedias/2111.html  
+Medlineplus.gov. (2004). Vaginal Dryness. Retrieved 03-22-05 from https://medlineplus.gov/ency/article/000892.htm  
 CancerConsultants.com. (2004). Managing side effects, treatment and prevention. Retrieved 03-22-05 from http://patient.cancerconsultants.com/supportive_treatment.aspx?id=23166  
-The Department of Health and Human Services, National Women’s Health Information Center (2005). Vaginal Dryness. Retrieved 03-22-05 from http://www.4woman.gov
+The Every Stage Health, Vaginal Dryness. https://www.acog.org/womens-health/experts-and-stories/the-latest/experiencing-vaginal-dryness-heres-what-you-need-to-know
 
 APPENDIX:
 
