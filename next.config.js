@@ -738,6 +738,11 @@ const legacyRedirects = [
     permanent: true,
   },
   {
+    source: "/book-consultation/",
+    destination: "/appointment-request/",
+    permanent: true,
+  },
+  {
     source: "/book-consultation-perimenopause-treatment/",
     destination: "/#books",
     permanent: true,
