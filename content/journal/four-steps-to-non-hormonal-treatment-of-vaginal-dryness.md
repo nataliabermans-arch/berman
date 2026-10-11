@@ -116,9 +116,9 @@ WBC/Bacteria
 
 Other causes include sexual abuse (either currently or in a previous relationship), trauma or depression, high stress over a prolonged period, confusion over sexual preference or an existing romantic relationship or any number of extenuating circumstances.(12)
 
-Step 2: Look for additional risks and take aholistic approach?
+Step 2: Look for additional risks and take a holistic approach?
 
-Women suffering from cancer of the pelvic organs or breast cancer or from depression, diabetes, multiple sclerosis, uterine prolapse or even high blood pressure may be especially prone to chronic vaginal dehydration. (13 ? 15) Some women develop an allergic reaction to the latex in condoms, or they may have sustained some vaginal/cervical damage during childbirth. (16) They may complain of dryness due to a lack of foreplay, or from tampons and other feminine hygiene products, perfumes, shower gels, bubble baths or other chemicals, or even from over-douching.
+Women suffering from cancer of the pelvic organs or breast cancer or from depression, diabetes, multiple sclerosis, uterine prolapse or even high blood pressure may be especially prone to chronic vaginal dehydration. (13 - 15) Some women develop an allergic reaction to the latex in condoms, or they may have sustained some vaginal/cervical damage during childbirth. (16) They may complain of dryness due to a lack of foreplay, or from tampons and other feminine hygiene products, perfumes, shower gels, bubble baths or other chemicals, or even from over-douching.
 
 In most women who have gone through cancer treatment, hormonal change causes the vaginal dryness. (17) Chemotherapy or radiation can damage the ovaries to the point where they no longer produce estrogen and progesterone. When estrogen levels decrease, the amount of vaginal lubrication naturally produced in the body also drops. Lower estrogen levels lead to a thinner, less elastic and more fragile vaginal lining. Hormonal changes due to chemotherapy or radiation tend to be dramatic and abrupt, leading to more intense symptoms.
 
@@ -134,15 +134,15 @@ Hormone replacement therapy is often effective. However, most vaginal preparatio
 
 First and foremost, avoid routinely using chemicals or products such as douches and perfumed feminine hygiene products. Eating a healthy, low-fat, low-cholesterol diet and getting plenty of regular exercise, for example 30 minutes a day, five times a week, and maintaining a healthy body weight or body mass index (BMI) are also good ways to stay on track. (19) However, excessive weight loss or exercise can cause or exacerbate vaginal dryness.
 
-Seek professional counseling for psychological or emotional stress, past or current sexual abuse, and establish and are maintain a good emotional life with a strong level of support from friends and/or family. Stabilizing emotional or psychological suffering, stress and anxieties can go a long way toward ensuring longer-term physical health and well-being. If you are sexually active, make sure there is adequate foreplay to increase lubrication. As coital frequency increases, vaginal lubrication often increases as well.
+Seek professional counseling for psychological or emotional stress, past or current sexual abuse, and establish and maintain a good emotional life with a strong level of support from friends and/or family. Stabilizing emotional or psychological suffering, stress and anxieties can go a long way toward ensuring longer-term physical health and well-being. If you are sexually active, make sure there is adequate foreplay to increase lubrication. As coital frequency increases, vaginal lubrication often increases as well.
 
 Step 4: Treat the problem directly with a good vaginal moisturizer
 
-In addition to treating the underlying physiological, emotional and psychological causes of dryness, there are a number of safe, over-the-counter treatments specifically designed to alleviate this problem. Among them, one of the best and longest acting is Replens Vaginal Moisturizer. Studies have shown Replens to be an effective compliment to vaginal estrogen creams in treating dryness and it works well without estrogen. (20) Lubrin is another product found over the counter.
+In addition to treating the underlying physiological, emotional and psychological causes of dryness, there are a number of safe, over-the-counter treatments specifically designed to alleviate this problem. Among them, one of the best and longest acting is Replens Vaginal Moisturizer. Studies have shown Replens to be an effective complement to vaginal estrogen creams in treating dryness and it works well without estrogen. (20) Lubrin is another product found over the counter.
 
 Replens has been proven safe and effective for women suffering from cancer and taking medications including Tamoxifen. (21) It alleviates vaginal dryness safely and quickly for those with diabetes, after childbirth, during and after menstruation, and during sexual intercourse, particularly with a partner taking Viagra. A moisturizer differs significantly from lubricant, and should be used in different situations. Vaginal lubricants are short-term help used to ease discomfort with sexual intercourse and do not correct the vaginal dryness.
 
-Replens is made with the bio-adhesive ingredient, Polycarbophil, that re-moisturizes and normalizes the vagina, replenishing and maintaining natural moisture for up to three days per application. In a clinical study of 89 peri- and post-menopausal women suffering vaginal dryness, the Replens polycarbophil-based lubricant was found by over 61 percent to be the preferred option over the two other options: estrogen hormonal replacement therapy, and KY Jelly, a non-prescription water-based lubricant. (22)
+Replens is made with the bio-adhesive ingredient, Polycarbophil, that re-moisturizes and normalizes the vagina, replenishing and maintaining natural moisture for up to three days per application. In a clinical study of 89 peri- and post-menopausal women suffering vaginal dryness, the Replens polycarbophil-based moisturizer was found by over 61 percent to be the preferred option over the two other options: estrogen hormonal replacement therapy, and KY Jelly, a non-prescription water-based lubricant. (22)
 
 What else works?
 
@@ -150,7 +150,7 @@ Normally, the vagina is moist and slightly acidic (pH around 4.5). As estrogen l
 
 K-Y Jelly, an inexpensive, water-based product is easily found in local stores but it will not correct the underlying problem, as a vaginal moisturizer such as Replens will.
 
-Astroglide is another water-based lubricant found over-the-counter. (23) It comes in tubes or pre-packaged single-use amounts in an applicator that must be inserted by pushing the product up the vaginal tract like a tampon. Like K-Y jelly, it is an excellent lubricant but is short acting and does not moisturize. Silken Secrete is another short acting product.
+Astroglide is another water-based lubricant found over-the-counter. (23) It comes in tubes or pre-packaged single-use amounts in an applicator that must be inserted by pushing the product up the vaginal tract like a tampon. Like K-Y jelly, it is an excellent lubricant but is short acting and does not moisturize. Silken Secret is another short acting product.
 
 What about alternative medicine, homeopathic therapy or vitamins?
 
@@ -170,7 +170,7 @@ Sjogren’s syndrome affects an estimated 1 million to 4 million people in the U
 
 Since this syndrome is 90 percent more common in women than in men, the vaginal tissues are also affected and dehydrated, and damage can also occur to the lungs, kidneys and liver. Patients complaining of dryness of the mouth and eyes as well as the vagina may be reporting a history indicative of early stage Sjogren’s. There is no cure for Sjogren’s, but treatments can relieve many of the symptoms.
 
-{mosbanner:id=1:right:0}Vaginal dryness is often associated with vaginitis or bacterial vaginosis (BV), which is a serious and common infection that can lead to other problems, not least of which is the easier transmittal of sexual diseases including AIDS (29). BV is often mistaken for a yeast infection and mistreated by women seeking quick relief without a doctor’s visit and medical prescription.
+Vaginal dryness is often associated with vaginitis or bacterial vaginosis (BV), which is a serious and common infection that can lead to other problems, including an increased risk of contracting sexually transmitted infections (STIs), such as HIV (29). BV is often mistaken for a yeast infection and mistreated by women seeking quick relief without a doctor’s visit and medical prescription.
 
 Among the most effective over-the-counter products to normalize the pH balance in the vagina to reduce the risk of BV is RepHresh. A normalized pH reduces the risk of vaginal infections. It also relieves irritation caused by dryness and infection, including itching and off-odor discharge. A recent study showed that RepHresh was not only capable of reducing the risk of BV coming back, but may also successfully be used to treat it (30). A suggested use of medications for treatment and follow-up of BV are listed in Table Y.
 
@@ -203,7 +203,7 @@ Unrelated to Pregnancy
 - Pelvic Inflammatory Disease
 - Cervicitis
 - Urinary Tract Infection
-- Sexually Transmitted diseases including HIV
+- Sexually Transmitted Distributions / Infections (STIs) including HIV
 - Cervical dysplasia
 - Postoperative infection
 
@@ -240,7 +240,7 @@ Infectious Conditions
 
 Psychological
 
-- Hypophalamic amenorrhea, stress
+- Hypothalamic amenorrhea, stress
 - Prior miscarriage
 - Sexual assault, abuse
 - Depression
@@ -258,41 +258,17 @@ Antibiotic Treatment
 
 - Metronidazole 500 mg orally twice daily x 7 days (2 g orally in single dose works slightly less effectively) or
 - Metronidazole gel 0.75%, one full applicator (5 g) intravaginally daily x 5 days or
-- Clindamycin cream 2%, one full applicator (5 g) intravaginally at bedtime x 7 days (300 mg orally twice daily x 7 days or 100 g intravaginal ovules at bedtime x 3 days works slightly less effectively)
+- Clindamycin cream 2%, one full applicator (5 g) intravaginally at bedtime x 7 days (300 mg orally twice daily x 7 days or 100 mg intravaginal ovules at bedtime x 3 days works slightly less effectively)
 
 Follow-up treatment
 
-- RepHresh Vaginal Gel every 3 days for at least 6 weeks to prevent re-infection.
+- RepHresh Vaginal Gel or a similar pH-balancing vaginal gel every 3 days for at least 6 weeks to prevent re-infection.
 - It is important also that the patient avoids douching, as this doubles the risk (Brown D. J Reprod Med.2004;49:781-86)
 
 References
 
-1.  _The Gallup Target Market Report on Vaginal Dryness_, (2004)., and *Gallup Study of [Female Sexual Dysfunction](/services/sexual-health/)*. (2002).
-2.  _The Gallup Target Market Report on Vaginal Dryness_, (2004).
-3.  Sobel, J. D. (2000). Bacterial vaginosis. *Annu Rev Med*, 51, 349-56.
-4.  Matovina, M., Husnjka, K., Milutin, N., & Ciglar Srecko, G. M., (2004). Possible role of bacterial and viral infections in miscarriages. *Fertil Steril*, 81, 662-69.
-5.  Bauters, T. G., Dhont, M. A., Temmerman, M. I., & Nelis, H. J. (2002). Prevalence of vulvovaginal candidiasis and susceptibility to fluconazole in women. *Am J Obstet Gynecol*., 187, 569-74.
-6.  Geller, M. L., & Nelson, A. L. (2004). Diagnosis and treatment of recurrent and persistent vaginitis. *Women’s Health in Primary Care*, 4, 137-46.
-7.  Seibel, M. M., (2003) *The Soy Solution For Menopause*. Simon & Schuster. New York.
-8.  Goss, P.E., Ingle, J.N., Martino, S., et al. (2003). A randomized trial of letrozole in postmenopausal women after five years of tamoxifen therapy for early stage breast cancer. *N Engl J Med*., 349, 1793-1802.
-9.  Carranza-Lira, S., & MacGregor-Gooch, A. L. (2004). Differences in vaginal dryness according to hormone therapy schedule using pH test strip in two groups of postmenopausal women. Int J Fertil Womens Med., 49, 88-90.
-10. Cottrell, B, H., (2003). Vaginal douching. *J Obstet Gynecol Neonatal Nurs*.,32, 12-8.
-11. Culhane, J. F., Rauh, V., McCollum, K. F., Hogan, V. K., Agnew, K., & Wadhwa, P. D. (2001). Maternal stress is associated with bacterial vaginosis in human pregnancy. *Maternal Child Health J*., 5, 127-34.
-12. Kingsberg, S. (2004) Talking to patients about sexual function. *Sexuality Reprod Menopause*, 2,199-203.
-13. Sarkadi, A., & Rosenqvist, U., (2003). Intimacy and women with type 2 diabetes: an exploratory study using focus group interviews. *Diabetes Educ*., 29, 641-52.
-14. Morley, J. E., Tariq, S. H. (2003). Sexuality and disease. *Clin Geriatr Med*.;19:563-73.
-15. Handa, V. L., Harvey, L., Cundiff, G. W., Siddique, S. A., & Kjerulff, K. H. (2004). Sexual function among women with urinary incontinence and pelvic organ prolapse. *Am J Obstet Gynecol*., 191,751-6.
-16. Rask-Anderson, A., Boman, J., Grangsjo, A., Silverdal, M., Lindberg, M., Lundberg, M., & Svensson, L. (2000). Asthma, skin symptoms, and allergy in a condom factory. *Allergy*, 55, 836-41.
-17. Broeckel, J. A., Thors, C. L., Jacobsen, P. B., Small, M., & Cox, C. E. (2002). Sexual functioning in long-term breast cancer survivors treated with adjuvant chemotherapy. *Breast Cancer Res Treat*., 75,241-8.
-18. Thompson, E. A., & Reilly, D. (2003). The homeopathic approach to the treatment of symptoms of oestrogen withdrawal in breast cancer patients. A prospective observational study. *Homeopathy*., 92,127-4.
-19. Allan, J. D., (2004). Rampant obesity: What you can do. *Sexuality Reprod Menopause*., 2,195-98.
-20. Bygdeman, M., & Swahn, M. L. (1996). Replens versus dienoestrol cream in the symptomatic treatment of vaginal atrophy in postmenopausal women. *Maturitas*, 23, 259-63.
-21. Loprinzi, C. L., Abu-Ghazaleh, S., Sloan, J. A., vanHaelst-Pisani, C., Hammer, A. M., Rowland, K. M. Jr., Law, M., Windschitl, H.E., Kaur, J.S., & Ellison, N. (1997). Phase III randomized double-blind study to evaluate the efficiacy of a polycarbophil-based vaginal moisturizer in women with breast cancer. J Clin Oncol., 15, 969-73.
-22. Bachman,G. A., Notelovitz, M.., Gonzales, S. J., Thompson, C., & Morecraft, B. A. Vaginal Dryness in Menopausal Women, University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical School and Women’s Medical and Diagnostic Center and Climacteric Clinic, Gainesville, FL.
-23. Frishman, G. N., Lucianom A, A., & Maier, D. B. (1992). Evaluation of Astroglide, a new vaginal lubricant: effects of length of exposure and concentration on sperm motility. *Fertil Steril*., 58, 630-2.
-24. Nyirjesy, P., Weitz, V., Grody, M. H. T., Lorber, B. (1997). Over-the-counter and alternative medicines in the treatment of chronic vaginal symptoms. *Obstet Gynecol*., 90, 50-3.
-25. Krebbs, E. E., Ensrud, K. E., MacDonald, R., & Wilt, T. J. (2004). Phytoestrogens for treatment of menopausal symptoms: a systematic review. *Obstet Gynecol*, 104, 824-36.
-26. Chiechi, L. M., Putignano, G., Guerra, V., Schiavell, M. P., Cisternino, A. M., & Carriero, C. (2003). The effect of a soy rich diet on the vaginal epithelium in postmenopause: a randomized duble blind trial. *Maturitas*, 45, 241-6.
-27. Giardinelli, M. (1952). Effect of alpha-tocopherol in some disorders of the menopause and in atrophy of the vaginal mucosa. *Minerva Ginecol*., 4, 579-87.
-28. Mignogna, M. D., Fedele, S., Russo, L. L., Muzio, L. L., & Wolf, A. (2005). Sjogren’s syndrome: the diagnostic potential of early oral manifestations preceding hyposalivation/xerostomia. *J Oral Pathol Med*., 34, 1-6.
-29. Brown, D. (2004). Clinical variability of bacterial vaginosis and trichomoniasis. J Reprod Med., 49, 781-786. Fiorilli, A., Molteni, B., & Milani, M. (2005). Successful treatment of bacterial vaginosis with a policarbophil-carbopol acidic vaginal gel: results from a randomised double-blind, placebo-controlled trial. *European J Obstet Gynecol Reprod Biol*., in press.
+1. _The Gallup Target Market Report on Vaginal Dryness_, (2004)., and *Gallup Study of [Female Sexual Dysfunction](/services/sexual-health/)*. (2002).
+2. _Sobel, J. D. (2000). Bacterial vaginosis. Annu Rev Med, 51, 349-56. *[PubMed Official Source](https://pubmed.ncbi.nlm.nih.gov/10774469/)*.
+3. _Bygdeman, M., & Swahn, M. L. (1996). Replens versus dienoestrol cream in the symptomatic treatment of vaginal atrophy in postmenopausal women. Maturitas, 23, 259-63. *[PubMed Official Source](https://pubmed.ncbi.nlm.nih.gov/8794418/)*.
+4. _Loprinzi, C. L., Abu-Ghazaleh, S., Sloan, J. A., et al. (1997). Phase III randomized double-blind study to evaluate the efficacy of a polycarbophil-based vaginal moisturizer in women with breast cancer. J Clin Oncol, 15(3), 969-73. *[ASCO Publications](https://ascopubs.org/doi/10.1200/JCO.1997.15.3.969?referrer=https%3A%2F%2Fwww.google.com%2F)*.
+5. _4. Mignogna, M. D., Fedele, S., Russo, L. L., et al. (2005). Sjogren’s syndrome: the diagnostic potential of early oral manifestations preceding hyposalivation/xerostomia. J Oral Pathol Med, 34, 1-6. *[Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0714.2004.00247.x)*.
