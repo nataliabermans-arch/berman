@@ -2737,6 +2737,38 @@ const nextConfig = {
         destination: "/",
         permanent: true,
       },
+      // An earlier build served articles under /journal/<slug>; Google still
+      // has ~95 of those indexed as 404s. Articles now live at /<slug>/.
+      {
+        source: "/journal/",
+        destination: "/womens-health-blog/",
+        permanent: true,
+      },
+      {
+        source: "/journal/page/:n/",
+        destination: "/womens-health-blog/",
+        permanent: true,
+      },
+      {
+        source: "/journal/:slug/",
+        destination: "/:slug/",
+        permanent: true,
+      },
+      {
+        source: "/dr-jennifer-berman-home-3/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/biote-pellets/",
+        destination: "/services/menopause-hormones/",
+        permanent: true,
+      },
+      {
+        source: "/services/biote-pellets/",
+        destination: "/services/menopause-hormones/",
+        permanent: true,
+      },
       ...getLaunchRedirects(),
     ];
   },
