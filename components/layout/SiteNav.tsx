@@ -27,6 +27,7 @@ const SERVICE_LINK_ORDER: string[] = [
   "/services/pelvic-urinary/",
   "/services/menopause-hormones/",
   "/services/vaginal-rejuvenation/",
+  "/services/peptide-therapy/",
   "/services/supplements/",
 ];
 

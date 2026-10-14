@@ -58,8 +58,11 @@ async function resolvePlaceId(key: string): Promise<string | null> {
 }
 
 // Places API (New) returns Google's 5 "most relevant" reviews. The classic
-// Place Details endpoint can also sort by newest, which surfaces a few more —
-// both sets are merged as-is (no filtering by rating).
+// Place Details endpoint can also sort by newest, which surfaces a few more.
+// Both sets are merged, then only 4★ and 5★ reviews are shown, highest first.
+// The headline rating and count stay Google's real totals, and "Read all
+// reviews on Google" links to the full list.
+const MIN_DISPLAY_RATING = 4;
 async function getNewestReviews(key: string, placeId: string): Promise<PlaceReview[]> {
   try {
     const res = await fetch(
@@ -193,9 +196,13 @@ const linkButtonStyle = {
 
 export default async function GoogleReviews() {
   const place = await getPlaceDetails();
-  const reviews = (place?.reviews ?? []).filter(
-    (r) => (r.text?.text || r.originalText?.text)?.trim(),
-  );
+  const reviews = (place?.reviews ?? [])
+    .filter(
+      (r) =>
+        (r.text?.text || r.originalText?.text)?.trim() &&
+        (r.rating ?? 0) >= MIN_DISPLAY_RATING,
+    )
+    .sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));
   const allReviewsHref = place?.googleMapsUri || REVIEWS_FALLBACK_HREF;
 
   if (!place || reviews.length === 0) {
