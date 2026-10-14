@@ -1,5 +1,5 @@
 // Live reviews from the practice's Google Business Profile, via the Google
-// Places API (New). Server component: fetched at build/revalidate time, so no
+// Places API. Server component: fetched at build/revalidate time, so no
 // third-party script loads in the visitor's browser.
 //
 // Env (Vercel):
@@ -10,6 +10,7 @@
 // Google — never placeholder ratings.
 
 import { GBP_PLACE_ID, GBP_PROFILE_HREF } from "./LocationMap";
+import ReviewsScroller from "./ReviewsScroller";
 
 const SEARCH_QUERY =
   "Jennifer R. Berman, MD, 415 N Crescent Dr #355, Beverly Hills, CA 90210";
@@ -56,6 +57,59 @@ async function resolvePlaceId(key: string): Promise<string | null> {
   return data.places?.[0]?.id ?? null;
 }
 
+// Places API (New) returns Google's 5 "most relevant" reviews. The classic
+// Place Details endpoint can also sort by newest, which surfaces a few more —
+// both sets are merged as-is (no filtering by rating).
+async function getNewestReviews(key: string, placeId: string): Promise<PlaceReview[]> {
+  try {
+    const res = await fetch(
+      `https://maps.googleapis.com/maps/api/place/details/json?place_id=${encodeURIComponent(
+        placeId,
+      )}&fields=reviews&reviews_sort=newest&reviews_no_translations=true&language=en&key=${encodeURIComponent(key)}`,
+      { next: { revalidate: REVALIDATE_SECONDS } },
+    );
+    if (!res.ok) return [];
+    const data = (await res.json()) as {
+      result?: {
+        reviews?: {
+          author_name?: string;
+          author_url?: string;
+          profile_photo_url?: string;
+          rating?: number;
+          relative_time_description?: string;
+          text?: string;
+        }[];
+      };
+    };
+    return (data.result?.reviews ?? []).map((r) => ({
+      rating: r.rating,
+      relativePublishTimeDescription: r.relative_time_description,
+      text: { text: r.text },
+      authorAttribution: {
+        displayName: r.author_name,
+        uri: r.author_url,
+        photoUri: r.profile_photo_url,
+      },
+    }));
+  } catch {
+    return [];
+  }
+}
+
+function mergeReviews(...lists: PlaceReview[][]): PlaceReview[] {
+  const seen = new Set<string>();
+  const out: PlaceReview[] = [];
+  for (const r of lists.flat()) {
+    const body = (r.text?.text || r.originalText?.text || "").trim();
+    if (!body) continue;
+    const id = `${r.authorAttribution?.displayName ?? ""}|${body.slice(0, 40)}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+    out.push(r);
+  }
+  return out;
+}
+
 async function getPlaceDetails(): Promise<PlaceDetails | null> {
   const key = process.env.GOOGLE_PLACES_API_KEY?.trim();
   if (!key) return null;
@@ -73,7 +127,9 @@ async function getPlaceDetails(): Promise<PlaceDetails | null> {
       },
     );
     if (!res.ok) return null;
-    return (await res.json()) as PlaceDetails;
+    const details = (await res.json()) as PlaceDetails;
+    const newest = await getNewestReviews(key, placeId);
+    return { ...details, reviews: mergeReviews(details.reviews ?? [], newest) };
   } catch {
     return null;
   }
@@ -192,20 +248,27 @@ export default async function GoogleReviews() {
           )}
         </div>
 
-        <div
-          style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))",
-            gap: 18,
-          }}
+        <ReviewsScroller
+          footer={
+            <div style={{ display: "flex", flexWrap: "wrap", alignItems: "center", gap: 16 }}>
+              <span style={{ fontFamily: SANS, fontSize: 12, color: "#6b5b5e" }}>
+                Reviews from Google
+              </span>
+              <a href={allReviewsHref} target="_blank" rel="noopener noreferrer" style={linkButtonStyle}>
+                Read all reviews on Google →
+              </a>
+            </div>
+          }
         >
-          {reviews.slice(0, 4).map((r, i) => {
+          {reviews.map((r, i) => {
             const author = r.authorAttribution?.displayName || "Google user";
             const body = (r.text?.text || r.originalText?.text || "").trim();
             return (
               <figure
                 key={`${author}-${i}`}
                 style={{
+                  flex: "0 0 clamp(270px, 31%, 340px)",
+                  scrollSnapAlign: "start",
                   margin: 0,
                   background: "#fff7f3",
                   border: "1px solid rgba(217,155,161,0.4)",
@@ -269,25 +332,7 @@ export default async function GoogleReviews() {
               </figure>
             );
           })}
-        </div>
-
-        <div
-          style={{
-            marginTop: 26,
-            display: "flex",
-            flexWrap: "wrap",
-            alignItems: "center",
-            justifyContent: "space-between",
-            gap: 14,
-          }}
-        >
-          <span style={{ fontFamily: SANS, fontSize: 12, color: "#6b5b5e" }}>
-            Reviews from Google
-          </span>
-          <a href={allReviewsHref} target="_blank" rel="noopener noreferrer" style={linkButtonStyle}>
-            Read all reviews on Google →
-          </a>
-        </div>
+        </ReviewsScroller>
       </div>
     </section>
   );
