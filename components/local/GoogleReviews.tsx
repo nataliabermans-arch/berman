@@ -234,7 +234,7 @@ export default async function GoogleReviews() {
             </h2>
           </div>
           {typeof place.rating === "number" && (
-            <div style={{ fontFamily: SANS, color: WINE, textAlign: "right" }}>
+            <div style={{ fontFamily: SANS, color: WINE, textAlign: "right", marginLeft: "auto" }}>
               <div style={{ fontFamily: SERIF, fontSize: 40, lineHeight: 1 }}>
                 {place.rating.toFixed(1)}
               </div>
