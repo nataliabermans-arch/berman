@@ -199,7 +199,7 @@ export default async function GoogleReviews() {
             gap: 18,
           }}
         >
-          {reviews.slice(0, 5).map((r, i) => {
+          {reviews.slice(0, 4).map((r, i) => {
             const author = r.authorAttribution?.displayName || "Google user";
             const body = (r.text?.text || r.originalText?.text || "").trim();
             return (
