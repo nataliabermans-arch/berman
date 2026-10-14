@@ -52,6 +52,7 @@ const HOME_SERVICE_LINK_ORDER = [
   "/services/pelvic-urinary/",
   "/services/menopause-hormones/",
   "/services/vaginal-rejuvenation/",
+  "/services/peptide-therapy/",
   "/services/supplements/",
 ] as const;
 const HOME_SERVICE_LINK_HREFS = new Set<string>(HOME_SERVICE_LINK_ORDER);
