@@ -991,12 +991,12 @@ const spreadsheetRedirects = [
   },
   {
     source: "/journal/understanding-the-menopause-biotype",
-    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    destination: "https://bermansexualhealth.com/the-menopause-biotype-test-what-it-is-how-it-works-and-why-every-woman-needs-to-know/",
     permanent: true,
   },
   {
     source: "/journal/understanding-the-menopause-biotype/",
-    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    destination: "https://bermansexualhealth.com/the-menopause-biotype-test-what-it-is-how-it-works-and-why-every-woman-needs-to-know/",
     permanent: true,
   },
   {
