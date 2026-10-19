@@ -2,6 +2,1481 @@ const fs = require("node:fs");
 const path = require("node:path");
 const legacyPageAliases = require("./lib/legacy-page-aliases.json");
 
+// Redirects generated from the 184-row spreadsheet (identical path mappings deduplicated).
+// These rules run first so specific Search Console targets take precedence over broad legacy rules.
+const spreadsheetRedirects = [
+  {
+    source: "/index.php/sexual-health/lifestyle/menopausal-health/vaginal-dryness/24-four-steps-to-non-hormonal-treatment-of-vaginal-dryness",
+    has: [{"type":"query","key":"showall","value":"1"},{"type":"query","key":"limitstart"}],
+    destination: "https://bermansexualhealth.com/vaginal-dryness-and-its-impact-on-everyday-life/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/lifestyle/menopausal-health/vaginal-dryness/24-four-steps-to-non-hormonal-treatment-of-vaginal-dryness/",
+    has: [{"type":"query","key":"showall","value":"1"},{"type":"query","key":"limitstart"}],
+    destination: "https://bermansexualhealth.com/vaginal-dryness-and-its-impact-on-everyday-life/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/lifestyle/menopausal-health/vaginal-dryness/24-four-steps-to-non-hormonal-treatment-of-vaginal-dryness",
+    has: [{"type":"query","key":"showall","value":"1"}],
+    destination: "https://bermansexualhealth.com/four-steps-to-non-hormonal-treatment-of-vaginal-dryness/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/lifestyle/menopausal-health/vaginal-dryness/24-four-steps-to-non-hormonal-treatment-of-vaginal-dryness/",
+    has: [{"type":"query","key":"showall","value":"1"}],
+    destination: "https://bermansexualhealth.com/four-steps-to-non-hormonal-treatment-of-vaginal-dryness/",
+    permanent: true,
+  },
+  {
+    source: "/index2.php",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/index.php",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/index2.php&",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/index2.php&/",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/content/",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/content",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/anorgasmia/25-beyond-the-g-spot-where-do-we-go-from-here",
+    destination: "https://bermansexualhealth.com/healthy-sex-life-with-emsella/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/anorgasmia/25-beyond-the-g-spot-where-do-we-go-from-here/",
+    destination: "https://bermansexualhealth.com/healthy-sex-life-with-emsella/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/sexual-pain/pelvic-floor/20-sexual-function-in-",
+    destination: "https://bermansexualhealth.com/best-medicine-for-pelvic-pain/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/sexual-pain/pelvic-floor/20-sexual-function-in-/",
+    destination: "https://bermansexualhealth.com/best-medicine-for-pelvic-pain/",
+    permanent: true,
+  },
+  {
+    source: "/home",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/home/",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/sexual-health/arousal-disorder/34-qim-just-a-girl-who-cant-say-noq-women-consent-and-sex-research",
+    destination: "https://bermansexualhealth.com/the-secret-all-in-one-aphrodisiac-sexual-arousal-enhancer-and-intimacy-enhancer/",
+    permanent: true,
+  },
+  {
+    source: "/sexual-health/arousal-disorder/34-qim-just-a-girl-who-cant-say-noq-women-consent-and-sex-research/",
+    destination: "https://bermansexualhealth.com/the-secret-all-in-one-aphrodisiac-sexual-arousal-enhancer-and-intimacy-enhancer/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/health-news/ob-gyn/165-life-from-dr-a-to-z-sex-night-for-parents-with-small-kids-it-can-be-done-",
+    destination: "https://bermansexualhealth.com/life-from-dr-a-to-z-sex-night-for-parents-with-small-kids-it-can-be-done/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/health-news/ob-gyn/165-life-from-dr-a-to-z-sex-night-for-parents-with-small-kids-it-can-be-done-/",
+    destination: "https://bermansexualhealth.com/life-from-dr-a-to-z-sex-night-for-parents-with-small-kids-it-can-be-done/",
+    permanent: true,
+  },
+  {
+    source: "/arousal-disorder/female-sexual-dysfunction-definitions-causes-potential-treat.html",
+    destination: "https://bermansexualhealth.com/female-arousal-disorder/",
+    permanent: true,
+  },
+  {
+    source: "/category/sexual-health/page/2/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/category/sexual-health/page/2",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/sexual-health/lack-of-libido/27-sexual-side-effects-potential-treatment-strategies-of-ssri-medications-for-depression",
+    destination: "https://bermansexualhealth.com/sexual-side-effects-potential-treatment-strategies-of-ssri-medications-for-depression/",
+    permanent: true,
+  },
+  {
+    source: "/sexual-health/lack-of-libido/27-sexual-side-effects-potential-treatment-strategies-of-ssri-medications-for-depression/",
+    destination: "https://bermansexualhealth.com/sexual-side-effects-potential-treatment-strategies-of-ssri-medications-for-depression/",
+    permanent: true,
+  },
+  {
+    source: "/category/sexual-health/pain/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/category/sexual-health/pain",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/female-urology/gynecology/38-why-i-chose-an-elective-c-section",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/female-urology/gynecology/38-why-i-chose-an-elective-c-section/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/category/sexual-health/page/6/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/category/sexual-health/page/6",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/perimenopause-",
+    destination: "https://bermansexualhealth.com/menopause-perimenopause/",
+    permanent: true,
+  },
+  {
+    source: "/perimenopause-/",
+    destination: "https://bermansexualhealth.com/menopause-perimenopause/",
+    permanent: true,
+  },
+  {
+    source: "/dr-jennifer-berman-home-3/",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/dr-jennifer-berman-home-3",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/tag/sexual-health/page/2/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/tag/sexual-health/page/2",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/arousal-disorder/34-qim-just-a-girl-who-cant-say-noq-women-consent-and-sex-research",
+    destination: "https://bermansexualhealth.com/the-secret-all-in-one-aphrodisiac-sexual-arousal-enhancer-and-intimacy-enhancer/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/arousal-disorder/34-qim-just-a-girl-who-cant-say-noq-women-consent-and-sex-research/",
+    destination: "https://bermansexualhealth.com/the-secret-all-in-one-aphrodisiac-sexual-arousal-enhancer-and-intimacy-enhancer/",
+    permanent: true,
+  },
+  {
+    source: "/sexual-health/lifestyle/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/sexual-health/lifestyle",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/sexual-health/anorgasmia",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/sexual-health/anorgasmia/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsculpt-neo-the-newest-advancement-in-body-sculpting-technology",
+    destination: "https://bermansexualhealth.com/emsculpt-neo-the-newest-advancement-in-body-sculpting-technology/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsculpt-neo-the-newest-advancement-in-body-sculpting-technology/",
+    destination: "https://bermansexualhealth.com/emsculpt-neo-the-newest-advancement-in-body-sculpting-technology/",
+    permanent: true,
+  },
+  {
+    source: "/sexual-health/female-urology/gynecology/38-why-i-chose-an-elective-c-section",
+    destination: "https://bermansexualhealth.com/why-i-chose-an-elective-c-section-part-ii/",
+    permanent: true,
+  },
+  {
+    source: "/sexual-health/female-urology/gynecology/38-why-i-chose-an-elective-c-section/",
+    destination: "https://bermansexualhealth.com/why-i-chose-an-elective-c-section-part-ii/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/73-menopausal-health/dryness/24-four-steps-to-non-hormonal-treatment-of-vaginal-dryness",
+    destination: "https://bermansexualhealth.com/vaginal-dryness-and-its-impact-on-everyday-life/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/73-menopausal-health/dryness/24-four-steps-to-non-hormonal-treatment-of-vaginal-dryness/",
+    destination: "https://bermansexualhealth.com/vaginal-dryness-and-its-impact-on-everyday-life/",
+    permanent: true,
+  },
+  {
+    source: "/category/sexual-health/arousal-disorder/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/category/sexual-health/arousal-disorder",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/93-media/transcripts/82-adolescence-and-puberty",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/93-media/transcripts/82-adolescence-and-puberty/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/womens-health-initiative-hrt/feed/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/womens-health-initiative-hrt/feed",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/journal/fix-dryness-down-there",
+    destination: "https://bermansexualhealth.com/vaginal-dryness-and-its-impact-on-everyday-life/",
+    permanent: true,
+  },
+  {
+    source: "/journal/fix-dryness-down-there/",
+    destination: "https://bermansexualhealth.com/vaginal-dryness-and-its-impact-on-everyday-life/",
+    permanent: true,
+  },
+  {
+    source: "/journal/body-sculpting-before-after",
+    destination: "https://bermansexualhealth.com/body-sculpting-post-menopausal-belly/",
+    permanent: true,
+  },
+  {
+    source: "/journal/body-sculpting-before-after/",
+    destination: "https://bermansexualhealth.com/body-sculpting-post-menopausal-belly/",
+    permanent: true,
+  },
+  {
+    source: "/tmp/workspace/production/common/builder-preview/locales/pt.json",
+    destination: "https://shop.bermansexualhealth.com/products/hormone-balance-essentials",
+    permanent: true,
+  },
+  {
+    source: "/causes-of-vaginal-dryness/feed/",
+    destination: "https://bermansexualhealth.com/vaginal-dryness-and-its-impact-on-everyday-life/",
+    permanent: true,
+  },
+  {
+    source: "/causes-of-vaginal-dryness/feed",
+    destination: "https://bermansexualhealth.com/vaginal-dryness-and-its-impact-on-everyday-life/",
+    permanent: true,
+  },
+  {
+    source: "/hormone-replacement-therapy-menopause/feed/",
+    destination: "https://bermansexualhealth.com/hormone-replacement-therapy-menopause/",
+    permanent: true,
+  },
+  {
+    source: "/hormone-replacement-therapy-menopause/feed",
+    destination: "https://bermansexualhealth.com/hormone-replacement-therapy-menopause/",
+    permanent: true,
+  },
+  {
+    source: "/how-to-sit-emsella-chair/feed/",
+    destination: "https://bermansexualhealth.com/how-to-sit-emsella-chair/",
+    permanent: true,
+  },
+  {
+    source: "/how-to-sit-emsella-chair/feed",
+    destination: "https://bermansexualhealth.com/how-to-sit-emsella-chair/",
+    permanent: true,
+  },
+  {
+    source: "/emsella-chair-near-california/feed/",
+    destination: "https://bermansexualhealth.com/emsella-chair-near-california/",
+    permanent: true,
+  },
+  {
+    source: "/emsella-chair-near-california/feed",
+    destination: "https://bermansexualhealth.com/emsella-chair-near-california/",
+    permanent: true,
+  },
+  {
+    source: "/journal/rss.xml",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/maximo-tv",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/maximo-tv/",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/hormone-therapy-low-libido/feed/",
+    destination: "https://bermansexualhealth.com/hormone-therapy-low-libido/",
+    permanent: true,
+  },
+  {
+    source: "/hormone-therapy-low-libido/feed",
+    destination: "https://bermansexualhealth.com/hormone-therapy-low-libido/",
+    permanent: true,
+  },
+  {
+    source: "/bioidentical-h",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/bioidentical-h/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/wp-login.php",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/book-consultation-perimenopause-treatment/feed/",
+    destination: "https://bermansexualhealth.com/book-consultation-perimenopause-treatment/",
+    permanent: true,
+  },
+  {
+    source: "/book-consultation-perimenopause-treatment/feed",
+    destination: "https://bermansexualhealth.com/book-consultation-perimenopause-treatment/",
+    permanent: true,
+  },
+  {
+    source: "/journal/a-safe-and-effective-cure-for-incontinence",
+    destination: "https://bermansexualhealth.com/a-safe-and-effective-cure-for-incontinence/",
+    permanent: true,
+  },
+  {
+    source: "/journal/a-safe-and-effective-cure-for-incontinence/",
+    destination: "https://bermansexualhealth.com/a-safe-and-effective-cure-for-incontinence/",
+    permanent: true,
+  },
+  {
+    source: "/journal/the-menopause-biotype-test-what-it-is-how-it-works-and-why-every-woman-needs-to-know",
+    destination: "https://bermansexualhealth.com/the-menopause-biotype-test-what-it-is-how-it-works-and-why-every-woman-needs-to-know/",
+    permanent: true,
+  },
+  {
+    source: "/journal/the-menopause-biotype-test-what-it-is-how-it-works-and-why-every-woman-needs-to-know/",
+    destination: "https://bermansexualhealth.com/the-menopause-biotype-test-what-it-is-how-it-works-and-why-every-woman-needs-to-know/",
+    permanent: true,
+  },
+  {
+    source: "/morpheus8-reclaiming-vitality-skin-intimate-wellness/feed/",
+    destination: "https://bermansexualhealth.com/morpheus8-reclaiming-vitality-skin-intimate-wellness/",
+    permanent: true,
+  },
+  {
+    source: "/morpheus8-reclaiming-vitality-skin-intimate-wellness/feed",
+    destination: "https://bermansexualhealth.com/morpheus8-reclaiming-vitality-skin-intimate-wellness/",
+    permanent: true,
+  },
+  {
+    source: "/signs-perimenopause-is-ending/feed/",
+    destination: "https://bermansexualhealth.com/signs-perimenopause-is-ending/",
+    permanent: true,
+  },
+  {
+    source: "/signs-perimenopause-is-ending/feed",
+    destination: "https://bermansexualhealth.com/signs-perimenopause-is-ending/",
+    permanent: true,
+  },
+  {
+    source: "/testosterone-for-women-guide/feed/",
+    destination: "https://bermansexualhealth.com/testosterone-for-women-guide/",
+    permanent: true,
+  },
+  {
+    source: "/testosterone-for-women-guide/feed",
+    destination: "https://bermansexualhealth.com/testosterone-for-women-guide/",
+    permanent: true,
+  },
+  {
+    source: "/journal/anti-aging-treatments-expert-guide/",
+    destination: "https://bermansexualhealth.com/anti-aging-treatments-expert-guide/",
+    permanent: true,
+  },
+  {
+    source: "/journal/anti-aging-treatments-expert-guide",
+    destination: "https://bermansexualhealth.com/anti-aging-treatments-expert-guide/",
+    permanent: true,
+  },
+  {
+    source: "/morpheus8-microneedling-cost/feed/",
+    destination: "https://bermansexualhealth.com/morpheus8-microneedling-cost/",
+    permanent: true,
+  },
+  {
+    source: "/morpheus8-microneedling-cost/feed",
+    destination: "https://bermansexualhealth.com/morpheus8-microneedling-cost/",
+    permanent: true,
+  },
+  {
+    source: "/journal/lifestyle-strategies-for-managing-menopause-symptoms",
+    destination: "https://bermansexualhealth.com/lifestyle-strategies-for-managing-menopause-symptoms/",
+    permanent: true,
+  },
+  {
+    source: "/journal/lifestyle-strategies-for-managing-menopause-symptoms/",
+    destination: "https://bermansexualhealth.com/lifestyle-strategies-for-managing-menopause-symptoms/",
+    permanent: true,
+  },
+  {
+    source: "/journal/does-body-sculpting-hurt",
+    destination: "https://bermansexualhealth.com/does-body-sculpting-hurt/",
+    permanent: true,
+  },
+  {
+    source: "/journal/does-body-sculpting-hurt/",
+    destination: "https://bermansexualhealth.com/does-body-sculpting-hurt/",
+    permanent: true,
+  },
+  {
+    source: "/journal/treatment-for-low-libido-in-females",
+    destination: "https://bermansexualhealth.com/treatment-for-low-libido-in-females/",
+    permanent: true,
+  },
+  {
+    source: "/journal/treatment-for-low-libido-in-females/",
+    destination: "https://bermansexualhealth.com/treatment-for-low-libido-in-females/",
+    permanent: true,
+  },
+  {
+    source: "/journal/is-it-a-yeast-infection-everything-you-need-to-know-about-yeast-infections-and-vaginitis",
+    destination: "https://bermansexualhealth.com/is-it-a-yeast-infection-everything-you-need-to-know-about-yeast-infections-and-vaginitis/",
+    permanent: true,
+  },
+  {
+    source: "/journal/is-it-a-yeast-infection-everything-you-need-to-know-about-yeast-infections-and-vaginitis/",
+    destination: "https://bermansexualhealth.com/is-it-a-yeast-infection-everything-you-need-to-know-about-yeast-infections-and-vaginitis/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsella-for-men",
+    destination: "https://bermansexualhealth.com/emsella-for-men/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsella-for-men/",
+    destination: "https://bermansexualhealth.com/emsella-for-men/",
+    permanent: true,
+  },
+  {
+    source: "/journal/morpheus-8-skin-tightening",
+    destination: "https://bermansexualhealth.com/morpheus-8-skin-tightening/",
+    permanent: true,
+  },
+  {
+    source: "/journal/morpheus-8-skin-tightening/",
+    destination: "https://bermansexualhealth.com/morpheus-8-skin-tightening/",
+    permanent: true,
+  },
+  {
+    source: "/journal/the-benefits-of-biote-bioidentical-hormone-pellet-therapy",
+    destination: "https://bermansexualhealth.com/the-benefits-of-biote-bioidentical-hormone-pellet-therapy/",
+    permanent: true,
+  },
+  {
+    source: "/journal/the-benefits-of-biote-bioidentical-hormone-pellet-therapy/",
+    destination: "https://bermansexualhealth.com/the-benefits-of-biote-bioidentical-hormone-pellet-therapy/",
+    permanent: true,
+  },
+  {
+    source: "/g-shot-benefits-and-risks/feed/",
+    destination: "https://bermansexualhealth.com/g-shot-benefits-and-risks/",
+    permanent: true,
+  },
+  {
+    source: "/g-shot-benefits-and-risks/feed",
+    destination: "https://bermansexualhealth.com/g-shot-benefits-and-risks/",
+    permanent: true,
+  },
+  {
+    source: "/feminine-rejuvenation-before-after-cost/feed/",
+    destination: "https://bermansexualhealth.com/feminine-rejuvenation-before-after-cost/",
+    permanent: true,
+  },
+  {
+    source: "/feminine-rejuvenation-before-after-cost/feed",
+    destination: "https://bermansexualhealth.com/feminine-rejuvenation-before-after-cost/",
+    permanent: true,
+  },
+  {
+    source: "/journal/pelvic-trauma-and-your-sex-life-understanding-how-one-affects-the-other",
+    destination: "https://bermansexualhealth.com/pelvic-trauma-and-your-sex-life-understanding-how-one-affects-the-other/",
+    permanent: true,
+  },
+  {
+    source: "/journal/pelvic-trauma-and-your-sex-life-understanding-how-one-affects-the-other/",
+    destination: "https://bermansexualhealth.com/pelvic-trauma-and-your-sex-life-understanding-how-one-affects-the-other/",
+    permanent: true,
+  },
+  {
+    source: "/journal/breast-cancer-bioidentical-hormone-replacement",
+    destination: "https://bermansexualhealth.com/breast-cancer-bioidentical-hormone-replacement/",
+    permanent: true,
+  },
+  {
+    source: "/journal/breast-cancer-bioidentical-hormone-replacement/",
+    destination: "https://bermansexualhealth.com/breast-cancer-bioidentical-hormone-replacement/",
+    permanent: true,
+  },
+  {
+    source: "/journal/benefits-bioidentical-hormones-women",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/journal/benefits-bioidentical-hormones-women/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/journal/cybersex-is-it-an-affair-or-harmless-fun",
+    destination: "https://bermansexualhealth.com/cybersex-is-it-an-affair-or-harmless-fun/",
+    permanent: true,
+  },
+  {
+    source: "/journal/cybersex-is-it-an-affair-or-harmless-fun/",
+    destination: "https://bermansexualhealth.com/cybersex-is-it-an-affair-or-harmless-fun/",
+    permanent: true,
+  },
+  {
+    source: "/journal/non-surgical-vaginal-rejuvenation-guide",
+    destination: "https://bermansexualhealth.com/non-surgical-vaginal-rejuvenation-guide/",
+    permanent: true,
+  },
+  {
+    source: "/journal/non-surgical-vaginal-rejuvenation-guide/",
+    destination: "https://bermansexualhealth.com/non-surgical-vaginal-rejuvenation-guide/",
+    permanent: true,
+  },
+  {
+    source: "/journal/endometriosis-awareness-insights-and-treatments",
+    destination: "https://bermansexualhealth.com/endometriosis-awareness-insights-and-treatments/",
+    permanent: true,
+  },
+  {
+    source: "/journal/endometriosis-awareness-insights-and-treatments/",
+    destination: "https://bermansexualhealth.com/endometriosis-awareness-insights-and-treatments/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsella-chair-cost-breakdown",
+    destination: "https://bermansexualhealth.com/emsella-chair-cost-breakdown/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsella-chair-cost-breakdown/",
+    destination: "https://bermansexualhealth.com/emsella-chair-cost-breakdown/",
+    permanent: true,
+  },
+  {
+    source: "/best-non-invasive-vaginal-rejuvenation/feed/",
+    destination: "https://bermansexualhealth.com/best-non-invasive-vaginal-rejuvenation/",
+    permanent: true,
+  },
+  {
+    source: "/best-non-invasive-vaginal-rejuvenation/feed",
+    destination: "https://bermansexualhealth.com/best-non-invasive-vaginal-rejuvenation/",
+    permanent: true,
+  },
+  {
+    source: "/journal/bladder-control-incontinence-guide",
+    destination: "https://bermansexualhealth.com/bladder-control-incontinence-guide/",
+    permanent: true,
+  },
+  {
+    source: "/journal/bladder-control-incontinence-guide/",
+    destination: "https://bermansexualhealth.com/bladder-control-incontinence-guide/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsella-chair-alternative-options",
+    destination: "https://bermansexualhealth.com/emsella-chair-alternative-options/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsella-chair-alternative-options/",
+    destination: "https://bermansexualhealth.com/emsella-chair-alternative-options/",
+    permanent: true,
+  },
+  {
+    source: "/inmode-forma-guide/feed/",
+    destination: "https://bermansexualhealth.com/inmode-forma-guide/",
+    permanent: true,
+  },
+  {
+    source: "/inmode-forma-guide/feed",
+    destination: "https://bermansexualhealth.com/inmode-forma-guide/",
+    permanent: true,
+  },
+  {
+    source: "/journal/benefits-of-testosterone-for-women",
+    destination: "https://bermansexualhealth.com/benefits-of-testosterone-for-women/",
+    permanent: true,
+  },
+  {
+    source: "/journal/benefits-of-testosterone-for-women/",
+    destination: "https://bermansexualhealth.com/benefits-of-testosterone-for-women/",
+    permanent: true,
+  },
+  {
+    source: "/journal/the-importance-of-estrogen-in-womens-brain-health",
+    destination: "https://bermansexualhealth.com/the-importance-of-estrogen-in-womens-brain-health/",
+    permanent: true,
+  },
+  {
+    source: "/journal/the-importance-of-estrogen-in-womens-brain-health/",
+    destination: "https://bermansexualhealth.com/the-importance-of-estrogen-in-womens-brain-health/",
+    permanent: true,
+  },
+  {
+    source: "/journal/vaginal-dryness-treatment",
+    destination: "https://bermansexualhealth.com/vaginal-dryness-treatment/",
+    permanent: true,
+  },
+  {
+    source: "/journal/vaginal-dryness-treatment/",
+    destination: "https://bermansexualhealth.com/vaginal-dryness-treatment/",
+    permanent: true,
+  },
+  {
+    source: "/journal/increase-female-excitement-naturally",
+    destination: "https://bermansexualhealth.com/increase-female-excitement-naturally/",
+    permanent: true,
+  },
+  {
+    source: "/journal/increase-female-excitement-naturally/",
+    destination: "https://bermansexualhealth.com/increase-female-excitement-naturally/",
+    permanent: true,
+  },
+  {
+    source: "/journal/page/2/",
+    destination: "https://bermansexualhealth.com/womens-health-blog/",
+    permanent: true,
+  },
+  {
+    source: "/journal/page/2",
+    destination: "https://bermansexualhealth.com/womens-health-blog/",
+    permanent: true,
+  },
+  {
+    source: "/feed/",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/feed",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/journal/womens-weight-loss-expert-losangeles",
+    destination: "https://bermansexualhealth.com/womens-weight-loss-expert-losangeles/",
+    permanent: true,
+  },
+  {
+    source: "/journal/womens-weight-loss-expert-losangeles/",
+    destination: "https://bermansexualhealth.com/womens-weight-loss-expert-losangeles/",
+    permanent: true,
+  },
+  {
+    source: "/journal/66-perimenopause-symptoms-list",
+    destination: "https://bermansexualhealth.com/66-perimenopause-symptoms-list/",
+    permanent: true,
+  },
+  {
+    source: "/journal/66-perimenopause-symptoms-list/",
+    destination: "https://bermansexualhealth.com/66-perimenopause-symptoms-list/",
+    permanent: true,
+  },
+  {
+    source: "/journal/healthy-sex-life-with-emsella",
+    destination: "https://bermansexualhealth.com/healthy-sex-life-with-emsella/",
+    permanent: true,
+  },
+  {
+    source: "/journal/healthy-sex-life-with-emsella/",
+    destination: "https://bermansexualhealth.com/healthy-sex-life-with-emsella/",
+    permanent: true,
+  },
+  {
+    source: "/journal/what-15-minutes-of-votiva-can-do-for-your-sex-life",
+    destination: "https://bermansexualhealth.com/what-15-minutes-of-votiva-can-do-for-your-sex-life/",
+    permanent: true,
+  },
+  {
+    source: "/journal/what-15-minutes-of-votiva-can-do-for-your-sex-life/",
+    destination: "https://bermansexualhealth.com/what-15-minutes-of-votiva-can-do-for-your-sex-life/",
+    permanent: true,
+  },
+  {
+    source: "/journal/benefits-testosterone-pellets-females",
+    destination: "https://bermansexualhealth.com/benefits-testosterone-pellets-females/",
+    permanent: true,
+  },
+  {
+    source: "/journal/benefits-testosterone-pellets-females/",
+    destination: "https://bermansexualhealth.com/benefits-testosterone-pellets-females/",
+    permanent: true,
+  },
+  {
+    source: "/journal/four-steps-to-non-hormonal-treatment-of-vaginal-dryness",
+    destination: "https://bermansexualhealth.com/four-steps-to-non-hormonal-treatment-of-vaginal-dryness/",
+    permanent: true,
+  },
+  {
+    source: "/journal/four-steps-to-non-hormonal-treatment-of-vaginal-dryness/",
+    destination: "https://bermansexualhealth.com/four-steps-to-non-hormonal-treatment-of-vaginal-dryness/",
+    permanent: true,
+  },
+  {
+    source: "/estrogen-pellets-side-effects/feed/",
+    destination: "https://bermansexualhealth.com/estrogen-pellets-side-effects/",
+    permanent: true,
+  },
+  {
+    source: "/estrogen-pellets-side-effects/feed",
+    destination: "https://bermansexualhealth.com/estrogen-pellets-side-effects/",
+    permanent: true,
+  },
+  {
+    source: "/journal/dr-jennifer-berman-glp1-weight-loss",
+    destination: "https://bermansexualhealth.com/dr-jennifer-berman-glp1-weight-loss/",
+    permanent: true,
+  },
+  {
+    source: "/journal/dr-jennifer-berman-glp1-weight-loss/",
+    destination: "https://bermansexualhealth.com/dr-jennifer-berman-glp1-weight-loss/",
+    permanent: true,
+  },
+  {
+    source: "/study-sheds-new-light-on-intimate-lives-of-older-americans/feed/",
+    destination: "https://bermansexualhealth.com/study-sheds-new-light-on-intimate-lives-of-older-americans/",
+    permanent: true,
+  },
+  {
+    source: "/study-sheds-new-light-on-intimate-lives-of-older-americans/feed",
+    destination: "https://bermansexualhealth.com/study-sheds-new-light-on-intimate-lives-of-older-americans/",
+    permanent: true,
+  },
+  {
+    source: "/journal/the-emotional-rollercoaster-understanding-and-managing-mood-swings-in-perimenopause",
+    destination: "https://bermansexualhealth.com/the-emotional-rollercoaster-understanding-and-managing-mood-swings-in-perimenopause/",
+    permanent: true,
+  },
+  {
+    source: "/journal/the-emotional-rollercoaster-understanding-and-managing-mood-swings-in-perimenopause/",
+    destination: "https://bermansexualhealth.com/the-emotional-rollercoaster-understanding-and-managing-mood-swings-in-perimenopause/",
+    permanent: true,
+  },
+  {
+    source: "/emsella-chair-for-incontinence/feed/",
+    destination: "https://bermansexualhealth.com/emsella-chair-for-incontinence/",
+    permanent: true,
+  },
+  {
+    source: "/emsella-chair-for-incontinence/feed",
+    destination: "https://bermansexualhealth.com/emsella-chair-for-incontinence/",
+    permanent: true,
+  },
+  {
+    source: "/best-medicine-for-pelvic-pain/feed/",
+    destination: "https://bermansexualhealth.com/best-medicine-for-pelvic-pain/",
+    permanent: true,
+  },
+  {
+    source: "/best-medicine-for-pelvic-pain/feed",
+    destination: "https://bermansexualhealth.com/best-medicine-for-pelvic-pain/",
+    permanent: true,
+  },
+  {
+    source: "/how-to-increase-female-arousal/feed/",
+    destination: "https://bermansexualhealth.com/how-to-increase-female-arousal/",
+    permanent: true,
+  },
+  {
+    source: "/how-to-increase-female-arousal/feed",
+    destination: "https://bermansexualhealth.com/how-to-increase-female-arousal/",
+    permanent: true,
+  },
+  {
+    source: "/journal/testosterone-for-women",
+    destination: "https://bermansexualhealth.com/testosterone-for-women/",
+    permanent: true,
+  },
+  {
+    source: "/journal/testosterone-for-women/",
+    destination: "https://bermansexualhealth.com/testosterone-for-women/",
+    permanent: true,
+  },
+  {
+    source: "/journal/vaginal-rejuvenation-it-may-not-be-what-you-think",
+    destination: "https://bermansexualhealth.com/vaginal-rejuvenation-it-may-not-be-what-you-think/",
+    permanent: true,
+  },
+  {
+    source: "/journal/vaginal-rejuvenation-it-may-not-be-what-you-think/",
+    destination: "https://bermansexualhealth.com/vaginal-rejuvenation-it-may-not-be-what-you-think/",
+    permanent: true,
+  },
+  {
+    source: "/emsella-chair-reviews-for-prolapse/feed/",
+    destination: "https://bermansexualhealth.com/emsella-chair-reviews-for-prolapse/",
+    permanent: true,
+  },
+  {
+    source: "/emsella-chair-reviews-for-prolapse/feed",
+    destination: "https://bermansexualhealth.com/emsella-chair-reviews-for-prolapse/",
+    permanent: true,
+  },
+  {
+    source: "/journal/page/33/",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/journal/page/33",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/journal/beautifill-laser-assisted-liposuction",
+    destination: "https://bermansexualhealth.com/beautifill-laser-assisted-liposuction/",
+    permanent: true,
+  },
+  {
+    source: "/journal/beautifill-laser-assisted-liposuction/",
+    destination: "https://bermansexualhealth.com/beautifill-laser-assisted-liposuction/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsella-contraindications-safety",
+    destination: "https://bermansexualhealth.com/emsella-contraindications-safety/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsella-contraindications-safety/",
+    destination: "https://bermansexualhealth.com/emsella-contraindications-safety/",
+    permanent: true,
+  },
+  {
+    source: "/journal/why-utis-occur-after-sex-and-remedies",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/journal/why-utis-occur-after-sex-and-remedies/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/journal/the-perimenopausal-puzzle-unveiling-the-duration-of-this-transitional-phase",
+    destination: "https://bermansexualhealth.com/the-perimenopausal-puzzle-unveiling-the-duration-of-this-transitional-phase/",
+    permanent: true,
+  },
+  {
+    source: "/journal/the-perimenopausal-puzzle-unveiling-the-duration-of-this-transitional-phase/",
+    destination: "https://bermansexualhealth.com/the-perimenopausal-puzzle-unveiling-the-duration-of-this-transitional-phase/",
+    permanent: true,
+  },
+  {
+    source: "/journal/forma-v-before-after",
+    destination: "https://bermansexualhealth.com/forma-v-before-after/",
+    permanent: true,
+  },
+  {
+    source: "/journal/forma-v-before-after/",
+    destination: "https://bermansexualhealth.com/forma-v-before-after/",
+    permanent: true,
+  },
+  {
+    source: "/endometriosis-awareness-insights-and-treatments/feed/",
+    destination: "https://bermansexualhealth.com/endometriosis-awareness-insights-and-treatments/",
+    permanent: true,
+  },
+  {
+    source: "/endometriosis-awareness-insights-and-treatments/feed",
+    destination: "https://bermansexualhealth.com/endometriosis-awareness-insights-and-treatments/",
+    permanent: true,
+  },
+  {
+    source: "/journal/tighten-loose-skin-without-surgery",
+    destination: "https://bermansexualhealth.com/tighten-loose-skin-without-surgery/",
+    permanent: true,
+  },
+  {
+    source: "/journal/tighten-loose-skin-without-surgery/",
+    destination: "https://bermansexualhealth.com/tighten-loose-skin-without-surgery/",
+    permanent: true,
+  },
+  {
+    source: "/testosterone-therapy-menopausal-women/feed/",
+    destination: "https://bermansexualhealth.com/testosterone-therapy-menopausal-women/",
+    permanent: true,
+  },
+  {
+    source: "/testosterone-therapy-menopausal-women/feed",
+    destination: "https://bermansexualhealth.com/testosterone-therapy-menopausal-women/",
+    permanent: true,
+  },
+  {
+    source: "/cbd-tampons-and-how-they-interact-with-our-bodies/feed/",
+    destination: "https://bermansexualhealth.com/cbd-tampons-and-how-they-interact-with-our-bodies/",
+    permanent: true,
+  },
+  {
+    source: "/cbd-tampons-and-how-they-interact-with-our-bodies/feed",
+    destination: "https://bermansexualhealth.com/cbd-tampons-and-how-they-interact-with-our-bodies/",
+    permanent: true,
+  },
+  {
+    source: "/journal/understanding-the-menopause-biotype",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/journal/understanding-the-menopause-biotype/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/journal/cosmetic-labiaplasty-the-great-ethical-debate",
+    destination: "https://bermansexualhealth.com/cosmetic-labiaplasty-the-great-ethical-debate/",
+    permanent: true,
+  },
+  {
+    source: "/journal/cosmetic-labiaplasty-the-great-ethical-debate/",
+    destination: "https://bermansexualhealth.com/cosmetic-labiaplasty-the-great-ethical-debate/",
+    permanent: true,
+  },
+  {
+    source: "/vaginal-rejuvenation-procedure-guide/feed/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/vaginal-rejuvenation-procedure-guide/feed",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/announcing-my-partnership-with-plan-b-one-step/feed/",
+    destination: "https://bermansexualhealth.com/benefits-of-meditation-on-your-health-and-sex-life/",
+    permanent: true,
+  },
+  {
+    source: "/announcing-my-partnership-with-plan-b-one-step/feed",
+    destination: "https://bermansexualhealth.com/benefits-of-meditation-on-your-health-and-sex-life/",
+    permanent: true,
+  },
+  {
+    source: "/womens-weight-loss-expert-losangeles/feed/",
+    destination: "https://bermansexualhealth.com/womens-weight-loss-expert-losangeles/",
+    permanent: true,
+  },
+  {
+    source: "/womens-weight-loss-expert-losangeles/feed",
+    destination: "https://bermansexualhealth.com/womens-weight-loss-expert-losangeles/",
+    permanent: true,
+  },
+  {
+    source: "/journal/pelvic-pain-treatment",
+    destination: "https://bermansexualhealth.com/pelvic-pain-treatment/",
+    permanent: true,
+  },
+  {
+    source: "/journal/pelvic-pain-treatment/",
+    destination: "https://bermansexualhealth.com/pelvic-pain-treatment/",
+    permanent: true,
+  },
+  {
+    source: "/journal/what-are-my-options-for-fsd-treatment",
+    destination: "https://bermansexualhealth.com/what-are-my-options-for-fsd-treatment/",
+    permanent: true,
+  },
+  {
+    source: "/journal/what-are-my-options-for-fsd-treatment/",
+    destination: "https://bermansexualhealth.com/what-are-my-options-for-fsd-treatment/",
+    permanent: true,
+  },
+  {
+    source: "/journal/medical-non-medical-therapies-for-female-sexual-dysfunction-treatment",
+    destination: "https://bermansexualhealth.com/medical-non-medical-therapies-for-female-sexual-dysfunction-treatment/",
+    permanent: true,
+  },
+  {
+    source: "/journal/medical-non-medical-therapies-for-female-sexual-dysfunction-treatment/",
+    destination: "https://bermansexualhealth.com/medical-non-medical-therapies-for-female-sexual-dysfunction-treatment/",
+    permanent: true,
+  },
+  {
+    source: "/the-best-way-to-treat-stress-urinary-incontinence/feed/",
+    destination: "https://bermansexualhealth.com/the-best-way-to-treat-stress-urinary-incontinence/",
+    permanent: true,
+  },
+  {
+    source: "/the-best-way-to-treat-stress-urinary-incontinence/feed",
+    destination: "https://bermansexualhealth.com/the-best-way-to-treat-stress-urinary-incontinence/",
+    permanent: true,
+  },
+  {
+    source: "/the-benefits-of-biote-bioidentical-hormone-pellet-therapy/feed/",
+    destination: "https://bermansexualhealth.com/the-benefits-of-biote-bioidentical-hormone-pellet-therapy/",
+    permanent: true,
+  },
+  {
+    source: "/the-benefits-of-biote-bioidentical-hormone-pellet-therapy/feed",
+    destination: "https://bermansexualhealth.com/the-benefits-of-biote-bioidentical-hormone-pellet-therapy/",
+    permanent: true,
+  },
+  {
+    source: "/manage-perimenopause-mood-swings/feed/",
+    destination: "https://bermansexualhealth.com/manage-perimenopause-mood-swings/",
+    permanent: true,
+  },
+  {
+    source: "/manage-perimenopause-mood-swings/feed",
+    destination: "https://bermansexualhealth.com/manage-perimenopause-mood-swings/",
+    permanent: true,
+  },
+  {
+    source: "/journal/dry-itchy-down-there",
+    destination: "https://bermansexualhealth.com/dry-itchy-down-there/",
+    permanent: true,
+  },
+  {
+    source: "/journal/dry-itchy-down-there/",
+    destination: "https://bermansexualhealth.com/dry-itchy-down-there/",
+    permanent: true,
+  },
+  {
+    source: "/weight-loss-program/feed/",
+    destination: "https://bermansexualhealth.com/weight-loss-program/",
+    permanent: true,
+  },
+  {
+    source: "/weight-loss-program/feed",
+    destination: "https://bermansexualhealth.com/weight-loss-program/",
+    permanent: true,
+  },
+  {
+    source: "/benefits-of-meditation-on-your-health-and-sex-life/feed/",
+    destination: "https://bermansexualhealth.com/benefits-of-meditation-on-your-health-and-sex-life/",
+    permanent: true,
+  },
+  {
+    source: "/benefits-of-meditation-on-your-health-and-sex-life/feed",
+    destination: "https://bermansexualhealth.com/benefits-of-meditation-on-your-health-and-sex-life/",
+    permanent: true,
+  },
+  {
+    source: "/dry-before-period-guide/feed/",
+    destination: "https://bermansexualhealth.com/dry-before-period-guide/",
+    permanent: true,
+  },
+  {
+    source: "/dry-before-period-guide/feed",
+    destination: "https://bermansexualhealth.com/dry-before-period-guide/",
+    permanent: true,
+  },
+  {
+    source: "/twenty-tips-for-keeping-your-romance-hot/feed/",
+    destination: "https://bermansexualhealth.com/twenty-tips-for-keeping-your-romance-hot/",
+    permanent: true,
+  },
+  {
+    source: "/twenty-tips-for-keeping-your-romance-hot/feed",
+    destination: "https://bermansexualhealth.com/twenty-tips-for-keeping-your-romance-hot/",
+    permanent: true,
+  },
+  {
+    source: "/how-much-does-g-shot-cost/feed/",
+    destination: "https://bermansexualhealth.com/how-much-does-g-shot-cost/",
+    permanent: true,
+  },
+  {
+    source: "/how-much-does-g-shot-cost/feed",
+    destination: "https://bermansexualhealth.com/how-much-does-g-shot-cost/",
+    permanent: true,
+  },
+  {
+    source: "/journal/menopause-myths-vs-facts",
+    destination: "https://bermansexualhealth.com/menopause-myths-vs-facts/",
+    permanent: true,
+  },
+  {
+    source: "/journal/menopause-myths-vs-facts/",
+    destination: "https://bermansexualhealth.com/menopause-myths-vs-facts/",
+    permanent: true,
+  },
+  {
+    source: "/votiva-treatment-side-effects/feed/",
+    destination: "https://bermansexualhealth.com/votiva-treatment-side-effects/",
+    permanent: true,
+  },
+  {
+    source: "/votiva-treatment-side-effects/feed",
+    destination: "https://bermansexualhealth.com/votiva-treatment-side-effects/",
+    permanent: true,
+  },
+  {
+    source: "/tighten-loose-skin-without-surgery/feed/",
+    destination: "https://bermansexualhealth.com/tighten-loose-skin-without-surgery/",
+    permanent: true,
+  },
+  {
+    source: "/tighten-loose-skin-without-surgery/feed",
+    destination: "https://bermansexualhealth.com/tighten-loose-skin-without-surgery/",
+    permanent: true,
+  },
+  {
+    source: "/increase-female-sensitivity-naturally/feed/",
+    destination: "https://bermansexualhealth.com/increase-female-sensitivity-naturally/",
+    permanent: true,
+  },
+  {
+    source: "/increase-female-sensitivity-naturally/feed",
+    destination: "https://bermansexualhealth.com/increase-female-sensitivity-naturally/",
+    permanent: true,
+  },
+  {
+    source: "/journal/how-does-cancer-affect-womens-sexual-health",
+    destination: "https://bermansexualhealth.com/how-does-cancer-affect-womens-sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/journal/how-does-cancer-affect-womens-sexual-health/",
+    destination: "https://bermansexualhealth.com/how-does-cancer-affect-womens-sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/menopause-relief-hormone-replacement-therapy-pros-cons/feed/",
+    destination: "https://bermansexualhealth.com/menopause-relief-hormone-replacement-therapy-pros-cons/",
+    permanent: true,
+  },
+  {
+    source: "/menopause-relief-hormone-replacement-therapy-pros-cons/feed",
+    destination: "https://bermansexualhealth.com/menopause-relief-hormone-replacement-therapy-pros-cons/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsella-chair-side-effects",
+    destination: "https://bermansexualhealth.com/emsella-chair-side-effects/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsella-chair-side-effects/",
+    destination: "https://bermansexualhealth.com/emsella-chair-side-effects/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsella-chair-fda-approved",
+    destination: "https://bermansexualhealth.com/emsella-chair-fda-approved/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsella-chair-fda-approved/",
+    destination: "https://bermansexualhealth.com/emsella-chair-fda-approved/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsella-chair-benefits-guide",
+    destination: "https://bermansexualhealth.com/emsella-chair-benefits-guide/",
+    permanent: true,
+  },
+  {
+    source: "/journal/emsella-chair-benefits-guide/",
+    destination: "https://bermansexualhealth.com/emsella-chair-benefits-guide/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/arousal-disorder/73-persistent-sexual-arousal-syndrome",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/index.php/sexual-health/arousal-disorder/73-persistent-sexual-arousal-syndrome/",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/journal/morpheus-8-before-after",
+    destination: "https://bermansexualhealth.com/morpheus-8-before-after/",
+    permanent: true,
+  },
+  {
+    source: "/journal/morpheus-8-before-after/",
+    destination: "https://bermansexualhealth.com/morpheus-8-before-after/",
+    permanent: true,
+  },
+  {
+    source: "/pt-141-nose-spray/feed/",
+    destination: "https://bermansexualhealth.com/pt-141-nose-spray/",
+    permanent: true,
+  },
+  {
+    source: "/pt-141-nose-spray/feed",
+    destination: "https://bermansexualhealth.com/pt-141-nose-spray/",
+    permanent: true,
+  },
+  {
+    source: "/best-vaginal-dryness-treatment/feed/",
+    destination: "https://bermansexualhealth.com/best-vaginal-dryness-treatment/",
+    permanent: true,
+  },
+  {
+    source: "/best-vaginal-dryness-treatment/feed",
+    destination: "https://bermansexualhealth.com/best-vaginal-dryness-treatment/",
+    permanent: true,
+  },
+  {
+    source: "/arousal-disorder/prescription-drug-treatment-for-female-sexual-dysfun.html",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/what-happened-to-my-body-the-symptoms-of-menopause/feed/",
+    destination: "https://bermansexualhealth.com/what-happened-to-my-body-the-symptoms-of-menopause/",
+    permanent: true,
+  },
+  {
+    source: "/what-happened-to-my-body-the-symptoms-of-menopause/feed",
+    destination: "https://bermansexualhealth.com/what-happened-to-my-body-the-symptoms-of-menopause/",
+    permanent: true,
+  },
+  {
+    source: "/dr-jennifer-berman-discusses-mens-sexual-dysfunction/feed/",
+    destination: "https://bermansexualhealth.com/dr-jennifer-berman-discusses-mens-sexual-dysfunction/",
+    permanent: true,
+  },
+  {
+    source: "/dr-jennifer-berman-discusses-mens-sexual-dysfunction/feed",
+    destination: "https://bermansexualhealth.com/dr-jennifer-berman-discusses-mens-sexual-dysfunction/",
+    permanent: true,
+  },
+  {
+    source: "/vaginal-rejuvenation-expert/;445541",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/vaginal-rejuvenation-expert/;445541/",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/blog/",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/blog",
+    destination: "https://bermansexualhealth.com/",
+    permanent: true,
+  },
+  {
+    source: "/becoming-an-influencer-work-panel-featuring-heather-dubrow-dr-berman/",
+    destination: "https://bermansexualhealth.com/becoming-an-influencer-work-panel-featuring-heather-dubrow-dr-berman/",
+    permanent: true,
+  },
+  {
+    source: "/becoming-an-influencer-work-panel-featuring-heather-dubrow-dr-berman",
+    destination: "https://bermansexualhealth.com/becoming-an-influencer-work-panel-featuring-heather-dubrow-dr-berman/",
+    permanent: true,
+  },
+  {
+    source: "/superfoods-cleanse/amp/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/superfoods-cleanse/amp",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/heaviness-in-pelvic-area/feed/",
+    destination: "https://bermansexualhealth.com/heaviness-in-pelvic-area/",
+    permanent: true,
+  },
+  {
+    source: "/heaviness-in-pelvic-area/feed",
+    destination: "https://bermansexualhealth.com/heaviness-in-pelvic-area/",
+    permanent: true,
+  },
+  {
+    source: "/causes-pelvic-pain-women/feed/",
+    destination: "https://bermansexualhealth.com/causes-pelvic-pain-women/",
+    permanent: true,
+  },
+  {
+    source: "/causes-pelvic-pain-women/feed",
+    destination: "https://bermansexualhealth.com/causes-pelvic-pain-women/",
+    permanent: true,
+  },
+  {
+    source: "/ob-gyn/feed/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/ob-gyn/feed",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    permanent: true,
+  },
+  {
+    source: "/best-prescription-medicine-menopause/feed/",
+    destination: "https://bermansexualhealth.com/best-prescription-medicine-menopause/",
+    permanent: true,
+  },
+  {
+    source: "/best-prescription-medicine-menopause/feed",
+    destination: "https://bermansexualhealth.com/best-prescription-medicine-menopause/",
+    permanent: true,
+  },
+  {
+    source: "/biote-bhrt-restored-hormones-restored-vitality/feed/",
+    destination: "https://bermansexualhealth.com/biote-bhrt-restored-hormones-restored-vitality/",
+    permanent: true,
+  },
+  {
+    source: "/biote-bhrt-restored-hormones-restored-vitality/feed",
+    destination: "https://bermansexualhealth.com/biote-bhrt-restored-hormones-restored-vitality/",
+    permanent: true,
+  },
+  {
+    source: "/aphrodisiac-for-women-guide/feed/",
+    destination: "https://bermansexualhealth.com/aphrodisiac-for-women-guide/",
+    permanent: true,
+  },
+  {
+    source: "/aphrodisiac-for-women-guide/feed",
+    destination: "https://bermansexualhealth.com/aphrodisiac-for-women-guide/",
+    permanent: true,
+  },
+  {
+    source: "/v-tightening-laser-treatment-cost/feed/",
+    destination: "https://bermansexualhealth.com/v-tightening-laser-treatment-cost/",
+    permanent: true,
+  },
+  {
+    source: "/v-tightening-laser-treatment-cost/feed",
+    destination: "https://bermansexualhealth.com/v-tightening-laser-treatment-cost/",
+    permanent: true,
+  },
+  {
+    source: "/vtone-before-and-after/feed/",
+    destination: "https://bermansexualhealth.com/vtone-before-and-after/",
+    permanent: true,
+  },
+  {
+    source: "/vtone-before-and-after/feed",
+    destination: "https://bermansexualhealth.com/vtone-before-and-after/",
+    permanent: true,
+  },
+  {
+    source: "/menopausal-weight-gain-doesnt-have-to-be-your-reality/feed/",
+    destination: "https://bermansexualhealth.com/menopausal-weight-gain-doesnt-have-to-be-your-reality/",
+    permanent: true,
+  },
+  {
+    source: "/menopausal-weight-gain-doesnt-have-to-be-your-reality/feed",
+    destination: "https://bermansexualhealth.com/menopausal-weight-gain-doesnt-have-to-be-your-reality/",
+    permanent: true,
+  },
+  {
+    source: "/peptide-therapy-expert-women/feed/",
+    destination: "https://bermansexualhealth.com/peptide-therapy-expert-women/",
+    permanent: true,
+  },
+  {
+    source: "/peptide-therapy-expert-women/feed",
+    destination: "https://bermansexualhealth.com/peptide-therapy-expert-women/",
+    permanent: true,
+  },
+  {
+    source: "/can-you-talk-to-your-doctor-about-sex/feed/",
+    destination: "https://bermansexualhealth.com/can-you-talk-to-your-doctor-about-sex/",
+    permanent: true,
+  },
+  {
+    source: "/can-you-talk-to-your-doctor-about-sex/feed",
+    destination: "https://bermansexualhealth.com/can-you-talk-to-your-doctor-about-sex/",
+    permanent: true,
+  },
+  {
+    source: "/what-15-minutes-of-votiva-can-do-for-your-sex-life/feed/",
+    destination: "https://bermansexualhealth.com/what-15-minutes-of-votiva-can-do-for-your-sex-life/",
+    permanent: true,
+  },
+  {
+    source: "/what-15-minutes-of-votiva-can-do-for-your-sex-life/feed",
+    destination: "https://bermansexualhealth.com/what-15-minutes-of-votiva-can-do-for-your-sex-life/",
+    permanent: true,
+  },
+];
+
+
 /** @type {import('next').NextConfig} */
 const legacyRedirects = [
   {
@@ -2712,6 +4187,7 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      ...spreadsheetRedirects,
       // Body contouring is retired (no longer offered). Its /services/ route is
       // no longer generated, so send the old URL to the services overview.
       {
