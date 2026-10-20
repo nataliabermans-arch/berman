@@ -146,12 +146,12 @@ const spreadsheetRedirects = [
   },
   {
     source: "/index.php/sexual-health/female-urology/gynecology/38-why-i-chose-an-elective-c-section",
-    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    destination: "https://bermansexualhealth.com/why-i-chose-an-elective-c-section-part-ii/",
     permanent: true,
   },
   {
     source: "/index.php/sexual-health/female-urology/gynecology/38-why-i-chose-an-elective-c-section/",
-    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    destination: "https://bermansexualhealth.com/why-i-chose-an-elective-c-section-part-ii/",
     permanent: true,
   },
   {
@@ -246,12 +246,12 @@ const spreadsheetRedirects = [
   },
   {
     source: "/index.php/73-menopausal-health/dryness/24-four-steps-to-non-hormonal-treatment-of-vaginal-dryness",
-    destination: "https://bermansexualhealth.com/vaginal-dryness-and-its-impact-on-everyday-life/",
+    destination: "https://bermansexualhealth.com/four-steps-to-non-hormonal-treatment-of-vaginal-dryness/",
     permanent: true,
   },
   {
     source: "/index.php/73-menopausal-health/dryness/24-four-steps-to-non-hormonal-treatment-of-vaginal-dryness/",
-    destination: "https://bermansexualhealth.com/vaginal-dryness-and-its-impact-on-everyday-life/",
+    destination: "https://bermansexualhealth.com/four-steps-to-non-hormonal-treatment-of-vaginal-dryness/",
     permanent: true,
   },
   {
