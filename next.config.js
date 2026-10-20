@@ -196,12 +196,12 @@ const spreadsheetRedirects = [
   },
   {
     source: "/index.php/sexual-health/arousal-disorder/34-qim-just-a-girl-who-cant-say-noq-women-consent-and-sex-research",
-    destination: "https://bermansexualhealth.com/the-secret-all-in-one-aphrodisiac-sexual-arousal-enhancer-and-intimacy-enhancer/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
     permanent: true,
   },
   {
     source: "/index.php/sexual-health/arousal-disorder/34-qim-just-a-girl-who-cant-say-noq-women-consent-and-sex-research/",
-    destination: "https://bermansexualhealth.com/the-secret-all-in-one-aphrodisiac-sexual-arousal-enhancer-and-intimacy-enhancer/",
+    destination: "https://bermansexualhealth.com/services/sexual-health/",
     permanent: true,
   },
   {
