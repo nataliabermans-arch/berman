@@ -1021,7 +1021,7 @@ const spreadsheetRedirects = [
   },
   {
     source: "/announcing-my-partnership-with-plan-b-one-step/feed/",
-    destination: "https://bermansexualhealth.com/benefits-of-meditation-on-your-health-and-sex-life/",
+    destination: "https://bermansexualhealth.com/announcing-my-partnership-with-plan-b-one-step/",
     permanent: true,
   },
   {
