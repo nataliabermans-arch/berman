@@ -8,13 +8,13 @@ const spreadsheetRedirects = [
   {
     source: "/index.php/sexual-health/lifestyle/menopausal-health/vaginal-dryness/24-four-steps-to-non-hormonal-treatment-of-vaginal-dryness",
     has: [{"type":"query","key":"showall","value":"1"},{"type":"query","key":"limitstart"}],
-    destination: "https://bermansexualhealth.com/vaginal-dryness-and-its-impact-on-everyday-life/",
+    destination: "https://bermansexualhealth.com/four-steps-to-non-hormonal-treatment-of-vaginal-dryness/",
     permanent: true,
   },
   {
     source: "/index.php/sexual-health/lifestyle/menopausal-health/vaginal-dryness/24-four-steps-to-non-hormonal-treatment-of-vaginal-dryness/",
     has: [{"type":"query","key":"showall","value":"1"},{"type":"query","key":"limitstart"}],
-    destination: "https://bermansexualhealth.com/vaginal-dryness-and-its-impact-on-everyday-life/",
+    destination: "https://bermansexualhealth.com/four-steps-to-non-hormonal-treatment-of-vaginal-dryness/",
     permanent: true,
   },
   {
