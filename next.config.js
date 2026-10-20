@@ -1011,7 +1011,7 @@ const spreadsheetRedirects = [
   },
   {
     source: "/vaginal-rejuvenation-procedure-guide/feed/",
-    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    destination: "https://bermansexualhealth.com/vaginal-rejuvenation-procedure-guide/",
     permanent: true,
   },
   {
@@ -1316,17 +1316,17 @@ const spreadsheetRedirects = [
   },
   {
     source: "/vaginal-rejuvenation-expert/;445541",
-    destination: "https://bermansexualhealth.com/",
+    destination: "https://bermansexualhealth.com/vaginal-rejuvenation-expert/",
     permanent: true,
   },
   {
     source: "/vaginal-rejuvenation-expert/;445541/",
-    destination: "https://bermansexualhealth.com/",
+    destination: "https://bermansexualhealth.com/vaginal-rejuvenation-expert/",
     permanent: true,
   },
   {
     source: "/blog/",
-    destination: "https://bermansexualhealth.com/",
+    destination: "https://bermansexualhealth.com/womens-health-blog/",
     permanent: true,
   },
   {
