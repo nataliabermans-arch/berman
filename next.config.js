@@ -91,12 +91,12 @@ const spreadsheetRedirects = [
   },
   {
     source: "/sexual-health/arousal-disorder/34-qim-just-a-girl-who-cant-say-noq-women-consent-and-sex-research",
-    destination: "https://bermansexualhealth.com/the-secret-all-in-one-aphrodisiac-sexual-arousal-enhancer-and-intimacy-enhancer/",
+    destination: "https://bermansexualhealth.com/im-just-a-girl-who-cant-say-no-women-consent-and-sex-research/",
     permanent: true,
   },
   {
     source: "/sexual-health/arousal-disorder/34-qim-just-a-girl-who-cant-say-noq-women-consent-and-sex-research/",
-    destination: "https://bermansexualhealth.com/the-secret-all-in-one-aphrodisiac-sexual-arousal-enhancer-and-intimacy-enhancer/",
+    destination: "https://bermansexualhealth.com/im-just-a-girl-who-cant-say-no-women-consent-and-sex-research/",
     permanent: true,
   },
   {
@@ -196,12 +196,12 @@ const spreadsheetRedirects = [
   },
   {
     source: "/index.php/sexual-health/arousal-disorder/34-qim-just-a-girl-who-cant-say-noq-women-consent-and-sex-research",
-    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    destination: "https://bermansexualhealth.com/im-just-a-girl-who-cant-say-no-women-consent-and-sex-research/",
     permanent: true,
   },
   {
     source: "/index.php/sexual-health/arousal-disorder/34-qim-just-a-girl-who-cant-say-noq-women-consent-and-sex-research/",
-    destination: "https://bermansexualhealth.com/services/sexual-health/",
+    destination: "https://bermansexualhealth.com/im-just-a-girl-who-cant-say-no-women-consent-and-sex-research/",
     permanent: true,
   },
   {
@@ -996,7 +996,7 @@ const spreadsheetRedirects = [
   },
   {
     source: "/vaginal-rejuvenation-procedure-guide/feed/",
-    destination: "https://bermansexualhealth.com/vaginal-rejuvenation-procedure-guide/",
+    destination: "https://bermansexualhealth.com/services/vaginal-rejuvenation/",
     permanent: true,
   },
   {
@@ -1301,7 +1301,7 @@ const spreadsheetRedirects = [
   },
   {
     source: "/vaginal-rejuvenation-expert/;445541",
-    destination: "https://bermansexualhealth.com/vaginal-rejuvenation-expert/",
+    destination: "https://bermansexualhealth.com/services/vaginal-rejuvenation/",
     permanent: true,
   },
   {
