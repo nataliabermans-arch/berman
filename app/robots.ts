@@ -8,7 +8,17 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: "*",
         allow: "/",
-        disallow: ["/admin", "/api"],
+        disallow: [
+          "/admin",
+          "/api",
+          // Old WordPress leftovers (see middleware.ts, which answers 410 Gone)
+          "/wp-admin/",
+          "/wp-login.php",
+          "/wp-content/",
+          "/wp-includes/",
+          "/feed/",
+          "/*/feed/",
+        ],
       },
     ],
     sitemap: `${siteUrl}/sitemap.xml`,

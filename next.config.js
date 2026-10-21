@@ -385,11 +385,6 @@ const spreadsheetRedirects = [
     permanent: true,
   },
   {
-    source: "/wp-login.php",
-    destination: "https://bermansexualhealth.com/",
-    permanent: true,
-  },
-  {
     source: "/book-consultation-perimenopause-treatment/feed/",
     destination: "https://bermansexualhealth.com/book-consultation-perimenopause-treatment/",
     permanent: true,
@@ -717,16 +712,6 @@ const spreadsheetRedirects = [
   {
     source: "/journal/page/2",
     destination: "https://bermansexualhealth.com/womens-health-blog/",
-    permanent: true,
-  },
-  {
-    source: "/feed/",
-    destination: "https://bermansexualhealth.com/",
-    permanent: true,
-  },
-  {
-    source: "/feed",
-    destination: "https://bermansexualhealth.com/",
     permanent: true,
   },
   {
@@ -1327,11 +1312,6 @@ const spreadsheetRedirects = [
   {
     source: "/blog/",
     destination: "https://bermansexualhealth.com/womens-health-blog/",
-    permanent: true,
-  },
-  {
-    source: "/blog",
-    destination: "https://bermansexualhealth.com/",
     permanent: true,
   },
   {

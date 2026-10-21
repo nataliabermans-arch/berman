@@ -50,8 +50,20 @@ function previewGate(req: NextRequest): NextResponse | null {
   });
 }
 
+// Leftovers from the old WordPress site (login page, RSS/Atom feeds under /feed/) that
+// Google keeps crawling. They will never exist again, so answer 410 Gone
+// instead of redirecting them to the homepage (which Google reads as a soft 404).
+const GONE = /^\/(?:wp-login\.php|(?:.+\/)?feed(?:\/.*)?)$/;
+
 export async function middleware(req: NextRequest) {
   const { pathname } = req.nextUrl;
+
+  if (GONE.test(pathname)) {
+    return new NextResponse("Gone", {
+      status: 410,
+      headers: { "X-Robots-Tag": "noindex", "Cache-Control": "public, max-age=86400" },
+    });
+  }
 
   if (pathname.startsWith("/preview")) {
     return previewGate(req) ?? NextResponse.next();
@@ -74,4 +86,13 @@ export async function middleware(req: NextRequest) {
   return NextResponse.next();
 }
 
-export const config = { matcher: ["/admin/:path*", "/preview/:path*"] };
+export const config = {
+  matcher: [
+    "/admin/:path*",
+    "/preview/:path*",
+    "/wp-login.php",
+    "/feed/:path*",
+    "/:first/feed/:path*",
+    "/:first/:second/feed/:path*",
+  ],
+};
