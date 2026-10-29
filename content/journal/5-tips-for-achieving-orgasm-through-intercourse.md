@@ -13,7 +13,7 @@ originalUrl: >-
 author: "Dr. Jennifer Berman, MD"
 ---
 
-For women who want to have an orgasm during intercourse, but have either been unable to or [have had difficulties](/contact/), here are some positions and techniques that may help.
+For women who want to have an orgasm during intercourse, but have either been unable to or have had difficulties, here are some positions and techniques that may help.
 
 **The missionary position with a full pelvic tilt.** This position enables the penis to reach the G-spot, the part of the clitoris that extends into the vaginal wall. Lie on your back, beneath your partner, and tilt your pelvis upward. It helps to put one or more pillows beneath your buttocks, or have your partner raise up your buttocks with his hands.
 
@@ -24,3 +24,5 @@ For women who want to have an orgasm during intercourse, but have either been un
 **Keep your legs together.** This can create friction from the penis and lead to a clitoral orgasm. When your partner inserts his penis into your vagina, squeeze your legs closed and have him place his legs outside yours. Your partner can then squeeze your legs further closed with his thighs. It may help if he can shift his pelvis forward to cause pressure and friction on your clitoris.
 
 **Stimulate the cervix.** While many women don’t enjoy penile thrusting against their cervix, others find it’s the key to orgasm. To determine whether this technique works for you, find a position that allows for deep penetration of the penis. You might try lying on your back, hugging your knees to your chest or resting your legs on your partner’s shoulders. Or, have your partner enter from behind while you rest on your knees and lean forward on your elbows. For maximum cervical stimulation, straddle your partner, facing his feet (be careful, though. According to [PubMed Central clinical data](https://pmc.ncbi.nlm.nih.gov/articles/PMC10947648/), this position can cause a penile fracture).
+
+Every woman’s body and intimacy journey are entirely unique, and sometimes positions alone aren't enough to solve persistent difficulties. If you are looking for safe, expert advice tailored precisely to your sexual wellness, you can always connect with [Dr. Jennifer Berman](/contact/) to discuss your concerns in a private, supportive space.
