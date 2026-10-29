@@ -443,8 +443,8 @@ export const SERVICES: SpecialtyContent[] = [
       },
       {
         q: "How long until I see results?",
-        a: "",
-      },Depends on modality. Hormonal protocols usually show measurable change in 4–8 weeks. Peptides like PT-141 are dose-of-event. Energy device protocols (Emsella, MonaLisa Touch) typically show change after the third session, with full effect at three months.
+        a: "Depends on modality. Hormonal protocols usually show measurable change in 4–8 weeks. Peptides like PT-141 are dose-of-event. Energy device protocols (Emsella, MonaLisa Touch) typically show change after the third session, with full effect at three months.",
+      },
     ],
     finalCta: {
       headline: "Most of what your body is doing has a name. And a treatment.",
