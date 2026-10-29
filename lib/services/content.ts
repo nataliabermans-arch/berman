@@ -295,7 +295,7 @@ export const SERVICES: SpecialtyContent[] = [
       sub: "Low desire. Painful sex. Difficulty with arousal or orgasm. These are medical symptoms with measurable physiological causes — and they are treatable.",
     },
     seoSupport: {
-      text: "Treatment for painful sex, low libido, vaginismus and dyspareunia in Beverly Hills.",
+      text: "Treatment for painful sex, low libido, vaginismus and dyspareunia in Beverly Hills & nationwide via Telehealth.",
       italicWord: "painful sex",
     },
     atAGlance: {
@@ -324,13 +324,13 @@ export const SERVICES: SpecialtyContent[] = [
         ix: "01",
         title: "Low desire",
         italicWord: "desire",
-        body: "Hypoactive sexual desire disorder (HSDD). Reduced libido after pregnancy, perimenopause, antidepressants, or hormonal contraception.",
+        body: "Hypoactive sexual desire disorder (HSDD). Reduced libido after pregnancy, perimenopause, antidepressants, or hormonal contraception managed in-clinic or nationwide via Telehealth.",
       },
       {
         ix: "02",
         title: "Arousal difficulty",
         italicWord: "Arousal",
-        body: "Reduced genital sensitivity, lubrication issues, vascular insufficiency. Diagnostic workup includes hormonal panel and physical exam.",
+        body: "Reduced genital sensitivity, lubrication issues, vascular insufficiency. Diagnostic workup includes hormonal panel and in-person physical exam at our Beverly Hills practice.",
       },
       {
         ix: "03",
@@ -342,19 +342,19 @@ export const SERVICES: SpecialtyContent[] = [
         ix: "04",
         title: "Orgasmic disorder",
         italicWord: "Orgasmic",
-        body: "Difficulty reaching orgasm, delayed orgasm, anorgasmia. Often hormonal, neurological, or pharmacologically induced.",
+        body: "Difficulty reaching orgasm, delayed orgasm, anorgasmia. Often hormonal, neurological, or pharmacologically induced treatments in-clinic or nationwide via telehealth.",
       },
       {
         ix: "05",
         title: "Postpartum changes",
         italicWord: "changes",
-        body: "Persistent symptoms 6+ months after delivery — laxity, sensation changes, scar tissue, hormonally driven libido shifts.",
+        body: "Persistent symptoms 6+ months after delivery — laxity, sensation changes, scar tissue, hormonally driven libido shifts. In-person tissue restoration available at our Beverly Hills center.",
       },
       {
         ix: "06",
         title: "Post-treatment recovery",
         italicWord: "recovery",
-        body: "Sexual dysfunction following cancer treatment, hysterectomy, or chronic medication use. Restoration plan tailored to history.",
+        body: "Sexual dysfunction following cancer treatment, hysterectomy, or chronic medication use. Comprehensive women's sexual dysfunction treatment tailored to your history.",
       },
     ],
     processHeading: {
@@ -366,25 +366,25 @@ export const SERVICES: SpecialtyContent[] = [
         num: "01",
         title: "Intake & history",
         italicWord: "Intake",
-        body: "A 60–90 minute first appointment with Dr. Berman. Detailed medical, hormonal, surgical, sexual, and pharmacological history.",
+        body: "A 60–90 minute first appointment with Dr. Berman at our Beverly Hills clinic or via secure telehealth. Detailed medical, hormonal, surgical, sexual, and pharmacological history.",
       },
       {
         num: "02",
         title: "Diagnostics",
         italicWord: "Diagnostics",
-        body: "Comprehensive hormone panel. Pelvic exam where indicated. Vascular and neurological assessment. Medication review.",
+        body: "Comprehensive hormone panel. In-person pelvic exam at our Los Angeles practice where indicated. Vascular and neurological assessment. Medication review.",
       },
       {
         num: "03",
         title: "Treatment plan",
         italicWord: "Treatment plan",
-        body: "A written plan covering pharmacological, regenerative, device, hormonal, and behavioral options — with rationale for each.",
+        body: "A written, individualized female sexual dysfunction treatment plan covering pharmacological, regenerative, device, hormonal, and behavioral options with rationale for each.",
       },
       {
         num: "04",
         title: "Follow-up",
         italicWord: "Follow-up",
-        body: "Re-evaluation at 4–6 weeks, then quarterly. Plans adjust based on labs, symptom response, and patient preference.",
+        body: "Re-evaluation at 4–6 weeks (in-clinic or nationwide via telehealth), then quarterly. Plans adjust based on labs, symptom response, and patient preference.",
       },
     ],
     expectHeading: {
@@ -400,12 +400,12 @@ export const SERVICES: SpecialtyContent[] = [
       {
         when: "Week 1",
         title: "Initial consultation",
-        body: "60–90 min in-person or telehealth. History, exam where indicated, lab orders. Treatment plan drafted on the spot.",
+        body: "60–90 min in-person at our Beverly Hills practice or via secure telehealth. History, exam where indicated, lab orders. Treatment plan drafted on the spot.",
       },
       {
         when: "Week 2–3",
         title: "Lab results review",
-        body: "Brief virtual review once labs are back. Plan refined. First prescriptions or in-office procedures scheduled.",
+        body: "Brief virtual review once labs are back. Plan refined. First prescriptions or in-office procedures scheduled in Los Angeles.",
       },
       {
         when: "Week 6",
@@ -415,7 +415,7 @@ export const SERVICES: SpecialtyContent[] = [
       {
         when: "Week 12",
         title: "Plan optimization",
-        body: "By this point most patients have a clear sense of what’s working. Focus shifts to maintenance and long-term plan.",
+        body: "By this point most patients have a clear sense of what’s working. Focus shifts to maintenance and a long-term women's sexual dysfunction treatment​ plan.",
       },
     ],
     faqHeading: {
@@ -443,8 +443,8 @@ export const SERVICES: SpecialtyContent[] = [
       },
       {
         q: "How long until I see results?",
-        a: "Depends on modality. Hormonal protocols usually show measurable change in 4–8 weeks. Peptides like PT-141 are dose-of-event. Energy device protocols (Emsella, MonaLisa Touch) typically show change after the third session, with full effect at three months.",
-      },
+        a: "",
+      },Depends on modality. Hormonal protocols usually show measurable change in 4–8 weeks. Peptides like PT-141 are dose-of-event. Energy device protocols (Emsella, MonaLisa Touch) typically show change after the third session, with full effect at three months.
     ],
     finalCta: {
       headline: "Most of what your body is doing has a name. And a treatment.",
