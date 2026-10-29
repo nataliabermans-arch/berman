@@ -429,7 +429,7 @@ export const SERVICES: SpecialtyContent[] = [
       },
       {
         q: "Can low libido in women be hormonal?",
-        a: "Often, yes. Low libido can be related to perimenopause, postpartum changes, medications, hormone shifts, pain, arousal difficulty, stress physiology, or several factors at once. According to the [National Institutes of Health (NIH)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10757759/) and clinical consensus, a decline in hormones like estrogen and testosterone is a primary driver of female sexual interest disorders. The point of our comprehensive workup at Berman Women's Wellness in Beverly Hills is to find the exact pattern before recommending a tailored treatment plan, available in-person or nationwide via telehealth.",
+        a: "Often, yes. Low libido can be related to perimenopause, postpartum changes, medications, hormone shifts, pain, arousal difficulty, stress physiology, or several factors at once. According to the <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC10757759/' target='_blank' style='color: orange;'>National Institutes of Health (NIH)</a> and clinical consensus, a decline in hormones like estrogen and testosterone is a primary driver of female sexual interest disorders. The point of our comprehensive workup at Berman Women's Wellness in Beverly Hills is to find the exact pattern before recommending a tailored treatment plan, available in-person or nationwide via telehealth.",
       },
       {
         q: "Is female sexual dysfunction really a medical diagnosis?",
