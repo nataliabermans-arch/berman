@@ -37,7 +37,7 @@ Fluoxetine is a type of medication called a selective serotonin reuptake inhibit
 
 ### How Long Until It Takes Effect?
 
-Patience is key when starting Fluoxetine. Unlike a pain reliever that works within an hour, this medication needs time to build up in your system and create changes in your brain chemistry. You might not feel the full therapeutic benefits for four to five weeks, and sometimes even longer. During the initial adjustment period, you might experience some mild side effects like headaches, nausea, or changes in sleep, but these often fade within the first week or two as your body gets used to the medication. If side effects, particularly those affecting your sexual health like low libido, don’t improve, it’s important to keep an open line of communication with your healthcare provider to explore your options.
+Patience is key when starting Fluoxetine. Unlike a pain reliever that works within an hour, this medication needs time to build up in your system and create changes in your brain chemistry. According to [NHS clinical guidelines on fluoxetine](https://www.nhs.uk/medicines/fluoxetine/), you might not feel the full therapeutic benefits for four to six weeks, and sometimes even longer. During the initial adjustment period, you might experience some mild side effects like headaches, nausea, or changes in sleep, but these often fade within the first week or two as your body gets used to the medication. If side effects, particularly those affecting your sexual health like low libido, don't improve, it's important to keep an open line of communication with your healthcare provider to explore your options.
 
 ## What Are the Side Effects of Antidepressants?
 
