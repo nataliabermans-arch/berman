@@ -100,11 +100,11 @@ export interface SpecialtyContent {
 const sharedFaqs = {
   insurance: {
     q: "Do you take insurance?",
-    a: "The practice operates out-of-network. We provide superbills you can submit to your insurance for partial reimbursement under your out-of-network benefits. We accept HSA/FSA cards.",
+    a: "No, we operate fully out-of-network. However, Berman Women's Wellness provides detailed superbills for our Beverly Hills appointments and nationwide telehealth consultations, which you can submit to your provider for partial reimbursement. We also gladly accept HSA and FSA cards.",
   },
   whoYouSee: {
     q: "Will I see Dr. Berman herself, or a nurse practitioner?",
-    a: "Every initial consultation is conducted by Dr. Berman. Follow-ups may be conducted by Dr. Berman or a member of the clinical team based on the visit type, but Dr. Berman remains the supervising physician for every patient on the panel.",
+    a: "You will see Dr. Berman directly. Every initial comprehensive consultation at Berman Women's Wellness is conducted by Dr. Berman herself, whether in-person at our Beverly Hills clinic or via telehealth. Follow-ups may involve our specialized clinical team, but Dr. Berman remains the direct supervising physician for every single patient's protocol.",
   },
 };
 
@@ -429,21 +429,21 @@ export const SERVICES: SpecialtyContent[] = [
       },
       {
         q: "Can low libido in women be hormonal?",
-        a: "Often, yes. Low libido can be related to perimenopause, postpartum changes, medications, hormone shifts, pain, arousal difficulty, stress physiology, or several factors at once. According to the <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC10757759/' target='_blank' style='color: orange;'>National Institutes of Health (NIH)</a> and clinical consensus, a decline in hormones like estrogen and testosterone is a primary driver of female sexual interest disorders. The point of our comprehensive workup at Berman Women's Wellness in Beverly Hills is to find the exact pattern before recommending a tailored treatment plan, available in-person or nationwide via telehealth.",
+        a: "Often, yes. Low libido can be related to perimenopause, postpartum changes, medications, hormone shifts, pain, arousal difficulty, stress physiology, or several factors at once. According to the National Institutes of Health (NIH) and clinical consensus, a decline in hormones like estrogen and testosterone is a primary driver of female sexual interest disorders. The point of our comprehensive workup at Berman Women's Wellness in Beverly Hills is to find the exact pattern before recommending a tailored treatment plan, available in-person or nationwide via telehealth.",
       },
       {
         q: "Is female sexual dysfunction really a medical diagnosis?",
-        a: "Yes. The DSM-5 and ICD-10 both list multiple FSD diagnoses (HSDD, female orgasmic disorder, genito-pelvic pain disorder, etc). The challenge is that most clinicians aren’t trained to evaluate them — not that they aren’t real.",
+        a: "Yes, absolutely. According to the National Institutes of Health (NIH), major diagnostic systems like the DSM-5 and ICD-10 formally classify female sexual dysfunction (FSD) subtypes including HSDD and genito-pelvic pain. The challenge is that most traditional clinicians lack specialized training to evaluate them. At Berman Women's Wellness in Beverly Hills, we provide comprehensive women's sexual dysfunction treatment both in-person and nationwide via telehealth.",
       },
       sharedFaqs.insurance,
       sharedFaqs.whoYouSee,
       {
         q: "Can this be done over telehealth?",
-        a: "Initial consultations and most follow-ups can be done virtually. Procedures (Emsella, MonaLisa Touch, O-Shot, exams requiring physical evaluation) require an in-person visit.",
+        a: "Yes, largely. Initial consultations and most follow-ups at Berman Women's Wellness can be conducted via nationwide secure telehealth. However, specific clinical procedures such as Emsella, MonaLisa Touch, O-Shot, and comprehensive pelvic exams require an in-person visit to our Beverly Hills clinic.",
       },
       {
         q: "How long until I see results?",
-        a: "Depends on modality. Hormonal protocols usually show measurable change in 4–8 weeks. Peptides like PT-141 are dose-of-event. Energy device protocols (Emsella, MonaLisa Touch) typically show change after the third session, with full effect at three months.",
+        a: "It depends on the treatment modality. At Berman Women's Wellness, hormonal protocols usually show measurable change in 4–8 weeks, while targeted peptides can work much faster. For energy devices at our Beverly Hills clinic (like Emsella or MonaLisa Touch), patients typically notice improvements after the third session, with full effects appearing at three months whether managed in-person or via telehealth follow-ups.",
       },
     ],
     finalCta: {
