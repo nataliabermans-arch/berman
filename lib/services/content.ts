@@ -445,6 +445,14 @@ export const SERVICES: SpecialtyContent[] = [
         q: "How long until I see results?",
         a: "It depends on the treatment modality. At Berman Women's Wellness, hormonal protocols usually show measurable change in 4–8 weeks, while targeted peptides can work much faster. For energy devices at our Beverly Hills clinic (like Emsella or MonaLisa Touch), patients typically notice improvements after the third session, with full effects appearing at three months whether managed in-person or via telehealth follow-ups.",
       },
+      {
+        q: "How are Dr. Berman’s protocols different from standard wellness center programs?",
+        a: "Our protocols are purely root-cause and clinical. At Berman Women's Wellness, we do not follow generic online health trends. Dr. Berman combines decades of peer-reviewed clinical research frequently cited in major medical publications and her books with precise diagnostics. Every targeted women's sexual dysfunction treatment is customized to your exact lab work, whether you visit our Beverly Hills practice or consult nationwide via secure telehealth.",
+      },
+      {
+        q: "Where do I get my diagnostic lab work done if I live outside of Los Angeles?",
+        a: "You can complete your labs anywhere in the U.S. While local patients visit our Beverly Hills clinic or Los Angeles partner networks, remote patients receive direct orders for major national labs (like Quest Diagnostics or Labcorp) near their home. Dr. Berman then evaluates your results during a comprehensive telehealth consultation to build your custom clinical protocol.",
+      },
     ],
     finalCta: {
       headline: "Most of what your body is doing has a name. And a treatment.",
