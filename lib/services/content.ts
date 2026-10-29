@@ -425,11 +425,11 @@ export const SERVICES: SpecialtyContent[] = [
     faqs: [
       {
         q: "Do you treat pain during sex, vaginismus, vulvodynia, and dyspareunia?",
-        a: "Yes. Dr. Berman evaluates pain during sex, painful intercourse, vaginismus, vulvodynia, dyspareunia, vaginal dryness, and related pelvic or hormonal drivers as medical symptoms with treatable causes.",
+        a: "Yes. At Berman Women's Wellness in Beverly Hills, Dr. Berman evaluates pain during sex, painful intercourse, vaginismus, vulvodynia, dyspareunia, vaginal dryness, and related pelvic or hormonal drivers as medical symptoms with treatable causes. Specialized care is available both in-person at our practice and nationwide via secure telehealth.",
       },
       {
         q: "Can low libido in women be hormonal?",
-        a: "Often, yes. Low libido can be related to perimenopause, postpartum changes, medications, hormone shifts, pain, arousal difficulty, stress physiology, or several factors at once. The point of the workup is to find the pattern before recommending treatment.",
+        a: "Often, yes. Low libido can be related to perimenopause, postpartum changes, medications, hormone shifts, pain, arousal difficulty, stress physiology, or several factors at once. According to the [National Institutes of Health (NIH)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10757759/) and clinical consensus, a decline in hormones like estrogen and testosterone is a primary driver of female sexual interest disorders. The point of our comprehensive workup at Berman Women's Wellness in Beverly Hills is to find the exact pattern before recommending a tailored treatment plan, available in-person or nationwide via telehealth.",
       },
       {
         q: "Is female sexual dysfunction really a medical diagnosis?",
