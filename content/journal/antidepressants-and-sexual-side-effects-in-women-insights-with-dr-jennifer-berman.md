@@ -117,7 +117,7 @@ While many side effects of antidepressants are manageable, some are rare but ser
 
 ### FDA Boxed Warning on Suicidal Thoughts
 
-It’s important to address a serious warning that comes with fluoxetine and other antidepressants. The FDA has issued a boxed warning—its most stringent caution—for an increased risk of suicidal thoughts and behaviors. This risk is most pronounced in children, teenagers, and young adults under 24, particularly during the first few months of treatment or after a dose change. While this is a heavy topic, awareness is your best tool. It’s crucial for you and your loved ones to monitor for any new or sudden changes in mood, behavior, or thoughts. If you notice increased depression, anxiety, agitation, or any thoughts of self-harm, contact your doctor immediately. This isn’t something to wait out; your healthcare provider needs to know right away.
+It’s important to address a serious warning that comes with fluoxetine and other antidepressants. The [FDA](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/202133s004s005lbl.pdf) has issued a boxed warning—its most stringent caution—for an increased risk of suicidal thoughts and behaviors. This risk is most pronounced in children, teenagers, and young adults under 24, particularly during the first few months of treatment or after a dose change. While this is a heavy topic, awareness is your best tool. It’s crucial for you and your loved ones to monitor for any new or sudden changes in mood, behavior, or thoughts. If you notice increased depression, anxiety, agitation, or any thoughts of self-harm, contact your doctor immediately. This isn’t something to wait out; your healthcare provider needs to know right away.
 
 ### Serotonin Syndrome: A Rare But Serious Risk
 
