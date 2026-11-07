@@ -1,6 +1,6 @@
 ---
 slug: side-effects-of-vaginal-rejuvenation
-title: Vaginal Rejuvenation Risks and Side Effects: What Patients Should Know"
+title: "Vaginal Rejuvenation Risks and Side Effects: What Patients Should Know"
 italicWord: Anatomy
 excerpt: >-
   Learn about potential side effects of vaginal rejuvenation, procedural risks, warning signs, and safety guidance from Dr. Jennifer R. Berman, MD.
