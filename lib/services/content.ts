@@ -758,17 +758,17 @@ export const SERVICES: SpecialtyContent[] = [
       {
         when: "Week 1",
         title: "Initial consultation",
-        body: "60–90 min in-person. Pelvic exam, treatment plan, scheduling for first MonaLisa Touch session.",
+        body: "60–90 min in-person at our Beverly Hills clinic (or 45 min via telehealth for hormone-only plans). Pelvic exam, treatment plan, and scheduling for your first vaginal rejuvenation session.",
       },
       {
         when: "Week 2–6",
         title: "Treatment course",
-        body: "MonaLisa Touch: 3 sessions, 4–6 weeks apart. Brief, in-office, topical anesthetic. Most patients return to normal activity same day.",
+        body: "MonaLisa Touch: 3 sessions, 4–6 weeks apart at our Los Angeles center. Brief, in-office, topical anesthetic. Most patients return to normal activity the same day.",
       },
       {
         when: "Week 8",
         title: "Mid-course check",
-        body: "Symptom score retake. Tissue assessment. Topical regimen adjusted as needed.",
+        body: "Symptom score retake and tissue assessment (or nationwide telehealth review for hormonal protocols). Topical regimen adjusted as needed.",
       },
       {
         when: "Week 12",
@@ -783,15 +783,15 @@ export const SERVICES: SpecialtyContent[] = [
     faqs: [
       {
         q: "Is MonaLisa Touch the same as vaginal rejuvenation?",
-        a: "MonaLisa Touch is one vaginal rejuvenation option. Depending on the exam and symptoms, the plan may also include topical hormonal therapy, PRP/PRF, exosomes, peptides, or other regenerative protocols.",
+        a: "No, MonaLisa Touch is one specific type of vaginal rejuvenation. At Berman Women’s Wellness in Beverly Hills, your personalized plan may combine MonaLisa Touch CO2 laser with PRP/PRF, exosomes, peptides, or topical hormonal therapy available in-clinic or nationwide via telehealth depending on your exam and symptoms.",
       },
       {
         q: "Can vaginal rejuvenation help dryness and painful intercourse?",
-        a: "It can for the right patient. Vaginal dryness, atrophy, GSM, and painful intercourse may improve when the underlying tissue, hormones, and inflammation are treated together rather than handled as separate complaints.",
+        a: "Yes, for the right patient. Vaginal dryness, atrophy, GSM, and painful intercourse often improve significantly when the underlying tissue, hormones, and inflammation are treated together. We offer comprehensive vaginal rejuvenation protocols at our Los Angeles practice alongside supportive hormonal care via nationwide telehealth.",
       },
       {
         q: "Is MonaLisa Touch painful?",
-        a: "No. The procedure uses topical anesthetic; most patients describe it as a brief, mild internal vibration. The session itself is under 10 minutes. There is no recovery time — patients typically return to normal activity that day.",
+        a: "No, MonaLisa Touch is generally not painful. Before your in-office treatment at our Beverly Hills clinic, we apply a topical anesthetic, so most patients only feel a brief, mild internal vibration. The session takes under 10 minutes with zero downtime, allowing you to return to normal activities the same day.",
       },
       {
         q: "Is it safe after breast or gynecologic cancer?",
