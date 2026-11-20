@@ -795,13 +795,17 @@ export const SERVICES: SpecialtyContent[] = [
       },
       {
         q: "Is it safe after breast or gynecologic cancer?",
-        a: "MonaLisa Touch CO2 laser is a non-hormonal option and is well-suited to patients who cannot use systemic estradiol. We work closely with your oncology team to confirm appropriateness and coordinate care.",
+        a: "Yes, in many cases it is a safe, non-hormonal option. Because MonaLisa Touch CO2 laser does not rely on systemic estradiol, it is well-suited for breast or gynecologic cancer survivors. Dr. Berman works closely with your oncology team—whether you visit us in Beverly Hills or consult from out of state—to confirm safety and coordinate your care.",
+      },
+            {
+        q: "Can I start vaginal rejuvenation treatment via telehealth if I live outside Los Angeles?",
+        a: " Yes, you can begin your care from anywhere in the U.S. via secure telehealth. Dr. Berman conducts comprehensive 45-minute virtual consultations to evaluate your symptoms, order hormone labs, and prescribe targeted topical or systemic therapies nationwide. If your personalized plan requires in-office procedures like MonaLisa Touch or PRP, our concierge team can coordinate a streamlined visit to our Beverly Hills clinic.",
       },
       sharedFaqs.insurance,
       sharedFaqs.whoYouSee,
       {
         q: "How long do results last?",
-        a: "Results from a 3-session MonaLisa Touch course typically hold for 12–18 months, with annual maintenance. PRP and exosome benefits typically last 9–12 months. Combined with topical hormonal therapy, the outcome is durable.",
+        a: "Results typically last between 9 and 18 months, depending on the treatment. A 3-session MonaLisa Touch course at our Los Angeles clinic generally holds for 12–18 months with annual maintenance, while PRP and exosome benefits last 9–12 months. Combining procedures with ongoing topical hormonal therapy—managed in-clinic or via telehealth—helps maintain durable, long-term relief.",
       },
     ],
     finalCta: {
