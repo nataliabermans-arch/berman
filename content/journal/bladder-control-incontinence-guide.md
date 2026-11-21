@@ -133,7 +133,7 @@ A therapist may recommend relaxation-focused techniques instead of additional co
 - Gentle mobility exercises: Improving comfortable movement around the hips and pelvis.
 - Relaxation practice: Developing awareness of when the pelvic floor is unintentionally tightening.
 
-The NIDDK also describes pelvic floor physical therapy as an approach that may help stretch tight pelvic floor muscles and improve relaxation in certain urinary conditions.
+The [NIDDK](https://www.niddk.nih.gov/) also describes pelvic floor physical therapy as an approach that may help stretch tight pelvic floor muscles and improve relaxation in certain urinary conditions.
 
 This is why an individualized assessment is important before starting an intensive Kegel routine.
 
