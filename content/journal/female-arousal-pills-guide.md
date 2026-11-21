@@ -23,7 +23,7 @@ Understanding the differences between prescription medications, over-the-counter
 
 [SCHEDULE A CONSULTATION](/contact/)
 
-## KShort Summary
+## Short Summary
 
 - **Female arousal pills are not all the same:** Prescription medications and over-the-counter supplements have different purposes, evidence, and regulatory requirements.
 - **Addyi (flibanserin) is an FDA-approved prescription tablet:** It is indicated for women younger than 65 with acquired, generalized HSDD.
