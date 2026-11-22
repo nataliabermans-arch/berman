@@ -26,42 +26,6 @@ If you’ve ever tried to figure out the price of a medical treatment, you know 
 - **Plan for the total investment**: The final price includes the medication (which varies by type like injections or pellets), initial consultations, and ongoing lab work to ensure your treatment is safe and effective.
 - **Take control of your budget**: You can significantly lower your expenses by asking for generic options, comparing prices at different pharmacies, and discussing potential payment plans directly with your provider’s office.
 
-## What Is Testosterone Therapy for Women?
-
-When you hear the word “testosterone,” your mind probably jumps to men. But here’s a little-known fact: women produce testosterone, too. Our ovaries and adrenal glands create this hormone, and while we have it in much smaller amounts than men, it plays a vital role in our overall health. Testosterone helps maintain energy levels, supports bone and muscle strength, contributes to cognitive function, and is a key component of a healthy sex drive.
-
-Testosterone therapy for women involves supplementing the body’s natural levels of this hormone to restore them to an optimal range. Think of it as a rebalancing act. As we age, particularly during perimenopause and menopause, our natural production of testosterone declines significantly. This drop can throw your entire system off, leading to symptoms that affect your quality of life. This therapy, administered under the guidance of a medical professional, aims to correct that imbalance and help you feel more like yourself again. It’s not about adding something foreign to your body; it’s about restoring what was naturally there. This personalized approach to wellness addresses the root cause of certain symptoms instead of just masking them, allowing you to regain your vitality and sense of well-being.
-
-### Signs You Might Need It
-
-The most well-documented reason to consider testosterone therapy is a persistent, frustratingly low libido. If your desire for intimacy has taken a nosedive and it’s causing you distress, it’s a clear sign to start a conversation with your doctor. However, the effects of low testosterone can ripple out into other areas of your life. Many women also experience a cluster of other symptoms that can be easy to dismiss as just stress or aging. These can include ongoing physical fatigue, a low mood or increased irritability, brain fog or memory issues, and even trouble sleeping. Some women also notice joint pain or urinary issues like incontinence.
-
-### Health Issues It Can Address
-
-Testosterone therapy is most commonly used to help women manage a low sex drive, particularly during the menopausal transition. As estrogen levels decline, testosterone often follows, leading to changes that can impact your quality of life and relationships. By restoring testosterone to healthier levels, many women find their desire and sexual satisfaction improve significantly. Beyond libido, this therapy can be part of a comprehensive plan to address the broader symptoms associated with hormonal shifts. When you feel more energetic, clear-headed, and emotionally balanced, it has a positive effect on every aspect of your well-being. It’s one of the many tools we can use to support your sexual and urinary tract health as you move through different life stages.
-
-## Exploring Your Treatment Options (and Their Costs)
-
-Once you and your doctor decide that testosterone therapy for women is the right path, the next step is choosing how you’ll receive it. This isn’t a one-size-fits-all solution. The best method for you will depend on your lifestyle, personal preferences, and budget. Some women prefer a daily routine, while others might opt for a treatment they only have to think about a few times a year.
-
-Working with a specialist like Dr. Berman ensures your treatment plan is tailored specifically to your body’s needs and your personal comfort level. Understanding the different delivery methods and their associated costs can help you feel more prepared for that conversation. Let’s walk through the most common options so you can get a clearer picture of what to expect, both in terms of the experience and the financial investment. Each approach has its own set of benefits, and knowing the details will empower you to make the best choice for your health and well-being.
-
-### Injections
-
-Testosterone injections are a very common and direct way to administer hormone therapy. This method involves injecting testosterone directly into the muscle, which your body then absorbs over time. The frequency can vary, but it’s often done on a weekly or bi-weekly basis. While the idea of injections might seem intimidating, many women find the routine easy to manage at home. The cost for these injections is often one of the more affordable routes, with the medication itself typically ranging from $20 to $100 per month. When you add in the cost of supplies and provider visits, the total monthly expense usually lands between $100 and $200.
-
-### Creams and Gels
-
-If you prefer a non-invasive, daily option, topical testosterone creams or gels might be a great fit. You simply apply a prescribed amount of the cream to your skin, usually on your arms or legs, once a day. Your body absorbs the hormone directly through the skin, providing a steady stream throughout the day. This method is simple and easy to incorporate into your morning or evening routine. The monthly cost for these products can range from $200 to $500. The price variation often depends on the specific formulation, brand, and the dosage you require to achieve your optimal hormone levels.
-
-### Pellets
-
-For those who want a low-maintenance approach, testosterone pellets are an excellent choice. These tiny, rice-sized pellets are inserted just under the skin in a simple in-office procedure. They work by slowly and consistently releasing testosterone over several months, so you don’t have to think about your therapy every day or week. Dr. Berman offers Biote Hormone Therapy, a form of pellet therapy tailored to your unique needs. The cost for this treatment is higher upfront, often exceeding $1,000 per insertion, which is typically needed every three to six months. Many women find the convenience and steady hormone levels well worth the initial investment.
-
-### Lozenges
-
-Testosterone troches, or lozenges, offer another needle-free alternative. These small, dissolvable tablets are placed between your cheek and gum, where the hormone is absorbed directly into your bloodstream. This method bypasses the digestive system, allowing for effective absorption. Lozenges are typically taken once or twice a day. They can be a great middle-ground option for those who want to avoid injections but are looking for something different from a topical cream. The monthly cost for these can range from $100 to $450, depending on your specific dosage and how frequently you need to take them throughout the day.
-
 ## What’s the Average Monthly Cost?
 
 When you’re considering testosterone therapy, one of the first questions you probably have is about the cost. The truth is, there isn’t a single price tag. The total amount you’ll spend depends on several factors, including the type of treatment you choose, your dosage, where you live, and your insurance coverage. Think of it less like a fixed price and more like a personalized budget. The final cost is a combination of the medication itself, necessary lab work, and your doctor’s appointments.
