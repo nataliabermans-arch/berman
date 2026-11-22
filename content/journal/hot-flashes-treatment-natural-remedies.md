@@ -27,10 +27,6 @@ Your experience with menopause is entirely your own, so your relief plan should 
 - **Make Your Diet a Key Part of Your Strategy**: Add phytoestrogen-rich foods like soy and flaxseed to your meals to help balance your system, and pay close attention to potential triggers like caffeine or alcohol to prevent hot flashes before they start.
 - **Create a Personalized Plan with Professional Guidance**: The most effective approach combines strategies tailored to you. While tracking your symptoms is empowering, always consult your doctor before trying new supplements and know that medical treatments are available if hot flashes disrupt your life.
 
-## What Are Hot Flashes and What’s Causing Them?
-
-If you’ve ever felt a sudden, intense wave of heat that seems to come from nowhere, you’re likely familiar with hot flashes. They’re one of the most talked-about signs of menopause, but knowing that doesn’t make them any less disruptive. Understanding what’s happening in your body and what’s causing these heat surges is the first step toward finding relief. Let’s break down the mechanics of a hot flash, from the hormonal shifts that start it all to the everyday triggers that can bring one on.
-
 ### What’s Happening Inside Your Body?
 
 A hot flash feels like your internal thermostat has suddenly gone haywire. It’s a sudden, overwhelming feeling of warmth that often starts in your chest and face before spreading. Your skin might turn red and blotchy, and you’ll likely start sweating. It’s also common for your heart to race, and you might feel a sense of anxiety as the sensation takes over. Then, just as quickly, the heat subsides, often leaving you feeling chilled. These episodes are a very real physical response to the changes happening inside you. Understanding them is a key part of managing your overall women’s wellness.
