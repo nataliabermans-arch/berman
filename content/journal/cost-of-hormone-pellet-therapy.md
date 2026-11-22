@@ -26,10 +26,6 @@ If you’re exploring hormone replacement options, you’ve likely come across c
 - **Your final cost is unique to you**: Hormone pellet therapy is not a one-price-fits-all service. The final cost depends on your specific dosage needs, your provider’s experience, and your geographic location.
 - **Confirm your insurance coverage and payment options**: Insurance typically covers initial consultations and lab work but often does not cover the pellets or insertion procedure. Plan to pay for the treatment directly and always ask your provider about payment plans or financing.
 
-## What Is Hormone Pellet Therapy?
-
-Hormone pellet therapy is a straightforward way to restore your body’s natural hormone balance. Think of it as a tiny, long-lasting supplement. The therapy uses small pellets, about the size of a grain of rice, that are placed just under your skin. These pellets contain [bioidentical hormone](/services/menopause-hormones/)s, which are designed to be structurally identical to the hormones your body produces on its own. This approach to hormone replacement can help manage the frustrating symptoms that often come with hormonal shifts from perimenopause, menopause, or other health conditions. It’s a popular choice for women seeking a consistent, low-maintenance solution to feel like themselves again.
-
 ### How Do Hormone Pellets Work?
 
 Once the pellet is inserted under your skin (usually in the upper hip area), it gets to work by slowly and consistently releasing hormones directly into your bloodstream. This method is designed to mimic your body’s natural hormone production, avoiding the daily fluctuations you might experience with pills, creams, or patches. The pellets deliver a steady dose of hormones like estradiol or testosterone for women over several months. The best part? The procedure is quick, and a single treatment can last for three to four months, giving you the freedom to live your life without thinking about your hormone therapy every day.
@@ -119,10 +115,6 @@ While many women adapt to hormone pellets smoothly, it’s possible to experienc
 ### Additional Treatments
 
 Restoring hormone balance can have a wonderful ripple effect on your overall health, but sometimes it’s just one part of the picture. Your provider might suggest additional therapies to address related concerns and help you achieve your wellness goals more fully. For instance, you might discuss treatments for sexual and urinary tract health or other issues that hormonal changes can influence. These complementary treatments aren’t always necessary, but they can be a powerful way to create a truly comprehensive care plan that addresses all aspects of your well-being, helping you feel vibrant and confident in every way.
-
-## How Does Pellet Therapy Compare to Other HRT?
-
-When you’re exploring hormone replacement therapy, you’ll find several options, including creams, patches, injections, and pellets. Each comes with its own routine, benefits, and costs. Thinking about how a treatment fits into your daily life is just as important as looking at the price tag. While creams and patches might seem straightforward, they require daily or weekly attention. Pellets, on the other hand, offer a different approach. They are designed for convenience and consistency, which can be a game-changer for many women. Understanding these differences helps you choose the path that feels right for your body and your lifestyle. Dr. Berman offers personalized consultations to help you weigh these options, including specialized Biote Hormone Therapy. This comparison is about finding the best fit for your long-term wellness goals, not just a quick fix.
 
 ### Comparing Costs: Pellets vs. Other Methods
 
