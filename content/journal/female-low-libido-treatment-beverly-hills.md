@@ -26,10 +26,6 @@ Deciding to seek help for low libido is a powerful act of self-care. It’s an a
 - **Modern treatments go beyond a single pill**: Effective solutions are tailored to you and can range from hormone replacement therapy to FDA-approved medications and in-office procedures that enhance physical sensation.
 - **Seek specialized care for a clear diagnosis**: A consultation with a women’s health expert provides a safe space to discuss your concerns and get a comprehensive evaluation, including hormone testing, to create a truly personalized and effective treatment plan.
 
-## What Causes Low Libido in Women?
-
-If you’ve noticed a dip in your desire for sex, you’re not alone. A woman’s libido is complex, influenced by a mix of physical, emotional, and life factors that can change over time. Understanding the root cause is the first step toward feeling more like yourself again. It’s rarely just one thing; more often, it’s a combination of factors that contribute to a low sex drive. Pinpointing these triggers can help you and your doctor create a plan that addresses your specific needs and restores your sense of vitality.
-
 ### Hormonal Shifts and Menopause
 
 Hormones are powerful chemical messengers, and they play a leading role in sexual desire. During perimenopause and menopause, levels of estrogen and testosterone naturally decline. This shift doesn’t just affect your mood and energy; it can directly lower your libido and lead to physical changes like vaginal dryness, which can make intimacy uncomfortable or even painful. These changes are a completely normal part of life, but you don’t have to simply accept them. Effective options like [Bioidentical Hormone](/services/menopause-hormones/) Replacement Therapy can help rebalance your hormone levels, addressing the root cause of these symptoms and improving your overall well-being.
@@ -49,10 +45,6 @@ If you’re struggling with low libido, please know you’re not alone, and ther
 ### Bioidentical and Biote Hormone Therapies
 
 Hormones are powerful messengers, and when they’re out of balance, your sex drive is often the first thing to take a hit. This is especially common during perimenopause and menopause. Bioidentical Hormone Replacement Therapy (BHRT) can help restore your hormone levels to improve sexual desire, mood, and overall well-being. Using hormones that are structurally identical to the ones your body naturally produces, treatments like Biote Hormone Therapy offer a customized way to rebalance your system. By addressing the underlying hormonal cause, many women find their interest in sex returns naturally.
-
-### FDA-Approved Medications like Addyi and PT-141
-
-Sometimes, the issue isn’t just hormonal; it’s neurological. Your brain chemistry plays a huge role in sexual desire. For women with Hypoactive Sexual Desire Disorder (HSDD), FDA-approved medications can make a significant difference. Addyi is a daily pill that works on neurotransmitters in the brain to increase sexual desire. Another option is PT-141 Therapy, an injectable treatment used as needed to activate pathways in the brain involved in sexual response. A consultation with a specialist can determine if one of these medical treatments is the right fit for you.
 
 ### Innovative Procedures: The O-Shot, G-Shot, and Forma V
 
