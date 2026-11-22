@@ -1,31 +1,26 @@
 "use client";
 
-import React from "react";
-import type {
-  CSSProperties,
-  PointerEvent as ReactPointerEvent,
-  ReactNode,
-} from "react";
-import { useCallback, useEffect, useRef, useState } from "react";
 import {
-  motion,
-  useInView,
-  useScroll,
-  useTransform,
-  useMotionTemplate,
-} from "motion/react";
-import { BorderBeam } from "@/components/ui/border-beam";
-import GlowCtaButton from "@/components/atoms/GlowCtaButton";
-import type { NavChild, NavItem } from "@/lib/nav";
-import { FOOTER_QUICK_LINKS, FOOTER_SERVICES, NAV_ITEMS } from "@/lib/nav";
-import {
-  SmokeRing,
   GrainGradient,
   MeshGradient,
   NeuroNoise,
+  SmokeRing,
   Warp,
 } from "@/components/ambient/shaders";
-import { CardContainer, CardBody, CardItem } from "@/components/ui/3d-card";
+import GlowCtaButton from "@/components/atoms/GlowCtaButton";
+import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
+import { BorderBeam } from "@/components/ui/border-beam";
+import type { NavChild, NavItem } from "@/lib/nav";
+import { FOOTER_QUICK_LINKS, FOOTER_SERVICES, NAV_ITEMS } from "@/lib/nav";
+import {
+  motion,
+  useInView,
+  useMotionTemplate,
+  useScroll,
+  useTransform,
+} from "motion/react";
+import type { CSSProperties, ReactNode } from "react";
+import React, { useCallback, useEffect, useRef, useState } from "react";
 // CursorLight import removed — manifesto was the only consumer; other dark sections use the cursor-light injection effect (see useEffect below)
 
 // Hero headline font, set inline so the CSS optimizer can't strip it: the
@@ -946,7 +941,7 @@ function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
                   fontWeight: 300,
                 }}
               >
-                better.
+                better
               </span>
             </em>
             <span
@@ -954,7 +949,8 @@ function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
               style={{
                 display: "block",
                 marginTop: "0.3em",
-                fontFamily: "var(--font-cormorant), 'Cormorant Garamond', serif",
+                fontFamily:
+                  "var(--font-cormorant), 'Cormorant Garamond', serif",
                 fontStyle: "italic",
                 fontWeight: 400,
                 fontSize: "clamp(17px, 2.3vw, 30px)",
@@ -967,7 +963,8 @@ function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
                 animationDelay: "0.24s",
               }}
             >
-              Menopause, Hormone &amp; Sexual Health Care in Beverly Hills &amp; Los Angeles
+              Menopause, Hormone &amp; Sexual Health Care in Beverly Hills &amp;
+              Los Angeles
             </span>
           </h1>
           <p
@@ -979,9 +976,13 @@ function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
             across greater Los Angeles.
           </p>
           <div className="e-hero-foot">
-            <span className="left">clinic since 2007 · 1M+ women cared for</span>
+            <span className="left">
+              clinic since 2007 · 1M+ women cared for
+            </span>
             <span className="scroll">Scroll ↓</span>
-            <span className="right">25 yrs practicing · two NYT bestsellers</span>
+            <span className="right">
+              25 yrs practicing · two NYT bestsellers
+            </span>
           </div>
         </div>
       </div>
@@ -1373,9 +1374,8 @@ function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
           <p>
             Internationally recognized urologist and twice-published{" "}
             <em>New York Times</em> bestselling author. Co-founder of
-            UCLA&apos;s Female Sexual Medicine Center,
-            founder &amp; director of Berman Women&apos;s Wellness in
-            Beverly Hills.
+            UCLA&apos;s Female Sexual Medicine Center, founder &amp; director of
+            Berman Women&apos;s Wellness in Beverly Hills.
           </p>
           <p>
             For two and a half decades she has done one thing better than almost
@@ -1931,7 +1931,10 @@ function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
                       ...current,
                       brief: "idle",
                     }));
-                    setNewsletterErrors((current) => ({ ...current, brief: "" }));
+                    setNewsletterErrors((current) => ({
+                      ...current,
+                      brief: "",
+                    }));
                   }
                 }}
               />
@@ -2062,9 +2065,7 @@ function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
               </div>
               <div className="meta">
                 <span>Where</span>
-                <span>
-                  Berman Women&apos;s Wellness, Beverly Hills
-                </span>
+                <span>Berman Women&apos;s Wellness, Beverly Hills</span>
                 <span>Length</span>
                 <span>60–90 min new-patient consult</span>
                 <span>Includes</span>
@@ -2171,7 +2172,8 @@ function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
       <div className="a-footer">
         <div className="col">
           <div className="logo-mark" style={footerLogoInline}>
-            Berman Women&apos;s Wellness<span style={footerLogoDotInline}>.</span>
+            Berman Women&apos;s Wellness
+            <span style={footerLogoDotInline}>.</span>
           </div>
           <p style={footerAddrInline}>
             Berman Women&apos;s Wellness
@@ -2198,7 +2200,10 @@ function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
                     ...current,
                     footer: "idle",
                   }));
-                  setNewsletterErrors((current) => ({ ...current, footer: "" }));
+                  setNewsletterErrors((current) => ({
+                    ...current,
+                    footer: "",
+                  }));
                 }
               }}
             />
@@ -2214,7 +2219,9 @@ function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
                 borderWidth={1.5}
               />
               <span className="relative z-10">
-                {newsletterStatus.footer === "submitting" ? "Sending..." : "Sign up"}
+                {newsletterStatus.footer === "submitting"
+                  ? "Sending..."
+                  : "Sign up"}
               </span>
             </button>
           </form>
@@ -2296,16 +2303,18 @@ function HomeClient({ bottomSlot }: { bottomSlot?: ReactNode } = {}) {
           color: "var(--ink)",
         }}
       >
-        <span>
-          © {new Date().getFullYear()} Berman Women&apos;s Wellness
-        </span>
+        <span>© {new Date().getFullYear()} Berman Women&apos;s Wellness</span>
         <a
           href="https://www.legitscript.com/websites/?checker_keywords=bermansexualhealth.com"
           target="_blank"
           rel="noopener noreferrer"
           title="Verify LegitScript Approval for www.bermansexualhealth.com"
           aria-label="Verify LegitScript Approval for Berman Women's Wellness"
-          style={{ display: "inline-flex", flex: "0 0 auto", alignItems: "center" }}
+          style={{
+            display: "inline-flex",
+            flex: "0 0 auto",
+            alignItems: "center",
+          }}
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img

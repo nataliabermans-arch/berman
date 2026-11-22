@@ -1,18 +1,18 @@
 "use client";
 
-import React from "react";
-import { motion } from "motion/react";
 import {
-  MeshGradient,
   GrainGradient,
+  MeshGradient,
   NeuroNoise,
 } from "@/components/ambient/shaders";
+import { motion } from "motion/react";
+import React from "react";
 
+import SiteFooter from "@/components/layout/SiteFooter";
+import SiteNav from "@/components/layout/SiteNav";
 import { BorderBeam } from "@/components/ui/border-beam";
 import { SERVICE_BY_SLUG, type ServiceSlug } from "@/lib/services/content";
 import PageTail from "../_page-tail";
-import SiteNav from "@/components/layout/SiteNav";
-import SiteFooter from "@/components/layout/SiteFooter";
 
 const EASE = [0.2, 0.7, 0.2, 1] as [number, number, number, number];
 const VIEWPORT = { once: true, margin: "-80px" } as const;
@@ -224,7 +224,7 @@ function ServiceDetailClient({
               transition={{ duration: 0.7, delay: 0.18, ease: EASE }}
             >
               <div className="font-mono text-[11px] uppercase tracking-[0.25em] text-[#8a3a44]">
-                At a glance
+                Practice: Berman Women&apos;s Wellness
               </div>
               <dl className="mt-6 space-y-5">
                 <div>
