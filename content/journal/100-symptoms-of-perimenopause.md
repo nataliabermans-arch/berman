@@ -10,8 +10,7 @@ publishedAt: "2025-12-02T19:23:31Z"
 updatedAt: "2026-02-15T09:36:37Z"
 readTime: 31
 wordCount: 7214
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/12/the-complete-list-100-symptoms-of-perimenopause-231804.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/100-symptoms-of-perimenopause/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -356,7 +355,6 @@ While most perimenopause symptoms are not dangerous, some can overlap with signs
 - **New or unusual physical changes:** Any new breast changes, such as a lump or discharge, require immediate medical attention.
 
 Seeking help for disruptive symptoms isn’t a sign of weakness—it’s a powerful act of self-care. A specialist in women’s health can offer a range of solutions, from pelvic pain treatment to therapies that restore your comfort and confidence, ensuring you can feel your best through this transition and beyond.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

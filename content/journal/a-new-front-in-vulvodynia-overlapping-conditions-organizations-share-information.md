@@ -5,12 +5,13 @@ title: >-
   A New Front in Vulvodynia: Overlapping Conditions Organizations Share
   Information
 italicWord: Information
-excerpt: 'Millions of Americans suffer from chronic fatigue syndrome, endometriosis, interstitial cystitis, irritable bowel syndrome, temporomandibular joint and...'
+excerpt: "Millions of Americans suffer from chronic fatigue syndrome, endometriosis, interstitial cystitis, irritable bowel syndrome, temporomandibular joint and..."
 category: Press
 publishedAt: "2025-05-15T01:13:21Z"
 updatedAt: "2025-05-15T01:13:21Z"
 readTime: 2
 wordCount: 217
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/a-new-front-in-vulvodynia-overlapping-conditions-organizations-share-information/
 author: "Dr. Jennifer Berman, MD"

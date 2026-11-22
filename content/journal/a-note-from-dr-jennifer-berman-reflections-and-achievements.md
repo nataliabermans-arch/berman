@@ -10,8 +10,7 @@ publishedAt: "2024-08-02T07:52:38Z"
 updatedAt: "2026-01-03T05:35:08Z"
 readTime: 13
 wordCount: 3058
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2024/08/A-Note-From-Dr.-Jennifer-Berman-Reflections-and-Achievements.png
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/a-note-from-dr-jennifer-berman-reflections-and-achievements/
 tags:
@@ -201,4 +200,3 @@ The convergence of her varied endeavors illustrates the broader impact of dedica
 - **A Commitment to Comprehensive Care**: Her Beverly Hills practice is a testament to her holistic approach, offering a wide range of services that address everything from menopause to sexual wellness in a supportive, patient-focused environment.
 
 [SCHEDULE A CONSULTATION](/contact/)
-

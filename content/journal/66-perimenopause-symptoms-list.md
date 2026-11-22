@@ -11,8 +11,7 @@ publishedAt: "2025-12-30T11:10:18Z"
 updatedAt: "2026-02-14T08:16:21Z"
 readTime: 30
 wordCount: 6859
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/12/the-66-perimenopause-symptoms-a-complete-checklist-701074.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/66-perimenopause-symptoms-list/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -328,7 +327,6 @@ Dr. Jennifer Berman is a renowned expert in women’s sexual and menopausal heal
 Whether you’re dealing with disruptive hot flashes, painful sex, or emotional changes, Dr. Berman offers a comprehensive range of advanced treatments. She can help you explore options like Bioidentical Hormone Replacement Therapy to restore balance and relieve many of the most common symptoms. Dr. Berman also specializes in addressing issues related to sexual and urinary tract health, providing effective solutions for everything from vaginal dryness to incontinence.
 
 If you’re ready to move from just managing symptoms to truly thriving, the next step is to talk with an expert. A consultation with Dr. Berman can provide you with the clarity and support you need to take control of your health during perimenopause and beyond.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

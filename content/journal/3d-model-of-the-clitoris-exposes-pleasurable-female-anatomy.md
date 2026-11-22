@@ -10,8 +10,7 @@ publishedAt: "2018-09-22T00:00:00Z"
 updatedAt: "2026-01-02T16:22:10Z"
 readTime: 23
 wordCount: 5210
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2023/02/3D-model-of-the-clitoris.jpg
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/3d-model-of-the-clitoris-exposes-pleasurable-female-anatomy/
 author: "Dr. Jennifer Berman, MD"
@@ -172,4 +171,3 @@ If you have any concerns about your clitoral health, sensation, or overall sexua
 - **Communicate and Experiment with Confidence**: Use your anatomical knowledge to guide your exploration. Start gently, use lubricant to enhance sensation, and talk openly with your partner about what feels good—pleasure is a journey, not a race.
 
 [SCHEDULE A CONSULTATION](/contact/)
-
