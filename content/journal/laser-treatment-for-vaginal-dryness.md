@@ -1,6 +1,6 @@
 ---
 slug: laser-treatment-for-vaginal-dryness
-title: Laser Treatment for Vaginal Dryness: Benefits & Risks
+title: "Laser Treatment for Vaginal Dryness: Benefits & Risks"
 italicWord: Dryness
 excerpt: >-
   Learn about laser treatment for vaginal dryness, potential benefits, procedure expectations, sessions, side effects, costs, and treatment alternatives.
