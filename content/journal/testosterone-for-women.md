@@ -73,12 +73,6 @@ Contrary to popular belief, low testosterone levels impact women as well. A drop
 
 However, it is important to note that other conditions, associated with ageing and menopause, can also cause these symptoms and also need to be evaluated and addressed. These include hypothyroidism, iron deficiency, and depression.
 
-## Testosterone Therapy in Women
-
-Hormones are produced in the endocrine glands which release these hormones into the bloodstream, allowing them to be transported throughout the body. Hormones control and influence various bodily functions including metabolism, reproduction, growth and sexual function.
-
-Bio-identical hormones are natural and identical to the hormones your body produces, which allows for easier absorption.
-
 ## What are the Potential Benefits of Testosterone Therapy for Women?
 
 [Hormone therapy](/services/menopause-hormones/) can be required for different reasons as an imbalance of the hormones can cause unpleasant symptoms. Common causes that require hormone treatment can include aging and major life changes like menopause. BHRT reduces these symptoms and allows for a better, healthier lifestyle. BHRT can improve:
