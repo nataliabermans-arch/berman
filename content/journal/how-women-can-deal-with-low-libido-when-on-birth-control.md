@@ -19,12 +19,12 @@ Understanding how women can deal with low libido when on birth control starts wi
 
 ## Short Summary
 
-Some women experience reduced sexual desire while using hormonal birth control, although effects vary between individuals.
-Birth control pills, injections, implants, patches, and vaginal rings may affect sexual experiences differently.
-Hormonal changes, vaginal discomfort, stress, and other health factors can contribute to reduced libido.
-Reviewing contraceptive options with a healthcare professional may help women find a suitable alternative.
-Women should not discontinue birth control without considering alternative pregnancy prevention.
-Persistent or distressing changes in sexual desire deserve medical attention.
+- Some women experience reduced sexual desire while using hormonal birth control, although effects vary between individuals.
+- Birth control pills, injections, implants, patches, and vaginal rings may affect sexual experiences differently.
+- Hormonal changes, vaginal discomfort, stress, and other health factors can contribute to reduced libido.
+- Reviewing contraceptive options with a healthcare professional may help women find a suitable alternative.
+- Women should not discontinue birth control without considering alternative pregnancy prevention.
+- Persistent or distressing changes in sexual desire deserve medical attention.
 
 ## Why Can Birth Control Affect Female Libido?
 
@@ -46,11 +46,11 @@ Identifying these factors helps prevent women from automatically attributing eve
 
 Common contributing factors include:
 
-Stress and anxiety: Emotional pressure can reduce interest in sexual activity.
-Relationship concerns: Communication difficulties and emotional distance may affect intimacy.
-Vaginal dryness: Discomfort during intercourse can make sexual activity less appealing.
-Other medications: Certain antidepressants and other prescription medications may affect sexual desire.
-Health conditions: Depression, thyroid disorders, and other medical conditions can contribute to changes in libido.
+- Stress and anxiety: Emotional pressure can reduce interest in sexual activity.
+- Relationship concerns: Communication difficulties and emotional distance may affect intimacy.
+- Vaginal dryness: Discomfort during intercourse can make sexual activity less appealing.
+- Other medications: Certain antidepressants and other prescription medications may affect sexual desire.
+- Health conditions: Depression, thyroid disorders, and other medical conditions can contribute to changes in libido.
 
 The [NHS identifies hormonal contraception](https://www.nhs.uk/symptoms/loss-of-libido/), stress, anxiety, depression, vaginal dryness, and certain medications among the possible causes of low sexual desire.
 
@@ -60,10 +60,10 @@ Women can address low libido by discussing their symptoms with a healthcare prof
 
 Practical steps include:
 
-Track changes in sexual desire: Note when the symptoms started and whether they appeared after beginning or changing contraception.
-Review other symptoms: Pay attention to vaginal dryness, mood changes, fatigue, and discomfort during intimacy.
-Discuss medication concerns: Tell your healthcare provider about all prescription medications and contraceptives you use.
-Address vaginal discomfort: Appropriate lubricants or vaginal moisturizers may help when dryness affects sexual comfort.
+- Track changes in sexual desire: Note when the symptoms started and whether they appeared after beginning or changing contraception.
+- Review other symptoms: Pay attention to vaginal dryness, mood changes, fatigue, and discomfort during intimacy.
+- Discuss medication concerns: Tell your healthcare provider about all prescription medications and contraceptives you use.
+- Address vaginal discomfort: Appropriate lubricants or vaginal moisturizers may help when dryness affects sexual comfort.
 
 Discuss contraceptive alternatives: A healthcare professional can explain whether another contraceptive method may be suitable.
 
@@ -75,10 +75,10 @@ Changing birth control may be worth discussing when reduced libido begins after 
 
 Available alternatives include:
 
-Different hormonal formulations: A healthcare professional may discuss another pill formulation or hormonal method.
-Copper IUD: This non-hormonal contraceptive prevents pregnancy without releasing contraceptive hormones.
-Barrier methods: Condoms are non-hormonal options that also help reduce the risk of sexually transmitted infections.
-Other contraceptive methods: Additional options may be appropriate depending on individual preferences and medical eligibility.
+- Different hormonal formulations: A healthcare professional may discuss another pill formulation or hormonal method.
+- Copper IUD: This non-hormonal contraceptive prevents pregnancy without releasing contraceptive hormones.
+- Barrier methods: Condoms are non-hormonal options that also help reduce the risk of sexually transmitted infections.
+- Other contraceptive methods: Additional options may be appropriate depending on individual preferences and medical eligibility.
 
 Research from [PubMed indicates](https://pubmed.ncbi.nlm.nih.gov/31521571/) that sexual responses can vary across contraceptive methods, and further research is needed to establish consistent differences in their effects on libido.
 
