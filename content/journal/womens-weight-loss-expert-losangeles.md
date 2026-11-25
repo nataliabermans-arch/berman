@@ -1,6 +1,6 @@
 ---
 slug: womens-weight-loss-expert-losangeles
-title: >-"Women's Menopause & Weight Loss Experts in Los Angeles"
+title: >- Women's Menopause & Weight Loss Experts in Los Angeles
 italicWord: Angeles
 excerpt: >-
   Learn how to find a women's menopause and weight loss expert in Los Angeles. Explore medical weight loss, hormone therapy, consultations, and treatment options.
