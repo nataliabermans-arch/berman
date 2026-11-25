@@ -3,8 +3,7 @@ slug: alone-at-last-an-excerpt-from-prime
 title: "Unfiltered Advice on Sex, Love, and Intimacy"
 italicWord: Intimacy
 excerpt: >-
-  Real stories and practical advice sex love for women seeking passion,
-  connection, and confidence at any stage of life. Read this excerpt from
+  Explore advice on sex, love, and intimacy, including female desire, emotional connection, sexual comfort, orgasm changes, and women's sexual health.
   “Prime.”
 category: Sexual Health
 publishedAt: "2018-09-25T00:00:00Z"
@@ -15,41 +14,151 @@ originalUrl: "https://bermansexualhealth.com/alone-at-last-an-excerpt-from-prime
 author: "Dr. Jennifer Berman, MD"
 ---
 
-I remember a time when desire was simple, an easy current running just beneath the surface. Then, slowly, things began to change. The current weakened, and intimacy started to feel distant, something I remembered more than felt. It’s a strange feeling, being a stranger in your own body. You start to wonder if that vibrant, sensual part of you is gone for good. But I’ve learned that it’s not about losing a part of yourself forever; it’s about finding a new way to access it. The journey back to pleasure requires curiosity, courage, and the right professional advice sex love to guide you through the physical changes holding you back.
+Sex, love, and intimacy can change throughout a woman's life, but changes in sexual desire or physical comfort do not mean that passion and connection have to disappear. Women may experience differences in libido, arousal, vaginal comfort, and orgasm because of hormonal changes, physical health, emotional well-being, and relationship experiences. Understanding these factors can help women approach intimacy with greater confidence and self-awareness.
 
-So there I was in the early hours of the morning with a guy I didn’t know six hours before, feeling totally comfortable and sexually aroused. This is perhaps not the safest thing to do in the world but Dennis had passed my stringent criteria. He was not a loner. He was with other friends I had met, who in conversation seemed to back up the stories I had heard.
+In Prime: Adventures and Advice on Sex, Love, and the Sensual Years, Dr. Pepper Schwartz shares personal experiences and practical perspectives on dating, relationships, sexual exploration, and maintaining intimacy during middle age and beyond. Her story offers a reminder that sensuality and meaningful connections are not limited to a particular age or relationship stage.
 
-1.  We were at the same hotel and so he was not anonymous.
-2.  I had his business card.
-3.  Dee Dee knew where I was.
-4.  The room had thin walls and even though it was late, people were still within earshot.
-5.  And finally, this guy just seemed genuine, sweet, and grounded.
+For women experiencing changes in their sexual health, understanding their bodies, communicating with partners, and seeking appropriate professional guidance can help them explore ways to improve their intimate well-being.
 
-What can I tell you? I weighed the risks and this was one of them. Women who want an adventurous life have to take some risks, and usually intuitive skills serve them well. This one seemed likely to be okay. _From the moment we got inside the door, I knew this was going to be a special experience. He kissed me slowly and gently for a long, long time. I was ready to get into bed with him, but then he suggested we take a shower together. Yum._ We undressed each other slowly. Piece by piece, maintaining eye contact. Then we got into the small shower with the warm water running. I turned to him to start soaping him up but he would have none of that. He said, Let me take care of you. Oooh-kay. He soaped up a washcloth and then using the cloth and his hand, he lathered up every part of my body. Slowly. He was gentle across my breasts and between my legs but did not linger there. Instead, he paid particular attention to my head and hair and dug his fingers into my scalp in the most sensual and erotic way. I actually buckled at the knees. He rinsed my hair off slowly, languidly, and I relaxed under his care. My body was still a writhing mass of foam when he began to rinse me off. He turned the water to a hotter temperature and soaked the washcloth in it. With long strokes, he wiped off my body. He then turned off the water, and wrapped a towel around me. Slowly, deliberately he patted my body dry, first the front, then on the back. He picked me up and carried me to the bed. I was seconds from an orgasm and we hadn’t even begun conventional foreplay. I wanted him so badly I couldn’t see straight. Dennis had condoms on the bedside table. He put one on, but did not enter me right away though I was literally begging for it. Sometimes it’s nice not to get what you ask for at least not right away. He kissed me gently, nibbled at my lips, kissed my ears and neck and worked his way down to my body and kept going south. This further endeared him to me. Unhurried and enthusiastic oral sex followed. I was totally unprepared, however, for what happened next. It was amazing. Unprecedented. Unbelievably fabulous. When he entered me, he continued the fantasy we had begun on the plane: He had me in another reality. As he moved inside of me we talked to each other, maintained eye contact, and it felt intimate as well as exciting. He kept asking me how I liked each angle, each depth, each slight calibration of speed. I told him what felt good until the pleasure became so intense I really didn’t care what he was doing as long as he didn’t stop. When I got to the brink of climax, he held my face and we kept our eyes open looking at each other. I felt like we were entering each other’s body and soul. I had a powerful orgasm and so did he. Afterward, he grabbed me tightly and intertwined his body with mine. He said something about how wonderful it was and fell dead asleep.
+## Short Summary
 
----
+- Sexual desire and intimacy can change with age, relationships, physical health, and emotional circumstances.
+- Sensory experiences, communication, and mutual understanding can contribute to satisfying intimacy.
+- Low libido, difficulty with arousal, and orgasm changes can have multiple physical and psychological causes.
+- Vaginal dryness and painful intercourse deserve appropriate attention rather than being accepted as inevitable.
+- Women can seek professional guidance when sexual health concerns affect their comfort, confidence, or relationships.
+- Passion, intimacy, and meaningful relationships remain possible at different stages of life.
 
-**From the Author:** “This is a book written for all those middle-aged and older women, or for that matter, any woman, who has doubted that she could maintain passion and romance in her life. It is a chronicle of my life after age 55, dating, looking for love, looking for sex and following all of that and more. It’s a sexy read, but more than that, I hope it is inspirational to women who have backed away from love and sex and the ups and downs of finding someone to love. The book itself gives a lot of suggestions about how find romance, men (mostly online but overall, to be open and adventurous and optimistic) and how to find love ( get rid of anger, lists of specifications and comparisons to the past). This passage above is about the first time I have sex with a man I met in an airport (not an uncommon thing for me at that time!). This is a man who was perhaps the most gifted lover in the world at least the most gifted lover I have ever come across (until, of course, my current lover) and I was putty in his hands. He was more than just technically proficient, however. He had a big heart, a big personality and this was the beginning of a major love affair.” Dr. Pepper Schwartz, is a sociology and sexual relations expert writing, lecturing, doing and teaching at the University of Washington and is one of the nationals leading experts on relationships and sexuality. She is the author or co-author of numerous books, including The Great Sex Weekend and Peer Marriage, magazines, website columns, and a TV personality on the subject of sexuality. She obtained a Ph.D. in sociology from Yale in 1974. Dr. Schwartz wrote the column “Sex and Health” for Glamour magazine for seven years. She has appeared on the Oprah show (six times), Dr. Phil, Dateline, Lifetime, The Today Show, and Good Morning America, and more. She is a past president of the Society for the Study of Sexuality and a charter member of the International Academy of Sex Research. The **book jacket** for her 2007 book *Prime: Adventures and Advice on Sex, Love, and the Sensual Years* described her living “in Washington State, being single after a 23-year marriage, and having two children in college”.
+## The Story Behind Unfiltered Advice on Sex, Love, and Intimacy
+
+The story from Dr. Pepper Schwartz's book Prime explores how emotional connection, sensory experiences, communication, and mutual attention can contribute to a memorable intimate experience.
+
+The excerpt describes an encounter with a man she had recently met while traveling. Rather than focusing immediately on sexual activity, the experience developed through gentle affection, attentive touch, communication, and an awareness of each other's preferences.
+
+One particularly meaningful aspect of the story is the attention given to small sensory experiences. A shared shower, gentle touch, eye contact, and unhurried affection helped create a feeling of anticipation and emotional connection.
+
+The experience eventually developed into an intimate encounter in which both partners communicated about what felt comfortable and pleasurable.
+
+However, the story is a personal account rather than a medical recommendation or a universal description of sexual relationships. Meeting someone new also requires attention to personal safety, consent, boundaries, and sexual health.
+
+### What Does the Author Want Women to Understand?
+
+Dr. Pepper Schwartz's accompanying commentary explains that Prime was written for middle-aged and older women, as well as anyone who has questioned whether passion and romance can remain part of their lives.
+
+Her broader message focuses on remaining open to relationships, exploring personal preferences, and approaching dating with curiosity and optimism.
+
+The story also challenges the assumption that women must give up their sensuality as they get older. Age, relationship status, and previous experiences do not determine whether someone can continue to experience affection, attraction, and sexual fulfillment.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
 ## Frequently Asked Questions
 
-**This story is inspiring, but what if I’ve completely lost my sex drive? Is it possible to get it back?** It’s incredibly common to feel a disconnect between the desire you remember and the desire you feel now. Think of your libido not as a switch that’s been turned off, but as a complex system influenced by your hormones, physical health, and emotional state. A diminished sex drive is rarely a permanent state. Often, it’s your body’s way of signaling an underlying imbalance. Getting to the root of that change, whether it’s hormonal or otherwise, is the key to rediscovering that part of yourself.
+### Q: 1. What If I Have Completely Lost My Sex Drive? Can I Get It Back?
 
-**What if intimacy has become uncomfortable or even painful? How can I enjoy experiences like this?** First, let’s be clear: sex should never be painful. If you’re experiencing discomfort, your body is telling you something needs attention. Many women face issues like vaginal dryness or changes in tissue elasticity, particularly during and after [menopause](/services/menopause-hormones/). These are not things you simply have to endure. There are effective, modern treatments that can restore moisture and comfort, allowing you to focus on connection and pleasure instead of bracing for pain.
+Yes, changes in sexual desire can sometimes improve when the contributing factors are identified and addressed. However, the appropriate approach depends on why the change occurred.
 
-**How much of sexual response is physical versus mental? Could hormones be affecting my ability to feel pleasure?** The mental and physical aspects of sexuality are completely intertwined. You can’t separate them. Your mind might be willing, but if your body isn’t physically primed for arousal, it can create a frustrating roadblock. Hormones like estrogen and testosterone are fundamental to this process; they influence everything from your level of desire to blood flow and nerve sensitivity. When these hormones are out of balance, it can absolutely impact your ability to feel and respond to pleasure.
+Female libido is influenced by several factors, including hormonal changes, physical health, medications, emotional well-being, and relationship circumstances.
 
-**I want to reconnect with my sensual side, but I feel overwhelmed. What’s a good first step?** Feeling overwhelmed is a natural response when you’re trying to address something so personal. The best first step is to approach yourself with curiosity instead of pressure. Start by simply paying attention to your body. Beyond that, the most powerful action you can take is to speak with a professional who specializes in women’s sexual health. A confidential conversation with an expert can help you understand the specific changes you’re experiencing and map out a clear, personalized path forward.
+For example, menopause may contribute to vaginal dryness and sleep disturbances, while certain medications and psychological stress can also affect sexual interest.
 
-**The story describes a very powerful orgasm. What if my orgasms have become weaker or harder to achieve?** The intensity and ease of orgasm can change over time, and you’re certainly not alone if you’ve noticed a difference. A satisfying climax depends on a combination of factors, including healthy blood flow, nerve function, and hormonal balance. When any of these elements are compromised, it can make orgasms feel less intense or more elusive. The good news is that there are innovative therapies designed to directly address these physical factors, helping to enhance sensation and improve your body’s natural sexual response.
+Women experiencing persistent low libido should discuss their symptoms with a healthcare professional rather than automatically assuming that hormones are responsible.
+
+According to the [Office on Women's Health](https://womenshealth.gov/menopause/menopause-and-sexuality), menopause can affect sexual desire and physical arousal, and healthcare professionals can help women explore appropriate treatment options.
+
+For a closer look at age-related changes in sexual desire, read our article on [Menopause and Your Sex Life](/new-study-shows-how-womens-sex-life-declines-post-menopause/).
+
+### Q: 2. What If Intimacy Has Become Uncomfortable or Painful?
+
+Pain during sexual activity should not be ignored. Persistent discomfort may be associated with vaginal dryness, hormonal changes, pelvic floor conditions, infections, or other medical concerns.
+
+Some women experience vaginal dryness and reduced tissue elasticity during and after menopause. These changes can make penetration uncomfortable or painful.
+
+Depending on the cause, possible approaches include:
+
+Water-based personal lubricants during sexual activity.
+
+Vaginal moisturizers for ongoing dryness.
+
+Appropriate prescription treatments, including vaginal estrogen when clinically suitable.
+
+Pelvic floor physical therapy when pelvic floor dysfunction contributes to discomfort.
+
+Medical evaluation for persistent or unexplained pain.
+
+According to the [American College of Obstetricians and Gynecologists (ACOG)](https://www.acog.org/womens-health/faqs/your-sexual-health), sexual health concerns can involve desire, arousal, orgasm, and pain, and these problems may overlap.
+
+Women experiencing persistent discomfort after menopause can also explore our article on Post [Menopause Sexuality: What No One Tells You](/new-study-shows-how-womens-sex-life-declines-post-menopause/).
+
+### Q: 3. How Much of Sexual Response Is Physical Versus Mental?
+
+Sexual response involves both physical and psychological processes. Emotional comfort, neurological activity, hormonal influences, physical stimulation, and relationship dynamics can all contribute to sexual experiences.
+
+The physical aspects include blood flow, genital sensitivity, lubrication, and nerve responses. Psychological factors include attraction, emotional connection, stress, confidence, and personal experiences.
+
+Hormones such as estrogen also influence vaginal tissue health and sexual comfort. However, sexual desire and pleasure cannot be explained by hormone levels alone.
+
+For example, a woman may experience physical changes associated with menopause while also dealing with relationship stress or poor sleep. These factors can interact and influence her overall sexual experience.
+
+The appropriate approach is to consider the complete picture rather than assuming that one hormone or physical factor explains every concern.
+
+### Q: 4. How Can I Reconnect With My Sensual Side Without Feeling Overwhelmed?
+
+Start by removing pressure and paying attention to what makes you feel comfortable, emotionally connected, and physically relaxed. Reconnecting with intimacy does not require immediate changes or a particular outcome.
+
+Some practical approaches include:
+
+Understanding your personal preferences and boundaries.
+
+Communicating openly with your partner about comfort and expectations.
+
+Allowing sufficient time for affection and physical intimacy.
+
+Exploring non-penetrative forms of intimacy when preferred.
+
+Addressing physical discomfort instead of ignoring it.
+
+Seeking professional guidance when emotional or physical concerns persist.
+
+Communication is especially important because partners may have different expectations, levels of desire, and preferences.
+
+Women dealing with changes following cancer treatment may also face additional physical and emotional challenges. Our guide on [Sex After Cancer:](/how-does-cancer-affect-womens-sexual-health/) A Guide to Women's Sexual Health Issues discusses these concerns and possible approaches to maintaining intimacy.
+
+### Q: 5. What If My Orgasms Have Become Weaker or More Difficult to Achieve?
+
+Changes in orgasm intensity or the ability to reach orgasm can occur for several reasons, including hormonal changes, medication effects, physical discomfort, psychological stress, and differences in sexual stimulation.
+
+Some women notice changes in sensation during menopause, while others experience difficulties associated with antidepressants, chronic health conditions, or relationship concerns.
+
+A satisfying sexual experience does not depend on orgasm alone. However, if changes in orgasm are persistent or distressing, a healthcare professional can help identify possible contributing factors.
+
+Depending on the underlying cause, treatment may involve medication review, counseling, sex therapy, addressing vaginal discomfort, or other individualized approaches.
+
+The [Menopause Society explains in its sexual health guidance](https://menopause.org/patient-education/menopause-topics/sexual-health) that sexual concerns can involve desire, arousal, orgasm, and pain, and that these experiences may be influenced by hormonal, medical, and relationship factors.
 
 ## Key Takeaways
 
-- **Prioritize sensation over the end goal**: The story shows how taking time for sensory experiences, like a slow shower, can build more intense pleasure than rushing through foreplay. Focus on mindful touch and what feels good in the moment to create a deeper, more satisfying connection.
-- **Make intimacy a conversation**: True connection comes from being present with your partner. The story’s most powerful moments involved eye contact and verbal check-ins. Don’t be afraid to ask for what you want and tell your partner what feels good—it builds trust and amplifies pleasure.
-- **Embrace your sensual curiosity**: Passion and desire are not limited by age or relationship status. This story is a powerful reminder to stay open to new experiences and give yourself permission to explore what brings you pleasure, reclaiming your own narrative around sexuality.
+The central message of Dr. Pepper Schwartz's story is that intimacy can involve much more than physical activity. Emotional connection, communication, sensory awareness, and personal confidence can all contribute to meaningful sexual experiences.
 
-[SCHEDULE A CONSULTATION](/contact/)
+- Prioritize sensation over the end goal: Taking time to understand what feels comfortable and pleasurable can help create a more satisfying intimate experience.
+- Make intimacy a conversation: Open communication about preferences, boundaries, and comfort can build trust and mutual understanding.
+- Embrace sensual curiosity: Women can continue exploring their interests and relationships at different stages of life.
+- Address physical concerns: Vaginal dryness, painful intercourse, and persistent changes in sexual function deserve appropriate medical attention.
+- Seek professional guidance when needed: Understanding the underlying causes of sexual health changes can help women identify suitable options.
 
+## Need a Real Plan?
+
+Women experiencing persistent changes in sexual desire, arousal, orgasm, or intimate comfort can benefit from an individualized sexual health consultation.
+
+Dr. Jennifer R. Berman, MD, a US urologist, provides women's sexual health care through Berman Women's Wellness. A consultation can help women discuss their concerns, review relevant medical and hormonal factors, and explore appropriate treatment options.
+
+If changes in sexual health are affecting your confidence, relationships, or quality of life, you can explore the [Sexual Health and Intimacy service](/services/sexual-health/) to learn more about consultation options with Dr. Berman.
+
+Book a consultation with [Dr. Berman](/) to discuss your sexual health concerns and develop an approach based on your individual needs.
+
+## Conclusion
+
+Unfiltered advice on sex, love, and intimacy reminds women that passion and meaningful relationships can remain important throughout life. Dr. Pepper Schwartz's personal story from Prime highlights the role of communication, affection, sensory experiences, and openness in intimate relationships.
+
+However, changes in libido, arousal, vaginal comfort, and orgasm can also have physical, emotional, and medical causes. Understanding these factors is important when intimacy becomes less comfortable or satisfying.
+
+Women do not have to ignore persistent sexual health concerns or assume that changes are simply an unavoidable part of aging. With open communication, appropriate medical guidance, and attention to personal needs, it is possible to work toward a more comfortable and fulfilling intimate life.
