@@ -1,8 +1,8 @@
 ---
 slug: can-you-talk-to-your-doctor-about-sex
-title: Can You Talk To Your Doctor About Sex?
+title: "Can You Talk To Your Doctor About Sex?"
 italicWord: Sex
-excerpt: 'Thanks to a host of new medications and the increased number of patients seeking professional help for their problems, Sexual Dysfunction has become again...'
+excerpt: 'Learn why talking to your doctor about sex matters, which sexual health concerns to discuss, and how to prepare for a productive consultation.'
 category: Sexual Health
 publishedAt: "2018-09-01T00:00:00Z"
 updatedAt: "2025-02-17T21:42:14Z"
@@ -15,26 +15,128 @@ tags:
 author: "Dr. Jennifer Berman, MD"
 ---
 
-*“Woman survives earthquakes, epidemics, the horrors of disease, and all the agonies of the soul, but for all time (her) his most tormenting tragedy has been, is, and will be the tragedy of the bedroom.”* –**Kenneth Reamy (1984)**
+Talking to your doctor about sex is an important part of maintaining your overall health, sexual wellness, and quality of life. However, many women feel uncomfortable discussing intimate concerns, including low sexual desire, vaginal dryness, painful intercourse, difficulty reaching orgasm, or changes in intimacy. Embarrassment, cultural expectations, and fear of judgment can sometimes prevent women from seeking medical guidance.
 
-Thanks to a host of new medications and the increased number of patients seeking professional help for their problems, Sexual Dysfunction has become again the hot topic. And not just with you and I. Changes in cultural attitudes and demographics show the commonness of sexual concerns in all ethnic groups across all ages. These changes open the door for solutions, and that door often leads to the family practitioner or other health care providers. So my question is: Are healthcare providers ready, willing and able to deal with these new developments in their patients?
+Sexual health is a legitimate part of healthcare, and women should feel comfortable discussing concerns with a qualified medical professional. These conversations can help identify underlying medical, hormonal, emotional, or relationship-related factors that may affect sexual function. Dr. Jennifer R. Berman, a urologist specializing in women's sexual health, emphasizes the importance of making these discussions a normal part of women's healthcare.
 
-**On Being Able**
+## Short Summary
 
-Health professionals are commonly seen by the public as experts in human sexuality and are often the first stop for a patient with sexual function complaints. So it’s no surprise that many of us would consider sexuality training for health professionals imperative. However, the extent to which health professionals currently receive exposure to training in human sexuality remains a bit ambiguous. According to Bouman and Arcelus in the International Journal of Geriatric Psychiatry, (2000) many training programs fail to teach a broad range of human sexuality issues and that expert supervision and clinical training opportunities are lacking. Medical school is the place where physicians become aware of the needs of patients, yet training around a large aspect of what it means to be a human being sex and sexuality is conspicuously lacking. D. Schnarch in the Journal of Sex and Marital Therapy, (1981) maintains that it is naive to assume that increased sexual knowledge, personal liberal attitudes, and permissiveness toward others will reduce physician’s anxiety in talking about sex with their patients. Many persons who are sexually knowledgeable and uninhibited in their sexual techniques are surprisingly inhibited and anxiety-ridden about discussing their feelings, preferences, and concerns with their intimate partners which makes it even less likely that the subject will be discussed with a physician. Even people who can discuss sex with their partners may not be equipped to discuss a patient’s sexuality in a frank, forthright and professional manner. According to Schnarch, the ultimate goal of sex education in medical schools has been to increase the delivery of sexual health care and information from physicians to patients. He writes that medical education (and society at large) rarely provides role-models and demonstrations of how professional discussions about sexuality are conducted. Even rarer are sex education courses in which students practice talking with patients about sexuality and in which this ability is assessed as a desired course outcome. Curricula relating to human sexuality have focused primarily on issues related to homosexuality.
+- Talking to your doctor about sex is an important part of maintaining overall health and well-being.
+- Low libido, vaginal dryness, painful intercourse, and difficulty reaching orgasm are legitimate medical concerns.
+- Hormonal changes, medications, medical conditions, and emotional factors can influence sexual function.
+- Preparing questions and describing symptoms can make medical consultations more productive.
+- Open communication helps healthcare professionals identify appropriate evaluations and treatment options.
 
-And Willing.
+## Why Should You Talk to Your Doctor About Sex?
 
-advertisement Clearly the more receptive and willing a doctor is, the better they can effectively talk about sexual topics. And there are many reasons why a medical professional may not willingly deal with a patient’s sexual concerns. In an older population of patients, physicians may subscribe to larger social norms, which devalue sexuality among the aged, viewing them as asexual or not capable of sustaining a sexual relationship. According to a study conducted by Bouman & Arcelus (2000), psychiatrists were less likely to take a sexual history in their elderly male patients, claiming that it to be inappropriate and not indicated as compared to middle-aged men. In addition, the physician may experience anxiety when confronting his or her own unresolved sexual issues or conflicts in the face of the patient’s complaints. Physicians may be particularly sensitive to community standards and to what is acceptable for them to discuss with their patients without offending the patient or, indeed, risk the loss of the patient to another doctor (Houge, D., 1988). Kenneth Reamy (1984), in his discussion of sexual counseling for the “non-therapist,” writes that to be an effective counselor, a physician must have a sense of his or her own sexual self-awareness and sexual comfort in addition to knowledge, sexual physiology, psychology, sociocultural norms, and the effects of drugs, illness, pregnancy, and aging. A recent issue of the magazine Sex Over 40 published the results of a telephone survey of 500 Americans over age 25 that revealed both men and women fear discussing sexual problems with their doctors because of concerns that physicians would be embarrassed with the topic. This study conducted for the Partnership for Women’s Health at Columbia University in New York found that 68 percent of those polled worry that their physicians would be uncomfortable discussing sexual issues, with 75 percent of women expressing such concerns compared to 61 percent of men.
+You should talk to your doctor about sex because changes in sexual desire, comfort, or function may be associated with underlying health conditions, hormonal changes, medications, or emotional concerns.
 
-**We’ve Only Just Begun**
+Sexual difficulties are not always temporary or purely psychological. For example, declining estrogen during menopause may contribute to vaginal dryness and discomfort, while certain medications can affect sexual desire and orgasm.
 
-The field of medicine is only just beginning to address female sexual function complaints and obtaining an adequate scientific knowledge base in order to effectively deal with these problems. Certainly, this lack of understanding and knowledge may contribute to many doctors’ lack of willingness to deal with the sexual issues. Go home and have a glass of wine or This is just what you have to expect about getting older (having children, getting married, etc.) are common responses women typically report that they have received when they do try to bring up their sexual function complaints. Women expect leadership from physicians in raising the issue of sexual health, and they look for empathy, warmth, confidentiality, and professional competence in discussions with their doctor about sexual matters. Women want more frequent and more routine physician inquiry about sexual concerns, and they want a more open, clear, comfortable, and empathic discussion of these issues (Hogue, D., 1988, Metz, 1988). Although the physicians are aware that sexual problems exist in many of their patients, most prefer to ask only when there appears to be a “psycho-social” problem. This may be a reasonable approach, in part, given the many areas of concern the doctor needs to explore. Therefore, it is critical that physicians recognize the signs of “psycho-social” problems in sexual areas. What signs, for example, does the incest victim present in the clinic? How does a woman in conflict describe her relationship? Physicians must be taught to recognize psychosocial red flags so that they can pursue psychotherapy referrals when indicated. However, it is just as crucial that doctors consider our ever-growing understanding of the physiological parameters of sexual function and dysfunction as well. It is clear that sexual function complaints affect the quality of life and general wellness of millions of women. However, while the research presented above outlines what is presently known about medical school sex education and the treatment of sexual concerns in a medical setting, little of this research was particularly focused on the female patient, and little or no research addressed the patient’s experience of seeking help for her sexual concerns with her physician.
+**Common concerns worth discussing include:**
 
-**Final Thoughts**
+- Reduced sexual desire or low libido.
+- Vaginal dryness or irritation.
+- Pain during sexual activity.
+- Difficulty becoming sexually aroused.
+- Changes in orgasm or sexual satisfaction.
+- Urinary leakage or pelvic discomfort affecting intimacy.
 
-Certainly there is a lack of research on the subject of the female patient’s experience seeking help from the physician or any medical professional. It is crucial that further research is carried out in this area, as well as more timely evaluations of what is actually going on in medical schools and post-doctoral professional training around sexual topics. More than ever, with potential treatments available, women are going to come forward seeking help and will hopefully feel more and more entitled to full sexual lives. As the common first stop for these complaints, it is crucial that medical professionals be aware of the psychosocial aspects of sexual function complaints and make appropriate referrals. They must also educate themselves about the medical etiologies and potential treatments available for women with sexual function complaints. Women want and need to address their sexuality as a basic part of their general health and wellness. The generation of women who participated in the sexual revolution and women’s movement, advocating for Our Bodies Ourselves, are now advocating for their right to sexual satisfaction as a basic part of who they are alone and in relation to others. The inflow of patients with sexual function complaints will only increase and it is time physicians come on board and address sexual health just as they would any other aspect of women’s health. It is time physicians start to acknowledge women’s sexuality with the same importance their patients do. This will mean further training; further self exploration including values clarification and a great deal of effort and practice. (February, 2008) To discuss this article, or to ask Dr. Berman questions about it, go to Dr. Berman’s Contact form at [https://bermansexualhealth.com/contact/](/contact/)
+According to the [American College of Obstetricians and Gynecologists (ACOG)](https://www.acog.org/womens-health/experts-and-stories/ask-acog/its-hard-to-talk-about-sex), women can begin the conversation with a simple statement explaining that they have concerns about their sex life. Sexual health deserves attention just like other aspects of physical health.
 
-## REFERENCES
+Women experiencing reduced sexual desire can also explore our article on the Dr. [Jennifer Berman approach to women's health](/lack-of-libido/) to understand some of the factors that may influence libido.
 
-Bouman, W.P., Arcelus, J. (2000). Are psychiatrists guilty of ageism when it comes to taking a sexual history? International Journal of Geriatric Psychiatry, 16, 27-31. Houge, D (1988). Sex problems in family practice. Family Practice Research Journal. 4(3), 135-140. Laumann, E., Paik, A., Rosen, R. (1999). Sexual dysfunction in the United States. JAMA, 281, 537-544. Lief, H. (1964). Sexual attitudes and behavior of medical students: Implications for medical practice, in EM Nash, L. Jessner, DW Abse (Eds), Marriage counseling in Medical Practice. Chapel Hill, University of North Carolina Press:NC, pp. 301-318. Nease, D., & Liese, B. (1987). Perceptions and treatment of sexual problems. Family Medicine, Nov., 468-470. Nusbaum, M., Gamble, G., Skinner, B., Heiman, J. (2000). The High Prevalence of Sexual concerns among women seeking routine gynecological care. Journal of Family Practice, 49(3), 229-232. Reamy, K. (1984). Sexual counseling for the non-therapist. Clinical Obstetrics and Gynecology, 27(3), 281, 781-788. Schnarch, D. (1981). Impact of sex education on medical students projections of patient attitudes. Journal of Sex and Marital Therapy, Summer, 141-154. Verhulst, J. (1992). The sexuality curriculum in residency training. Academic Psychiatry, 16, 115-117. Weerakoon, P., & Stiernborg, M. (1996). Sexuality education for health care professionals: A critical review of the literature. Annual Review of Sex Research, 7:181-217.
+## What Sexual Health Concerns Can You Discuss With Your Doctor?
+
+You can discuss any sexual health concern that affects your comfort, desire, satisfaction, or ability to enjoy intimacy with your healthcare provider.
+
+There is no requirement to wait until a problem becomes severe before seeking guidance.
+
+**Some important topics include:**
+
+- Low libido: A persistent decrease in sexual desire may be associated with hormonal changes, stress, medications, or underlying health conditions.
+- Painful intercourse: Pain during sex may be associated with vaginal dryness, pelvic floor conditions, infections, or gynecological problems.
+- Vaginal dryness: Hormonal changes, particularly during menopause, can affect vaginal moisture and comfort.
+- Orgasm difficulties: Changes in sexual response may involve physical, psychological, hormonal, or medication-related factors.
+- Intimacy concerns: Relationship difficulties, anxiety, and emotional stress can influence sexual satisfaction.
+- These concerns can occur at different stages of life, including after childbirth, during perimenopause, and after menopause.
+
+Women experiencing changes during menopause can also read our guide on [Embracing Your Menopause Journey](/embracing-your-menopause-journey/) for additional information about hormonal changes and sexual wellness.
+
+## How Can You Prepare for a Conversation About Sex?
+
+You can prepare for a sexual health consultation by writing down your symptoms, noting when they started, reviewing your medications, and identifying the questions you want to ask.
+
+Preparing beforehand can make it easier to explain personal concerns without feeling overwhelmed.
+
+**Consider these practical steps:**
+
+- Identify your main concern: Decide whether you want to discuss low desire, pain, dryness, arousal, or another sexual health issue.
+- Track your symptoms: Note when the problem started, how frequently it occurs, and whether anything makes it better or worse.
+- Review your medications: Include prescription medications, supplements, and hormonal treatments.
+- Consider relevant life changes: Mention pregnancy, childbirth, menopause, surgery, or significant emotional stress when relevant.
+- Write down questions: Preparing questions can help ensure that important concerns are addressed during the appointment.
+
+According to [Mayo Clinic's guidance](https://www.mayoclinic.org/diseases-conditions/low-sex-drive-in-women/diagnosis-treatment/drc-20374561) on preparing for a low-sex-drive consultation, patients can prepare by recording their symptoms, medical information, and current medications before meeting with a healthcare professional.
+
+## What Can You Expect During a Sexual Health Consultation?
+
+During a sexual health consultation, your doctor may discuss your symptoms, medical history, medications, hormonal changes, and emotional well-being to understand what may be affecting your sexual function.
+
+**The evaluation depends on your specific concerns. Your healthcare professional may ask questions about:**
+
+- When the sexual concern first developed.
+- Whether the issue occurs consistently or occasionally.
+- Whether you experience pain, dryness, or changes in desire.
+- Your menstrual and menopause history.
+- Current medications and existing health conditions.
+- Emotional stress and relationship circumstances.
+- Depending on your symptoms, a physical examination, pelvic examination, or additional testing may be appropriate.
+
+Not every patient needs every type of examination or laboratory test. The evaluation should be based on the medical concern and individual circumstances.
+
+[Dr. Jennifer R. Berman](/) emphasizes a comprehensive approach to women's sexual health, recognizing that physical, hormonal, and emotional factors can influence intimacy and sexual function.
+
+## How Can Open Communication Help Improve Sexual Health?
+
+Open communication with your healthcare provider helps identify concerns earlier, clarify possible causes, and establish a treatment approach based on your individual needs.
+
+Many sexual health concerns have several possible contributing factors. For example, reduced desire may be associated with hormonal changes, depression, relationship stress, or medication side effects.
+
+Once the contributing factors are better understood, your healthcare professional can discuss appropriate options. Depending on the diagnosis, these may include medication adjustments, hormonal treatment, vaginal moisturizers, lubricants, counseling, or other targeted interventions.
+
+Patients should also feel comfortable asking about treatment benefits, possible risks, alternatives, and expected outcomes before making decisions.
+
+A productive medical conversation is a partnership. You should have the opportunity to explain your concerns, ask questions, and participate in decisions about your healthcare.
+
+ [https://bermansexualhealth.com/contact/](/contact/)
+
+## Frequently Asked Questions
+
+### Q: 1. Is It Normal to Feel Embarrassed Talking to a Doctor About Sex?
+
+Yes. Many people feel uncomfortable discussing intimate subjects. However, sexual health is a legitimate medical topic, and healthcare professionals routinely address concerns involving desire, arousal, pain, and intimacy.
+
+### Q: 2. Should You Tell Your Doctor If You Have Lost Interest in Sex?
+
+Yes. A persistent or distressing change in sexual desire is worth discussing. Hormonal changes, medications, medical conditions, and emotional factors may contribute to reduced libido.
+
+### Q: 3. Can Medications Affect Your Sex Life?
+
+Yes. Certain antidepressants, hormonal medications, and other prescription drugs can affect sexual desire, arousal, or orgasm. Discuss possible side effects with your prescribing healthcare professional rather than stopping medication independently.
+
+### Q: 4. Do You Need a Specialist for Sexual Health Concerns?
+
+Not necessarily. You can begin with your primary healthcare professional or gynecologist. Depending on your symptoms, you may benefit from evaluation by a urologist or another specialist in sexual medicine.
+
+### Q: 5. What Should You Do If Your Doctor Seems Uncomfortable Discussing Sex?
+
+You can explain that the concern is affecting your quality of life and ask for a more detailed discussion. If you do not feel your concerns are being addressed, seeking another qualified healthcare professional with experience in sexual health may be appropriate.
+
+## Conclusion
+
+Talking to your doctor about sex should be considered a normal part of maintaining women's health. Whether you are experiencing low libido, vaginal dryness, painful intercourse, difficulty reaching orgasm, or changes in intimacy, these concerns deserve appropriate medical attention.
+
+Preparing for your appointment and communicating openly can help your healthcare professional understand your symptoms and identify suitable next steps. Sexual health is influenced by physical, hormonal, emotional, and relationship-related factors, so understanding the complete picture is important.
+
+Women should not feel that intimate concerns are too embarrassing or insignificant to discuss. With informed guidance and appropriate care, it is possible to address sexual health challenges and make decisions that support comfort, confidence, and overall well-being.
