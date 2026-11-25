@@ -85,6 +85,8 @@ And an armchair boob expert
 01:01:44 **Dr. Jennifer Berman OC**  
 We’re focusing on breasts and sexuality. What we want to know is, what is the fascination with breasts? We went out on the streets, and here’s what some of you said.
 
+Breast-related concerns can sometimes influence body confidence, sexual comfort, and intimate relationships. Women experiencing related [sexual health concerns](/services/sexual-health/) can explore the Sexual Health & Intimacy program at Berman Women's Wellness.
+
 01:01:52 **Female Interviewer VO**  
 Is breast size important?
 
@@ -273,9 +275,13 @@ But after the baby, I can just tell you, based on experience, you’re going to 
 01:10:06 **Dr. Jennifer Berman VO/OC**  
 So, thank you, Lori, and thank you, Carolyn, both for being here and sharing your perspectives. We’re focusing on breasts and sexuality. What, what if you think your breasts don’t measure up even to your own expectations, much less your guy’s expectations. We tackle augmentation when we come back. And later, one woman’s fight against breast cancer.
 
+Breast cancer and its treatments can affect different aspects of a woman's intimate well-being. Read our guide on [how cancer affects women's sexual health](/how-does-cancer-affect-womens-sexual-health/) to understand some of the possible changes and concerns.
+
 01:10:32 **GRAPHICS ON SCREEN**  
 Next Breast Enhancement  
 Later Mastectomy reconstruction
+
+According to the [CDC](https://www.cdc.gov/breast-cancer/screening/), breast cancer screening can help detect cancer before symptoms develop, when treatment may be more effective. Women should discuss appropriate screening options and schedules with their healthcare providers based on their individual risk.
 
 01:10:43 **FADE TO BLACK**
 
@@ -452,6 +458,8 @@ Sure. Well, let’s move on now into the more invasive options for women that ar
 
 01:16:51 **Dr. Malcolm Lesavoy VO/OC**  
 The silicone implant has been shown by many, many studies and is now accepted by every single scientific journal, not to cause disease. It does not cause connective tissue problems, rheumatoid arthritis, lupus, any of those things. But there are mechanical problems with a silicone implant, just like there mechanical problems with the saline implant. One of them is the rippling. The saline implant and the silicone implant both have exactly the same envelope, the same shell, which is a silicone textured or smooth shell. The inside, the only difference is that the inside here is filled with saline, which is like water. The inside of the silicone gel filled implant is filled with a silicone gel.
+
+According to the [FDA](https://www.fda.gov/medical-devices/breast-implants/risks-and-complications-breast-implants), breast implants carry potential complications, including capsular contracture, implant rupture, additional surgeries, and breast implant-associated anaplastic large cell lymphoma (BIA-ALCL). Patients should understand these risks before considering breast augmentation.
 
 01:17:38 **Dr. Jennifer Berman VO**  
 And this one is sort of more true to life, or feels more natural.
