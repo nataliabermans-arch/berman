@@ -222,7 +222,7 @@ Dr. Jennifer R. Berman, a urologist at Berman Women's Wellness, evaluates women'
 
 A consultation can help determine whether a female incontinence device, pelvic floor rehabilitation, or another management approach is appropriate.
 
-Women experiencing ongoing bladder leakage can also explore the Pelvic & Urinary Health Service at Berman Women's Wellness to learn about available evaluation and treatment options.
+Women experiencing ongoing bladder leakage can also explore the [Pelvic & Urinary Health Service](/services/pelvic-urinary/) at Berman Women's Wellness to learn about available evaluation and treatment options.
 
 [SCHEDULE A CONSULTATION](/contact/)
 
@@ -256,4 +256,4 @@ Internal vaginal support devices, pelvic floor stimulation equipment, biofeedbac
 
 Understanding these differences can help women compare the available devices for female urinary incontinence and select an appropriate option with professional guidance.
 
-Persistent bladder leakage should not be ignored or managed solely through products without understanding its cause. Women experiencing ongoing symptoms can consult Dr. Jennifer R. Berman at Berman Women's Wellness to discuss their concerns and explore appropriate pelvic and urinary health options.
+Persistent bladder leakage should not be ignored or managed solely through products without understanding its cause. Women experiencing ongoing symptoms can consult [Dr. Jennifer R. Berman at Berman](/) Women's Wellness to discuss their concerns and explore appropriate pelvic and urinary health options.
