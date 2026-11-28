@@ -26,7 +26,7 @@ Think of hormone therapy like tuning a delicate instrument. The goal is to creat
 - **Listen to your body’s feedback**: Symptoms like moodiness, bloating, or fatigue are not just side effects to endure; they are important clues that your progesterone dose may need a simple adjustment.
 - **Partner with your provider for personalized care**: Achieving hormonal balance is an ongoing process, so work with your doctor through regular monitoring and open conversation to keep your treatment perfectly tailored to you.
 
-## WWhat Is Bioidentical Progesterone?
+## What Is Bioidentical Progesterone?
 
 Bioidentical progesterone is a hormone medication with the same molecular structure as the progesterone naturally produced by the human body. It is available in FDA-approved formulations as well as custom-compounded preparations, and these products should not be considered equally regulated or equally supported by clinical evidence.
 
